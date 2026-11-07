@@ -142,12 +142,13 @@ Argon nasce no Cais da Lama, o fundo miserável de uma cidade portuária. Órfã
 - 💡 O levantamento do mármore pelo magíster lembra *Telekinesis* (5º nível) ou *Mage Hand* muito amplificado. O conto não diz.
 - 💡 A invocação de Vaelen (círculo de prata, pergaminho "consular de chamado menor") lembra *Planar Binding*/*Conjure Fiend*; não é claro qual.
 - Lyra, Alta Elfa: SRD tem *High Elf*; mas no conto elfos vivem ~1000 anos (SRD 5.1: até ~750). Pequena diferença a registrar em `adaptacoes.md` se o autor quiser.
-- Argon como estatística: mago humano, Int altíssima, Con baixíssima, vários níveis de exaustão crônica. Nível aproximado aos 56: **5º** (acesso a magias de nível 3). ❓ Acesso a magias de nível 8 sem ser capaz de conjurá-las faz o conto parecer ter "teto" similar ao 5e (níveis 17+ para magias de nível 9).
+- 💡 Argon aos 56 anos conjura magias de nível 3, o que no 5e corresponde a um conjurador de nível ~5. O conto o descreve como corpo frágil (Constituição muito baixa, exaustão crônica).
+- Magias de nível 8 (Clone) estão fora do alcance dele, o que bate com o 5e (o 8º nível de magia só se conjura em níveis altos, ~15+).
 - 💡 A faixa de poder do mundo parece ser **"heróis do reino" (níveis 5–10)** para os magos de academia; os Doze seriam acima do nível 17.
 
 ## 11. Inconsistências pequenas encontradas (não resolvidas)
 - Epígrafe: Argon, aos 48, escreve "passei cinquenta anos raspando a argamassa"; ele tinha 48. Provavelmente exagero retórico.
 - Ato IV: a Semente é "no sangue" e depois fala em "esperma e óvulos"; é coerente, mas a mecânica de contágio entre famílias (barris de vinho) vs. hereditariedade precisa ser clara.
 - Vaelen diz "nos veremos em menos de dez invernos"; Argon vive 29 anos e 11 meses. O conto trata isso como erro da tabela de Vaelen ("Demorou mais do que a tabela previa"). Não é inconsistência, é detalhe a lembrar.
-- "Caldris tinha cinquenta e dois anos, mas parecia ter trinta e oito." vs. "Magíster Titular da Quarta Câmara": a Quarta Câmara parece ser o nível *mais alto* mencionado, mas os Doze têm "quinto ou sexto círculo" mencionados como Alta Capital (Ato IV, §I). Hierarquia exata das Câmaras ❓.
+- Hierarquia das Câmaras: Caldris é da Quarta Câmara e o conto sugere que há magos de quinto ou sexto círculo na Alta Capital (Ato IV, §I). Não fica claro se "Câmara" e "círculo" são a mesma escala. ❓
 - Título: duas versões (PDF vs. corpo).
