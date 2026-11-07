@@ -12,7 +12,10 @@ atualizado: 2026-11-07
 
 > 📜 Fonte principal: [[extracao-conto-cronicas-de-argon]] (1ª vida, 0–77 anos) e `00-fontes/dossie-argon-e-malakor.pdf` (personalidade e 2ª vida).
 
-## Decisões do autor (cânone, ver CANONE #4)
+## Decisões do autor (cânone, ver CANONE #4, #6 e #7)
+- **Não é herói nem protagonista no sentido formal.** O mundo existe apesar dele: com capacidade, ele faz algo; sem capacidade, não há nada que possa fazer.
+- Na 2ª vida tem **imensa vantagem, mas não é invencível, nem de longe**.
+- O dossiê é **pesquisa a refinar**, não cânone fixo; a seção "Do dossiê" abaixo é rascunho.
 - **Não tem ressentimento.** Não odeia o poder nem os poderosos, não sente que o mundo lhe deve nada nem que deve algo ao mundo. "Opera por outra lógica."
 - O desgosto por Caldris é **epistemológico**: Caldris confunde o que é capaz de conhecer com o que existe.
 - Sente satisfação com a felicidade alheia (ver o baile em Vallenar).

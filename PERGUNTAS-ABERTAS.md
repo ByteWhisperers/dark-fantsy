@@ -14,7 +14,7 @@
 | 10 | Quais as regras para a ressurreição, adivinhação e outros efeitos de morte neste mundo? O conto mostra que a alma pode ser cobrada por Dis, ancorada ou fragmentada. | sistema | 2026-11-07 | |
 | 11 | O título oficial: *Crônicas de Argon: Anatomia do Subsolo* ou *A Origem do Mago da Sarjeta*? | conto | 2026-11-07 | |
 | 12 | Quais são os outros fatores (além do relatório de Caldris) que levam à restrição da magia? Quando e em que ordem? | lore | 2026-11-07 | Autor vai explorar mais adiante. |
-| 13 | O dossiê Argon & Malakor (`00-fontes/`) é cânone ou material de trabalho? Os pontos já confirmados em conversa estão no CANONE (#4, #5). O resto está como rascunho. | cânone | 2026-11-07 | |
+| 13 | O dossiê Argon & Malakor (`00-fontes/`) é cânone ou material de trabalho? Os pontos já confirmados em conversa estão no CANONE (#4, #5). O resto está como rascunho. | cânone | 2026-11-07 | Respondida: o dossiê é pesquisa a refinar (CANONE #6). |
 | 14 | O dossiê fala em **Cinzália** como a cidade da 2ª vida e em **312 anos** (e uma vez em 370, "menino de há 370 anos"). O conto diz ~300 anos. Qual a duração exata? E Cinzália é a cidade do Cais da Lama ou outra? | geografia / cronologia | 2026-11-07 | |
 | 15 | Malakor como **corvo aberrante** é definitivo? No conto ele fica preso à Semente; o dossiê o põe numa forma física. Como saiu da Semente e como passou a acompanhar Argon? | lore | 2026-11-07 | |
 | 16 | O dossiê menciona a **caravana da Salmoura** que levou os pais do menino hospedeiro. O que é? Quem eram esses pais? | lore | 2026-11-07 | |

@@ -8,7 +8,7 @@ atualizado: 2026-11-07
 ---
 # Argon e Malakor — a dinâmica
 
-**Resumo:** dois inimigos na mesma trincheira. Ódio histórico + dependência vital + respeito técnico involuntário. Motor dramático central. A interação deles norteia a narrativa (decisão do autor).
+**Resumo:** dois inimigos na mesma trincheira. Ódio histórico + dependência vital + respeito técnico involuntário. A interação deles norteia a narrativa (decisão do autor, CANONE #5). Atenção: Argon não é herói nem protagonista formal (CANONE #7); o mundo segue sem ele. Todo o conteúdo abaixo vem do dossiê, que é pesquisa a refinar (CANONE #6).
 
 ## Percepção mútua
 - Argon vê Malakor como maior gambiarra bem-sucedida, biblioteca viva de anatomia astral e "frasco de nitroglicerina que fala".
