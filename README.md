@@ -25,6 +25,10 @@ Projeto longo. Ritmo: **anotar → pensar → pesquisar → escrever**. Nada vir
 - [`GLOSSARIO.md`](GLOSSARIO.md) — termos e nomes próprios do mundo.
 - [`08-sistema/guia-srd-5e.md`](08-sistema/guia-srd-5e.md) — referência do D&D 5e para worldbuilding.
 
+## Estado atual (2026-11-07)
+- Recebido: o conto *Crônicas de Argon* (`00-fontes/`). Extração em [`01-notas/extracao-conto-cronicas-de-argon.md`](01-notas/extracao-conto-cronicas-de-argon.md).
+- Falta: o pré-worldbuild.
+
 ## Fluxo de trabalho
 1. Ideia nova → `01-notas/` (status `ideia`).
 2. Precisa de base? → pesquisa em `02-pesquisa/`, dúvida em `PERGUNTAS-ABERTAS.md`.

@@ -1,7 +1,11 @@
 # Fontes originais
 
-Coloque aqui, sem alterar:
-- `conto.md` — o conto original.
-- `pre-worldbuild.md` — as anotações prévias de mundo.
+Material do autor, **nunca editado**.
 
-Envie os arquivos na conversa que o Claude os copia para cá. Depois, fazemos uma leitura de extração (nomes, lugares, regras implícitas, pontas soltas) em `01-notas/`.
+| Arquivo | O que é | Status |
+|---|---|---|
+| `conto-cronicas-de-argon.pdf` | Primeiro conto do autor: *Crônicas de Argon — A Origem do Mago da Sarjeta (Edição Literária Expandida)*. 83 páginas, ~27 mil palavras. Original em PDF. | recebido em 2026-11-07 |
+| `conto-cronicas-de-argon.txt` | Texto extraído do PDF, só para busca e citação. Pode ter quebras de linha estranhas. | derivado do PDF |
+| `pre-worldbuild` | Anotações prévias de mundo. | **ainda não enviado** |
+
+Leitura de extração do conto: [`../01-notas/extracao-conto-cronicas-de-argon.md`](../01-notas/extracao-conto-cronicas-de-argon.md).
