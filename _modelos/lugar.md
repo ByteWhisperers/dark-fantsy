@@ -1,6 +1,7 @@
 ---
 titulo:
 tipo: lugar
+camada: mundo
 status: ideia
 fonte:
 atualizado:
@@ -16,3 +17,6 @@ atualizado:
 ## Ganchos / segredos
 ## ⚙️ Notas de sistema (5e)
 ## Ligações
+
+## Causas no mundo / usos na narrativa
+Se for camada narrativa: quais elementos do mundo causam isto? Se for camada mundo: algum arco narrativo usa isto? (pode ser "nenhum ainda")

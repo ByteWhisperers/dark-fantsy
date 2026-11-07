@@ -3,6 +3,9 @@
 Mundo de fantasia sombria construído a partir de um conto e de um pré-worldbuild do autor (Hermes).
 Projeto longo. Ritmo: **anotar → pensar → pesquisar → escrever**. Nada vira cânone sem decisão explícita.
 
+## Duas camadas
+Pastas 03–08 = **mundo** (existe sem a história). `09-narrativa/` = **narrativa** (o que acontece, sempre com causas no mundo). Detalhes em `CONVENCOES.md`.
+
 ## Pastas
 
 | Pasta | Para quê |
@@ -16,6 +19,7 @@ Projeto longo. Ritmo: **anotar → pensar → pesquisar → escrever**. Nada vir
 | `06-faccoes/` | Reinos, ordens, cultos, organizações. |
 | `07-personagens/` | Figuras do conto e do mundo. |
 | `08-sistema/` | D&D 5e como norte técnico: guia SRD e adaptações da casa. |
+| `09-narrativa/` | **Camada narrativa**: eventos e arcos de Argon, Malakor e demais. Cada evento liga a causas no mundo. |
 | `_modelos/` | Modelos de documento para copiar. |
 
 ## Arquivos-chave

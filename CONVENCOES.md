@@ -13,11 +13,19 @@
 ---
 titulo: Nome
 tipo: lugar | povo | faccao | personagem | evento | conceito | pesquisa | nota
+camada: mundo | narrativa
 status: ideia | rascunho | canone | descartado
 fonte: conto | pre-worldbuild | sessao AAAA-MM-DD | inventado
 atualizado: AAAA-MM-DD
 ---
 ```
+
+## Duas camadas (decisão do autor, 2026-11-07)
+- **Camada do mundo:** o que existe independentemente de Argon e da história. Lugares, povos, facções, religiões, regras da magia, história geral. Uma facção pode existir sem nunca aparecer na aventura.
+- **Camada narrativa:** o que acontece com Argon, Malakor e os demais personagens dentro desse mundo. Eventos, arcos, cenas, escolhas.
+- **Regra:** todo elemento narrativo precisa ter **relações causais** com o mundo (campo "Causas no mundo" nos modelos). Elemento do mundo não precisa de uso narrativo.
+- **Objetivo:** evitar que o cenário vire uma coleção de fichas interessantes sem estrutura narrativa que as use. Antes de detalhar um elemento do mundo, perguntar: "a narrativa pede isso, ou é só ficha?" Se for só ficha, fica no mínimo (rascunho curto).
+- Cada documento declara sua `camada` no cabeçalho. Pasta `09-narrativa/` guarda a camada narrativa; as pastas 03–08 guardam o mundo. Personagens: mundo se existem independentes da trama (ex.: Caldris como figura do Círculo), narrativa se só existem por causa dela.
 
 ## Status (o mais importante)
 - **ideia** — hipótese solta, pode morrer.
