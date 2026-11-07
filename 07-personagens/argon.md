@@ -21,6 +21,14 @@ atualizado: 2026-11-07
 - Sente satisfação com a felicidade alheia (ver o baile em Vallenar).
 - É **brutal, talvez um monstro por certas óticas**: esfolaria alguém vivo se fosse preciso, sem hesitar. Mas **não é caricato, não é sádico, não é indiferente**. Faz o que julga necessário.
 
+## De onde vem a vantagem (cânone, CANONE #8)
+- Compreensão arcana de **3º círculo**, mas não só isso.
+- **Aprendizado por primeira ordem** e **diplomacia interdisciplinar**: juntar saberes de áreas diferentes, como fez com Orlov, Varen e Silas. Foi isso que lhe deu o 3º círculo e o escape da morte com o Príon, e foi isso que interessou ao Visitante, não a força.
+- Maestria em **alquimia metalúrgica** e **herbalismo**, e **conhecimento de rua**.
+- **Corpo jovem:** vantagem parcial. Permite alargar os canais de mana do jeito certo, com calma e refinamento. A 2ª vida é **refinamento**, não repetição.
+- **Contrapeso:** corpo de criança, frágil, sem respeito social.
+- Para os Doze ele **não é forte**: um dos Doze é um mago de 8º círculo, quase semideus.
+
 ## Do dossiê (rascunho, aguarda confirmação)
 - **Mente:** empírico-construtivista, materialista, anti-fatalista. Toda barreira (falta de dom, velhice, cláusula infernal) é reclassificada como problema de engenharia ainda não decomposto.
 - **Atenção ao concreto:** pensa com mãos, nariz e bisturi. Humor seco, alérgico a pompa.
