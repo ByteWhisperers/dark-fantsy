@@ -19,3 +19,4 @@
 | 15 | Malakor como **corvo aberrante** é definitivo? No conto ele fica preso à Semente; o dossiê o põe numa forma física. Como saiu da Semente e como passou a acompanhar Argon? | lore | 2026-11-07 | |
 | 16 | O dossiê menciona a **caravana da Salmoura** que levou os pais do menino hospedeiro. O que é? Quem eram esses pais? | lore | 2026-11-07 | |
 | 17 | Quem é o **menino de 11 anos** hospedeiro? Foi "tomado" (a mente dele some) ou coexiste? O dossiê diz que Argon "toma o corpo" e guarda resíduos de memória. | lore | 2026-11-07 | |
+| 18 | O que é o **Tier 1**? (citado pelo redator: "no Tier 1 quase não haverá sábios capazes de resistir aos dois"). Fase da narrativa, faixa de poder ou região? | narrativa | 2026-11-07 | |

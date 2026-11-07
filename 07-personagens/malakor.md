@@ -3,31 +3,48 @@ titulo: Malakor
 tipo: personagem
 camada: narrativa
 status: rascunho
-fonte: conto + dossiê do autor
+fonte: conto + conversas do autor (com o Claude e com o redator) + dossiê (só como hipótese)
 atualizado: 2026-11-07
 ---
 # Malakor
 
-**Em uma frase:** parasita astral que ganhou individualidade, cuja existência depende de seu Nome ser lembrado, preso à Semente de Argon e agora acompanhando-o como corvo aberrante.
+**Em uma frase:** consciência antiga e parasitária cuja natureza inclui a fome, curiosa por essência, identidade e vínculos, e cujo maior medo é perder o nome e a individualidade.
 
-> 📜 No conto, Malakor aparece como entidade (o "Primeiro Hóspede", tina de medula, fragmento preso na Semente). Tudo abaixo vem do dossiê do autor, ainda sem conversa dedicada. O autor disse que vai falar dele depois de Argon.
+> Níveis de certeza: **1. Decisões confirmadas**, **2. Em desenvolvimento**, **3. Hipóteses do dossiê**, **4. Limites**. Ver [[argon]].
 
-## Do dossiê (rascunho, aguarda confirmação)
-- **Origem:** filamento parasitário do plano astral que, por anomalia, passou a reter a arquitetura das mentes consumidas e se tornou Indivíduo. Também é um "self-made".
-- **Culto como exoesqueleto:** o Nome e os ritos mantêm sua coesão. Com o culto destruído, teme a **regressão larval** (voltar a ser lesma sem nome).
-- **300 anos (312, segundo o dossiê):** o único "espelho" do seu Nome era a mente de Argon. Esteve acordado todo o tempo, como "parteiro forçado" da linhagem do homem que mais odeia: curou hospedeiros e empurrou jovens a casar para recompor a Semente.
-- **Forma atual:** **corvo aberrante** (penas negras oleosas, ossatura assimétrica, olhos de "poço"). Ferida diária de orgulho ser tratado como "familiar de mago".
-- **Umwelt:** percebe pessoas por densidade medular, geometria das almas e tensões de vínculo, não por móveis ou cores. Pensa topologia, metabolismo e estética.
-- **Voz:** paciente, irônica, levemente aristocrática; "connoisseur" antigo. Só perde a calma quando o ódio dos 300 anos transborda.
-- **Motivação consciente:** recuperar massa e autonomia para se desvincular do Príon sem se dissolver; reconstruir uma ancoragem própria; cobrar de Argon com juros.
-- **Motivação subterrânea:** pavor de solidão amorfa. Quer interlocutores que o compreendam, e Argon é o primeiro que não o trata como deus místico nem como monstro sujo.
-- **Alimentação:** medula e essência condensada no sistema nervoso em experiências intensas ou no desencarne. "Gastronomia ontológica": desdenha mentes embrutecidas, aprecia geometrias raras.
-- **Prazeres:** simetria de teias, vitrais e diagramas; sol nas penas; mentiras bem construídas; decisões extremas que alteram a forma astral de uma alma.
-- **Vínculo:** possessivo-estético. Tem favoritos (lúcidos, melancólicos, talentosos); protege de verdade, até a pessoa "perder a graça" ou o cálculo exigir outro destino.
-- **Moral:** "estrangeirismo absoluto". Sem sadismo gratuito: o desespero caótico estraga o sabor. Cruel de forma calma e seletiva, exceto contra quem feriu sua identidade (Argon e a Igreja).
-- **Insegurança:** que 300 anos de inanição tenham danificado sua matriz antiga e que o vínculo com o Príon o tenha alterado de modo irreversível.
-- **Sob pressão:** glacial, predatório, cirúrgico. Lê o ponto de ruptura dos inimigos, sussurra a Argon, sacrifica qualquer peça para salvar a dupla.
+## 1. Decisões confirmadas
+- **Personagem fixo central**, ao lado de Argon. A interação dos dois norteia a narrativa. (CANONE #5)
+- **Do conto:** "O Primeiro Hóspede", entidade parasitária anterior às leis da Trama, cultuada pelos Filhos da Medula. Argon o decepou e grampeou à Semente; o culto foi destruído e o nome proibido. O último fragmento se agarrou à Semente para não deixar de existir.
+- **Consciência cuja natureza inclui a fome.** Não é uma fome cega que aprendeu a falar: é antiga, inteligente, com memória, identidade, preferências e curiosidade. Alimentar-se faz parte da natureza dele, mas não esgota a personalidade.
+- **Curiosidade própria.** Investiga geometria da essência, consciência, identidade, vínculos, estruturas vitais. Não quer só recuperar poder.
+- **Valoração não humana.** Pode reconhecer algo extraordinário numa pessoa e consumi-la *justamente* por isso. Pode preservar alguém por curiosidade, sem que isso seja compaixão.
+- **Inteligência sem onisciência.** Pode reconhecer uma estrutura sem saber sua origem, limites ou atributos.
+- **Identidade ameaçada.** Teme menos a morte do que perder o nome, a memória organizada e a individualidade, regressando à condição parasitária indistinta.
+- **Humilhação dos trezentos anos.** Foi obrigado a preservar a continuidade do homem que destruiu seu culto. Isso é mais que ressentimento e precisa ser desenvolvido.
+- **Potência ≠ conhecimento.** Debilitado, conserva inteligência e memória. A limitação é operacional.
+- **Não precisa ser humanizado para ser interessante.** Consciência sofisticada, mas percepção e valoração vindas de uma natureza não humana.
+
+## 2. Em desenvolvimento
+- Como exatamente se alimenta (o que consome, quando, em que condições): **mecânica não fechada**.
+- Como saiu da Semente e que forma física tem agora (o dossiê diz corvo aberrante): ver PERGUNTAS #15.
+- Como viveu, de fato, os trezentos anos.
+
+## 3. Hipóteses do dossiê (não confirmadas)
+- Origem como larva astral que aprendeu a reter a arquitetura das mentes consumidas; culto como "exoesqueleto ontológico".
+- Forma de **corvo aberrante**.
+- Papel de "parteiro" da linhagem: curar hospedeiros, empurrar casamentos.
+- Voz paciente, irônica e aristocrática.
+- Vínculo possessivo-estético com favoritos.
+- Calma predatória e leitura cirúrgica dos inimigos sob pressão.
+- Motivação consciente: desvincular-se do Príon e reconstruir ancoragem própria.
+
+## 4. Limites de caracterização (não afirmar)
+- **Não** atribuir pavor de solidão nem desejo de interlocutores como motivação subterrânea.
+- **Não** usar as preferências inventadas (sol nas penas, simetria de teias, vitrais, mentiras bem construídas).
+- **Não** afirmar desprezo geral por mentes embrutecidas.
+- **Não** fixar alimentação "só em experiências intensas ou no desencarne".
+- **Não** transformar calma predatória ou voz aristocrática em comportamento invariável.
+- **Não** retratá-lo como criatura solitária, ressentida e aristocrática.
 
 ## ⚙️ Notas de sistema (5e)
-- Tipo de criatura sugerido pelo SRD: **Aberração** (ou Corruptor, se Dis o reivindicar). Forma de corvo: base *Raven* (besta Miúda) com traços de aberração.
-- 💡 Percepção astral = sentidos especiais (ex.: *detectar magia* / visão de almas) em vez de sentidos comuns.
+- Tipo provável no SRD: **Aberração**. Percepção de essência ≈ sentidos especiais. Nada decidido.

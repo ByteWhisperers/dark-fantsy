@@ -33,6 +33,15 @@ atualizado: AAAA-MM-DD
 - **canone** — aprovado pelo autor e listado em `CANONE.md`. Só muda com nova decisão registrada.
 - **descartado** — mantido para histórico, com o motivo.
 
+## Níveis de certeza nas fichas de personagem
+Fichas de personagem (e de relação) separam o conteúdo em quatro seções, para não misturar decisão com hipótese:
+1. **Decisões confirmadas** — o que o autor estabeleceu. Vale como cânone.
+2. **Em desenvolvimento** — coerente, mas pode mudar.
+3. **Hipóteses** (ex.: do dossiê) — material antigo para aproveitar, modificar ou descartar.
+4. **Limites de caracterização** — o que não devemos afirmar nem transformar em comportamento automático.
+
+Objetivo: fichas como referência confiável para escrever cenas e diálogos, não enciclopédia de adjetivos.
+
 ## Marcações no texto
 - `[[nome-do-arquivo]]` — liga a outro documento.
 - `> ❓ ...` — dúvida em aberto (copiar para `PERGUNTAS-ABERTAS.md`).

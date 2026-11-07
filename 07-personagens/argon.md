@@ -3,52 +3,54 @@ titulo: Argon
 tipo: personagem
 camada: narrativa
 status: rascunho
-fonte: conto + dossiê do autor + conversa 2026-11-07
+fonte: conto + conversas do autor (com o Claude e com o redator) + dossiê (só como hipótese)
 atualizado: 2026-11-07
 ---
 # Argon
 
-**Em uma frase:** plebeu do Cais da Lama que decompõe a magia como engenharia, recusa que qualquer barreira seja "dado natural" e vive por curiosidade e apetite, sendo capaz de qualquer coisa que julgue necessária.
+**Em uma frase:** um homem que aprendeu a aprender, gosta de conhecer e de viver, não pede licença para existir nem se defende por fazê-lo, e é capaz de crueldade sem deixar de sentir.
 
-> 📜 Fonte principal: [[extracao-conto-cronicas-de-argon]] (1ª vida, 0–77 anos) e `00-fontes/dossie-argon-e-malakor.pdf` (personalidade e 2ª vida).
+> Níveis de certeza: **1. Decisões confirmadas** valem como cânone. **2. Em desenvolvimento** é coerente, mas pode mudar. **3. Hipóteses do dossiê** são material antigo, a aproveitar, modificar ou descartar. **4. Limites** são o que *não* devemos afirmar nem transformar em comportamento automático.
 
-## Decisões do autor (cânone, ver CANONE #4, #6 e #7)
-- **Não é herói nem protagonista no sentido formal.** O mundo existe apesar dele: com capacidade, ele faz algo; sem capacidade, não há nada que possa fazer.
-- Na 2ª vida tem **imensa vantagem, mas não é invencível, nem de longe**.
-- O dossiê é **pesquisa a refinar**, não cânone fixo; a seção "Do dossiê" abaixo é rascunho.
-- **Não tem ressentimento.** Não odeia o poder nem os poderosos, não sente que o mundo lhe deve nada nem que deve algo ao mundo. "Opera por outra lógica."
-- O desgosto por Caldris é **epistemológico**: Caldris confunde o que é capaz de conhecer com o que existe.
-- Sente satisfação com a felicidade alheia (ver o baile em Vallenar).
-- É **brutal, talvez um monstro por certas óticas**: esfolaria alguém vivo se fosse preciso, sem hesitar. Mas **não é caricato, não é sádico, não é indiferente**. Faz o que julga necessário.
+## 1. Decisões confirmadas
+- **Sem ressentimento.** Não odeia o poder nem os poderosos. Não acha que o mundo lhe deve algo, nem que deve algo ao mundo. Opera por outra lógica. (CANONE #4)
+- **Desgosto epistemológico:** irrita-o quem, como Caldris, confunde o que é capaz de conhecer com o que existe. (CANONE #4)
+- **Brutal, talvez monstro por certas óticas.** Esfolaria alguém vivo se fosse preciso, sem hesitar. Não é caricato, sádico nem indiferente. Faz o que julga necessário. (CANONE #4)
+- **Amoralidade sem ausência de sentimentos.** Reconhece que certas ações são cruéis e pode executá-las mesmo assim. Isso não o impede de gostar de pessoas, sentir afeto ou reconhecer valor em outras vidas. Sente satisfação com a felicidade alheia (o baile em Vallenar).
+- **Não pede licença para existir, nem oferece defesa por fazê-lo.** Não organiza a vida em torno da aprovação alheia. Pode explicar causas quando há razão prática, mas explicação não vira justificativa nem pedido de absolvição.
+- **Aprendeu a aprender (diplomacia do conhecimento).** A capacidade excepcional dele é observar, decompor, formular hipóteses, experimentar e transportar estruturas de conhecimento entre domínios. Foi isso (com os três velhos, depois com Lyra, Malakor e o livro dos Doze) que lhe deu o 3º círculo e o Príon, e o que interessou a um dos Doze. (CANONE #8)
+- **Eros epistemológico.** Compreender tem valor próprio, mesmo sem gerar poder, dinheiro ou vantagem. Pode investigar algo só porque quer entender.
+- **Vitalidade.** Quer participar da existência: vinho, comida, sexo, conversa, viagem, música, conforto. Prazer não precisa virar investimento ou instrumento.
+- **Animalidade.** É intelectual, mas corporal: sente fome, desejo, cansaço, atração, dor e satisfação. Inteligência não o torna uma consciência desencarnada.
+- **Motores distintos que coexistem:** curiosidade, ambição, prazer sensorial, afeto, expansão da agência, continuidade da experiência. **Nenhuma motivação subterrânea explica tudo.**
+- **Não é herói nem protagonista formal.** O mundo existe apesar dele. Com capacidade, age; sem ela, não há o que fazer. (CANONE #7)
+- **Vantagem na 2ª vida, não invencibilidade:** 3º círculo de compreensão, maestria em alquimia metalúrgica e herbalismo, conhecimento de rua, e corpo jovem que permite reconstruir os canais com métodos melhores. **A 2ª vida é refinamento:** nem repetição das mutilações da 1ª, nem transformação automática em alguém mais bondoso. (CANONE #8)
+- **Contrapeso:** corpo de criança de 11 anos, frágil, sem respeito social. Para os Doze, ele não é forte. (CANONE #8)
 
-## De onde vem a vantagem (cânone, CANONE #8)
-- Compreensão arcana de **3º círculo**, mas não só isso.
-- **Aprendizado por primeira ordem** e **diplomacia interdisciplinar**: juntar saberes de áreas diferentes, como fez com Orlov, Varen e Silas. Foi isso que lhe deu o 3º círculo e o escape da morte com o Príon, e foi isso que interessou ao Visitante, não a força.
-- Maestria em **alquimia metalúrgica** e **herbalismo**, e **conhecimento de rua**.
-- **Corpo jovem:** vantagem parcial. Permite alargar os canais de mana do jeito certo, com calma e refinamento. A 2ª vida é **refinamento**, não repetição.
-- **Contrapeso:** corpo de criança, frágil, sem respeito social.
-- Para os Doze ele **não é forte**: um dos Doze é um mago de 8º círculo, quase semideus.
+## 2. Em desenvolvimento
+- Como avalia as pessoas: competência e perigo são *parte* da avaliação, não critério universal. Também pode gostar de alguém por atração, humor, companhia ou simplesmente por gostar.
+- A relação com as **memórias e a existência anterior do menino** hospedeiro: **em aberto**.
+- A ordem entre os valores dele em conflito (afeto, autonomia, curiosidade, continuidade): **não há hierarquia fixa definida**.
 
-## Do dossiê (rascunho, aguarda confirmação)
-- **Mente:** empírico-construtivista, materialista, anti-fatalista. Toda barreira (falta de dom, velhice, cláusula infernal) é reclassificada como problema de engenharia ainda não decomposto.
-- **Atenção ao concreto:** pensa com mãos, nariz e bisturi. Humor seco, alérgico a pompa.
-- **Motivação consciente:** continuar vivo e lúcido para investigar até onde a realidade pode ser compreendida e desmontada, sem pedir permissão.
-- **Motivação subterrânea:** não suportar que exista um teto onde sua inteligência seja irrelevante (feriu-o o "inseto interessante" dos Doze) e um apego sensual ao mundo ("o mundo tem gosto bom").
-- **Identidade:** o Eu é uma arquitetura de memórias, métodos e hábitos (funcionalista). Não tem crise de "sou cópia?". Trata as memórias do menino hospedeiro como "mobiliário que veio com a casa".
-- **Morte:** falência mecânica e confisco patrimonial (Vaelen). **Dor:** tolera, mas "dor sem ganho é burrice".
-- **Poder:** é imunidade, o "direito de não ser interrompido por idiotas". Nunca quis ser rei. Vê bondade e honra como luxo de quem tem margem de segurança.
-- **Prazer:** carne quente, pão fresco, vinho tinto (com dose controlada), fumo de corda, café, colchão seco, música de taverna, companhia inteligente.
-- **Afeto:** real, prático e seletivo (astrolábio de prata, pão de canela), mas **não soberano**: sua continuidade e autonomia ficam no topo. Se for preciso sacrificar alguém que estima, tenta uma saída técnica, e se não houver, sacrifica e bebe aguardente em silêncio.
-- **Moral:** economia de custo, utilidade e estética pessoal. Aversão a crueldade recreativa, sadismo e humilhação de fracos (valentão = "praga esteticamente repugnante"). Sem hesitação diante de necessidade estrutural.
-- **Culpa:** sem culpa cristã, com "contabilidade existencial": assume a autoria ("o preço valia o resultado") e registra dívidas práticas (ex.: comprar a alforria dos pais do menino).
-- **Consciências:** "democrata ontológico"; mede os outros por lucidez e por perigo contratual.
-- **Orgulho:** quase luciferino da Sintaxe dos Ratos. **Insegurança:** de que haja um teto onde a gambiarra não alcance.
-- **Sob pressão:** fica mais frio, lento e econômico. **Perda de autonomia:** gatilho de hostilidade absoluta; finge submissão enquanto fabrica a armadilha.
-- **2ª vida:** mais amplo e perigoso, não mais bonzinho. Sem a pressa senil. Contraste "criança de olhos de setenta anos"; usa a invisibilidade social das crianças pobres. Vive em **Cinzália** (cidade, ver pergunta aberta).
+## 3. Hipóteses do dossiê (não confirmadas)
+- Motivação subterrânea de "não suportar um teto para sua inteligência". Foi explorada, não confirmada.
+- Insegurança de que a gambiarra não alcance a escala cósmica.
+- Poder como "direito de não ser interrompido por idiotas"; bondade como luxo de quem tem margem.
+- Fingir submissão sob coleira enquanto prepara a armadilha.
+- Detalhes de gosto (fumo de corda, café, dias de chuva, aversão a bebida doce).
+- "Criança de olhos de setenta anos" usando a invisibilidade social das crianças pobres.
+- Dívida prática com os pais do menino (comprar a alforria).
 
-> ❓ Veja [[PERGUNTAS-ABERTAS]] #13–17 antes de tratar o dossiê como cânone.
+## 4. Limites de caracterização (não afirmar)
+- **Não** dizer que toda barreira é só engenharia ainda não decomposta: ele reconhece limites e pode encontrar algo intransponível.
+- **Não** tratar as memórias do menino como "mobiliário da casa" (formulação rejeitada).
+- **Não** atribuir tolerância extraordinária à dor nem a fórmula "dor sem ganho é burrice".
+- **Não** atribuir aversão universal a crueldade recreativa ou a valentões (foi extrapolação).
+- **Não** fixar "afeto real mas não soberano, autonomia sempre no topo" como regra.
+- **Não** transformar "sacrificaria alguém estimado e beberia em silêncio" em regra psicológica. É uma cena possível.
+- **Não** reduzi-lo a cálculo, custo ou autonomia: isso é uma parte dele, não o personagem inteiro.
 
 ## ⚙️ Notas de sistema (5e)
-- 1ª vida: mago humano, Int altíssima, frágil. Magias de nível 3 aos 56 anos ≈ personagem nível ~5.
-- 2ª vida (dossiê): Fase 1 níveis 1–2 (1º círculo), Fase 2 níveis 3–6 (2º e 3º), Fase 3 níveis 7–9 (4º e 5º círculos). Isso bate com a tabela de espaços de magia do mago no SRD (magias de nível 3 a partir do nível 5, de nível 5 a partir do 9).
-- Corpo de 11 anos: ~32 kg, Pequeno/Médio, fragilidade tática.
+- 1ª vida: magias de nível 3 aos 56 anos ≈ mago nível ~5.
+- A vantagem dele aparece mais em **ferramentas e proficiências** (suprimentos de alquimista, kit de herbalismo, ferramentas de ferreiro, Medicina, Investigação, Arcanismo) do que em nível alto.
+- Fases da 2ª vida no dossiê (níveis 1–2, 3–6, 7–9) batem com a tabela do mago no SRD, mas são hipótese.
