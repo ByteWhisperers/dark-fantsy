@@ -21,3 +21,8 @@ Termos e nomes próprios do mundo, em ordem alfabética.
 | Lótus Azul | Resina narcótica; alcaloide em cristais azul-celeste | [[extracao-conto-cronicas-de-argon]] | fonte |
 | Vallenar | Condado de fronteira onde Argon serve ao Conde Henrik | [[extracao-conto-cronicas-de-argon]] | fonte |
 | Consórcio dos Mantos / Sacerdócio do Glifo / Ordem do Selo de Chumbo | Máquina inquisitorial que nasce após a morte de Argon | [[extracao-conto-cronicas-de-argon]] | fonte |
+| Cinzália | Cidade da 2ª vida de Argon (segundo o dossiê) | [[argon]] | rascunho |
+| Corvo aberrante | Forma física de Malakor na 2ª vida | [[malakor]] | rascunho |
+| Umwelt | Bolha perceptiva de um ser; conceito de pesquisa do dossiê, usado para escrever Malakor | [[malakor]] | rascunho |
+| Regressão larval | Medo central de Malakor: voltar a ser parasita sem nome | [[malakor]] | rascunho |
+

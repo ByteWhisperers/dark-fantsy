@@ -31,6 +31,7 @@ Pastas 03–08 = **mundo** (existe sem a história). `09-narrativa/` = **narrati
 
 ## Estado atual (2026-11-07)
 - Recebido: o conto *Crônicas de Argon* (`00-fontes/`). Extração em [`01-notas/extracao-conto-cronicas-de-argon.md`](01-notas/extracao-conto-cronicas-de-argon.md).
+- Recebido: dossiê Argon & Malakor. Rascunhos em `07-personagens/` (Argon, Malakor, dinâmica).
 - Falta: o pré-worldbuild.
 
 ## Fluxo de trabalho
