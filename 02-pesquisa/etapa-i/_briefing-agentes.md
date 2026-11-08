@@ -10,7 +10,7 @@ atualizado: 2026-11-08
 # Briefing comum — Etapa I (repertório comparativo)
 
 Leia inteiros antes de começar:
-1. `00-fontes/projeto-continente-orientacao.md` (documento-mãe; está incompleto no fim, ignore isso).
+1. `00-fontes/projeto-continente-diretriz.txt` (documento-mãe completo; a versão `.md` antiga está truncada).
 2. `02-pesquisa/etapa-i/README.md` (o que já existe e o que falta).
 3. Na Pesquisa I, só o que tocar sua frente: `02-pesquisa/pesquisa-i/README.md`, `frente-6-sintese/03-avaliacao-critica.md` e os dossiês vizinhos. **Não repita** o que já está lá; remeta com link.
 

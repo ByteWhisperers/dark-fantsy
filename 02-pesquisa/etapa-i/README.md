@@ -9,9 +9,9 @@ atualizado: 2026-11-08
 
 # Projeto do continente — Etapa I: repertório comparativo
 
-Executa a **Etapa I** (§5) do documento do autor [`00-fontes/projeto-continente-orientacao.md`](../../00-fontes/projeto-continente-orientacao.md). **Nada aqui é cânone nem cria povo, tradição ou entidade do continente.** As Etapas II (tradições ficcionais), III (entidades) e IV (povos) só começam com aprovação do autor.
+Executa a **Etapa I** (§5) do documento do autor [`00-fontes/projeto-continente-diretriz.txt`](../../00-fontes/projeto-continente-diretriz.txt) (PDF completo ao lado). **Nada aqui é cânone nem cria povo, tradição ou entidade do continente.** As Etapas II (tradições ficcionais), III (entidades) e IV (povos) só começam com aprovação do autor.
 
-> ❓ O documento do autor termina no meio da §8.1 ("uma mesma tradição pode atravessar diferentes"). O resto (fim da Etapa IV e o que vier depois, como geografia ou política) ainda não foi recebido.
+A §9 manda pesquisar a **geografia desde o início**, como condição material, mesmo que a integração territorial (Etapa V) só venha depois. Por isso a Etapa I tem uma frente de geografia (`h-`), que estuda casos reais e princípios físicos, sem desenhar o continente.
 
 ## O que a Pesquisa I já cobre e o que falta
 
@@ -39,7 +39,10 @@ Tradições da §3 sem dossiê na Pesquisa I: confucionismo, xintoísmo, zoroast
 | `e-india-e-mediterraneo/` | Nyāya-Vaiśeṣika, jainismo, Mīmāṃsā, tantra; estoicos e céticos |
 | `f-africa-americas-folclore/` | África além de Ifá, Américas, folclores e curas populares |
 | `g-morte-corpo-consciencia/` | Eixos 5.3/5.4 faltantes: ritos funerários, preservação de corpos, transe e sonho, proteção e agressão sobrenatural, fraude e erro |
+| `h-geografia-e-ambiente/` | §9 pesquisada desde já: princípios de geografia física para um continente plausível, e ambiente × cultura sem determinismo |
 
 Entrega final (§5): `00-repertorio.md`, índice por **tema** e por **tradição**, feito ao fim.
+
+Depois das frentes, uma **revisão crítica** no papel do Agente I (§13): erros históricos, fontes frágeis, falsas equivalências, homogeneização, determinismo geográfico. Resultado em `99-revisao-critica.md`.
 
 Regras comuns: [`_briefing-agentes.md`](_briefing-agentes.md).
