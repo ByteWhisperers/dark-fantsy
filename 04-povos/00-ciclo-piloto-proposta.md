@@ -45,27 +45,33 @@ Escolher três ou quatro sociedades com **relações diferentes com os fenômeno
 - **Repertório:** Mongólia, Buriátia e Sakha (g/06), Andes e Amazônia (f/04), songlines (h/04). Lacunas a cobrir se for escolhido: pastoralismo africano e verticalidade andina.
 - **Relação com P2:** fronteira de troca e guerra entre vale e pastagem, matéria natural para o Marco 6.
 
-### P4 · Duas opções (escolher uma)
-**4a · As cortes insulares dos Altos Elfos (do conto).**
-> 💡 **Relação arcana:** a definir; o que interessa é testar um **povo não humano** antes de expandir. Uma vida de ~1000 anos (conto; pergunta #9) muda o que é geração, memória, herança, sucessão e dívida. O conto já dá matéria: Lyra, escrava por dívida, o lótus azul, a crença de que elfos têm "bobina natural" nos nervos.
-- **Risco:** o clichê do elfo aristocrata e etéreo, que é também europeu. Exige matriz de transformação forte e diversidade interna real (quem é escravizado por dívida numa sociedade de longevos?).
-- **Repertório:** navegação polinésia (PI F2-12), mana e tapu (f/06), escravidão por dívida (§8.3), b/04 sobre iniciação e exclusão.
+### P4 · Cidade-império mercantil, escravista e em declínio (pedido do Hermes, 2026-11-08)
+> 💡 **Referência pedida:** uma sociedade de tipo cartaginês, escravocrata e meio decadente. Entra como **mecanismos**, não como cópia: potência marítima de comércio, elite de famílias mercantis, trabalho escravo em larga escala, mercenários, rivalidade com uma potência rival. Pelo §3.4 e pelo erro proibido 2, precisa de matriz de transformação e de elementos originais.
+- **Relação arcana (a definir):** 💡 hipótese de partida: técnicas **compradas, não geradas**. A elite financia e importa especialistas estrangeiros (inclusive escravizados) e depende de materiais raros por rota marítima. Isso a torna rica e vulnerável (§9.2: dependência de especialista estrangeiro).
+- **Decadência como processo, não como adjetivo:** precisa de causas multifatoriais (§6.3 e erro proibido 23): dependência de trabalho escravo, concentração de riqueza, perda de rota, guerra perdida, custo de mercenários. Decadência moral sem causa material é caricatura (CANONE #12).
+- **Escravidão** (§8.3): contextualizar o regime (guerra, dívida, hereditário, trabalho em minas e navios), com os escravizados como grupo com interesses próprios, não cenário. Pergunta de tom do CANONE #12: o que a elite acredita sobre si mesma que não bate com a realidade?
+- **Fonte-problema útil:** o que sabemos de Cartago vem em grande parte de gregos e romanos, seus inimigos, e a cidade foi destruída. É um caso de tradição que só existe no arquivo de quem a destruiu (transversal #30, g/07). 💡 Isso pode virar tema do mundo: a memória sobre o P4 é escrita por rivais.
+- **Repertório:** economia de templos e patronagem (b/02), religião e Estado (b/03), controle e dissidência (b/05), Ugarit (g/07), Estados africanos (b/06), rotas e custo de distância (h/01, h/03). 💡 Falta cobrir fontes sobre o mundo púnico e fenício, dependem de pesquisa nova (lacuna da Etapa I).
+- **Relação com os outros:** pode comprar escravos de dívida do P5 e vender técnicas ou insumos ao P1.
 
-**4b · Uma rede mercantil marítima ou ribeirinha, multiconfessional e sem Estado único.**
-> 💡 **Relação arcana:** combina técnicas de várias origens; depende de especialistas estrangeiros; compra, vende e falsifica técnicas.
-- **Repertório:** igreja que se espalha por rotas comerciais sem nunca ser de Estado (d/08, #31); especialista de fronteira tolerado pelo que faz (*dabtara*); circulação de técnicas (§9.2).
-- **Risco:** sobrepõe parte do P1, que já é porto e mercado.
-
-> 💡 **Recomendação:** 4a. O protocolo manda avaliar o método antes de expandir (Marco 8), e um povo longevo quebra hipóteses do método (gerações, periodização, traços de espécie no 5e) que só aparecem testando.
+### P5 · Cortes insulares dos Altos Elfos, aristocráticas e elitistas (pedido do Hermes, 2026-11-08)
+> 💡 **Relação arcana:** a definir. O que interessa é testar um **povo longevo** (~1000 anos, conto; pergunta #9) e uma **aristocracia fechada** em arquipélago: o que muda em geração, memória, herança, sucessão e dívida quando quase ninguém morre cedo.
+- **Origem no conto:** Lyra é Alta Elfa das cortes insulares do leste, escrava de dívida viciada em lótus azul. Isso já impõe a pergunta: numa sociedade de elite e elitismo, **quem acaba escravizado por dívida e por que**? Como ela sai da ilha? (Obs.: o conto escreve *Lyra*.)
+- **Cuidados:** o clichê do elfo aristocrata etéreo é europeu; sem diversidade interna real (§8) e sem decadência/custos materiais, repete o clichê. Elitismo precisa de base: terra escassa de ilha, controle de rota, de insumo ou de conhecimento (b/01, b/04 sobre iniciação e exclusão).
+- **Cuidado de tom:** a tese do conto de que elfos têm "bobina natural" é de Argon (CANONE #2, pergunta #19). Não tratar como fato do mundo antes de decidir.
+- **Repertório:** navegação polinésia (PI F2-12), mana e tapu (f/06), Estados africanos e sucessão (b/06), cargo ritual como renda herdável (b/02), longevidade e memória (a/02, g/01).
+- **Relação com os outros:** liga-se a P1 (Lyra chega à cidade portuária) e a P4 (tráfico de dívida).
 
 ## 4. Perfis arcanos lado a lado (provisório)
 
-| | P1 reino do conto | P2 vale e adivinhação | P3 pastores | P4a elfos insulares |
-|---|---|---|---|---|
-| Fenômenos mais operados | destruição, proteção, matéria | informação, previsão | animais, território, entidades | a definir |
-| Acesso | restrito a linhagem e instituição | especialistas com cargo | vocação, dispersa | a definir |
-| Forma política | reino, nobreza, Igreja | administração ligada à água | sem Estado | cortes |
-| Teoria × prática | teoria acadêmica forte | teoria da prova forte | pouca teoria, muita prática | a definir |
+> 💡 São **cinco** pilotos, acima dos 3 ou 4 do protocolo (§5.1, §18). O Hermes pediu; vale como decisão dele, mas isso aumenta o custo do ciclo. Ver pergunta no fim.
+
+| | P1 reino do conto | P2 vale e adivinhação | P3 pastores | P4 cidade mercantil escravista | P5 elfos insulares |
+|---|---|---|---|---|---|
+| Fenômenos mais operados | destruição, proteção, matéria | informação, previsão | animais, território, entidades | a definir | a definir |
+| Acesso | restrito a linhagem e instituição | especialistas com cargo | vocação, dispersa | comprado de especialistas estrangeiros | a definir |
+| Forma política | reino, nobreza, Igreja | administração ligada à água | sem Estado | oligarquia mercantil | cortes aristocráticas |
+| Teoria × prática | teoria acadêmica forte | teoria da prova forte | pouca teoria, muita prática | prática importada | a definir |
 
 ## 5. Geografia
 Sem mapa ainda (§10.1). Do conto: cidade portuária; Vallenar a 300 léguas da costa, em fronteira montanhosa; ilhas e cortes a leste; colônias ao sul; mares do norte com baleeiros. Para os outros pilotos, registro só o **tipo de ambiente** e as restrições de h/01; a posição relativa fica para o Marco 6 e a cartografia para a Etapa VII.
@@ -77,7 +83,7 @@ Sem mapa ainda (§10.1). Do conto: cidade portuária; Vallenar a 300 léguas da 
 - **Etiquetas:** [F]/[AF]/[PP]/[M]/[S]/[HF] na pesquisa; toda inspiração importante leva matriz de transformação (§3.4).
 
 ## 7. Perguntas para o Hermes
-1. Os pilotos P1, P2 e P3 servem? Algum troca?
-2. P4: elfos insulares (4a) ou rede mercantil (4b)?
-3. O protocolo **substitui** a numeração de etapas da diretriz do continente (lá, II era tradições ficcionais e IV era povos)? Assumi que sim, por ser o documento mais novo. (Pergunta #21.)
-4. Que outros povos não humanos existem além de humanos e elfos? Não preciso da lista agora, só saber se há algum que deva entrar já no ciclo piloto. (Pergunta #22.)
+1. Cinco pilotos (P1 a P5) estão bem, ou prefere começar com quatro e deixar um para depois? 💡 Sugiro executar P1, P4 e P5 primeiro, por já se ligarem (cidade, tráfico de dívida, Lyra), e P2 e P3 em seguida.
+2. P2 e P3 ficam como propus?
+3. O protocolo **substitui** a numeração de etapas da diretriz do continente? Assumi que sim. (Pergunta #21.)
+4. Existem outros povos não humanos que devam entrar cedo? (Pergunta #22.)
