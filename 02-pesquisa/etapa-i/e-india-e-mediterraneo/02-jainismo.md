@@ -33,38 +33,38 @@ Estudados: doutrina clássica (TS e comentários), lógica de perspectivas (Sama
 
 ### 5.1 Ontologia e cosmologia
 
-- **Dualismo plural.** Seis constituintes eternos: almas (*jīva*), matéria (*pudgala*), meio de movimento (*dharma*), meio de repouso (*adharma*), espaço (*ākāśa*), tempo (*kāla*). [F] (Webb, IEP) — "movimento" e "repouso" aqui são **substâncias-meio**, como a água para o peixe, não mérito e demérito. [PP] (de memória; Jaini)
-- **Sete categorias de salvação** (TS 1.4): alma, não alma, **influxo** (*āsrava*), **ligação** (*bandha*), **bloqueio** (*saṃvara*), **desgaste** (*nirjarā*), **libertação** (*mokṣa*). [F] (SEP) É uma ontologia montada como **mecânica de um processo**: entrada, fixação, vedação, eliminação.
-- **Alma.** Sua marca é a experiência (*upayoga*: cognição e percepção indeterminada). Expande-se e contrai-se ao tamanho do corpo, como a luz de uma lâmpada na sala. Por natureza é onisciente e bem-aventurada; o karma a obscurece. [F] (SEP)
-- **Karma é matéria.** Partículas sutis que enchem o cosmo; as **paixões** (raiva, orgulho, engano, cobiça) funcionam como **cola** que as faz grudar. Oito tipos, quatro "danosos" (obscurecem conhecimento, percepção, iludem, impedem energia) e quatro "não danosos" (corpo, duração da vida, status, sensações). [F] (SEP; os nomes dos oito: de memória)
-  - **Leśyā**: a alma tingida pelo karma tem uma "cor" em seis graus (do negro ao branco), com a parábola dos seis homens diante de uma árvore frutífera, do que derruba a árvore ao que apanha só os frutos caídos. [F] (de memória, Jaini; não verificado)
-- **Matéria única.** Ao contrário do Nyāya-Vaiśeṣika ([01](01-nyaya-vaisesika.md)), a matéria jaina é **homogênea**: os elementos não têm átomos distintos; átomos de matéria podem "percolar" na alma e afetá-la. [F] (SEP "Ancient Atomism", via resumo)
-- **Cosmos sem criador**, eterno, com forma (o *loka*, em forma de figura humana na iconografia; de memória) cercado pelo não mundo (*aloka*) vazio onde não há meio de movimento. As almas libertas sobem ao topo e ficam ali, porque não há meio para ir além. [F] (SEP: *loka*/*aloka*) [PP] (de memória: a razão física da parada)
-- **Tempo** em ciclos de ascensão e declínio, cada um com seis eras; em cada metade surgem 24 *tīrthaṅkaras* ("fazedores de vau"). Mahāvīra (SEP: 599–527/510 a.C.; datação tradicional, a academia propõe c. séc. V) é o último do ciclo atual; a libertação só é possível em certas regiões do continente central (Jambūdvīpa). [F] (SEP) [PP] (datação alternativa: de memória)
+- **Dualismo plural.** Seis constituintes eternos: almas (*jīva*), matéria (*pudgala*), meio de movimento (*dharma*), meio de repouso (*adharma*), espaço (*ākāśa*), tempo (*kāla*). [PP: IEP] (Webb) — "movimento" e "repouso" aqui são **substâncias-meio**, como a água para o peixe, não mérito e demérito. [PP] (de memória; Jaini)
+- **Sete categorias de salvação** (TS 1.4): alma, não alma, **influxo** (*āsrava*), **ligação** (*bandha*), **bloqueio** (*saṃvara*), **desgaste** (*nirjarā*), **libertação** (*mokṣa*). [PP: SEP] É uma ontologia montada como **mecânica de um processo**: entrada, fixação, vedação, eliminação.
+- **Alma.** Sua marca é a experiência (*upayoga*: cognição e percepção indeterminada). Expande-se e contrai-se ao tamanho do corpo, como a luz de uma lâmpada na sala. Por natureza é onisciente e bem-aventurada; o karma a obscurece. [PP: SEP]
+- **Karma é matéria.** Partículas sutis que enchem o cosmo; as **paixões** (raiva, orgulho, engano, cobiça) funcionam como **cola** que as faz grudar. Oito tipos, quatro "danosos" (obscurecem conhecimento, percepção, iludem, impedem energia) e quatro "não danosos" (corpo, duração da vida, status, sensações). [PP: SEP]; [M] (os nomes dos oito)
+  - **Leśyā**: a alma tingida pelo karma tem uma "cor" em seis graus (do negro ao branco), com a parábola dos seis homens diante de uma árvore frutífera, do que derruba a árvore ao que apanha só os frutos caídos. [M] (Jaini; não verificado)
+- **Matéria única.** Ao contrário do Nyāya-Vaiśeṣika ([01](01-nyaya-vaisesika.md)), a matéria jaina é **homogênea**: os elementos não têm átomos distintos; átomos de matéria podem "percolar" na alma e afetá-la. [PP: SEP] ("Ancient Atomism", via resumo de busca)
+- **Cosmos sem criador**, eterno, com forma (o *loka*, em forma de figura humana na iconografia; de memória) cercado pelo não mundo (*aloka*) vazio onde não há meio de movimento. As almas libertas sobem ao topo e ficam ali, porque não há meio para ir além. [PP: SEP] (*loka*/*aloka*) [PP] (de memória: a razão física da parada)
+- **Tempo** em ciclos de ascensão e declínio, cada um com seis eras; em cada metade surgem 24 *tīrthaṅkaras* ("fazedores de vau"). Mahāvīra (SEP: 599–527/510 a.C.; datação tradicional, a academia propõe c. séc. V) é o último do ciclo atual; a libertação só é possível em certas regiões do continente central (Jambūdvīpa). [PP: SEP] [PP] (datação alternativa: de memória)
 
 ### 5.2 Entidades
 
-- **Seres classificados por número de sentidos**: de um sentido (plantas, "corpos" de terra, água, fogo, ar — sim, há almas em gotas e chamas) a cinco (humanos, animais, deuses, infernais). [F] (Webb) A não violência decorre dessa ontologia: há vida em quase tudo.
-- **Deuses existem** em céus e são seres kármicos, mortais a longo prazo, **inferiores** ao asceta liberto; não criam nem salvam. **Infernos** são lugares de punição temporária. [F] (de memória; consenso)
+- **Seres classificados por número de sentidos**: de um sentido (plantas, "corpos" de terra, água, fogo, ar — sim, há almas em gotas e chamas) a cinco (humanos, animais, deuses, infernais). [PP: IEP] (Webb) A não violência decorre dessa ontologia: há vida em quase tudo.
+- **Deuses existem** em céus e são seres kármicos, mortais a longo prazo, **inferiores** ao asceta liberto; não criam nem salvam. **Infernos** são lugares de punição temporária. [M] (consenso)
 - Os *tīrthaṅkaras* libertos **não respondem** a culto: a veneração ao ídolo é exercício do devoto, não troca. Na prática, deusas e deuses protetores (*yakṣa*, *yakṣī*) recebem pedidos mundanos. [PP] (Cort, Dundas; de memória)
 
 ### 5.3 Epistemologia
 
-- **Cinco cognições** (esquema tradicional): sensorial (*mati*), escritural (*śruta*), clarividente (*avadhi*), telepática (*manaḥparyāya*) e onisciência (*kevala*). As três últimas não dependem dos sentidos. [F] (de memória; Webb dá lista equivalente como *pramāṇa*; a SEP lista outra classificação do TS em 8+4)
-  - A inferência não está na lista original; foi incorporada depois. [F] (Webb)
-- **Onisciência como garantia.** O Jina vê tudo; o cânone vale porque transmite a palavra de um onisciente. O conhecimento humano comum é parcial **por estrutura**. [F]/[S]
-- **Anekāntavāda** ("não unilateralidade"): a realidade tem infinitos aspectos; toda afirmação pega um. [F] (SEP; Webb)
-  - **Naya** (pontos de vista): sete — o comum/teleológico (*naigama*), o coletivo (*saṃgraha*), o prático (*vyavahāra*), o do instante (*ṛjusūtra*), o verbal (*śabda*), o etimológico (*samabhirūḍha*), o atual (*evaṃbhūta*). Cada um é verdadeiro **no seu escopo** e falso quando se proclama único. [F] (SEP: lista; glosas de memória)
-  - **Syādvāda** / predicação sétupla (*saptabhaṅgī*): de um objeto, "*syāt*" (em certo aspecto) ele é F; não é F; é e não é F (sucessivamente); é **inexprimível** (ambos ao mesmo tempo); é e é inexprimível; não é e é inexprimível; é, não é e é inexprimível. [F] (SEP: quatro valores básicos e as sete combinações; Webb: o terceiro modo) A "inexprimibilidade" é um **valor lógico próprio**, não silêncio. [S]
+- **Cinco cognições** (esquema tradicional): sensorial (*mati*), escritural (*śruta*), clarividente (*avadhi*), telepática (*manaḥparyāya*) e onisciência (*kevala*). As três últimas não dependem dos sentidos. [M] (Webb dá lista equivalente como *pramāṇa*; a SEP lista outra classificação do TS em 8+4)
+  - A inferência não está na lista original; foi incorporada depois. [PP: IEP] (Webb)
+- **Onisciência como garantia.** O Jina vê tudo; o cânone vale porque transmite a palavra de um onisciente. O conhecimento humano comum é parcial **por estrutura**. [M]/[S]
+- **Anekāntavāda** ("não unilateralidade"): a realidade tem infinitos aspectos; toda afirmação pega um. [PP: SEP; IEP] (SEP; Webb)
+  - **Naya** (pontos de vista): sete — o comum/teleológico (*naigama*), o coletivo (*saṃgraha*), o prático (*vyavahāra*), o do instante (*ṛjusūtra*), o verbal (*śabda*), o etimológico (*samabhirūḍha*), o atual (*evaṃbhūta*). Cada um é verdadeiro **no seu escopo** e falso quando se proclama único. [PP: SEP] (lista); [M] (glosas)
+  - **Syādvāda** / predicação sétupla (*saptabhaṅgī*): de um objeto, "*syāt*" (em certo aspecto) ele é F; não é F; é e não é F (sucessivamente); é **inexprimível** (ambos ao mesmo tempo); é e é inexprimível; não é e é inexprimível; é, não é e é inexprimível. [PP: SEP; IEP] (SEP: quatro valores básicos e as sete combinações; Webb: o terceiro modo) A "inexprimibilidade" é um **valor lógico próprio**, não silêncio. [S]
 - **Erro**: o erro está em absolutizar um ponto de vista (*ekānta*, "unilateralidade"), e é isso que os jainas acusam nas outras escolas: budistas absolutizam a mudança, vedantinos a permanência. [PP] (de memória; leitura padrão)
-- **Crítica externa**: Śaṅkara (*Brahmasūtrabhāṣya* 2.2.33) diz que não se pode afirmar e negar o mesmo do mesmo; Webb acha o falibilismo jaina autorrefutante. [F] (Webb)
+- **Crítica externa**: Śaṅkara (*Brahmasūtrabhāṣya* 2.2.33) diz que não se pode afirmar e negar o mesmo do mesmo; Webb acha o falibilismo jaina autorrefutante. [PP: IEP] (Webb)
 
 ### 5.4 Técnicas (o que se acreditava × o que produzia)
 
-- **Mecânica do caminho**: bloquear o influxo (votos, vigilância, controle de fala e movimento) e desgastar o estoque (jejum e austeridades, o "calor" *tapas*). [F] (SEP: categorias) Acreditava-se: a matéria kármica é literalmente queimada. Produzia: disciplina corporal extrema, comunidade ascética visível e respeitada, e uma ética alimentar e ocupacional (evitar agricultura que mata seres do solo, preferir o comércio). [PP] (relação comércio–ascese: Laidlaw, de memória) [S]
-- **Cinco votos** (não violência, verdade, não roubar, castidade, não posse), totais para monges, "menores" para leigos. [F] (Webb)
-- **Instrumentos de não violência**: espanador para afastar insetos, pano na boca (em algumas ordens), filtrar água, não comer depois do pôr do sol, evitar raízes. [F] (de memória; prática conhecida, variável por ordem)
-- **Morte por jejum** (*sallekhanā*/*santhara*): renúncia gradual a alimento quando a morte se aproxima, com permissão do mestre. [F] (SEP) Em 10/8/2015 o Tribunal Superior do Rajastão a equiparou a tentativa de suicídio; o Supremo Tribunal suspendeu a decisão em 31/8/2015. [F] (imprensa jurídica) A tradição distingue: suicídio nasce de paixão; *sallekhanā* exige ausência de paixão. [PP] (de memória)
+- **Mecânica do caminho**: bloquear o influxo (votos, vigilância, controle de fala e movimento) e desgastar o estoque (jejum e austeridades, o "calor" *tapas*). [PP: SEP] (categorias) Acreditava-se: a matéria kármica é literalmente queimada. Produzia: disciplina corporal extrema, comunidade ascética visível e respeitada, e uma ética alimentar e ocupacional (evitar agricultura que mata seres do solo, preferir o comércio). [PP] (relação comércio–ascese: Laidlaw, de memória) [S]
+- **Cinco votos** (não violência, verdade, não roubar, castidade, não posse), totais para monges, "menores" para leigos. [PP: IEP] (Webb)
+- **Instrumentos de não violência**: espanador para afastar insetos, pano na boca (em algumas ordens), filtrar água, não comer depois do pôr do sol, evitar raízes. [M] (prática conhecida, variável por ordem)
+- **Morte por jejum** (*sallekhanā*/*santhara*): renúncia gradual a alimento quando a morte se aproxima, com permissão do mestre. [PP: SEP] Em 10/8/2015 o Tribunal Superior do Rajastão a equiparou a tentativa de suicídio; o Supremo Tribunal suspendeu a decisão em 31/8/2015. [F] (imprensa jurídica) A tradição distingue: suicídio nasce de paixão; *sallekhanā* exige ausência de paixão. [PP] (de memória)
 - **Prática leiga**: culto de imagens, jejuns, peregrinação, doação a monges. Leigos buscam também bem-estar, prosperidade e mérito; a ascese é ideal visível, não prática média. [PP] (Cort, Laidlaw; de memória)
 
 ### 5.5 Formalização
@@ -72,18 +72,18 @@ Estudados: doutrina clássica (TS e comentários), lógica de perspectivas (Sama
 - **Lógica de perspectivas**: os sete *naya* e os sete modos de predicação são combinatória genuína (3 valores básicos → 7 combinações não vazias), não numerologia. [S]
 - **Classificação de seres** por sentidos, por tipo de corpo, por karma: grade taxonômica que funciona como manual ético. [S]
 - **Grandes números e tipos de infinito**: textos canônicos classificam quantidades em contáveis, incontáveis e infinitas, com subdivisões, para medir tempos cósmicos e números de almas. [PP] (de memória; história da matemática indiana, não verificado)
-- **Cosmograma**: mapas do continente central e dos anéis de oceanos e continentes, usados em templos e manuscritos. [F] (de memória)
+- **Cosmograma**: mapas do continente central e dos anéis de oceanos e continentes, usados em templos e manuscritos. [M]
 
 ### 5.6 Instituições
 
-- **Quádrupla comunidade**: monges, monjas, leigos, leigas. Os ascetas dependem de esmola; os leigos financiam templos e festivais e ganham mérito e prestígio. [F]/[PP] (de memória)
-- **Cisma**: Digambara ("vestidos de céu"): monges nus, mulheres não podem ser libertas sem renascer homem, o cânone antigo teria se perdido até o séc. II d.C. Śvetāmbara ("vestidos de branco"): monges e monjas vestidos, cânone fixado no concílio de Valabhī (453 ou 466 d.C.) com 11 *aṅga* (o 12.º perdido). Os Śvetāmbara datam o cisma de 83 d.C.; Britannica o vê como divergência gradual. [F] (Britannica)
+- **Quádrupla comunidade**: monges, monjas, leigos, leigas. Os ascetas dependem de esmola; os leigos financiam templos e festivais e ganham mérito e prestígio. [M]
+- **Cisma**: Digambara ("vestidos de céu"): monges nus, mulheres não podem ser libertas sem renascer homem, o cânone antigo teria se perdido até o séc. II d.C. Śvetāmbara ("vestidos de branco"): monges e monjas vestidos, cânone fixado no concílio de Valabhī (453 ou 466 d.C.) com 11 *aṅga* (o 12.º perdido). Os Śvetāmbara datam o cisma de 83 d.C.; Britannica o vê como divergência gradual. [PP: Britannica]
 - Subdivisões posteriores contra o culto de imagens (Sthānakavāsī, Terāpanthī, séc. XV–XVIII). [PP] (de memória)
-- Patronagem régia e mercantil (Gujarat, Karnataka); Hemacandra (1089–1172) como conselheiro de rei. [F] (SEP: datas) [PP]
+- Patronagem régia e mercantil (Gujarat, Karnataka); Hemacandra (1089–1172) como conselheiro de rei. [PP: SEP] (datas) [PP]
 
 ## 4. Transformações e dissidências
 
-- Da ascese de Mahāvīra (cânone em prácrito) à filosofia em sânscrito em diálogo com Nyāya e budismo (Siddhasena, Samantabhadra, Akalaṅka, Haribhadra), que traduz o *anekānta* para a lógica do debate. [F] (SEP) [PP]
+- Da ascese de Mahāvīra (cânone em prácrito) à filosofia em sânscrito em diálogo com Nyāya e budismo (Siddhasena, Samantabhadra, Akalaṅka, Haribhadra), que traduz o *anekānta* para a lógica do debate. [PP: SEP] [PP]
 - O cisma organiza-se em torno de **nudez, gênero e cânone**, isto é, de quem pode chegar à meta e com que autoridade textual. [S]
 - Leitura moderna de *anekānta* como "tolerância religiosa" (associada a Gandhi e a autores jainas do séc. XX). [PP] (de memória)
 
@@ -103,7 +103,7 @@ Estudados: doutrina clássica (TS e comentários), lógica de perspectivas (Sama
 - **Ascetas sustentados por leigos**: o ideal radical existe porque uma economia leiga o financia e ganha mérito por isso.
 - **Cisma por critérios de acesso à meta** (corpo, gênero, nudez), não por diferença de deus.
 
-> 💡 [HF] Uma tradição cuja contaminação espiritual é literalmente acúmulo de matéria permitiria medir, ver ou disputar a "carga" de alguém, e criaria técnicas de vedação e de queima com custos corporais reais.
+> 💡 [HF] Uma tradição cuja contaminação espiritual é literalmente acúmulo de matéria permitiria medir, ver ou disputar a "carga" de alguém, e criaria técnicas de vedação e de queima com custos corporais reais. **Depende de decisão do autor sobre as leis fundamentais do mundo**: se a "carga" existe e é mensurável no cenário, ou se é só doutrina de uma tradição (que então pode disputar medições sem que elas meçam nada).
 
 > 💡 [HF] Um sistema de sete posições de juízo, inclusive "não pode ser dito", pode ser regra de tribunal ou de concílio, e não só de filosofia.
 
@@ -117,6 +117,10 @@ Estudados: doutrina clássica (TS e comentários), lógica de perspectivas (Sama
 
 ## 8. Limitações
 
-- Nenhum texto primário lido diretamente; TS só via SEP.
+- Nenhum texto primário lido diretamente; TS só via SEP. Quase todo `[PP: SEP]`/`[PP: IEP]` é paráfrase de verbete, não fonte primária.
 - *Leśyā*, nomes dos oito karmas, matemática jaina, subdivisões modernas e dados demográficos estão de memória.
 - Prática leiga baseada em memória de etnografias não relidas (Laidlaw, Cort).
+
+---
+
+Correções de 2026-11-08: 8 `[F]` de memória viraram `[M]`; paráfrases da SEP, IEP (Webb) e Britannica passaram a `[PP: SEP]`/`[PP: IEP]`/`[PP: Britannica]`. HF1 ("carga" mensurável) marcada como dependente de decisão do autor sobre as leis fundamentais. Teses inalteradas.

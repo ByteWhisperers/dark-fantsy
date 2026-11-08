@@ -10,7 +10,7 @@ atualizado: 2026-11-08
 # 01 — África Ocidental e Central
 
 > Etapa I, frente F. Não é cânone e não cria nada para o continente.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia (inclusive Wikipédia, fonte fraca) · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 > Ifá iorubá já está em [Pesquisa I, F1 25](../../pesquisa-i/frente-1-ontologias/25-tradicoes-orais-perspectivismo-ifa-navegacao.md) (16/256 *odù*, consulta sem confissão, corpus aberto). Aqui só se remete.
 
 ## 1. Tabela de fontes
@@ -30,6 +30,8 @@ atualizado: 2026-11-08
 | W. van Beek | "Dogon Restudied", *Current Anthropology* 32(2): 139–167 | 1991 | Dogon (Mali) | artigo + comentários | resumo e réplicas (Calame-Griaule, Douglas) | web (resumos) |
 | Museus (Miami, BMA) | fichas de *ngombo ya cisuka* | — | Chokwe (Angola, RDC, Zâmbia) | institucional | procedimento | web |
 | V. Turner | *Revelation and Divination in Ndembu Ritual* | 1975 | Ndembu (Zâmbia) | etnografia | — | memória |
+| Wikipédia (en) | "Kongo cosmogram"; "Witchcraft, Oracles and Magic Among the Azande" | consulta 2026 | Kongo; Azande | enciclopédia aberta (fonte terciária, fraca) | descrição do cosmograma (remete a Thompson/Cornet e Fu-Kiau); estrutura do livro de E-P | web (lido); usado só como `[PP: verbete]` |
+| W. MacGaffey | *Religion and Society in Central Africa: The BaKongo of Lower Zaire* (Chicago) | 1986 | Kongo | etnografia | tratamento acadêmico do cosmograma e do contínuo dos mortos | memória; não lido (é a referência a conferir no lugar da Wikipédia) |
 
 Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica clássica é quase toda europeia/norte-americana e colonial; as vozes internas (Achebe, Fu-Kiau, Gyekye, Wiredu) são intelectuais modernos, letrados, que também reinterpretam.
 
@@ -44,8 +46,8 @@ Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica c
 ### 3.1 Ontologia: a pessoa composta e o destino
 
 **Akan.**
-- `[F]` A pessoa tem um *okra*, o eu mais íntimo, cuja presença é vida e cuja ausência é morte; o *okra* recebe de Deus o destino individual (*nkrabea*). (Wingo, SEP)
-- `[F]`/memória: os esquemas correntes acrescentam *sunsum* (personalidade, força de caráter, o que se fere em ataques espirituais), *honam*/*nipadua* (corpo), *mogya* (sangue, herdado da mãe, base do pertencimento ao clã matrilinear) e *ntoro* (herdado do pai). O detalhe varia entre autores e não deve ser lido como doutrina única.
+- `[PP: SEP]` A pessoa tem um *okra*, o eu mais íntimo, cuja presença é vida e cuja ausência é morte; o *okra* recebe de Deus o destino individual (*nkrabea*). (Wingo, SEP)
+- `[M]` Os esquemas correntes acrescentam *sunsum* (personalidade, força de caráter, o que se fere em ataques espirituais), *honam*/*nipadua* (corpo), *mogya* (sangue, herdado da mãe, base do pertencimento ao clã matrilinear) e *ntoro* (herdado do pai). O detalhe varia entre autores e não deve ser lido como doutrina única.
 - `[PP]` Debate filosófico: Gyekye trata *okra* e *sunsum* como espirituais; Wiredu (seguido por Safro Kwame) diz que as funções atribuídas a eles os tornam **"quase-físicos"**, nem matéria comum nem espírito cartesiano. O ponto de Wiredu é que a dicotomia mente/matéria não traduz o esquema akan.
 - `[PP]` Segundo debate: para Wiredu, ser humano é discreto, mas **ser pessoa (*onipa*) é graduado** e se conquista (conduta, casamento, sustento, serviço); para Gyekye, pessoa é constante e o que varia é status. O ancestral é o ponto de chegada de uma pessoa realizada. (Wingo, SEP)
 
@@ -54,22 +56,23 @@ Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica c
 - `[S]` A estrutura: um **duplo pessoal** com quem se negocia, não um destino fixo nem um anjo da guarda externo. Contraste com *orí* iorubá (F1 25): ambos individualizam o destino, mas o *orí* é escolhido antes do nascimento; o *chi* é um parceiro com vontade própria. Semelhança funcional ≠ equivalência.
 
 **Kongo.**
-- `[F]` Mundo dos vivos (*ku nseke*) e dos mortos (*ku mpemba*), separados por água (*kalunga*); os mortos são brancos, do outro lado; o sol atravessa os dois. (Wikipedia "Kongo cosmogram", com base em Thompson/Cornet e Fu-Kiau)
+- `[PP: verbete]` Mundo dos vivos (*ku nseke*) e dos mortos (*ku mpemba*), separados por água (*kalunga*); os mortos são brancos, do outro lado; o sol atravessa os dois. (Wikipédia "Kongo cosmogram", que resume Thompson/Cornet 1981 e Fu-Kiau; não conferido nessas obras nem em MacGaffey 1986) Atenção: essa descrição já é a leitura sistematizadora que MacGaffey 2016 contesta; o que está mais bem apoiado é o par vivos/mortos separados pela água, não o esquema completo.
 - `[PP]` Para MacGaffey (2016, nota 21) o diagrama em cruz é autêntico, provavelmente pelo menos do séc. XIX (Fernando Ortiz o registrou em Cuba com termos kikongo), mas **a interpretação cosmológica sistemática de Fu-Kiau não é a mesma** que a dos usos documentados. Ver §5.
 
 ### 3.2 Entidades
 
 - `[S]` Em comum nessas regiões, sem unificar: um deus supremo distante (Onyame akan, Chukwu igbo, Nzambi kongo), raramente objeto de culto direto; divindades/espíritos de lugares, rios e florestas (Akan *abosom*; Igbo *alusi*; Kongo *bisimbi*); **ancestrais** como categoria moral, não todo morto; e agentes nocivos humanos (feiticeiros).
-- `[F]` Kongo: os *simbi* são espíritos de água associados à passagem entre mundos (Wikipedia). `[PP]` MacGaffey reclassifica: ancestrais, *simbi* e *minkisi* formam um contínuo de mortos com diferentes graus de localização e controle humano (memória; *Religion and Society in Central Africa*, 1986, não verificado).
-- `[F]` Azande: *mangu* é uma **substância física** no ventre do feiticeiro, herdada (pai para filhos, mãe para filhas), que age sem que o portador saiba. Evans-Pritchard relata autópsias para procurá-la (memória). A feitiçaria (*witchcraft*, inata, involuntária) é distinta da magia maléfica (*sorcery*, técnica com medicamentos) (distinção clássica de E-P).
+- `[PP: verbete]` Kongo: os *simbi* são espíritos de água associados à passagem entre mundos (Wikipédia; fonte fraca). `[PP]` MacGaffey reclassifica: ancestrais, *simbi* e *minkisi* formam um contínuo de mortos com diferentes graus de localização e controle humano (memória; *Religion and Society in Central Africa*, 1986, não verificado).
+- `[M]` Azande: *mangu* é uma **substância física** no ventre do feiticeiro, herdada (pai para filhos, mãe para filhas), que age sem que o portador saiba. Evans-Pritchard relata autópsias para procurá-la (memória). A feitiçaria (*witchcraft*, inata, involuntária) é distinta da magia maléfica (*sorcery*, técnica com medicamentos) (distinção clássica de E-P).
 
 ### 3.3 Epistemologia: como se reconhece o erro
 
 **Azande** (o caso mais útil desta frente):
 - `[AF]` O exemplo do celeiro (memória): o celeiro desaba porque cupins comeram os esteios — os Azande sabem disso. A feitiçaria explica **por que caiu naquela hora, sobre aquelas pessoas**. Não substitui a causa física; responde à pergunta da coincidência.
-- `[F]` Hierarquia de oráculos: o oráculo do veneno (*benge*, dado a frangos) é o mais caro e confiável; abaixo, oráculo dos cupins, tábua de fricção (*iwa*). O *benge* é consultado duas vezes, com a pergunta invertida: o frango deve morrer no primeiro teste e sobreviver no segundo para que a resposta valha.
+- `[M]` Hierarquia de oráculos (Evans-Pritchard 1937; a estrutura do livro conferida só via Wikipédia): o oráculo do veneno (*benge*, uma substância vegetal preparada e dada a frangos) é o mais caro e confiável; abaixo, oráculo dos cupins (*dakpa*), tábua de fricção (*iwa*). O *benge* é consultado duas vezes, com a pergunta invertida: o frango deve morrer no primeiro teste e sobreviver no segundo para que a resposta valha. O operador observa tabus antes da sessão; a pergunta é dirigida ao veneno, que "ouve".
+- `[M]` Uso: decide acusações de feitiçaria, viagens, casamentos, mortes. Homens adultos consultam; mulheres e crianças, não. O veredito do oráculo do príncipe era final e encerrava disputas. Este dossiê é a **referência do *benge*** e do celeiro para a Etapa I; g-04 e g-05 remetem para cá.
 - `[AF]` Quando o oráculo se contradiz, isso não refuta o sistema: o veneno estava estragado, foi coletado errado, houve quebra de tabu, feitiçaria interferiu. E-P chamou isso de rede de crenças que **absorve as contradições** — "não podem pensar que seu pensamento está errado".
-- `[F]` O *benge* foi depois substituído localmente por outro oráculo (*dabaya*), segundo estudo posterior citado em resumo web (autor não verificado). Prova de que a técnica mudava.
+- `[PP]` O *benge* foi depois substituído localmente por outro oráculo (*dabaya*), segundo estudo posterior citado em resumo web (autor não verificado; dado fraco). Se confirmado, prova de que a técnica mudava.
 - `[S]` Mecanismos de erro reconhecidos *dentro* do sistema: substância defeituosa, operador incorreto, interferência hostil, especialista fraudulento (E-P registra ceticismo zande sobre adivinhos individuais, que podiam ser charlatães, sem duvidar da adivinhação em geral).
 
 **Dogon** — um problema de fonte, não da tradição:
@@ -96,12 +99,12 @@ Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica c
 
 ### 3.6 Instituições
 
-- `[F]` Kongo: *nganga* especialistas, cada um ligado a certos *minkisi*; reputação, pagamento, rivalidade. Akan: sacerdotes de *abosom* (*akomfo*), possessão, santuários que circulavam e se expandiam como empresas religiosas (memória). Azande: adivinhos (*abinza*) organizados em associações com iniciação; o oráculo do veneno ligado a homens adultos e à corte do príncipe, cujos veredictos prevaleciam.
+- `[M]` Kongo: *nganga* especialistas, cada um ligado a certos *minkisi*; reputação, pagamento, rivalidade. Akan: sacerdotes de *abosom* (*akomfo*), possessão, santuários que circulavam e se expandiam como empresas religiosas (memória). Azande: adivinhos (*abinza*) organizados em associações com iniciação; o oráculo do veneno ligado a homens adultos e à corte do príncipe, cujos veredictos prevaleciam.
 - `[S]` Entre os Azande, a hierarquia dos oráculos espelha a política.
 
 ## 4. Transformações históricas e dissidências
 
-- `[F]` Cristianização do Kongo desde 1491; o movimento antoniano de Kimpa Vita (1704–1706) reinterpretou o cristianismo em termos kongo e terminou com sua execução (memória, Thornton 1998, não verificado).
+- `[M]` Cristianização do Kongo desde 1491; o movimento antoniano de Kimpa Vita (1704–1706) reinterpretou o cristianismo em termos kongo e terminou com sua execução (memória, Thornton 1998, não verificado).
 - `[PP]` **Movimentos anti-feitiçaria** na África Central e Ocidental do séc. XX (ex.: *bamucapi*, descrito por Audrey Richards em 1935): purificação em massa, destruição de *minkisi* e "fetiches", promessa de erradicar os feiticeiros — e retorno das acusações depois. (memória)
 - `[S]` Administração colonial proibiu ordálios (inclusive veneno em humanos), empurrando-os para frangos ou para a clandestinidade; a etnografia de E-P foi feita sob o domínio anglo-egípcio.
 - `[PP]` Hoje: igrejas pentecostais reinterpretam a feitiçaria como demoníaca e fazem libertação; a crença em feitiçaria não desapareceu com a modernidade, mudou de cena (Geschiere, *The Modernity of Witchcraft*, 1997 — memória).
@@ -141,5 +144,11 @@ Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica c
 - Termos em línguas africanas transcritos sem verificação ortográfica sistemática (tons e diacríticos omitidos).
 - O detalhe de *sunsum*, *mogya*, *ntoro* e o autor do estudo sobre *dabaya* não foram verificados.
 - Metalurgia, Fon/vodun, Mande, Islã e cristianismos africanos ficam para outra rodada; a frente B (instituições) e a G (proteção e agressão sobrenatural) devem cruzar com feitiçaria e anti-feitiçaria.
+- **Estados africanos** (Oyo, Daomé, Benin, Buganda; religião e realeza, eixo 5.6) não são tratados aqui: ver o dossiê b-06 (Estados africanos), em preparação na frente B.
+- A descrição do cosmograma kongo apoia-se em Wikipédia e nas notas de MacGaffey 2016; falta conferir Thompson 1981/1983 e MacGaffey 1986.
 
 Fontes web: [SEP — Akan Philosophy of the Person](https://plato.stanford.edu/entries/akan-person/) · [MacGaffey 2016, CSSH](https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/constructing-a-kongo-identity-scholarship-and-mythopoesis/0F6237D2FA781B913E836E2927C97B47) · [Wikipedia, Kongo cosmogram](https://en.wikipedia.org/wiki/Kongo_cosmogram) · [Wikipedia, Witchcraft, Oracles and Magic…](https://en.wikipedia.org/wiki/Witchcraft,_Oracles_and_Magic_Among_the_Azande) · [Met, Materials that make Mangaaka](https://www.metmuseum.org/exhibitions/listings/2015/kongo/blog/posts/materials-that-make-mangaaka) · [Miami eMuseum, Ngombo ya cisuka](https://emuseum.miami.edu/objects/10320/diviners-basket-ngombo-ya-cisuka-and-miniature-divination) · [ASC Leiden, Dogon restudied](https://www.ascleiden.nl/publications/dogon-restudied-field-evaluation-work-marcel-griaule)
+
+---
+
+Correções de 2026-11-08: 5 `[F]` de memória viraram `[M]`; o cosmograma kongo e os *simbi*, que se apoiavam na Wikipédia, passaram a `[PP: verbete]`, com a ressalva de que essa descrição é a leitura que MacGaffey 2016 contesta, e com a indicação de MacGaffey 1986 como obra a conferir; a Wikipédia entrou na tabela de fontes. Seção do *benge* completada (este dossiê é a referência; g-04 e g-05 remetem para cá). Remissão a b-06 (Estados africanos) nas limitações. Teses inalteradas.

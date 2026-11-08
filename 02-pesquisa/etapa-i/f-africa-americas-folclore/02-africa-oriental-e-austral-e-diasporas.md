@@ -10,7 +10,8 @@ atualizado: 2026-11-08
 # 02 — África Oriental e Austral; religiões afro-diaspóricas
 
 > Etapa I, frente F. Não é cânone e não cria nada para o continente.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia (inclusive Wikipédia, fonte fraca) · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
+> Este dossiê é a **referência** da Etapa I para Lan e os *mhondoro* e para o zar e Boddy; a-02 e a-04 remetem para cá. Possessão como tema geral: a-04.
 > Vizinhos: [01 (Kongo, *minkisi*)](01-africa-ocidental-e-central.md); Ifá em [Pesquisa I, F1 25](../../pesquisa-i/frente-1-ontologias/25-tradicoes-orais-perspectivismo-ifa-navegacao.md). Transe como técnica geral é tema da frente G.
 
 ## 1. Tabela de fontes
@@ -40,18 +41,18 @@ Limite: nenhuma obra lida inteira; as religiões diaspóricas têm literatura in
 
 ### 3.1 Zar
 
-- `[F]` Complexo de possessão difundido na Etiópia, Sudão, Egito, Somália, Eritreia, Península Arábica e costa sul do Irã (onde se fala do zar como "vento nocivo"). Origem e etimologia **disputadas**: etíope (posição antiga, com menção de manuscrito ge'ez do séc. XVI), persa (Modarressi 1986), ou raiz árabe *z-w-r* "visitar". A difusão para o Golfo acompanhou o tráfico de escravizados africanos no Índico. (Wikipedia/Iranica, resumos)
-- `[F]` Boddy: em Hofriyat, 42% (1977) e 47% (1984) das mulheres casadas acima de 15 anos tinham tido aflição por zar. Muçulmanos todos; o zar convive com o islã local, não o substitui.
+- `[PP: verbete]` Complexo de possessão difundido na Etiópia, Sudão, Egito, Somália, Eritreia, Península Arábica e costa sul do Irã (onde se fala do zar como "vento nocivo"). Origem e etimologia **disputadas**: etíope (posição antiga, com menção de manuscrito ge'ez do séc. XVI), persa (Modarressi 1986), ou raiz árabe *z-w-r* "visitar". A difusão para o Golfo acompanhou o tráfico de escravizados africanos no Índico. (Wikipédia e *Encyclopaedia Iranica*, por resumos)
+- `[F]` Boddy (1989; "Hofriyat" é pseudônimo da aldeia): em Hofriyat, 42% (1977) e 47% (1984) das mulheres casadas acima de 15 anos tinham tido aflição por zar. Muçulmanos todos; o zar convive com o islã local, não o substitui.
 - `[AF]`/memória: os espíritos zar são **estrangeiros**: etíopes, europeus, "ocidentais", ciganos, paxás otomanos, sudaneses do sul — e têm gostos, roupas, comidas e exigências. A pessoa não se cura expulsando-os: **negocia uma relação permanente**, com cerimônias periódicas em que o espírito se manifesta e recebe o que pede.
 - `[AF]` Boddy lê a possessão como "re-fraseamento" de conflito e como **contra-texto** à feminilidade que a cultura constrói (fertilidade, corpo fechado — inclusive pela infibulação): o espírito "estrangeiro" permite à mulher ver sua própria condição de fora.
 - `[F]` Egito: o zar absorveu elementos de sufismo popular e devoção a santos cristãos e muçulmanos, e está em declínio (El Hadidi).
 
 ### 3.2 Shona (Zimbábue)
 
-- `[F]`/memória: distinção entre *mudzimu* (pl. *vadzimu*), espírito de antepassado da família, que protege e pune descendentes; *mhondoro* ("leões"), espíritos de chefes antigos que guardam territórios rituais, a chuva e a fertilidade; *ngozi*, espírito vingativo de alguém morto injustamente, que exige reparação da família do culpado; e espíritos estrangeiros/errantes (*mashavi*), que dão habilidades (cura, caça, música).
-- `[F]` Lan: no vale do Dande, as linhagens governantes descendem de *mhondoro*; o *svikiro* (médium) é possuído pelo *mhondoro* e fala por ele. Os guerrilheiros da ZANU só obtiveram apoio camponês quando os médiuns os reconheceram — e respeitaram tabus (não matar certos animais, não ter relações sexuais na mata). `[AF]` Lan: guerrilheiros foram tratados ritualmente como "filhos" dos *mhondoro* e herdeiros dos donos da terra, contra o Estado colonial que a tinha tomado.
+- `[M]` Distinção entre *mudzimu* (pl. *vadzimu*), espírito de antepassado da família, que protege e pune descendentes; *mhondoro* ("leões"), espíritos de chefes antigos que guardam territórios rituais, a chuva e a fertilidade; *ngozi*, espírito vingativo de alguém morto injustamente, que exige reparação da família do culpado; e espíritos estrangeiros/errantes (*mashavi*), que dão habilidades (cura, caça, música).
+- `[F]` Lan (1985, via resenhas): no vale do Dande, as linhagens governantes descendem de *mhondoro*; o *svikiro* (médium) é possuído pelo *mhondoro* e fala por ele. Os guerrilheiros da ZANU só obtiveram apoio camponês quando os médiuns os reconheceram — e respeitaram tabus (não matar certos animais, não ter relações sexuais na mata). `[AF]` Lan: guerrilheiros foram tratados ritualmente como "filhos" dos *mhondoro* e herdeiros dos donos da terra, contra o Estado colonial que a tinha tomado.
 - `[S]` O *mhondoro* é uma **autoridade de território** sobre a qual a autoridade política de linhagem se apoia, mas que **fala por boca de terceiros** — médiuns que muitas vezes vêm de fora da linhagem. Isso cria uma tensão estrutural entre chefe (herdeiro) e médium (escolhido pelo espírito).
-- `[F]` Música: a *mbira* e o tambor atraem o espírito; certas peças "chamam" certos espíritos (Berliner, memória).
+- `[M]` Música: a *mbira* e o tambor atraem o espírito; certas peças "chamam" certos espíritos (Berliner, memória).
 
 ### 3.3 Epistemologia: autenticidade e fraude
 
@@ -67,7 +68,7 @@ Limite: nenhuma obra lida inteira; as religiões diaspóricas têm literatura in
 ### 3.5 Instituições
 
 - Zar: grupos liderados por mulheres especialistas, com hierarquia de iniciação, honorários e patrocinadoras; hostilidade de clérigos muçulmanos reformistas.
-- Shona: médiuns de *mhondoro* em santuários territoriais; *n'anga* (curandeiros-adivinhos) independentes; desde 1980 a associação ZINATHA de curandeiros tradicionais, reconhecida pelo Estado (memória).
+- `[M]` Shona: médiuns de *mhondoro* em santuários territoriais; *n'anga* (curandeiros-adivinhos) independentes; desde 1980 a associação ZINATHA de curandeiros tradicionais, reconhecida pelo Estado (memória).
 
 ## 4. Eixos — Religiões afro-diaspóricas (como formações históricas)
 
@@ -81,9 +82,9 @@ Limite: nenhuma obra lida inteira; as religiões diaspóricas têm literatura in
 
 - **Candomblé:** casa (terreiro) autônoma, chefiada por ialorixá ou babalorixá; família de santo como parentesco iniciático; iniciação longa, com reclusão; cada iniciado "tem" um orixá de cabeça identificado pela adivinhação (jogo de búzios). `[S]` Autoridade = **linhagem de iniciação verificável** ("de que axé você vem?") e antiguidade de iniciação, não idade civil.
 - **Umbanda:** `[F]` mito de fundação em 15/11/1908 em Niterói (Zélio de Moraes, Caboclo das Sete Encruzilhadas); Federação Espírita de Umbanda em 1939, Primeiro Congresso em 1941. `[PP]` Giumbelli: o mito é construção tardia; Brown e Ortiz: a Umbanda "branca" de classe média se legitimou **embranquecendo e evolucionizando** o panteão (caboclos e pretos-velhos como espíritos "em evolução", rejeição de sacrifício e do "africano") — Ortiz chamou isso de "morte branca do feiticeiro negro". Coexistem umbandas muito mais africanizadas; não há doutrina única.
-- **Regla de Ocha/Ifá (Cuba):** orixás (*oricha*), adivinhação por cocos e *diloggún*; babalawos de Ifá com corpus próprio; *cabildos* coloniais de "nação" como origem institucional (memória).
+- **Regla de Ocha/Ifá (Cuba):** orixás (*oricha*), adivinhação por cocos e *diloggún*; babalawos de Ifá com corpus próprio; *cabildos* coloniais de "nação" como origem institucional (`[M]`).
 - **Palo Monte/Mayombe (Cuba):** de matriz kongo; o *nganga* ou *prenda* é um **recipiente** (caldeirão) com terra, paus, ossos e um morto que trabalha em acordo com o *palero*. `[S]` Parentesco estrutural direto com os *minkisi* do arquivo 01 — mesmo princípio de poder composto, em outro contexto.
-- **Vodou (Haiti):** *lwa* em "nações" (Rada, Petwo); *ounfò* (templo), *oungan*/*manbo*; forte incorporação de santos católicos. A cerimônia de Bois-Caïman (1791) como origem da revolução é **debatida** quanto aos fatos (memória; ver Geggus).
+- **Vodou (Haiti):** *lwa* em "nações" (Rada, Petwo); *ounfò* (templo), *oungan*/*manbo*; forte incorporação de santos católicos. A cerimônia de Bois-Caïman (1791) como origem da revolução é **debatida** quanto aos fatos (`[M]`; ver Geggus).
 
 ### 4.3 Epistemologia e técnica
 
@@ -93,7 +94,7 @@ Limite: nenhuma obra lida inteira; as religiões diaspóricas têm literatura in
 
 ## 5. Transformações e perseguição
 
-- `[F]`/memória: repressão policial ao Candomblé e à Umbanda no Brasil até meados do séc. XX (registro em delegacias, apreensão de objetos, hoje em parte devolvidos); criminalização de *obeah* no Caribe britânico; campanhas "antissupersticiosas" contra o Vodou (1896–97, 1941–42).
+- `[M]` Repressão policial ao Candomblé e à Umbanda no Brasil até meados do séc. XX (registro em delegacias, apreensão de objetos, hoje em parte devolvidos); criminalização de *obeah* no Caribe britânico; campanhas "antissupersticiosas" contra o Vodou (1896–97, 1941–42).
 - `[S]` A perseguição moldou as formas: **sincretismo como camuflagem** (tese corrente, contestada por quem lê o sincretismo como devoção genuína dupla); federações como escudo jurídico (Umbanda); separação entre o público e o fechado.
 - Hoje: "reafricanização" (busca de pureza iorubá, viagens à Nigéria), dessincretização (Mãe Stella de Oxóssi, 1983, contra o sincretismo — memória), e ataques de grupos neopentecostais a terreiros.
 - Zimbábue: médiuns elevados a símbolos nacionais (Nehanda); depois da independência, conflitos entre médiuns e Estado. Zar: declínio no Egito, perseguição por reformistas islâmicos, reinvenção como espetáculo musical.
@@ -132,5 +133,11 @@ Limite: nenhuma obra lida inteira; as religiões diaspóricas têm literatura in
 - Sem fonte interna (sacerdotes-autores) consultada; tudo é academia, em boa parte de segunda mão.
 - Zar fora do Sudão, África Austral não shona e Caribe não hispânico/francófono quase ausentes.
 - Datas de campanhas anti-Vodou, de Mãe Stella e detalhes de categorias shona: memória, não reverificados.
+- O **espiritismo kardecista** aparece só como um dos componentes (§4.1); sua formação no Brasil e a influência na Umbanda ("evolução" dos espíritos, caridade, federação) ficam para o dossiê d-06 (espiritismo kardecista), em preparação na frente D.
+- Os **Estados africanos** de onde vieram muitos cativos (Oyo, Daomé, Benin, Kongo como reino) não são tratados aqui: ver b-06 (Estados africanos), em preparação na frente B.
 
 Fontes web: [Boddy, catálogo](https://bibethno-cat.lesc-cnrs.fr/bib/8478) · [Wikipedia, Zār](https://en.wikipedia.org/wiki/Z%C4%81r) · [Univ. Köln, zar e escravidão no Irã](https://afrikanistik.phil-fak.uni-koeln.de/index.php?id=39243) · [Lan, Guns and Rain (resenha MSU)](https://d.lib.msu.edu/juz/442/FULL_TEXT/view) · [Dantas, UNC Press](https://uncpress.org/9780807859759/) · [Matory, Princeton](https://press.princeton.edu/node/23071) · [Matory, resenha Iyanaga (UCLA)](https://ethnomusicologyreview.ucla.edu/printpdf/journal/volume/14/piece/491) · [Religare/UFPB, desenvolvimento histórico da Umbanda](https://periodicos.ufpb.br/index.php/religare/article/view/41774/27040)
+
+---
+
+Correções de 2026-11-08: 3 `[F]` de memória viraram `[M]` (e outras 3 menções "memória" sem etiqueta ganharam `[M]`); o zar via Wikipédia/Iranica passou a `[PP: verbete]`. Declarado como dossiê de referência para Lan/*mhondoro* e zar/Boddy. Remissões a d-06 (espiritismo kardecista e influência na Umbanda) e b-06 (Estados africanos) nas limitações. Teses inalteradas.

@@ -10,7 +10,8 @@ atualizado: 2026-11-08
 # 05 — Folclores e curas populares
 
 > Etapa I, frente F. Dossiê **temático**: especialistas populares de cura e proteção, com exemplos de várias regiões. Não é cânone e não cria nada para o continente.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia (inclusive Wikipédia, fonte fraca) · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
+> Este dossiê é a **referência** da Etapa I para os *cunning folk* e os *benandanti*; b-01 e b-05 remetem para cá. Mau-olhado como agressão sobrenatural: g-04 (aqui só a parte de cura popular).
 > Vizinhos: humores e sangria em [Pesquisa I, F2 06](../../pesquisa-i/frente-2-tecnicas/06-humores-e-sangria.md); unguento das armas em [F2 15](../../pesquisa-i/frente-2-tecnicas/15-unguento-das-armas.md); proteção e agressão sobrenatural como tema geral, na frente G.
 
 ## 1. Tabela de fontes
@@ -27,7 +28,11 @@ atualizado: 2026-11-08
 | K. Thomas | *Religion and the Decline of Magic* | 1971 | Inglaterra séc. XVI–XVII | monografia | tese geral | memória |
 | A. Dundes (org.) | *The Evil Eye: A Casebook* (incl. "Wet and Dry, the Evil Eye") | Garland 1981 | comparativo | coletânea | sumário; tese via entrevista (*Cabinet*, 2001) | web |
 | G. Foster | "Peasant Society and the Image of Limited Good", *American Anthropologist* 67 | 1965 | camponeses mexicanos (Tzintzuntzan) | artigo | tese | memória |
-| C. Ginzburg | *I benandanti* | 1966 | Friul, séc. XVI–XVII | micro-história | tese | memória |
+| C. Ginzburg | *I benandanti: stregoneria e culti agrari tra Cinquecento e Seicento* (Einaudi; trad. ingl. *The Night Battles*, 1983) | 1966 | Friul, séc. XVI–XVII | micro-história | tese | memória (subtítulo e tradução de memória) |
+| M. C. Cortez Wissenbach | "A mercantilização da magia na urbanização de São Paulo, 1910–1940", *Revista de História* (USP) 150: 11–39 | 2004 | São Paulo | artigo | arts. 156–158 do Código Penal de 1890; "baixo espiritismo" como categoria policial; Serviço de Repressão ao Baixo Espiritismo (1928) | web (lido em parte) |
+| artigos acadêmicos brasileiros que transcrevem o art. 157 | Código Penal de 1890 (Decreto 847, de 11/10/1890) | 1890 | Brasil | primária (lei), via citação | caput do art. 157 | trechos de busca; texto oficial não acessado (Planalto bloqueado nesta sessão) |
+| P. Poza Tejedor; J. M. Calbet | estudos sobre saludadores e sobre um edital de 1786 contra animais raivosos (Barcelona) | séc. XXI | Espanha | artigos | proibição dos saludadores no séc. XVIII; edital de 18/2/1786 | só trechos de busca |
+| M. Esteller González (atribuição pelo nome do arquivo, não conferida) | pôster de TFG, Universitat Autònoma de Barcelona | 2024 | Espanha | trabalho de graduação | "norma de 1786"; erradicação da raiva em 1966 | fonte fraca; mantida só como pista |
 
 Limite: o Brasil tem extensa literatura acadêmica sobre benzeção e Jurema (antropologia da saúde, estudos de religião) que só alcancei por resumos.
 
@@ -43,21 +48,22 @@ Limite: o Brasil tem extensa literatura acadêmica sobre benzeção e Jurema (an
 
 - `[PP]`/memória: atendem gratuitamente ou por doação; o dom é visto como dado por Deus e não pode ser cobrado (cobrar "corta" o dom — crença frequente nos relatos). Aprendem com parente ou vizinho mais velho, às vezes com regra de transmissão cruzada (de mulher para homem e vice-versa) ou em data ritual.
 - `[PP]` Técnica: reza em voz baixa (às vezes inaudível — a fórmula é segredo), ramo verde (arruda, guiné, vassourinha) passado sobre o corpo e que **murcha** se o mal for forte; sinal da cruz; água, brasa, linha, faca. Rizzo de Oliveira lê a benzeção como saber de resistência das classes populares frente à medicina oficial (memória).
-- `[F]`/memória: categorias de mal tratadas: quebranto e mau-olhado (sobretudo em crianças), cobreiro (lesão cutânea, "cortada" com faca e reza), espinhela caída, ventre virado, erisipela, susto/"espanto", "arca caída", "carne quebrada" (com agulha e linha costurando um pano enquanto se reza).
+- `[M]` Categorias de mal tratadas: quebranto e mau-olhado (sobretudo em crianças), cobreiro (lesão cutânea, "cortada" com faca e reza), espinhela caída, ventre virado, erisipela, susto/"espanto", "arca caída", "carne quebrada" (com agulha e linha costurando um pano enquanto se reza).
 - `[S]` Diagnóstico **pelo próprio rito**: o ramo murcha, a benzedeira boceja ou lacrimeja (o mal "passa" para ela), o óleo se espalha na água. A técnica mede e trata ao mesmo tempo.
 - Hoje: movimentos de reconhecimento em municípios do Paraná e outros estados; tensão com igrejas neopentecostais que veem a benzeção como feitiçaria (memória).
 
 ### 3.2 Catimbó e Jurema (Nordeste)
 
 - `[F]` Complexo de origem indígena (uso da árvore jurema, *Mimosa* spp., e da bebida feita dela), atestado desde o período colonial, com elementos católicos, africanos e do espiritismo; centrado em **mestres e mestras** — espíritos de antigos juremeiros, curadores e pessoas do povo — que "baixam" no médium, curam e trabalham. (Cascudo; artigos)
-- `[F]` As "cidades" da Jurema: reinos espirituais onde moram os mestres, ligados a pés de jurema plantados por mestres vivos (memória; Cascudo e etnografias posteriores).
+- `[M]` As "cidades" da Jurema: reinos espirituais onde moram os mestres, ligados a pés de jurema plantados por mestres vivos (memória; Cascudo e etnografias posteriores).
 - `[F]` Repressão: posturas municipais contra feiticeiros e curadores (Paraíba, 1832); apreensões policiais de catimbozeiros em Natal (1939), registradas por Cascudo; a Missão de 1938 gravou cantos de catimbó no mesmo período. Atualmente, Jurema Sagrada busca reconhecimento como patrimônio (projeto legislativo na Paraíba).
 - `[S]` Duas camadas: Jurema **indígena** (ritual de povos do Nordeste, com o *toré*) e catimbó **urbano** de mestres. Não são a mesma coisa, e povos indígenas reivindicam a primeira.
 
 ### 3.3 Cunning folk (Inglaterra)
 
 - `[AF]` Davies: especialistas pagos (homens e mulheres), muitas vezes alfabetizados, com livros de astrologia e magia impressos; serviços: **desenfeitiçar** (o mais característico), achar ladrões e objetos perdidos, adivinhar, curar, fazer amuletos, encontrar tesouros. Eram procurados **contra** bruxas.
-- `[F]` Lei de 1736 (*Witchcraft Act*) acaba com o crime de bruxaria e passa a punir quem **finge** poderes mágicos; poucos cunning folk foram processados por ela; mais frequentes eram processos por vadiagem ou fraude (resenhas). A lei de 1736 só foi revogada em 1951 (memória).
+- `[F]` Lei de 1736 (*Witchcraft Act*) acaba com o crime de bruxaria e passa a punir quem **finge** poderes mágicos; poucos cunning folk foram processados por ela; mais frequentes eram processos por vadiagem ou fraude (resenhas de Davies). `[M]` A lei de 1736 só foi revogada em 1951 (*Fraudulent Mediums Act*).
+- `[AF]` Davies: os cunning folk eram numerosos (milhares ao longo do período), atuavam em vilas e cidades, e o declínio deles é tardio (fim do séc. XIX e início do XX), ligado à escolarização, à medicina acessível e à imprensa, não à Lei de 1736 (`[M]` para os números e a cronologia).
 - `[AF]` Thomas: a magia popular declinou antes que a medicina oferecesse alternativas eficazes; o declínio é cultural (elites, imprensa, seguros, ideia de acaso), não efeito de uma tecnologia melhor (memória).
 
 ### 3.4 Saludadores (Espanha)
@@ -65,15 +71,16 @@ Limite: o Brasil tem extensa literatura acadêmica sobre benzeção e Jurema (an
 - `[F]` Curadores que diziam curar ou prevenir a raiva (e outras mordidas e venenos) com **sopro, saliva** e fórmulas; muitos alegavam marcas no corpo (uma "roda" de Santa Catarina no palato, cruz na língua) ou ser sétimos filhos homens, nascidos na Sexta-feira Santa. Atuavam também sobre gado. (definição da RAE; Tausiet; Labayru)
 - `[AF]` Ciruelo (c. 1530): saliva e palavras **não têm virtude natural** para curar; logo, se curam, é por pacto (ao menos implícito) com o demônio; e muitos simulam. `[S]` Argumento epistemológico notável: o que não tem causa natural conhecida **ou é fraude ou é demônio** — a mesma estrutura dupla que a Lei de 1736 inglesa substituiria por "só fraude".
 - `[PP]` Tausiet: o saludador era a figura **simétrica** à bruxa — virtude inata, pública e benéfica contra virtude inata, oculta e maléfica; câmaras municipais contratavam saludadores com salário, enquanto a Inquisição os vigiava.
-- `[F]` Feijoo (*Teatro crítico universal*, 1726–39) os atacou; a luta sanitária contra a raiva (norma de 1786; erradicação da raiva animal na Espanha em 1966) exigiu acabar com eles. (Perdiguero; pôster UAB 2024 — fonte fraca para a data de 1786)
+- `[F]` Feijoo (*Teatro crítico universal*, 1726–39) os atacou (Perdiguero). `[PP]` A luta sanitária contra a raiva acabou por excluí-los; Poza Tejedor situa no séc. XVIII uma proibição oficial do ofício, sem nomear a norma no trecho lido. A "norma de 1786" da versão anterior (tirada de um pôster de TFG da UAB, 2024) parece corresponder a um **edital de 18/2/1786 sobre cães e animais raivosos**, publicado em Barcelona e estudado por J. M. Calbet; **não verifiquei** se ele menciona os saludadores, nem se valia para toda a Espanha. A erradicação da raiva animal na Espanha em 1966 vem do mesmo pôster: fonte fraca, não conferida.
 
 ### 3.5 Benandanti (Friul) — o especialista reclassificado
 
 - `[AF]` Ginzburg: camponeses nascidos "empelicados" diziam sair em espírito, em certas noites, para lutar contra bruxas pela fertilidade das colheitas. Os inquisidores, ao longo de décadas de interrogatórios, levaram-nos a aceitar que **eles próprios** eram bruxos. `[PP]` A leitura de Ginzburg sobre um substrato xamânico europeu é debatida; o mecanismo de reclassificação pelo interrogatório é o achado mais sólido.
+- `[M]` Detalhes: os processos vão de 1575 a meados do séc. XVII; os *benandanti* saíam "em espírito" nas quatro têmporas, armados de ramos de erva-doce contra os bruxos armados de sorgo; nascer empelicado (com a membrana amniótica) era o sinal da vocação; muitos também curavam e identificavam bruxas na aldeia, o que os aproximava dos *cunning folk*. A Inquisição de Aquileia e Concórdia demorou a classificá-los e quase não aplicou penas graves. Ginzburg voltou ao tema em *Storia notturna* (1989), ampliando a hipótese do substrato; críticos o acusam de ler casos dispersos como sistema eurasiático.
 
 ## 4. O mau-olhado
 
-- `[F]` Crença em que o olhar (frequentemente o olhar de **inveja ou admiração**, às vezes involuntário) causa dano: secar o leite, adoecer criança, murchar planta, quebrar objeto. Ampla distribuição no Mediterrâneo, Oriente Médio, Sul da Ásia, Europa e Américas ibéricas; não universal (Dundes e coletâneas; memória sobre ausência em boa parte da África subsaariana e das Américas indígenas pré-contato).
+- `[PP]` Crença em que o olhar (frequentemente o olhar de **inveja ou admiração**, às vezes involuntário) causa dano: secar o leite, adoecer criança, murchar planta, quebrar objeto. Ampla distribuição no Mediterrâneo, Oriente Médio, Sul da Ásia, Europa e Américas ibéricas; não universal (Dundes e coletâneas, via sumário e entrevista). `[M]` Ausência em boa parte da África subsaariana e das Américas indígenas pré-contato.
 - `[AF]` Dundes ("Wet and Dry"): o mal-olhado **seca** — leite, sêmen, seiva, saliva; os remédios **umedecem** (cuspir, água, óleo). Hipótese de visão de mundo indo-europeia e semítica; criticada por generalizar.
 - `[AF]` Foster (bem limitado): onde saúde e riqueza são vistas como **quantidade fixa**, o ganho de um é perda de outro; daí esconder sorte, elogiar com ressalva ("benza Deus"), temer a inveja.
 - `[S]` Estrutura social: o mau-olhado **não exige intenção** nem especialista; qualquer um pode lançar sem saber (como o *mangu* zande do arquivo 01). Os remédios: amuletos (figa, olho azul, chifre, arruda), fórmulas ao elogiar, ritos de diagnóstico (óleo na água, ramo que murcha), benzedeira.
@@ -94,7 +101,9 @@ Limite: o Brasil tem extensa literatura acadêmica sobre benzeção e Jurema (an
 ## 6. Instituições e conflitos
 
 - `[S]` Especialistas **independentes**, sem hierarquia, mas com reputação, clientela e rivalidade. Autoridade vem de: dom de nascimento (sétimo filho, empelicado, marca no corpo), transmissão pessoal, eficácia lembrada, e, nos cunning folk, **posse de livros**.
-- `[S]` Três adversários recorrentes: clero (pacto, superstição), medicina letrada (charlatanismo, saúde pública) e polícia/Estado (vadiagem, "baixo espiritismo" no Código Penal brasileiro de 1890, art. 157–158 — memória, não verificado). Às vezes um poder os **contrata** enquanto outro os persegue (municípios × Inquisição na Espanha).
+- `[S]` Três adversários recorrentes: clero (pacto, superstição), medicina letrada (charlatanismo, saúde pública) e polícia/Estado (vadiagem; exercício ilegal da medicina; no Brasil, o Código Penal de 1890). Às vezes um poder os **contrata** enquanto outro os persegue (municípios × Inquisição na Espanha).
+- `[F]` Código Penal de 1890 (Decreto 847, de 11/10/1890), capítulo dos crimes contra a saúde pública: o art. 156 pune o exercício ilegal da medicina; o art. 157, "praticar o espiritismo, a magia e seus sortilégios, usar de talismãs e cartomancias" para despertar ódio ou amor, inculcar cura de moléstias ou "fascinar e subjugar a credulidade pública"; o art. 158, o curandeirismo (ministrar ou prescrever substâncias como meio curativo). (caput do art. 157 citado em vários artigos acadêmicos; arts. 156 e 158 resumidos por Wissenbach 2004; texto oficial não acessado; penas não conferidas)
+- `[PP]` A expressão **"baixo espiritismo" não está no Código**. É categoria posterior, de polícia, médicos e jurisprudência das décadas de 1920–1940, que separava um "alto espiritismo" (kardecista, "científico") tolerado de práticas populares e afro-brasileiras de cura perseguidas; em São Paulo houve um Serviço de Repressão ao Baixo Espiritismo a partir de 1928 (Wissenbach 2004, com base em relatórios do chefe de polícia).
 - `[S]` Gênero: benzedeiras e mestras de Jurema majoritariamente mulheres; cunning folk mais homens que mulheres segundo Davies (memória); saludadores majoritariamente homens.
 
 ## 7. Estruturas reaproveitáveis `[S]`
@@ -121,9 +130,13 @@ Limite: o Brasil tem extensa literatura acadêmica sobre benzeção e Jurema (an
 
 ## 9. Limitações
 
-- Rizzo de Oliveira, Thomas, Foster, Ginzburg, Código Penal de 1890 e o detalhe das categorias de doença: memória.
+- Rizzo de Oliveira, Thomas, Foster, Ginzburg e o detalhe das categorias de doença: memória. Código Penal de 1890: caput do art. 157 conferido por citações; arts. 156 e 158 e as penas, só por resumo.
 - Literatura brasileira atual sobre benzeção e Jurema (antropologia da saúde) não lida.
-- Data de Ciruelo divergente (1530 × 1538); norma espanhola de 1786 de fonte fraca.
+- Data de Ciruelo divergente (1530 × 1538). A "norma de 1786" continua sem verificação: há só um edital de Barcelona sobre animais raivosos (18/2/1786), sem confirmação de que trate de saludadores.
 - Não cobri curanderismo mexicano/andino (*susto* como perda de *tonalli*/ânimo — ponte com o arquivo 03) nem os especialistas eslavos e escandinavos.
 
 Fontes web: [Tausiet, Healing Virtue (PDF)](https://cambridge.org/core/services/aop-cambridge-core/content/view/8AB5ACB8EE44D0F2DD7EB448E60F5E71/S0025727300072392a.pdf/healing_virtue_saludadores_versus_witches_in_early_modern_spain.pdf) · [Cervantes Virtual, Guerra de médicos y saludadores](https://www.cervantesvirtual.com/obra-visor/la-guerra-de-medicos-y-saludadores-ciencia-magia-y-cultura-popular-en-espana-siglos-xviii-xx-784228/html/) · [Labayru, curanderismo basco](https://labayru.eus/en/basque-ethnography-at-a-glance/on-the-subject-of-quackery-in-the-basque-country) · [Raking Light, resenha de Davies](https://rakinglight.co.uk/book-reviews/popular-magic-cunning-folk-in-english-history/) · [Cabinet, entrevista com Dundes](https://cabinetmagazine.org/issues/5/frobes-cross_dundes.php) · [USP, Jurema (PDF)](https://www.ea.fflch.usp.br/sites/ea.fflch.usp.br/files/inline-files/Jurema.pdf) · [UFPB Caos, resenha "Jurema y otras yerbas"](https://periodicos.ufpb.br/index.php/caos/article/download/52451/30650?inline=1)
+
+---
+
+Correções de 2026-11-08: §6 corrigido — o Código Penal de 1890 (arts. 156–158) trata de exercício ilegal da medicina, espiritismo e magia, e curandeirismo; "baixo espiritismo" é categoria policial e jurídica posterior (Wissenbach 2004: https://www.redalyc.org/articulo.oa?id=285022859002). A "norma de 1786" do pôster da UAB foi reexaminada: só se achou um edital de Barcelona sobre animais raivosos (18/2/1786), sem confirmação sobre saludadores; registrado como não verificado. 4 `[F]` de memória viraram `[M]` (dois deles parcialmente). *Cunning folk* e *benandanti* completados (dossiê de referência; b-01 e b-05 remetem para cá). Teses inalteradas.
