@@ -1,0 +1,866 @@
+ PROTOCOLO DE PESQUISA E CRIAÇÃO
+ HISTÓRICO-SOCIOCULTURAL,
+ EPISTÊMICA E ARCANA DOS POVOS DO
+ CONTINENTE
+ Diretriz operacional para pesquisa, criação, integração e revisão de sociedades ficcionais
+
+
+
+
+      PROJETO                  Construção do continente de fantasia
+
+      NATUREZA                 Protocolo de pesquisa, modelagem histórica e criação ficcional
+
+      CAMADA                   Mundo
+
+      STATUS                   Diretriz de trabalho
+
+      REFERÊNCIAS              Pesquisa I · Etapa I · Diretriz geral do continente · SRD de D&D 5e
+
+
+
+
+    PRINCÍPIO CENTRAL
+    Criar sociedades cuja história se desenvolveu em uma realidade onde fenômenos arcanos
+    existem, e não culturas inventadas para acomodar determinadas magias.
+
+ Documento de trabalho destinado aos agentes de pesquisa e criação. As propostas produzidas pelos agentes permanecem hipóteses
+ até avaliação e aprovação explícitas do autor.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                          1
+ COMO UTILIZAR ESTE PROTOCOLO
+ Este documento define princípios, etapas, fichas de investigação, papéis dos agentes, entregáveis e critérios de
+ revisão. Os agentes devem consultar as seções pertinentes antes de iniciar uma tarefa e manter rastreabilidade
+ entre fontes, inferências e propostas ficcionais.
+
+ Regra de autoridade: agentes pesquisam, propõem, integram e criticam. Não transformam hipóteses em cânone.
+ Quando houver contradição, registrar a divergência e abrir uma questão; não resolver por conveniência.
+
+
+
+ ÍNDICE
+ 1. OBJETIVO GERAL
+
+ 2. PRINCÍPIOS FUNDAMENTAIS
+
+ 3. BASES DE PESQUISA E FONTES
+
+ 4. ARQUITETURA GERAL DO TRABALHO
+
+ 5. ETAPA II — CONCEPÇÃO DAS SOCIEDADES-PILOTO
+
+ 6. ETAPA III — CONSTRUÇÃO HISTÓRICA E CAUSALIDADE
+
+ 7. ETAPA IV — ONTOLOGIAS, ENTIDADES E TECNOLOGIAS ARCANAS
+
+ 8. ETAPA V — DIVERSIDADE INTERNA E ESTRUTURA SOCIOCULTURAL
+
+ 9. ETAPA VI — RELAÇÕES INTERSOCIETÁRIAS E GEOPOLÍTICA
+
+ 10. ETAPA VII — CARTOGRAFIA E INTEGRAÇÃO TERRITORIAL
+
+ 11. D&D 5E COMO APÊNDICE MECÂNICO
+
+ 12. RELAÇÃO ENTRE ONTOLOGIA, EPISTEMOLOGIA, PRÁTICA E TECNOLOGIA
+
+ 13. ARQUITETURA DE AGENTES
+
+ 14. FLUXO DE TRABALHO DOS AGENTES
+
+ 15. ENTREGÁVEIS OBRIGATÓRIOS
+
+ 16. CONTROLE DE QUALIDADE
+
+ 17. ERROS PROIBIDOS
+
+ 18. PRIMEIRO CICLO DE EXECUÇÃO
+
+ 19. PRINCÍPIO FINAL DO PROJETO
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                             2
+    1. OBJETIVO GERAL
+    Construir povos, comunidades, sociedades, tradições, instituições, entidades e sistemas de conhecimento ficcionais
+    com profundidade histórica, sociológica, antropológica, cultural, epistemológica e tecnológica.
+
+    O trabalho deverá produzir sociedades com histórias próprias; processos de formação, transformação, conflito,
+    ruptura e continuidade; diversidade interna; ontologias e epistemologias particulares; práticas arcanas
+    historicamente situadas; relações com entidades não humanas; e participação em processos regionais e
+    continentais.
+
+    Os povos poderão apresentar níveis muito diferentes de especialização arcana, sem que isso represente uma
+    escala de superioridade cultural ou intelectual. O resultado não deve ser uma enciclopédia de costumes exóticos,
+    mas a reconstrução de sociedades que poderiam ter existido, disputado recursos, produzido conhecimento,
+    desenvolvido instituições e transformado umas às outras.
+
+    1.1. O que significa profundidade
+    Uma sociedade não está desenvolvida apenas porque possui nome, língua, religião, governo, especialidade mágica
+    ou estética. Esses elementos só adquirem profundidade quando suas relações e origens são compreensíveis.
+1     Como essa sociedade surgiu e que condições materiais favoreceram sua formação?
+1     Que acontecimentos alteraram sua organização e como suas instituições foram estabelecidas?
+1     Quem controla recursos, conhecimentos e capacidades?
+1     Como diferentes comunidades interpretam o mundo?
+1     Quais fenômenos arcanos são conhecidos, como são operados e por quem?
+1     Que práticas surgiram por necessidade, experimentação, tradição ou acidente?
+1     Como essas práticas transformaram a sociedade, quem se beneficiou e quem foi prejudicado?
+1     Como outras sociedades reagiram a essas transformações?
+1     O que a sociedade acredita sobre si mesma que não corresponde necessariamente à realidade histórica?
+
+      Uma sociedade deve possuir causalidade histórica, não apenas coerência estética.
+
+
+
+    2. PRINCÍPIOS FUNDAMENTAIS
+
+    2.1. A realidade é compartilhada, mas o conhecimento não é uniforme
+    A realidade do mundo existe independentemente das interpretações de seus habitantes. Diferentes sociedades
+    podem desenvolver modelos ontológicos, epistemológicos e práticos distintos para lidar com ela. Não pressupor
+    cosmologia universal conhecida, teoria arcana única, classificação universal de entidades ou definição
+    compartilhada de alma, vida, morte e consciência.
+
+    Duas sociedades podem produzir efeitos semelhantes a partir de concepções radicalmente diferentes; também
+    podem compartilhar uma concepção e desenvolver práticas incompatíveis. Semelhança de resultados não prova
+    identidade ontológica.
+
+    2.2. Ontologia e tecnologia possuem causalidade recíproca
+    Não adotar uma sequência obrigatória na qual primeiro existe uma crença e depois surge uma tecnologia.
+    Considerar pelo menos cinco trajetórias:
+1     Ontologia que gera tecnologia: uma concepção sobre seres dos rios favorece práticas de negociação, oferenda
+      e comunicação.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                  3
+1     Tecnologia que transforma ontologia: uma técnica empírica de previsão altera concepções de tempo,
+      causalidade e destino.
+1     Desenvolvimento recíproco: uma prática religiosa produz observações inesperadas, que modificam categorias e
+      procedimentos.
+1     Apropriação e conflito: uma técnica é apropriada por outro grupo, adaptada e reinterpretada.
+1     Descoberta acidental: uma prática produz efeito não previsto e pode originar uma nova tradição.
+
+    2.3. Não homogeneizar povos
+    Nenhum povo deve ser tratado como consciência coletiva uniforme. Diferenciar sociedade e Estado; povo e
+    identidade política; religião oficial e práticas populares; tradição dominante e minorias; conhecimento institucional e
+    doméstico; elites e subordinados; comunidades urbanas e rurais; centro e periferia; gerações e períodos históricos.
+
+    Uma tradição dominante pode coexistir com cultos locais, dissidências, práticas domésticas, sacerdócios
+    independentes e grupos considerados heréticos. Uma sociedade pode condenar publicamente uma prática e
+    utilizá-la secretamente.
+
+    2.4. Não existe escala universal de desenvolvimento cultural
+    Uma sociedade pode dominar adivinhação e conhecer pouco sobre manipulação energética; outra pode possuir
+    técnicas destrutivas sofisticadas e pouco conhecimento sobre consciência; outra pode desenvolver práticas
+    biológicas, agrícolas ou animais sem magos formalmente organizados.
+
+    Avaliar separadamente: amplitude dos fenômenos conhecidos; precisão operacional; complexidade técnica;
+    transmissão; especialização institucional; acesso social; infraestrutura; reprodução em escala; integração com
+    outras tecnologias; compreensão ontológica; capacidade de inovação. Uma sociedade pode ser sofisticada em uma
+    dimensão e limitada em outras.
+
+    2.5. Entidades não humanas possuem existência independente
+    Não criar entidades apenas para preencher panteões ou justificar religiões. Elas podem existir sem culto, sem
+    interesse por humanos e sem participação nas instituições sociais. Diferenciar natureza objetiva, capacidades,
+    limitações, condições de existência, relações com outras entidades, formas de interação material, interpretações
+    sociais, cultos, pactos e instituições.
+
+    2.6. A história não deve ser funcionalmente perfeita
+    Nem toda instituição surge para resolver problemas de maneira eficiente. Instituições podem sobreviver porque
+    beneficiam elites, possuem legitimidade simbólica ou são difíceis de substituir. Tecnologias eficazes podem
+    desaparecer; práticas podem permanecer após o abandono de suas explicações; sociedades podem adotar
+    soluções contraditórias, ineficientes ou perigosas. Preservar contingência, conflitos de interesse, acidentes, erros e
+    consequências não planejadas.
+
+
+
+    3. BASES DE PESQUISA E FONTES
+
+    3.1. Corpus obrigatório
+    Utilizar como base: Pesquisa I; Etapa I; diretriz geral de construção do continente; dossiês de realidade arcana e
+    sistema; dossiês de personagens e entidades quando relevantes; SRD de D&D; 5e como apêndice mecânico; e
+    fontes históricas, antropológicas, sociológicas, arqueológicas e filosóficas adicionais.
+
+    Pesquisa I e Etapa I são repertórios conceituais e comparativos, não culturas a copiar. Cada referência deve servir
+    para compreender mecanismos, estruturas, relações, práticas, instituições e processos históricos.
+
+    3.2. Hierarquia de fontes
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                       4
+1        Fontes primárias e documentos históricos.
+2        Estudos arqueológicos e etnográficos especializados.
+3        Monografias acadêmicas.
+4        Artigos científicos.
+5        Estudos comparativos.
+6        Enciclopédias acadêmicas.
+7        Divulgação especializada.
+8        Resumos, resenhas e fontes secundárias de qualidade variável.
+
+    Registrar a qualidade da fonte. Não apresentar informação de memória como fato verificado.
+
+    3.3. Rastreabilidade
+    Toda afirmação histórica importante deve indicar fonte, autor, data, contexto, página/capítulo/seção quando
+    disponível, tipo de fonte, grau de acesso, limitações e se é fato documentado, interpretação, síntese ou hipótese.
+1        [F] Informação sustentada diretamente pela fonte.
+1        [AF] Interpretação do autor da fonte.
+1        [PP] Interpretação de pesquisador posterior.
+1        [M] Informação de memória, ainda não verificada.
+1        [S] Síntese comparativa do pesquisador.
+1        [HF] Hipótese ficcional.
+
+    Não transformar síntese comparativa em fato histórico.
+
+    3.4. Proibição de transposição direta
+    Não copiar uma tradição real e substituir seus nomes. O processo deve compreender o contexto original; identificar
+    mecanismos; separar elementos específicos de mecanismos gerais; comparar tradições; selecionar elementos
+    compatíveis; transformar e recombinar; incluir elementos originais; e revisar para evitar reprodução superficial. Toda
+    inspiração importante deve possuir matriz de transformação.
+
+
+
+    4. ARQUITETURA GERAL DO TRABALHO
+    O projeto será desenvolvido em sete etapas, com ciclos de revisão. As etapas não são inteiramente lineares: uma
+    descoberta pode exigir revisão das anteriores.
+
+     Etapa           Objetivo                                   Produto
+
+     I               Repertório histórico e conceitual          Pesquisa I e Etapa I
+
+     II              Concepção de sociedades-piloto             Dossiês preliminares
+
+     III             História e transformação                   Cronologias e eventos
+
+     IV              Ontologias, entidades e tecnologias        Dossiês integrados
+                     arcanas
+
+     V               Diversidade interna e instituições         Atlas sociocultural
+
+     VI              Relações intersocietárias e geopolítica    História regional e continental
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                      5
+     Etapa        Objetivo                                       Produto
+
+     VII          Integração, revisão e cânone                   Dossiês consolidados
+
+
+    A Etapa I está concluída como repertório. A criação deve começar com sociedades-piloto, sem exigir que todas as
+    lacunas bibliográficas sejam resolvidas previamente.
+
+
+
+    5. ETAPA II — CONCEPÇÃO DAS SOCIEDADES-PILOTO
+
+    5.1. Objetivo
+    Criar inicialmente três ou quatro sociedades suficientemente distintas para testar a metodologia. Não começar pela
+    definição de todos os povos do continente. A seleção deve permitir comparar relações diferentes com a realidade
+    arcana.
+
+    Eixos possíveis: sociedade em que a adivinhação possui grande importância; sociedade cuja organização militar foi
+    transformada por tecnologias arcanas; comunidades rurais e pastoris com práticas ligadas a animais, território e
+    entidades locais; sociedade urbana e mercantil que combina conhecimentos de origens diferentes. São eixos de
+    investigação, não modelos obrigatórios.
+
+    5.2. Dossiê preliminar de sociedade
+
+    A. Identidade e delimitação
+1     Nome provisório, autodenominação e nomes atribuídos por estrangeiros.
+1     Origem conhecida, identidade histórica, composição populacional e línguas.
+1     Relação entre identidade cultural e política.
+1     Comunidades associadas e grupos que não se identificam com a identidade predominante.
+
+    B. Condições materiais e ambientais
+1     Ambiente físico, clima, recursos e distribuição territorial.
+1     Agricultura, pastoreio, pesca, mineração, caça e coleta.
+1     Rotas comerciais, mobilidade, tecnologia não arcana e densidade populacional.
+1     Relações com comunidades vizinhas.
+
+    O ambiente deve funcionar como conjunto de pressões, oportunidades e limites, não como determinante cultural.
+
+    C. Organização social
+1     Parentesco, família, composição doméstica, herança e casamento.
+1     Estratificação, propriedade, regimes de dependência e trabalho.
+1     Escravidão, servidão ou outras formas de coerção, quando existentes.
+1     Mobilidade social, organização comunitária, autoridade local e relações entre gerações.
+1     Gênero, marginalização, pertencimento e formas de conflito.
+
+    D. Organização política
+1     Formas de governo, autoridades, instituições e legitimidade.
+1     Administração, tributação, direito, diplomacia e guerra.
+1     Controle de recursos, relação entre autoridades políticas e religiosas.
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                  6
+1     Autonomia local, sucessão e dissidências.
+
+    Não pressupor que toda sociedade precise constituir um Estado.
+
+    E. Identidade cultural
+1     Língua, narrativas de origem, memória histórica, artes e arquitetura.
+1     Alimentação, vestuário, rituais, calendários e festividades.
+1     Educação e transmissão de conhecimento.
+1     Relações com estrangeiros e conceitos de honra, dívida, parentesco, autoridade e pertencimento.
+
+    F. Organização religiosa e espiritual
+1     Tradições dominantes, cultos locais, práticas domésticas e sacerdócios.
+1     Especialistas independentes, instituições, dissidências e movimentos religiosos.
+1     Entidades reconhecidas, práticas proibidas ou toleradas e formas de iniciação.
+1     Relações entre religião, Estado e conhecimento.
+
+    G. Relação com a realidade arcana
+1     Fenômenos conhecidos, desconhecidos ou considerados impossíveis.
+1     Práticas, especialistas, instituições de transmissão e artefatos.
+1     Infraestrutura, recursos, custos, limites e riscos.
+1     Interpretações ontológicas e conflitos sobre a natureza dos fenômenos.
+
+    H. História resumida
+1     Formação, períodos principais, acontecimentos decisivos e transformações.
+1     Rupturas, relações externas e situação atual.
+1     Questões históricas ainda abertas.
+
+    O dossiê preliminar orienta a investigação, mas não deve inventar respostas definitivas para todas as lacunas.
+
+
+
+    6. ETAPA III — CONSTRUÇÃO HISTÓRICA E CAUSALIDADE
+
+    6.1. Periodização
+    Reconstruir a sociedade como resultado de processos históricos, não como coleção de características eternas.
+    Dividir sua cronologia em períodos significativos, definidos por transformações efetivas: formação de instituições,
+    mudanças econômicas, migrações, conquistas, descobertas, crises, reformas religiosas, alterações políticas,
+    tecnologias, rupturas ambientais e relações com entidades.
+
+    6.2. Matriz de eventos históricos
+1     Identificação: nome provisório, data/período, localização e sociedades envolvidas.
+1     Contexto anterior: condições materiais, organização política, relações sociais, situação religiosa, tecnologias e
+      tensões acumuladas.
+1     Acontecimento: o que ocorreu, participantes, objetivos, interesses em conflito, conhecimentos disponíveis e
+      desconhecimentos.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                   7
+1     Causas: causas estruturais e imediatas; fatores ambientais, econômicos, políticos, religiosos e arcanos;
+      contingências e acidentes.
+1     Consequências: efeitos imediatos e de longo prazo; beneficiados e prejudicados; instituições transformadas;
+      tecnologias difundidas ou perdidas; mudanças nas relações com entidades e na memória coletiva.
+1     Interpretações posteriores: narrativa oficial, memória popular, interpretação religiosa, versões dos derrotados,
+      historiografia posterior e elementos esquecidos ou apagados.
+
+    6.3. Causalidade multifatorial
+    Nenhum grande acontecimento deve depender automaticamente de uma única causa. Uma guerra pode combinar
+    disputa por recursos, crise sucessória, mudança de rotas, pressões demográficas, rivalidade religiosa, alterações
+    ambientais, novas tecnologias arcanas, conflitos institucionais, ambições individuais e eventos imprevisíveis.
+
+    A magia deve integrar a causalidade histórica sem substituir as demais dimensões. Diante de uma vitória arcana,
+    investigar por que a economia financiava a guerra, quem controlava especialistas, como as forças eram
+    organizadas, quais recursos eram necessários, como a população reagiu, que alianças existiam e por que a
+    vantagem foi decisiva naquele contexto.
+
+    6.4. História não é sequência de vitórias tecnológicas
+    Tecnologias podem ser descobertas e abandonadas, restritas a pequenos grupos, apropriadas por inimigos,
+    proibidas, mal interpretadas, perder infraestrutura, ser superadas por soluções simples, criar dependências
+    perigosas, ser transmitidas parcialmente ou desaparecer e ser redescobertas. Uma tecnologia eficaz não
+    necessariamente se dissemina: explicar a economia política da transmissão.
+
+
+
+    7. ETAPA IV — ONTOLOGIAS, ENTIDADES E TECNOLOGIAS
+    ARCANAS
+
+    7.1. O que é uma tecnologia arcana
+    Tecnologia arcana é uma capacidade reproduzível, prática, procedimento ou forma de interação com fenômenos da
+    realidade que produz efeitos por meios arcanos. Não significa necessariamente magia formal, conjuração, feitiços,
+    grimórios, escolas, magos profissionais ou sistemas acadêmicos.
+
+    Uma prática pode ser transmitida oralmente, por experiência corporal, observação, ritual, manipulação de materiais,
+    convivência com entidades ou experimentação. Pode existir sem teoria formal e produzir efeitos eficazes mesmo
+    quando sua ontologia é parcialmente equivocada.
+
+    7.2. Dossiê de tecnologia arcana
+1     Identificação: nome original e traduções; sociedade/tradição; usuários; período; finalidade original.
+1     Fenômeno observado: o que acontece, efeitos reproduzíveis e excepcionais, o que não acontece e condições
+      necessárias.
+1     Ontologia: interpretação dos praticantes, entidades ou forças envolvidas, causalidade, classificações e
+      explicações concorrentes.
+1     Epistemologia: como aprenderam, critérios de acerto, distinção entre erro e fraude, transmissão, experiências
+      válidas e autoridades de confirmação.
+1     Procedimento: materiais, instrumentos, gestos, linguagem, ritmos, preparação, local, participantes, duração e
+      sequência.
+1     Condições de funcionamento: requisitos, custos, limitações, riscos, falhas, dependências, ambiente, restrições
+      biológicas e relações com outras práticas.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                   8
+1     Organização social: quem pratica, aprende, transmite, controla e financia; quem é excluído, beneficiado ou
+      prejudicado.
+1     História: origem, desenvolvimento, transformações, apropriações, conflitos, difusão, perda ou preservação.
+1     Relação mecânica: efeito de D&D; mais próximo, grau de equivalência, diferenças de procedimento, custo,
+      alcance, duração e limites.
+
+    Não forçar equivalência mecânica quando ela não existir.
+
+    7.3. Dossiê de entidades não humanas
+    Estudar cada entidade em duas dimensões.
+1     Dimensão objetiva: natureza, forma de existência, origem conhecida ou desconhecida, capacidades, limitações,
+      necessidades, percepção, consciência, memória, relações, interação com matéria, relação com a Trama,
+      permanência, vulnerabilidades e manifestações.
+1     Dimensão sociocultural: nomes, classificações, narrativas, cultos, oferendas, pactos, proibições, instituições,
+      relações econômicas, conflitos, interpretações divergentes, apropriações políticas e transformações históricas.
+
+    A entidade não deve ser reduzida àquilo que os humanos dizem sobre ela.
+
+    7.4. Cultos e religiões
+    Não tratar religião como bloco uniforme. Uma religião dominante pode conter cultos institucionais, locais e
+    domésticos; ordens especializadas; movimentos reformistas; correntes místicas; práticas populares; sacerdócios
+    concorrentes; tradições antigas incorporadas; cultos proibidos e práticas toleradas por conveniência política. Um
+    culto minoritário pode existir dentro de uma religião dominante sem representar uma religião separada. O Estado
+    não controla necessariamente todas as práticas.
+
+    7.5. Fenômeno e classificação
+    Uma entidade pode ser interpretada como deusa, ancestral, demônio, espírito territorial, força natural, manifestação
+    de outra entidade, pessoa transformada ou fenômeno impessoal. Investigar historicamente as classificações:
+    conquista, missão religiosa, decreto ou tradução podem alterar o reconhecimento social sem necessariamente
+    transformar a entidade.
+
+
+
+    8. ETAPA V — DIVERSIDADE INTERNA E ESTRUTURA
+    SOCIOCULTURAL
+
+    8.1. A sociedade como conjunto de grupos
+    Identificar, quando pertinentes, elites políticas e econômicas, sacerdócios, especialistas arcanos, comerciantes,
+    agricultores, pastores, artesãos, militares, populações urbanas e rurais, comunidades periféricas, minorias
+    religiosas, estrangeiros, pessoas escravizadas ou dependentes, dissidentes e comunidades autônomas. Nem todos
+    os grupos precisam existir em todas as sociedades.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                    9
+ 8.2. Matriz de diversidade interna
+   Dimensão                     Pergunta de investigação
+
+   Posição social               Onde o grupo está na estrutura?
+
+   Recursos                     O que controla ou não controla?
+
+   Autoridade                   Quem exerce poder sobre ele?
+
+   Identidade                   Como se define?
+
+   Religião                     Quais práticas adota?
+
+   Conhecimento                 O que conhece?
+
+   Arcano                       O que consegue fazer?
+
+   Interesses                   O que deseja preservar ou transformar?
+
+   Conflitos                    Com quem disputa recursos ou autoridade?
+
+   Mobilidade                   Pode mudar de posição ou pertencimento?
+
+
+ A matriz identifica diferenças e tensões; não deve produzir personagens estereotipados.
+
+ 8.3. Regimes de dependência e trabalho
+ Investigar trabalho livre, escravidão de guerra, por dívida ou hereditária, servidão, trabalho penal, dependência
+ doméstica, clientela, tutela, corveia, trabalho compulsório estatal, dependência militar e obrigações religiosas.
+ Contextualizar as instituições: a existência de leis não torna automaticamente uma forma de coerção benigna.
+
+ 8.4. Contradições sociais
+ Investigar tensões como religião dominante versus culto popular; especialistas independentes versus instituições
+ oficiais; centro político versus periferia; comerciantes versus proprietários; sacerdócio versus militares; tradição
+ versus inovação; conhecimento público versus restrito; gerações diferentes; práticas eficazes versus explicações
+ tradicionais. A diversidade deve aparecer em práticas concretas, não apenas em listas.
+
+
+
+ 9. ETAPA VI — RELAÇÕES INTERSOCIETÁRIAS E
+ GEOPOLÍTICA
+
+ 9.1. A sociedade não existe isoladamente
+ Estudar comércio, migração, guerra, diplomacia, casamentos, alianças, tributos, conquista, colonização, circulação
+ de especialistas e artefatos, apropriação de técnicas, disputas religiosas, difusão de cultos, interação com entidades,
+ conflitos por recursos e interdependência econômica.
+
+ 9.2. Relações arcanas entre sociedades
+ Investigar quem possui técnicas que outros não possuem; quem depende de especialistas estrangeiros; quem
+ controla materiais; quais técnicas são comercializadas, proibidas ou reproduzíveis; quais dependem de entidades
+ locais; quais podem ser usadas em guerra; quais alteram diplomacia; quais criam dependência tecnológica e quais
+ ameaçam equilíbrios regionais.
+
+ Superioridade arcana em uma área não implica domínio automático. Recursos, população, instituições, logística,
+ alianças e vulnerabilidades também importam.
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                    10
+    9.3. História regional
+    Após desenvolver sociedades-piloto, criar cronologia regional integrada: conflitos compartilhados, migrações,
+    mudanças de fronteira, formação e desaparecimento de Estados, redes comerciais, difusão de técnicas, circulação
+    de entidades e cultos, catástrofes, reformas religiosas, colapsos institucionais e mudanças demográficas. Um
+    mesmo evento pode possuir memórias divergentes.
+
+
+
+    10. ETAPA VII — CARTOGRAFIA E INTEGRAÇÃO
+    TERRITORIAL
+
+    10.1. Princípio
+    O continente será construído a partir das sociedades, histórias e relações, mas não arbitrariamente. A geografia
+    deve ser considerada desde a concepção dos povos. A cartografia definitiva será integrada após o desenvolvimento
+    inicial das sociedades-piloto.
+
+    10.2. Restrições geográficas
+    Registrar desde o início: climas, rios, bacias hidrográficas, montanhas, planícies, florestas, desertos, pântanos,
+    costas, ilhas, correntes marítimas, ventos, recursos, rotas possíveis, barreiras, distâncias plausíveis e áreas de
+    assentamento.
+
+    10.3. Integração cartográfica
+    Testar se assentamentos são plausíveis; rotas comerciais fazem sentido; guerras poderiam ocorrer; migrações são
+    viáveis; recursos sustentam instituições; fronteiras são defensáveis; distribuição populacional é coerente; e
+    tecnologias arcanas alteram custos e distâncias. O mapa é ferramenta de revisão histórica, não apenas ilustração.
+
+
+
+    11. D&D 5E COMO APÊNDICE MECÂNICO
+
+    11.1. Objetivo
+    Utilizar D&D; 5e como referência para preservar regularidade mecânica e evitar desbalanceamentos narrativos. O
+    sistema não determina a ontologia do mundo. A realidade ficcional não deve funcionar obrigatoriamente como uma
+    academia de magia. O SRD serve como catálogo de capacidades, efeitos, restrições e parâmetros.
+
+    11.2. Inventário mecânico
+    Analisar possibilidades por famílias de efeitos, não somente por escolas:
+1     Informação e previsão; comunicação; percepção; movimento e transporte.
+1     Proteção; controle; influência mental; manipulação de energia e destruição.
+1     Transformação; criação e conjuração; vida; morte; cura; alteração corporal.
+1     Manipulação de matéria; relação com entidades; espaço; tempo; memória; identidade; alma e consciência.
+
+    Escolas tradicionais podem ser índice auxiliar, não categorias ontológicas obrigatórias.
+
+    11.3. Ficha de correspondência mecânica
+1     Efeito de D&D; mais próximo; nível; escola quando aplicável.
+1     Tempo de execução; alcance; componentes; duração; concentração; alvos e resistências.
+1     Condições; frequência; custos; limitações; escalabilidade e efeitos colaterais.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                  11
+ Classificar a correspondência como direta, parcial, analógica, composta por múltiplos efeitos ou sem
+ correspondência mecânica clara. Não transformar uma prática inteira em um feitiço se isso eliminar sua
+ complexidade.
+
+ 11.4. Classes e tradições
+ Não converter automaticamente classes em instituições culturais. Uma sociedade não precisa possuir magos
+ equivalentes a Wizards, clérigos a Clerics, druidas a Druids, bruxos a Warlocks ou feiticeiros a Sorcerers. Um
+ especialista pode possuir capacidades mecanicamente semelhantes às de uma classe sem compartilhar sua
+ identidade, instituição ou explicação.
+
+ 11.5. Equilíbrio e limites
+ Analisar poder, alcance, frequência, custo, duração, disponibilidade, reprodutibilidade, escalabilidade,
+ vulnerabilidade, contramedidas e consequências. Uma tecnologia poderosa pode depender de poucos especialistas,
+ materiais raros, preparação demorada ou condições geográficas específicas. O limite mecânico deve ser compatível
+ com o limite narrativo.
+
+
+
+ 12. RELAÇÃO ENTRE ONTOLOGIA, EPISTEMOLOGIA,
+ PRÁTICA E TECNOLOGIA
+
+   Dimensão                    Pergunta
+
+   Realidade                   O que efetivamente acontece?
+
+   Ontologia                   Que tipos de coisas existem?
+
+   Epistemologia               Como se pode conhecer algo?
+
+   Modelagem                   Como a sociedade explica os fenômenos?
+
+   Prática                     Como os indivíduos operam sobre eles?
+
+   Tecnologia                  Quais capacidades são reproduzíveis?
+
+   Instituição                 Quem controla e transmite essas capacidades?
+
+   História                    Como tudo isso surgiu e se transformou?
+
+
+ Essas dimensões podem divergir. Uma sociedade pode operar um fenômeno sem compreender sua natureza; outra
+ pode possuir teoria sofisticada sem conseguir reproduzi-lo; uma terceira pode obter resultados semelhantes por
+ outra técnica; uma quarta pode desenvolver uma interpretação ontológica a partir de prática empírica. Preservar
+ essas diferenças em todos os dossiês relevantes.
+
+
+
+ 13. ARQUITETURA DE AGENTES
+ O trabalho será dividido entre agentes especializados, com coordenação central. Nenhum agente tem autoridade
+ para transformar propostas em cânone.
+
+ Agente A — Pesquisador histórico
+ Investiga acontecimentos, guerras, migrações, crises e transformações políticas; identifica mecanismos causais e
+ produz dossiês históricos, cronologias, matrizes causais e bibliografia.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                             12
+ Agente B — Antropólogo e sociólogo comparativo
+ Estuda organização social, parentesco, estratificação, economia, dependência, instituições, relações de poder e
+ diversidade interna. Entrega dossiês socioculturais, matrizes de grupos e análises de conflito.
+
+ Agente C — Pesquisador de ontologias e epistemologias
+ Investiga concepções de realidade, categorias de existência, conhecimento, percepção, causalidade, transmissão e
+ validação do saber. Entrega dossiês ontológicos e epistemológicos, mapas conceituais e comparações.
+
+ Agente D — Pesquisador de entidades
+ Investiga formas de existência não humanas, relações com sociedades, natureza objetiva versus classificação
+ cultural, culto, memória, pacto, território e dependência. Entrega dossiês de entidades, matrizes de interpretação e
+ hipóteses de interação.
+
+ Agente E — Pesquisador de tecnologias arcanas e D&D;
+ Cataloga capacidades e efeitos de D&D; 5e, investiga correspondências com práticas históricas, identifica
+ tecnologias possíveis e analisa custos, limites e escalabilidade. Entrega atlas de efeitos, fichas de correspondência
+ e matrizes de limites.
+
+ Agente F — Arquiteto de sociedades
+ Integra resultados e constrói sociedades completas, instituições, grupos, práticas, relações e diversidade interna.
+ Entrega dossiês de sociedades, estruturas culturais, modelos institucionais e hipóteses históricas.
+
+ Agente G — Arquiteto histórico-arcano
+ Integra tecnologias e acontecimentos, constrói causalidade histórica arcana, guerras, crises, descobertas e
+ transformações, avaliando efeitos de longo prazo. Entrega dossiês de eventos e cronologias arcanas.
+
+ Agente H — Integrador geográfico e geopolítico
+ Integra sociedades ao território, avalia recursos, rotas e barreiras, desenvolve relações regionais, conflitos, alianças
+ e cartografia progressiva. Entrega mapas, dossiês regionais, redes comerciais e história geopolítica.
+
+ Agente I — Revisor crítico
+ Identifica contradições, verifica fontes e causalidade, detecta anacronismos, homogeneização e simplificações, testa
+ plausibilidade material e correspondências mecânicas. Entrega relatórios, problemas, recomendações e questões
+ abertas.
+
+ Agente J — Coordenador e integrador
+ Distribui tarefas, evita duplicação, mantém dependências, consolida resultados, registra decisões, separa evidência
+ e hipótese e prepara materiais para avaliação do autor. Entrega índices, relatórios de progresso, matriz de
+ dependências e registro de decisões.
+
+
+
+ 14. FLUXO DE TRABALHO DOS AGENTES
+
+ 14.1. Fase de fundamentação
+ Agentes A, B, C, D e E trabalham sobre referências históricas e mecânicas. Não criam povos completos nesta fase.
+ Produzem mecanismos, possibilidades, restrições e estudos comparativos.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                     13
+    14.2. Fase de concepção
+    Agente F recebe os materiais e desenvolve as primeiras sociedades. A, B, C, D e E continuam disponíveis para
+    investigações específicas. Cada característica importante precisa de contexto e relação com outras dimensões.
+
+    14.3. Fase de transformação histórica
+    Agente G desenvolve acontecimentos que alteram as sociedades. Agente H começa a testar relações territoriais e
+    geopolíticas.
+
+    14.4. Fase de revisão
+    Agente I examina os resultados; agente J consolida correções. O autor decide quais propostas podem se tornar
+    cânone.
+
+    14.5. Ciclo de revisão contínua
+    A revisão ocorre em todas as fases. Descoberta histórica pode contradizer instituição; tecnologia pode alterar
+    economia; entidade pode não corresponder à classificação religiosa; cartografia pode tornar migração impossível. O
+    sistema deve permitir revisão em todas as direções.
+
+
+
+    15. ENTREGÁVEIS OBRIGATÓRIOS
+    Cada sociedade-piloto deverá gerar progressivamente:
+1     Dossiê de identidade e composição.
+2     Dossiê de condições materiais.
+3     Dossiê de organização social.
+4     Dossiê político e institucional.
+5     Dossiê cultural.
+6     Dossiê religioso.
+7     Dossiê ontológico.
+8     Dossiê epistemológico.
+9     Dossiê de tecnologias arcanas.
+10    Dossiê de entidades relacionadas.
+11    Cronologia histórica.
+12    Dossiês de eventos decisivos.
+13    Matriz de diversidade interna.
+14    Matriz de relações externas.
+15    Dossiê de economia e recursos.
+16    Dossiê de guerra e diplomacia, quando aplicável.
+17    Correspondência mecânica com D&D.;
+18    Relatório crítico.
+19    Questões abertas.
+20    Síntese consolidada.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                                  14
+    Não é necessário produzir todos os documentos de uma vez. O dossiê principal funciona como índice e síntese dos
+    documentos especializados.
+
+
+
+    16. CONTROLE DE QUALIDADE
+    Uma sociedade não está pronta apenas porque possui muitos documentos. Avaliar cada dimensão:
+
+    16.1. Profundidade histórica
+1     A formação é explicável?
+1     Há acontecimentos que alteraram sua trajetória?
+1     A situação atual decorre de processos anteriores?
+1     Existem continuidades, rupturas, contingência e consequências não planejadas?
+
+    16.2. Profundidade sociológica
+1     Existem grupos com interesses diferentes e assimetrias de poder?
+1     As instituições possuem mecanismos de reprodução?
+1     Há conflitos internos?
+1     As práticas variam conforme posição social e região?
+
+    16.3. Profundidade antropológica
+1     As práticas possuem significado na vida cotidiana?
+1     Há formas particulares de parentesco, autoridade, pertencimento e memória?
+1     As categorias culturais são coerentes com experiências?
+1     A cultura não foi reduzida a uma lista de costumes?
+
+    16.4. Profundidade epistemológica
+1     Existem formas próprias de produzir conhecimento?
+1     Especialistas possuem critérios de validação?
+1     Há disputas sobre o que conta como conhecimento?
+1     Existem erros, fraudes e falsas interpretações?
+1     A experiência pode alterar categorias?
+
+    16.5. Profundidade arcana
+1     As práticas possuem procedimentos, efeitos compreensíveis, custos e limitações?
+1     Existem diferentes níveis de especialização?
+1     A tecnologia transforma instituições e condições materiais?
+1     A ontologia não foi confundida com eficácia?
+
+    16.6. História da magia
+1     As práticas possuem origem e transformações?
+1     Há difusão, apropriação e tecnologias perdidas?
+1     A magia alterou acontecimentos e os acontecimentos alteraram a magia?
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                               15
+    16.7. Qualidade das entidades
+1    Possuem natureza própria e limitações?
+1    Existem relações independentes dos humanos?
+1    As interpretações sociais são historicamente situadas?
+
+    16.8. Coerência material
+1    Recursos sustentam a população?
+1    Instituições são financiáveis?
+1    Rotas são plausíveis?
+1    Tecnologias possuem infraestrutura?
+1    Capacidades arcanas preservam restrições materiais?
+
+    16.9. Regularidade mecânica
+1    As capacidades são compatíveis com o sistema?
+1    Efeitos possuem limites e correspondências explicitadas?
+1    Vantagens narrativas foram contabilizadas?
+1    Especializações possuem contrapartidas?
+
+
+
+
+    17. ERROS PROIBIDOS
+1    Criar povos homogêneos.
+2    Copiar diretamente religiões ou culturas reais.
+3    Usar nomes de tradições reais como substitutos de culturas ficcionais.
+4    Transformar escolas de magia em ontologia universal.
+5    Presumir que toda sociedade possui magos formais.
+6    Presumir que todas as práticas arcanas são conjurações.
+7    Transformar classes de D&D; em instituições culturais obrigatórias.
+8    Criar povos definidos exclusivamente por uma especialidade mágica.
+9    Fazer geografia determinar automaticamente cultura.
+10   Tratar tecnologia como resultado inevitável de uma crença.
+11   Tratar crenças como consequência automática de tecnologia.
+12   Criar entidades exclusivamente para preencher panteões.
+13   Reduzir entidades à interpretação humana.
+14   Criar acontecimentos históricos com uma única causa conveniente.
+15   Fazer toda inovação produzir progresso.
+16   Tratar toda instituição como racional ou funcional.
+17   Presumir que tecnologias eficazes são necessariamente compreendidas.
+18   Presumir que conhecimento sofisticado implica capacidade prática.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                       16
+19    Resolver questões cosmológicas ainda abertas.
+20    Transformar hipóteses em cânone sem autorização.
+21    Criar sociedades apenas para servir aos protagonistas.
+22    Criar conflitos somente para gerar aventuras.
+23    Tratar a história como sequência inevitável de ascensão e queda.
+24    Confundir quantidade de informação com profundidade.
+
+
+
+
+    18. PRIMEIRO CICLO DE EXECUÇÃO
+    O primeiro ciclo testa a metodologia com três ou quatro sociedades-piloto.
+1     Marco 1 — Seleção: escolher sociedades com relações diferentes com fenômenos arcanos. Não definir ainda o
+      continente inteiro.
+2     Marco 2 — Dossiês preliminares: construir identidade, condições materiais, organização social, instituições e
+      relação inicial com a realidade arcana.
+3     Marco 3 — História: desenvolver pelo menos três períodos históricos relevantes para cada sociedade e
+      identificar acontecimentos que expliquem transformações.
+4     Marco 4 — Tecnologias e entidades: desenvolver práticas centrais, origens, condições de funcionamento,
+      limitações e relações com entidades.
+5     Marco 5 — Diversidade interna: identificar grupos que interpretam, utilizam ou rejeitam essas práticas de
+      maneiras diferentes.
+6     Marco 6 — Relações externas: construir relações históricas entre as sociedades-piloto.
+7     Marco 7 — Revisão crítica: verificar distinção histórica, plausibilidade material e complexidade.
+8     Marco 8 — Avaliação do método: identificar o que funcionou, o que gerou superficialidade, redundâncias,
+      lacunas, ajustes nos agentes e partes do protocolo a revisar.
+
+    Somente depois dessa avaliação deverá ocorrer a expansão para outras sociedades.
+
+
+
+    19. PRINCÍPIO FINAL DO PROJETO
+    O objetivo não é criar povos que possuem magias. É criar sociedades cuja história aconteceu em uma realidade na
+    qual fenômenos arcanos existem.
+
+    As sociedades não precisam compreender a realidade da mesma maneira, utilizar as mesmas práticas, reconhecer
+    as mesmas entidades ou alcançar as mesmas capacidades. Algumas serão altamente especializadas em
+    determinados fenômenos; outras terão tecnologias limitadas, mas socialmente importantes; algumas possuirão
+    instituições complexas de transmissão; outras dependerão de práticas locais, empíricas e pouco formalizadas.
+
+    A ontologia pode gerar tecnologias. A tecnologia pode transformar a ontologia. Ambas podem ser alteradas por
+    guerras, migrações, crises, instituições, descobertas e encontros com entidades.
+
+      Não estamos construindo um catálogo de culturas mágicas. Estamos reconstruindo a história
+      de sociedades que aprenderam a viver, disputar, conhecer e transformar o mundo em uma
+      realidade arcana.
+
+
+
+
+PROTOCOLO DE PESQUISA E CRIAÇÃO DOS POVOS DO CONTINENTE                                                               17
+

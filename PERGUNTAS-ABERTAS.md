@@ -22,3 +22,5 @@
 | 18 | O que é o **Tier 1**? (citado pelo redator: "no Tier 1 quase não haverá sábios capazes de resistir aos dois"). Fase da narrativa, faixa de poder ou região? | narrativa | 2026-11-07 | |
 | 19 | Os termos do conto (**Trama**, **mana**, **canais de mana**, **círculos**) descrevem a realidade arcana em si, ou são o vocabulário de *uma* tradição (a acadêmica, a de Argon)? | magia | 2026-11-07 | |
 | 20 | As leis fundamentais da realidade compartilhada têm nome ou formulação dentro do mundo? Alguma tradição as conhece de fato? | magia | 2026-11-07 | |
+| 21 | O *protocolo dos povos* (2026-11-08) substitui a numeração de etapas da diretriz do continente (lá: II tradições ficcionais, III entidades, IV povos; no protocolo: II sociedades-piloto, III história, IV ontologias/entidades/tecnologias)? Assumido que sim, por ser o mais novo. | método | 2026-11-08 | |
+| 22 | Que povos não humanos existem além de humanos e elfos (conto)? Algum deve entrar já no ciclo piloto? | povos | 2026-11-08 | |
