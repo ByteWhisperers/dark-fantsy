@@ -55,12 +55,24 @@ Escolher três ou quatro sociedades com **relações diferentes com os fenômeno
 - **Relação com os outros:** pode comprar escravos de dívida do P5 e vender técnicas ou insumos ao P1.
 
 ### P5 · Cortes insulares dos Altos Elfos, aristocráticas e elitistas (pedido do Hermes, 2026-11-08)
-> 💡 **Relação arcana:** a definir. O que interessa é testar um **povo longevo** (~1000 anos, conto; pergunta #9) e uma **aristocracia fechada** em arquipélago: o que muda em geração, memória, herança, sucessão e dívida quando quase ninguém morre cedo.
-- **Origem no conto:** Lyra é Alta Elfa das cortes insulares do leste, escrava de dívida viciada em lótus azul. Isso já impõe a pergunta: numa sociedade de elite e elitismo, **quem acaba escravizado por dívida e por que**? Como ela sai da ilha? (Obs.: o conto escreve *Lyra*.)
-- **Cuidados:** o clichê do elfo aristocrata etéreo é europeu; sem diversidade interna real (§8) e sem decadência/custos materiais, repete o clichê. Elitismo precisa de base: terra escassa de ilha, controle de rota, de insumo ou de conhecimento (b/01, b/04 sobre iniciação e exclusão).
-- **Cuidado de tom:** a tese do conto de que elfos têm "bobina natural" é de Argon (CANONE #2, pergunta #19). Não tratar como fato do mundo antes de decidir.
-- **Repertório:** navegação polinésia (PI F2-12), mana e tapu (f/06), Estados africanos e sucessão (b/06), cargo ritual como renda herdável (b/02), longevidade e memória (a/02, g/01).
-- **Relação com os outros:** liga-se a P1 (Lyra chega à cidade portuária) e a P4 (tráfico de dívida).
+> 💡 **Relação arcana:** a definir. O que interessa é testar um **povo longevo** (~1000 anos, conto; pergunta #9) e uma **aristocracia fechada** em arquipélago.
+
+**Direção dada pelo Hermes (2026-11-08, ainda não registrada no CANONE):**
+- Elfos vivem muito e **demoram a nascer**, então tratam cada elfo como **ativo raro**. Nenhum elfo é escravo entre os seus.
+- A organização é **burocrática**, não de sistema rígido de castas. Elfos ocupam o topo; **outras raças fazem o trabalho menos digno**.
+- Não são escravocratas "no sentido técnico": são mais **oligarcas**.
+
+> 💡 **O que isso muda:** a escassez demográfica vira o motor da sociedade (reprodução lenta → valor de cada vida élfica → tutela, herança, sucessão e custo de perda). O trabalho braçal depende de outros povos, então o P5 **tem povos subordinados dentro do arquipélago**, o que toca a pergunta #22 (quais povos existem). Falta saber quais, e de onde vêm.
+
+> 💡 **Para o método (protocolo §8.3):** "não é escravidão em sentido técnico" é uma escolha que o protocolo manda investigar, não pressupor: clientela, tutela, corveia, dependência por dívida, obrigação religiosa e trabalho compulsório estatal podem ser coercitivos sem serem escravidão. Sugiro descrever o regime de trabalho dos outros povos pelo que ele **faz** (mobilidade, saída, castigo, herança da condição), e deixar o nome para depois.
+
+> ❓ **Contradição com o conto (pergunta #23, aberta):** Lyra é Alta Elfa das cortes insulares e **escrava de dívida**. Se nenhum elfo é escravo entre os seus, como ela chegou lá? Leituras possíveis, sem escolher nenhuma: (a) ela foi vendida **fora** do arquipélago, por dívida contraída com estrangeiros (liga ao P4); (b) a "dívida" é uma categoria burocrática dos elfos que, fora da ilha, vira escravidão; (c) ela é exceção, e a exceção tem uma história (banida, condenada, fugida); (d) o conto exagera ou usa "escrava" em sentido figurado. Cada uma muda o P4 e o P5.
+
+- **Origem no conto:** Lyra, Alta Elfa, ~120 anos, olhos âmbar, viciada em lótus azul. O conto escreve *Lyra*.
+- **Cuidados:** o elfo aristocrata etéreo é clichê europeu; sem diversidade interna (§8: elfos de posições diferentes, burocratas e dissidentes, outros povos) e sem custo material, repete o clichê. Elitismo precisa de base: terra escassa de ilha, controle de rota, insumo ou conhecimento (b/01, b/04 sobre iniciação e exclusão).
+- **Cuidado de tom:** a tese de "bobina natural" nos nervos dos elfos é de Argon (pergunta #19). Não tratar como fato do mundo.
+- **Repertório:** burocracia como forma de poder (c/01 confucionismo e serviço civil, c/04 licenciamento de deuses), cargo ritual como renda herdável (b/02), Estados africanos e sucessão (b/06), navegação polinésia (PI F2-12), mana e tapu (f/06). Cobrir a lacuna sobre sociedades demográficamente escassas ou longevas exige pesquisa nova.
+- **Relação com os outros:** liga-se a P1 (Lyra chega à cidade portuária) e a P4 (tráfico, dívida e comércio de trabalho).
 
 ## 4. Perfis arcanos lado a lado (provisório)
 
@@ -86,4 +98,4 @@ Sem mapa ainda (§10.1). Do conto: cidade portuária; Vallenar a 300 léguas da 
 1. Cinco pilotos (P1 a P5) estão bem, ou prefere começar com quatro e deixar um para depois? 💡 Sugiro executar P1, P4 e P5 primeiro, por já se ligarem (cidade, tráfico de dívida, Lyra), e P2 e P3 em seguida.
 2. P2 e P3 ficam como propus?
 3. O protocolo **substitui** a numeração de etapas da diretriz do continente? Assumi que sim. (Pergunta #21.)
-4. Existem outros povos não humanos que devam entrar cedo? (Pergunta #22.)
+4. Quais outros povos vivem sob os elfos no P5 (pergunta #22)? E como Lyra chegou à escravidão (pergunta #23)?
