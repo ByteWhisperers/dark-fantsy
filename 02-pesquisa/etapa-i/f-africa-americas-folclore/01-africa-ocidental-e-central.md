@@ -61,7 +61,7 @@ Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica c
 
 - `[S]` Em comum nessas regiões, sem unificar: um deus supremo distante (Onyame akan, Chukwu igbo, Nzambi kongo), raramente objeto de culto direto; divindades/espíritos de lugares, rios e florestas (Akan *abosom*; Igbo *alusi*; Kongo *bisimbi*); **ancestrais** como categoria moral, não todo morto; e agentes nocivos humanos (feiticeiros).
 - `[F]` Kongo: os *simbi* são espíritos de água associados à passagem entre mundos (Wikipedia). `[PP]` MacGaffey reclassifica: ancestrais, *simbi* e *minkisi* formam um contínuo de mortos com diferentes graus de localização e controle humano (memória; *Religion and Society in Central Africa*, 1986, não verificado).
-- `[F]` Azande: *mangu* é uma **substância física** no ventre do feiticeiro, herdada (pai para filhos, mãe para filhas), que age sem que o portador saiba. Evans-Pritchard relata autópsias para procurá-la (memória). A feitiçaria (*witchcraft*, inata, involuntária) é distinta da magia maléfica (*sorcery*, técnica com medicamentos) — a distinção que E-P tornou clássica.
+- `[F]` Azande: *mangu* é uma **substância física** no ventre do feiticeiro, herdada (pai para filhos, mãe para filhas), que age sem que o portador saiba. Evans-Pritchard relata autópsias para procurá-la (memória). A feitiçaria (*witchcraft*, inata, involuntária) é distinta da magia maléfica (*sorcery*, técnica com medicamentos) (distinção clássica de E-P).
 
 ### 3.3 Epistemologia: como se reconhece o erro
 
@@ -93,12 +93,11 @@ Limite central: nenhuma monografia foi lida inteira. A literatura etnográfica c
 
 - `[S]` O cosmograma kongo é **diagrama ritual** (marcas no chão onde se faz juramento ou travessia), não cálculo. A leitura em "quatro momentos do sol" ligados a fases da vida é interpretação sistematizadora moderna.
 - `[S]` A adivinhação por cesto formaliza por **léxico de peças + sintaxe espacial**; Ifá por código binário; o *benge* por protocolo de teste e contraprova. Este último é o mais próximo de um procedimento de controle.
-- Akan: pesos de ouro e *adinkra* são sistemas de signos com provérbios associados — não estudados aqui.
 
 ### 3.6 Instituições
 
 - `[F]` Kongo: *nganga* especialistas, cada um ligado a certos *minkisi*; reputação, pagamento, rivalidade. Akan: sacerdotes de *abosom* (*akomfo*), possessão, santuários que circulavam e se expandiam como empresas religiosas (memória). Azande: adivinhos (*abinza*) organizados em associações com iniciação; o oráculo do veneno ligado a homens adultos e à corte do príncipe, cujos veredictos prevaleciam.
-- `[S]` Controle político da verdade: entre os Azande, o oráculo do príncipe é o tribunal de última instância — a hierarquia epistêmica dos oráculos espelha a política.
+- `[S]` Entre os Azande, a hierarquia dos oráculos espelha a política.
 
 ## 4. Transformações históricas e dissidências
 

@@ -117,9 +117,8 @@ Estudados: Mesopotâmia (paleobabilônico ao neobabilônico; corte neoassíria),
 
 ## 12. Transformações e dissidências
 
-- `[PP]` Clericalização: cargos cívicos tendem a virar corpo separado quando surge doutrina a guardar (cristianismo tardo-antigo); o inverso também ocorre (sacerdócio egípcio absorvido como funcionalismo sob os Ptolomeus).
-- `[PP]` Venda e herança de cargos geram **absenteísmo e acúmulo**, e reformadores atacam isso (ex.: simonia condenada na Reforma Gregoriana, séc. XI).
-- `[S]` Linhagens quebradas produzem crises de validade (bhikkhunī) e soluções por importação de linhagem estrangeira.
+- `[PP]` Venda e herança de cargos geram **absenteísmo e acúmulo**, que reformadores atacam (simonia condenada na Reforma Gregoriana, séc. XI).
+- `[S]` Linhagens quebradas produzem crises de validade (bhikkhunī) e importação de linhagem estrangeira.
 
 ## 13. Divergências entre pesquisadores
 
@@ -146,10 +145,10 @@ Estudados: Mesopotâmia (paleobabilônico ao neobabilônico; corte neoassíria),
 - "Sumo sacerdote" com túnica e templo único como chefe de toda a religião: raramente existiu; a maioria das tradições tinha vários centros e cargos sem hierarquia geral.
 - Sacerdote como pregador de fiéis: em templos antigos, o povo não entrava; o sacerdote servia o deus.
 - Babalawo, *mantis* ou *cunning folk* como "mago da aldeia" genérico: cada um tem formação, clientela e regime de remuneração distintos.
-- Copiar títulos reais traduzidos ("servo do deus", "pai do segredo") como nomes ficcionais: reconhecível de imediato.
+- Copiar títulos reais traduzidos ("servo do deus", "pai do segredo") como nomes ficcionais.
 
 ## 16. Limitações
 
-- Quase tudo por monografias citadas de memória; apenas resumos online (Oracc, CHS, Britannica, secundárias sobre Egito e mexicas) foram consultados nesta sessão. Páginas primárias (Oracc, Wibilex) estavam inacessíveis no fetch.
-- Números (phylai egípcias, venda de *dudie*, títulos Ifá, inscrições gregas de venda de sacerdócio) marcados como não verificados.
-- Viés para sociedades letradas e estatais; especialistas de sociedades sem Estado aparecem pouco (ver frente `f-`).
+- Monografias citadas de memória; só resumos online (Oracc, CHS, Britannica, secundárias) consultados; Oracc e Wibilex inacessíveis no fetch.
+- Phylai egípcias, venda de *dudie*, títulos Ifá e vendas gregas de sacerdócio não verificados.
+- Viés para sociedades letradas e estatais (ver frente `f-`).
