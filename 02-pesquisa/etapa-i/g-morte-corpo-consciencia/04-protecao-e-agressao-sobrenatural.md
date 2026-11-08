@@ -10,7 +10,8 @@ atualizado: 2026-11-08
 # Proteção e agressão sobrenatural
 
 > Etapa I, frente G (eixo 5.4: "práticas de proteção e agressão sobrenatural"; eixo 5.3: como se reconhece e atribui causa ao infortúnio). Organizado por **tema**. Não é cânone e não cria nada para o continente.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte conferida · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia ou página de referência · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
+> **Dossiê de referência** da Etapa I para mau-olhado e para Pazuzu e Lamaštu (outros arquivos remetem para cá: a-04 sobre Pazuzu e Lamaštu, f-05 §4 sobre o mau-olhado no Brasil). O *benge* azande tem referência em [f-01](../f-africa-americas-folclore/01-africa-ocidental-e-central.md); aqui só se usa o caso.
 > Já na Pesquisa I: [unguento das armas](../../pesquisa-i/frente-2-tecnicas/15-unguento-das-armas.md) (simpatia à distância). Mortos perigosos e medidas antirretorno: [arquivo 01](01-ritos-funerarios-e-destino-dos-mortos.md), §8.
 
 ## 1. Tabela de fontes
@@ -44,14 +45,14 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 
 ## 4. Proteção: objetos que ficam no lugar
 
-- `[F/memória]` **Mesopotâmia**: amuletos de Pazuzu (demônio do vento) usados **contra** Lamaštu, demônia que ataca grávidas e recém-nascidos — um demônio domesticado contra outro. Placas de Lamaštu trazem a demônia e oferendas para que ela vá embora (memória; British Museum tem exemplares).
+- `[M]` **Mesopotâmia**: amuletos de Pazuzu (demônio do vento) usados **contra** Lamaštu, demônia que ataca grávidas e recém-nascidos — um demônio domesticado contra outro. Placas de Lamaštu trazem a demônia e oferendas para que ela vá embora (memória; British Museum tem exemplares).
 - `[F]` **Tigelas de encantamento aramaicas** (Mesopotâmia sassânida, c. séc. V–VII d.C.): centenas de tigelas de barro com espirais de texto em aramaico judaico, mandaico e siríaco (só a Coleção Schøyen tem c. 650 textos). Nomeiam os clientes (em geral pelo nome da mãe), listam demônios, e incluem fórmulas de **"divórcio"** que expulsam demônios como se fossem cônjuges indesejados (seção própria na edição de Shaked et al.). Muitas foram achadas **de boca para baixo** — leitura corrente: armadilhas.
 - `[PP]` Leitura importante: as tigelas atravessam comunidades — clientes e escribas de religiões diferentes compartilham fórmulas e nomes divinos. Proteção é **mercado técnico interconfessional**, não doutrina de uma tradição.
 - `[S]` A proteção portátil formaliza um ser hostil (nome, aparência, hábitos) para poder bloqueá-lo. **Nomear é pré-requisito de defesa.**
 
 ## 5. Agressão escrita: *defixiones*
 
-- `[F/memória]` Tabuinhas de chumbo greco-romanas (do séc. VI a.C. ao fim da Antiguidade), muitas vezes dobradas e perfuradas por pregos, depositadas em túmulos, poços e santuários ctônicos. Fórmula típica: "amarro" (*katadeō*) a língua, as mãos, a mente de alguém. Usos recorrentes: **tribunal** (calar o adversário), **corrida de carros** (amarrar cavalos e cocheiros rivais), **amor** (forçar desejo), **comércio** (Gager agrupa assim; memória).
+- `[M]` Tabuinhas de chumbo greco-romanas (do séc. VI a.C. ao fim da Antiguidade), muitas vezes dobradas e perfuradas por pregos, depositadas em túmulos, poços e santuários ctônicos. Fórmula típica: "amarro" (*katadeō*) a língua, as mãos, a mente de alguém. Usos recorrentes: **tribunal** (calar o adversário), **corrida de carros** (amarrar cavalos e cocheiros rivais), **amor** (forçar desejo), **comércio** (Gager agrupa assim; memória).
 - `[F]` **Bath (Aquae Sulis)**: c. 130 tabuinhas achadas em 1979–80 na fonte sagrada; publicadas por Tomlin (1988); registro UNESCO Memory of the World (Reino Unido) em 2014. Quase todas tratam de **furto** (manto, anel, moedas). A vítima **doa** o objeto roubado a Sulis Minerva, de modo que o ladrão passa a ter roubado a deusa; pede punição ("seja homem ou mulher, escravo ou livre") até devolver.
 - `[AF]` **Versnel (1991)**: distingue a *defixio* "clássica" (amarrar, em geral antes do conflito decidir-se, frequentemente anônima e moralmente suspeita) das **orações por justiça** (o autor se identifica, se diz lesado, pede a um deus que puna um culpado em geral desconhecido). As de Bath são do segundo tipo.
 - `[S]` O mesmo suporte (chumbo inscrito, depositado em água ou túmulo) serve a duas coisas que a própria sociedade julgava de modo oposto: **agressão ilícita** e **queixa legítima**. A diferença é quem fala, se assina e se alega um dano anterior.
@@ -68,14 +69,14 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 
 ### 7.1 Azande (Evans-Pritchard 1937)
 
-- `[F/memória]` Exemplo clássico: um celeiro desaba e fere quem estava sob ele. Os Azande sabem que cupins comeram os esteios (*como*); a bruxaria (*mangu*) explica **por que naquele momento e naquelas pessoas**. Bruxaria é substância no ventre, herdada, que pode agir **sem que o portador saiba**. Detecta-se por oráculos, sobretudo o **oráculo do veneno** (*benge*), dado a galinhas com perguntas de sim/não; acusados podem pedir desculpas soprando água, sem grande vergonha.
+- `[M]` (dossiê de referência para o *benge*: [f-01](../f-africa-americas-folclore/01-africa-ocidental-e-central.md)) Exemplo clássico: um celeiro desaba e fere quem estava sob ele. Os Azande sabem que cupins comeram os esteios (*como*); a bruxaria (*mangu*) explica **por que naquele momento e naquelas pessoas**. Bruxaria é substância no ventre, herdada, que pode agir **sem que o portador saiba**. Detecta-se por oráculos, sobretudo o **oráculo do veneno** (*benge*), dado a galinhas com perguntas de sim/não; acusados podem pedir desculpas soprando água, sem grande vergonha.
 - `[AF]` Evans-Pritchard insiste que o sistema é **coerente e autocorretivo**: contradições do oráculo são explicadas por veneno ruim, quebra de tabu, bruxaria contra o próprio oráculo. Não é "irracional"; é fechado contra a refutação por dentro. (Remete ao arquivo 05.)
 - `[S]` Bruxaria inconsciente e herdada separa culpa de intenção: o acusado pode ser bruxo sem ter querido. Isso **baixa o custo** da acusação e permite reconciliação.
 
 ### 7.2 Europa moderna (sécs. XV–XVIII)
 
 - `[AF]` **Hutton (2017)** propõe cinco traços recorrentes da figura da bruxa em muitas sociedades: causa dano por meios ocultos; é ameaça **interna** à comunidade; atua numa tradição herdada ou aprendida; é tida como má; e **pode ser combatida** (por contramagia, punição, coerção). Distingue os "mágicos de serviço" (curandeiros, desfazedores) que a combatem. `[PP]` Um resenhista objeta que a lista é britanocêntrica e ignora o feiticeiro masculino profissional de partes do continente.
-- `[F/memória]` A peculiaridade europeia foi o **pacto diabólico** e o **sabá** (crime coletivo de heresia), que permitiam pedir nomes de cúmplices sob tortura e gerar caças em cadeia. Estimativas correntes de execuções: dezenas de milhares (faixa 40–60 mil frequentemente citada; **não verificado** aqui). Concentração desigual: Sacro Império muito alto; Inquisição espanhola e romana relativamente cética e com poucas execuções (memória).
+- `[M]` A peculiaridade europeia foi o **pacto diabólico** e o **sabá** (crime coletivo de heresia), que permitiam pedir nomes de cúmplices sob tortura e gerar caças em cadeia. Estimativas correntes de execuções: dezenas de milhares (faixa 40–60 mil frequentemente citada; **não verificado** aqui). Concentração desigual: Sacro Império muito alto; Inquisição espanhola e romana relativamente cética e com poucas execuções (memória).
 - `[S]` A diferença entre acusação local (vizinho → vizinho, um caso) e caça (tribunal → confissão → lista de cúmplices) é **institucional**: depende de tortura, de teoria do sabá e de juízes que acreditem nela.
 
 ### 7.3 Bocage, França (Favret-Saada 1977)
@@ -87,7 +88,7 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 
 ## 8. Mau-olhado
 
-- `[F/memória]` Crença amplamente distribuída no Mediterrâneo, Oriente Médio, Sul da Ásia, e transportada às Américas: o olhar invejoso (às vezes involuntário) faz mal a crianças, gado, colheita, beleza. Proteções: amuletos de olho azul (*nazar*), mão (*ḫamsa*), figa, cuspir, elogio negado ou acompanhado de fórmula ("*mashallah*", "benza Deus"). Diagnóstico por óleo na água, chumbo derretido, bocejo do benzedor.
+- `[M]` Crença amplamente distribuída no Mediterrâneo, Oriente Médio, Sul da Ásia, e transportada às Américas: o olhar invejoso (às vezes involuntário) faz mal a crianças, gado, colheita, beleza. Proteções: amuletos de olho azul (*nazar*), mão (*ḫamsa*), figa, cuspir, elogio negado ou acompanhado de fórmula ("*mashallah*", "benza Deus"). Diagnóstico por óleo na água, chumbo derretido, bocejo do benzedor. A prática das benzedeiras brasileiras está em [f-05 §3.1 e §4](../f-africa-americas-folclore/05-folclores-e-curas-populares.md).
 - `[AF]` **Dundes ("Wet and Dry", 1981)**: o mal do olho é **secar** (leite, sêmen, seiva, vida); proteções são úmidas. Leitura estruturalista/psicanalítica; `[PP]` criticada por generalizar demais (memória).
 - `[S]` O mau-olhado é a teoria da agressão de **custo social mais baixo**: dispensa intenção, culpa e acusação formal; pede só proteção e etiqueta (não elogiar sem fórmula). Regula **inveja e ostentação**.
 
@@ -97,7 +98,7 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 |---|---|---|
 | Amuletos e tigelas | bloquear demônios nomeados | redução de ansiedade em parto e doença; mercado de escribas; sinal público de cuidado |
 | *Defixiones* agonísticas | amarrar rival | nenhum direto; mas a descoberta de uma tabuinha podia intimidar ou fundamentar acusação |
-| Orações por justiça (Bath) | deusa pune o ladrão | dissuasão e pressão para devolução quando o depósito era conhecido |
+| Orações por justiça (Bath) | deusa pune o ladrão | plausível: dissuasão e pressão para devolução quando o depósito era conhecido. As tabuinhas não dizem quantos objetos voltaram, e só sobrevivem as depositadas; não medem eficácia |
 | *Maqlû* | destruir a feitiçaria e purificar | rito longo, noturno, com fim marcado ao amanhecer: encerramento psicológico; reafirma o *āšipu* |
 | Oráculo azande | identificar bruxo | canaliza conflito para procedimento; permite desculpa e reconciliação |
 | Caça europeia | eliminar seita diabólica | execuções; confissões produzidas por tortura confirmam a teoria |
@@ -106,9 +107,12 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 
 ## 10. Transformações e dissidências
 
-- `[F/memória]` Céticos dentro da Europa moderna: Johann Weyer (1563, bruxas como melancólicas iludidas), Reginald Scot (1584), Friedrich Spee (1631, contra a tortura) — ver arquivo 05. Fim gradual dos processos no séc. XVIII sem refutação teórica completa: tribunais passam a exigir provas que a feitiçaria não fornece.
+- `[M]` Céticos dentro da Europa moderna: Johann Weyer (1563, bruxas como melancólicas iludidas), Reginald Scot (1584), Friedrich Spee (1631, contra a tortura) — ver arquivo 05. Fim gradual dos processos no séc. XVIII sem refutação teórica completa: tribunais passam a exigir provas que a feitiçaria não fornece.
 - `[F]` Bath e a epigrafia: a mesma deusa que cura nas termas é credora dos furtados — proteção e agressão no mesmo santuário.
 - `[F]` Bocage: a crença persiste sob a negação pública; muda de lugar (do tribunal para a conversa privada).
+
+### Ressalva sobre a seleção de casos `[S]`
+Dos oito casos principais deste arquivo, cinco são europeus ou mediterrâneos (*defixiones*, Bath, caça europeia, Bocage, mau-olhado mediterrâneo), e quase todos chegam por arquivos que sobreviveram por serem bem-sucedidos ou espetaculares: tabuinhas depositadas, processos que terminaram em execução, etnografia de quem foi "pego". As escadas e tipologias acima (§12) valem para esta amostra. Ficam de fora a África contemporânea, a Amazônia, a China e o islã (§14), e também os contra-casos: acusações que não pegaram, contra-feitiçarias abandonadas por ineficazes, caças que não começaram onde havia todas as condições. Esses entram no dossiê [g-07](07-contra-casos-e-tradicoes-extintas.md), que outro pesquisador está escrevendo.
 
 ## 11. Divergências entre pesquisadores
 
@@ -140,7 +144,7 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 
 ## 14. Limitações
 
-- Primárias (Maqlû, Tomlin, Gager) não lidas; Evans-Pritchard e Dundes de memória.
+- Primárias (Maqlû, Tomlin, Gager) não lidas; Evans-Pritchard e Dundes de memória (marcados `[M]` desde 2026-11-08).
 - Não verificados: mês ritual de *Maqlû*; número de execuções europeias; Código de Hamurabi §2; datas e teses de Weyer, Scot, Spee; local de achado das tigelas (sob casas).
 - Ausentes: África contemporânea (caças a bruxas, comércio de partes do corpo), Amazônia, China, islã.
 
@@ -150,3 +154,7 @@ A terceira resposta é a que gera violência social, porque aponta para uma pess
 - Tigelas aramaicas: https://library.arce.org/portal/Record/36659/TOC ; https://bowers.org/collections-blog/to-catch-a-demon-mesopotamian-incantation-bowls
 - Favret-Saada: https://www.lrb.co.uk/v03/n11/im-lewis/why-me
 - Hutton 2017: https://reviews.history.ac.uk/print/review/2185 ; https://readingreligion.org/9780300229042/
+
+---
+
+Correções de 2026-11-08: 6 `[F/memória]` passaram a `[M]` (Pazuzu e Lamaštu, *defixiones*, Azande, pacto e sabá europeus, mau-olhado, céticos europeus). O arquivo foi declarado dossiê de referência para mau-olhado e Pazuzu e Lamaštu, com remissões a f-05 (benzedeiras) e a f-01 (*benge*). Foi acrescentada uma ressalva sobre viés de seleção (casos europeus e bem-sucedidos), com remissão a g-07. A linha de Bath na tabela do §9 agora diz que as tabuinhas não medem eficácia. A legenda de etiquetas foi atualizada. As teses não mudaram.

@@ -10,7 +10,7 @@ atualizado: 2026-11-08
 # Ritos funerários e destino dos mortos
 
 > Etapa I, frente G (eixos 5.3/5.4). Organizado por **tema**, com exemplos de várias tradições. Não é cânone e não cria nada para o continente.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte conferida · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia ou página de referência · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 > Egito: já tratado em [Pesquisa I, F1 02](../../pesquisa-i/frente-1-ontologias/02-egito-pessoa-morte-e-permanencia.md) (pessoa composta, culto do *ka*, cartas aos mortos, *damnatio memoriae*). Aqui só se remete.
 
 ## 1. Tabela de fontes
@@ -23,7 +23,7 @@ atualizado: 2026-11-08
 | Paul Barber | *Vampires, Burial, and Death: Folklore and Reality* | Yale 1988 | folclore eslavo e balcânico | monografia | tese via Kirkus e resenhas; artigo "Forensic Pathology and the European Vampire" (1987) | web (secundária) |
 | L. Gregoricka et al. | "Apotropaic Practices and the Undead", *PLOS ONE* | 2014 | Polônia pós-medieval (Drawsko 1) | arqueologia/isótopos | resumo e cobertura | web |
 | *Vīdēvdād* (Vendidad) 3, 5–8 | código de pureza avestano | redação sassânida de material mais antigo (datação debatida) | zoroastrismo | primária (trad. Darmesteter, SBE 1880) | 3.14 via citação secundária | web (citação) + memória |
-| Heródoto | *Histórias* I.140 | séc. V a.C. | magos persas | primária | exposição a cães e aves | memória |
+| Heródoto | *Histórias* I.140, trad. G. C. Macaulay (1890) | séc. V a.C. | magos persas | primária em tradução | exposição a cães e aves | **lido** em 2026-11-08 (Projeto Gutenberg #2707) |
 | Peter Brown | *The Cult of the Saints* | 1981 | cristianismo latino tardo-antigo | monografia | tese geral | memória |
 | *Grettis saga*, cap. 32–35 | saga islandesa | séc. XIV (sobre séc. XI) | Islândia nórdica cristianizada | primária | episódio de Glámr | memória |
 
@@ -48,28 +48,28 @@ Todo rito funerário lida com pelo menos quatro coisas que não coincidem no tem
 
 ## 5. Exposição
 
-- `[F]` **Zoroastrismo**: o *Vīdēvdād* trata o cadáver como sede da *nasu* (demônio do cadáver, imaginado como mosca), que contamina quem o toca; prescreve que o corpo seja exposto em lugar elevado e árido, longe de água, fogo e terra cultivada, para cães e aves; carregá-lo sozinho expõe à *nasu* (3.14, via citação). Heródoto (I.140) já diz que os magos expunham cadáveres a aves e cães antes de enterrar (memória).
+- `[F]` **Zoroastrismo**: o *Vīdēvdād* trata o cadáver como sede da *nasu* (demônio do cadáver, imaginado como mosca), que contamina quem o toca; prescreve que o corpo seja exposto em lugar elevado e árido, longe de água, fogo e terra cultivada, para cães e aves; carregá-lo sozinho expõe à *nasu* (3.14, via citação). Heródoto (I.140, trad. Macaulay, conferido) diz que, segundo se conta "como mistério e sem clareza", o corpo de um persa só é enterrado depois de dilacerado por ave ou cão; dos magos ele afirma saber com certeza, porque o fazem abertamente. Os persas, acrescenta, cobrem o corpo com cera e o enterram.
 - `[PP]` A torre (*dakhma*) como edificação só é documentada claramente no início do séc. IX d.C.; antes, exposição em locais naturais e ossuários (*astōdān*). Em Yazd e Kerman, torres funcionaram até a proibição por lei nos anos 1970; entre os parses da Índia, o colapso das populações de abutres (diclofenaco em gado) e a expansão urbana tornaram o sistema disfuncional; parte da comunidade adotou cremação ou enterro, gerando disputa interna.
 - `[S]` Lógica: o problema central não é o destino da alma (que segue para o julgamento na ponte Činwad), é a **poluição**. A técnica protege os elementos bons (fogo, água, terra) do morto. Cremação, que é pureza em outras tradições, aqui seria profanação do fogo.
-- `[F/memória]` Tibete (*jhator*, "dar às aves"): exposição e desmembramento para abutres; justificativas incluem generosidade (último ato de dar) e impermanência; também condicionantes práticos (solo gelado, falta de lenha). Não verificado nesta sessão.
+- `[M]` Tibete (*jhator*, "dar às aves"): exposição e desmembramento para abutres; justificativas incluem generosidade (último ato de dar) e impermanência; também condicionantes práticos (solo gelado, falta de lenha). Não verificado nesta sessão.
 
 ## 6. Cremação
 
-- `[F/memória]` **Ritos védicos e hindus (*antyeṣṭi*, "último sacrifício")**: o corpo é oferecido ao fogo (Agni) como sacrifício; o filho acende a pira e, em muitas tradições regionais, quebra o crânio (*kapāla-kriyā*); seguem-se ritos de *śrāddha* que alimentam o morto (*preta*, "que partiu", ainda instável) até integrá-lo aos ancestrais (*pitṛ*), em geral com oferendas de bolas de arroz (*piṇḍa*). Detalhes variam por região, casta e escola; não verificados.
+- `[M]` **Ritos védicos e hindus (*antyeṣṭi*, "último sacrifício")**: o corpo é oferecido ao fogo (Agni) como sacrifício; o filho acende a pira e, em muitas tradições regionais, quebra o crânio (*kapāla-kriyā*); seguem-se ritos de *śrāddha* que alimentam o morto (*preta*, "que partiu", ainda instável) até integrá-lo aos ancestrais (*pitṛ*), em geral com oferendas de bolas de arroz (*piṇḍa*). Detalhes variam por região, casta e escola; não verificados.
 - `[S]` A estrutura é igual à de Hertz com outro relógio: o corpo some em horas, mas a pessoa leva dias ou um ano para "chegar". O tempo social não acompanha o físico; é **ritualmente construído**.
 - `[S]` Cremação também ocorre em contextos nórdicos pré-cristãos, gregos homéricos, romanos (até o séc. II–III d.C.); a substituição pela inumação em Roma não tem causa consensual (moda, crenças, cristianismo) — divergência registrada de memória.
 
 ## 7. Culto de relíquias
 
 - `[AF]` **Peter Brown (1981)**: no cristianismo latino tardo-antigo, o túmulo do mártir se torna lugar onde "céu e terra se encontram"; o santo morto é patrono presente, com corpo (ou fragmento) que concentra poder. Isso inverte o tabu romano que mantinha os mortos fora da cidade: os mortos especiais passam para dentro das igrejas.
-- `[F/memória]` Consequências institucionais: translações (transporte solene), *furta sacra* (furto de relíquias, estudado por P. Geary, 1978), autenticação por documento e milagre, economia de peregrinação. O corpo fragmentável multiplica a presença sem diluir o poder.
+- `[M]` Consequências institucionais: translações (transporte solene), *furta sacra* (furto de relíquias, estudado por P. Geary, 1978), autenticação por documento e milagre, economia de peregrinação. O corpo fragmentável multiplica a presença sem diluir o poder.
 - `[S]` Relíquias budistas (*śarīra*, estupas) mostram a mesma lógica de corpo distribuído que ancora lugar e legitimidade, com ontologia diferente (não há "santo presente" no mesmo sentido). Semelhança de função, não de doutrina.
 - Ver também arquivo 02 (corpos incorruptos) e arquivo 05 (relíquias falsas).
 
 ## 8. Mortos perigosos e revenants
 
-- `[F]` **Mesopotâmia**: o *eṭemmu* (espectro) depende de oferendas (*kispu*) e água; o morto sem enterro ou sem quem cuide dele assombra e causa doença. Há textos terapêuticos que diagnosticam "mão de fantasma" (memória; ver Scurlock, *Magico-Medical Means of Treating Ghost-Induced Illnesses*, 2006 — não consultado).
-- `[F]` **Grettis saga**: Glámr, pastor morto em circunstâncias anormais, volta como *draugr* corpóreo, mata animais e gente; é vencido em luta corporal, decapitado e queimado, e a cabeça posta junto às nádegas (memória). O revenant nórdico é **corpo pesado**, não espírito.
+- `[M]` **Mesopotâmia**: o *eṭemmu* (espectro) depende de oferendas (*kispu*) e água; o morto sem enterro ou sem quem cuide dele assombra e causa doença. Há textos terapêuticos que diagnosticam "mão de fantasma" (memória; ver Scurlock, *Magico-Medical Means of Treating Ghost-Induced Illnesses*, 2006 — não consultado).
+- `[M]` **Grettis saga**: Glámr, pastor morto em circunstâncias anormais, volta como *draugr* corpóreo, mata animais e gente; é vencido em luta corporal, decapitado e queimado, e a cabeça posta junto às nádegas (memória). O revenant nórdico é **corpo pesado**, não espírito.
 - `[AF]` **Barber (1988)**: o vampiro eslavo/balcânico é uma **hipótese popular sobre a decomposição**. Traços que a tradição lê como prova (corpo inchado, "corado", sangue na boca, unhas e cabelo "crescidos", gemido ao ser perfurado) são efeitos normais de gases, retração da pele e putrefação. O folclore se apoia em observações reais; erra na causa. Barber consultou legistas e patologistas.
 - `[PP]` Crítica comum a Barber (memória; não verificado em resenha específica): explica bem os sinais que confirmam o diagnóstico, menos bem **quem** é escolhido como suspeito (morte súbita, primeira vítima de epidemia, suicida, excomungado, pessoa marginal).
 - `[F]` **Drawsko 1, Polônia (séc. XVII–XVIII)**: de 285 esqueletos, 6 com foice sobre o pescoço/abdome ou pedra sob o queixo. Isótopos de estrôncio mostraram que **todos eram locais**; havia não locais no cemitério, mas não tratados assim. A hipótese "estrangeiro = vampiro" caiu. Os autores sugerem, sem confirmar, ligação com epidemias de cólera (mortes rápidas, primeiras vítimas tidas como causa).
@@ -88,9 +88,9 @@ Todo rito funerário lida com pelo menos quatro coisas que não coincidem no tem
 
 ## 10. Transformações e dissidências
 
-- `[F]` Parses: disputa entre ortodoxos (dakhma) e reformistas (cremação, enterro), agravada pela crise dos abutres; aviários e concentradores solares foram tentados (memória).
-- `[F/memória]` Reforma protestante: ataque ao culto de relíquias e às orações pelos mortos (purgatório), o que muda a relação vivos–mortos de **troca** para **memória**.
-- `[F/memória]` Ilustração: Van Swieten investiga para Maria Teresa os casos vampíricos da Morávia (1755) e os atribui a causas naturais; editais restringem exumações (detalhes não verificados).
+- `[PP: verbete]` (Wikipedia, "Tower of Silence"; scroll.in) Parses: disputa entre ortodoxos (dakhma) e reformistas (cremação, enterro), agravada pela crise dos abutres. `[M]` Aviários e concentradores solares foram tentados.
+- `[M]` Reforma protestante: ataque ao culto de relíquias e às orações pelos mortos (purgatório), o que muda a relação vivos–mortos de **troca** para **memória**.
+- `[M]` Ilustração: Van Swieten investiga para Maria Teresa os casos vampíricos da Morávia (1755) e os atribui a causas naturais; editais restringem exumações (detalhes não verificados).
 
 ## 11. Divergências entre pesquisadores
 
@@ -120,7 +120,7 @@ Todo rito funerário lida com pelo menos quatro coisas que não coincidem no tem
 
 ## 14. Limitações
 
-- Leitura de quase todas as monografias foi indireta (resenhas, resumos); Vendidad e Grettis saga citados de memória.
+- Leitura de quase todas as monografias foi indireta (resenhas, resumos); Vendidad e Grettis saga citados de memória. Heródoto I.140 foi conferido na correção de 2026-11-08.
 - Ásia Oriental, África e Américas pouco representadas aqui (Andes no arquivo 02).
 - Não verificados: intervalo da exumação grega; detalhes de *kapāla-kriyā* e *śrāddha*; investigação de Van Swieten; crítica específica a Barber.
 
@@ -131,3 +131,7 @@ Todo rito funerário lida com pelo menos quatro coisas que não coincidem no tem
 - Secondary burial / Hertz: https://www.wikipedia.org/wiki/Secondary_burial ; https://granta.com/?p=99821
 - Danforth, Princeton UP: https://press.princeton.edu/node/55811
 - Tower of Silence (síntese com fontes): https://en.wikipedia.org/wiki/Tower_of_Silence ; https://scroll.in/article/1000017/
+
+---
+
+Correções de 2026-11-08: 8 `[F]` passaram a `[M]`: os 6 `[F/memória]` (*jhator*, *antyeṣṭi*, consequências institucionais das relíquias, Reforma, Van Swieten e aviários parses) e os 2 `[F]` com "memória" no texto (*eṭemmu* e Glámr). A disputa parse passou a `[PP: verbete]`. Heródoto I.140 foi lido em tradução (Macaulay) e mantém `[F]`; o trecho foi ajustado ao texto, que distingue o rumor sobre os persas da certeza sobre os magos. A tabela de fontes e a legenda foram atualizadas. As teses não mudaram.

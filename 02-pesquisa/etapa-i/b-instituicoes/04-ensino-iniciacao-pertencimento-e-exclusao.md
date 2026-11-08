@@ -15,16 +15,16 @@ Frente `b-instituicoes/` · eixo 5.6 (instituições de ensino, ordens iniciáti
 
 O *método* de ensino (memorização védica, isnād/ijāza, lectio/disputatio, guilda, tácito) já está em [Pesquisa I, F4/03](../../pesquisa-i/frente-4-epistemologias/03-transmissao-validacao-e-tacito.md). Aqui: **portas, filtros, credenciais e o que se ganha ao passar.**
 
-Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisador posterior · `[S]` síntese · `[HF]` hipótese ficcional.
+Etiquetas: `[F]` fonte conferida · `[AF]` autor da fonte · `[PP]` pesquisador posterior · `[PP: verbete]` paráfrase de enciclopédia ou página de referência · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 
 ## 1. Tabela de fontes
 
 | Autoria | Título | Data | Tradição | Tipo | Trechos | Leitura |
 |---|---|---|---|---|---|---|
 | W. Burkert | *Ancient Mystery Cults* | 1987 | Grécia/Roma | monografia | — | de memória |
-| *Hino Homérico a Deméter* | — | séc. VII–VI a.C. | Grécia | primária | v. 476–482 (bem-aventurança dos iniciados) | de memória |
-| Tucídides VI.27–28; Andócides, *Sobre os mistérios* | profanação dos mistérios | 415 a.C. / 399 a.C. | Atenas | primária | — | de memória |
-| Sahagún, *Códice Florentino* liv. III (apêndice), VI, VIII; trad. Anderson & Dibble | calmecac e telpochcalli | c. 1575–77 | mexica | primária colonial | — | de memória; resumos via busca |
+| *Hino Homérico a Deméter*, trad. H. G. Evelyn-White (Loeb, 1914) | — | séc. VII–VI a.C. | Grécia | primária em tradução | v. 476–482 (bem-aventurança dos iniciados) | **lido** em 2026-11-08 (Projeto Gutenberg #348) |
+| Tucídides VI.27–28, 61, trad. R. Crawley; Andócides, *Sobre os mistérios* | profanação dos mistérios | 415 a.C. / 399 a.C. | Atenas | primária em tradução | denúncia de paródias em casas privadas; recompensas; condenação à morte dos foragidos | Tucídides **lido** em 2026-11-08 (Gutenberg #7142); Andócides não lido |
+| Sahagún, *Códice Florentino* liv. III (apêndice), VI, VIII; trad. Anderson & Dibble | calmecac e telpochcalli | pesquisa c. 1545–1577; códice final c. 1575–77 | mexica | primária colonial | — | de memória; resumos via busca (secundárias não identificadas) |
 | G. Makdisi | *The Rise of Colleges* | 1981 | islã/latinidade | monografia | — | de memória |
 | M. Chamberlain | *Knowledge and Social Practice in Medieval Damascus, 1190–1350* | 1994 | islã (Damasco) | monografia | — | de memória |
 | B. Elman | *A Cultural History of Civil Examinations in Late Imperial China* (2000); *Civil Examinations and Meritocracy* (2013) | — | China | monografias | descrições | de memória; fim em 1905 confirmado via busca |
@@ -42,14 +42,14 @@ Mistérios gregos (Elêusis), escola de escribas mesopotâmica (só de passagem)
 
 - `[PP]` Burkert (1987): os mistérios gregos (Elêusis, Samotrácia, depois Ísis e Mitra) eram **iniciações pessoais voluntárias** que se **somavam** à religião cívica, não a substituíam. Não havia doutrina escrita nem comunidade separada depois do rito (com exceções, como Mitra, que formava grupos com graus).
 - `[PP]` Em Elêusis a admissão era ampla: homens, mulheres e escravos que falassem grego e não estivessem manchados por homicídio (proclamação de exclusão no início do rito). Os cargos eram hereditários de dois *genē* (Eumólpidas e Kérykes), sob supervisão da pólis ateniense (arquivo 01).
-- `[F]` O *Hino Homérico a Deméter* promete aos iniciados uma sorte melhor após a morte que a dos não iniciados.
-- `[F]` Em 415 a.C., a acusação de que Alcibíades e outros haviam **parodiado os mistérios** em casas privadas (junto com a mutilação das hermas) gerou inquéritos, denúncias com recompensa, fugas e condenações à morte (Tucídides, Andócides). O segredo era **lei da cidade**, não só regra do culto.
+- `[F]` O *Hino Homérico a Deméter* (v. 480–482, trad. Evelyn-White) diz feliz quem viu os mistérios; o não iniciado "nunca tem sorte igual" depois de morto, na escuridão. Os mistérios são ritos que ninguém pode transgredir, investigar ou divulgar.
+- `[F]` Em 415 a.C., a acusação de que Alcibíades e outros haviam **parodiado os mistérios** em casas privadas (junto com a mutilação das hermas) gerou inquéritos, denúncias com recompensa, fugas e condenações à morte (Tucídides VI.27–28 e 61, conferido; Andócides não lido). O segredo era **lei da cidade**, não só regra do culto.
 - `[S]` Estrutura: muitos iniciados, nenhum ensino discursivo, segredo protegido pelo Estado. O segredo durou: ainda hoje não se sabe ao certo o que era mostrado.
 
 ## 4. Escolas de formação de elites rituais
 
 **Mexicas**
-- `[F]` (Sahagún, via secundárias) Duas instituições: o *telpochcalli* ("casa dos jovens"), de bairro, formava para a guerra e o serviço público; o *calmecac*, ligado a templos, formava sacerdotes e dirigentes, com disciplina severa, vigílias, autossacrifício, aprendizagem de cantos, calendário e leitura de códices. Nem todos os alunos do *calmecac* seguiam o sacerdócio. Ingresso por promessa dos pais; o *calmecac* era sobretudo, mas não exclusivamente, para filhos de nobres.
+- `[M]` (Sahagún, via secundárias não identificadas) Duas instituições: o *telpochcalli* ("casa dos jovens"), de bairro, formava para a guerra e o serviço público; o *calmecac*, ligado a templos, formava sacerdotes e dirigentes, com disciplina severa, vigílias, autossacrifício, aprendizagem de cantos, calendário e leitura de códices. Nem todos os alunos do *calmecac* seguiam o sacerdócio. Ingresso por promessa dos pais; o *calmecac* era sobretudo, mas não exclusivamente, para filhos de nobres. Esta é a formulação de referência da Etapa I sobre o acesso ao *calmecac*; f-03 a resume como "para nobres e sacerdotes", e a divergência é só de ênfase (revisão crítica §3, frente B).
 - `[PP]` A formação do *calmecac* reproduzia uma elite letrada (pintura de códices, cômputo calendárico), enquanto o *telpochcalli* dava acesso à ascensão militar: dois caminhos de mobilidade com prestígios diferentes.
 
 **Mesopotâmia**
@@ -77,14 +77,14 @@ Mistérios gregos (Elêusis), escola de escribas mesopotâmica (só de passagem)
 
 ## 8. Sociedades iniciáticas que governam: Poro e Sande (com cautela)
 
-- `[F]` (Bellman 1984, via resumos; relatórios de país) Poro (masculina) e Sande (feminina; *Bondo* em partes de Serra Leoa) são sociedades presentes na Libéria, Serra Leoa e Costa do Marfim entre vários povos (Kpelle, Mende, Gola, Vai e outros). A iniciação ocorre em acampamentos na floresta ("escola do mato"), com reclusão, ensino de ofícios, normas e **segredo**.
+- `[PP]` (Bellman 1984, via resumos; relatórios de país) Poro (masculina) e Sande (feminina; *Bondo* em partes de Serra Leoa) são sociedades presentes na Libéria, Serra Leoa e Costa do Marfim entre vários povos (Kpelle, Mende, Gola, Vai e outros). A iniciação ocorre em acampamentos na floresta ("escola do mato"), com reclusão, ensino de ofícios, normas e **segredo**.
 - `[AF]` Bellman analisa o segredo como **prática comunicativa**: o que se aprende é sobretudo *como guardar e como revelar adequadamente*; o conteúdo "secreto" importa menos que a competência de manejá-lo. O *zo* é descrito como a estrutura sagrada que dirige Poro e Sande.
 - `[PP]` Em muitas localidades, só iniciados participam de decisões da aldeia; a sociedade é, ao mesmo tempo, instituição de passagem à vida adulta, jurídica e política. A Sande é uma das raras tradições em que **mulheres usam máscaras** rituais (a máscara *sowei* mende), o que contraria a generalização de que só homens mascaram.
 - **Cautelas**: (1) são tradições vivas, com segredo imposto aos membros; o que se publica é parcial e muitas vezes vem de quem não deveria revelar. (2) A Sande inclui, em muitos lugares, excisão genital feminina, objeto de campanhas e legislação e de debate dentro dos próprios países; não apagar nem exotizar. (3) Os relatórios citados são de asilo e refúgio, com viés para o conflito (iniciação forçada, ameaças), não representativos do cotidiano. (4) Não há "o Poro": há variações por povo e região.
 
 ## 9. Fechamentos por nascimento e corporação
 
-- `[F]` Manu (II, X, de memória): o estudo do Veda e a iniciação com o cordão (*upanayana*) são para os "duas vezes nascidos" (brâmanes, kṣatriyas, vaiśyas); o *śūdra* é excluído; a recitação védica diante de śūdras era proibida. Mulheres, na norma de Manu, não recebem iniciação védica. Contrapontos: budismo e jainismo admitiam todas as castas na ordem; movimentos devocionais (*bhakti*) produziram santos de castas baixas.
+- `[M]` Manu (II, X): o estudo do Veda e a iniciação com o cordão (*upanayana*) são para os "duas vezes nascidos" (brâmanes, kṣatriyas, vaiśyas); o *śūdra* é excluído; a recitação védica diante de śūdras era proibida. Mulheres, na norma de Manu, não recebem iniciação védica. Contrapontos: budismo e jainismo admitiam todas as castas na ordem; movimentos devocionais (*bhakti*) produziram santos de castas baixas.
 - `[PP]` Ogilvie (2019) sobre guildas: exclusão sistemática de mulheres (depois de períodos de maior abertura), judeus, filhos ilegítimos, migrantes; preferência a filhos e genros de mestres; taxas de entrada e obra-prima caras como barreira. Epstein (ver F4/03) enfatiza, em contraste, a circulação de saber.
 
 ## 10. Transformações e dissidências
@@ -112,7 +112,7 @@ Mistérios gregos (Elêusis), escola de escribas mesopotâmica (só de passagem)
 8. **Iniciação que confere voz política**: só iniciados decidem pela comunidade.
 9. **Corporação de saber com direito de greve e migração** frente ao poder local.
 
-> 💡 `[HF]` Uma instituição que restringe a prática pode ter, entre seus maiores adversários, não os praticantes clandestinos, mas a **massa de candidatos reprovados** nos seus próprios exames, que sabem o suficiente para praticar e não têm licença.
+> 💡 `[HF]` Uma corporação de mestres com direito de greve e de migração (como Paris em 1229–31) pode punir uma cidade simplesmente indo embora. Com ela partem copistas, hospedeiros, livreiros e a renda dos estudantes, e a cidade que a hostilizou passa a negociar privilégios para tê-la de volta. O poder da corporação está na **portabilidade** da sua licença, não em nenhum saber secreto.
 
 ## 13. Riscos de caricatura
 
@@ -123,6 +123,10 @@ Mistérios gregos (Elêusis), escola de escribas mesopotâmica (só de passagem)
 
 ## 14. Limitações
 
-- Quase todas as fontes de memória; Bellman e Poro/Sande só via resumos e relatórios de refúgio.
+- Quase todas as fontes de memória (marcadas `[M]` desde 2026-11-08); Bellman e Poro/Sande só via resumos e relatórios de refúgio. O *Hino a Deméter* e Tucídides foram conferidos em tradução na correção.
 - Mecanismos de anonimato do exame Song não verificados em fonte acadêmica nesta sessão.
 - Sem casos de iniciação em sociedades de pequena escala fora da África Ocidental (ver frentes `f-` e `g-`).
+
+---
+
+Correções de 2026-11-08: 2 `[F]` passaram a `[M]` (escolas mexicas via Sahagún e Manu II e X). O *Hino Homérico a Deméter* e Tucídides VI.27–28 e 61 foram conferidos em tradução online e mantêm `[F]`, agora com referência. Poro e Sande via Bellman passaram a `[PP]`, pois o livro foi lido só em resumos. A data de Sahagún foi padronizada (pesquisa c. 1545–1577; códice final c. 1575–77) e a formulação prudente sobre o *calmecac* foi fixada como referência. A HF1, que partia de "uma instituição que restringe a prática", foi reescrita sobre a corporação com direito de migração (revisão crítica §2.4). A tabela de fontes e a legenda foram atualizadas. As teses não mudaram.

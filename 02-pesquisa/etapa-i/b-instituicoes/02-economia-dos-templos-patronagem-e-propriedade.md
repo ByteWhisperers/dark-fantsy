@@ -13,7 +13,7 @@ Frente `b-instituicoes/` · eixo 5.6 (economia dos templos, sistemas de patronag
 
 **Pergunta:** de que vivem as instituições do sagrado e do saber, quem as paga, o que elas possuem, e o que acontece quando acumulam demais?
 
-Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisador posterior · `[S]` síntese · `[HF]` hipótese ficcional.
+Etiquetas: `[F]` fonte conferida · `[AF]` autor da fonte · `[PP]` pesquisador posterior · `[PP: verbete]` paráfrase de enciclopédia ou página de referência · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 
 ## 1. Tabela de fontes
 
@@ -26,7 +26,7 @@ Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisador posterior 
 | A. H. Gardiner (ed.) | *The Wilbour Papyrus* | 1941–52 | Egito | primária editada | — | de memória; dados via secundárias |
 | G. Schopen | *Buddhist Monks and Business Matters* (2004); "Doing Business for the Lord", *JAOS* 114(4): 527–554 | 1994/2004 | budismo indiano | estudos (Vinaya Mūlasarvāstivāda, inscrições) | descrições e resumos | lido via resumos e entrevista UCLA |
 | J. Gernet | *Buddhism in Chinese Society: An Economic History* | 1956/1995 | China | monografia | — | de memória |
-| — | Huichang (842–845), relatório do Bureau de Culto | séc. IX | China Tang | primária (via historiografia) | números | lido via resumos (Wikipedia e outras) |
+| — | Huichang (842–845), relatório do Bureau de Culto | séc. IX | China Tang | primária (via historiografia) | números | lido via resumos (Wikipedia e outras); por isso `[PP: verbete]` |
 | J. Heitzman | *Gifts of Power: Lordship in an Early Indian State* | 1997 | Índia Chola | monografia | — | de memória |
 | B. Cobo; Garcilaso de la Vega | *Historia del Nuevo Mundo* (1653); *Comentarios Reales* (1609) | séc. XVII | Andes | crônicas coloniais | — | de memória; tripartição via resumos (inclui Métraux) |
 | J. V. Murra | *La organización económica del Estado inca* | 1955/1978 | Andes | monografia | — | de memória |
@@ -44,15 +44,15 @@ Estudados: Suméria (terceiro milênio) e Babilônia tardia; Egito ramessida; bu
 
 ## 4. Egito: doação real e terras divinas
 
-- `[F]` O Papiro Harris I (fim do reinado de Ramsés III, séc. XII a.C.) é o registro oficial das **doações do rei** a vários templos: terras, gado, trabalhadores, navios, metais. Resumos atribuem ao domínio de Amon em Tebas a maior parte (cerca de 80% da terra e 86% do gado **das doações aos templos**, não do país). O Papiro Wilbour (Ramsés V) é um cadastro de cerca de 2.800 lotes em uma região do Médio Egito. Estimativas da parcela das terras cultiváveis do país em mãos de templos variam muito (uma secundária dá 13–18%; não verifiquei em fonte acadêmica).
+- `[M]` (edições de Grandet e Gardiner não consultadas; números via secundárias não identificadas) O Papiro Harris I (fim do reinado de Ramsés III, séc. XII a.C.) é o registro oficial das **doações do rei** a vários templos: terras, gado, trabalhadores, navios, metais. Resumos atribuem ao domínio de Amon em Tebas a maior parte (cerca de 80% da terra e 86% do gado **das doações aos templos**, não do país). O Papiro Wilbour (Ramsés V) é um cadastro de cerca de 2.800 lotes em uma região do Médio Egito. Estimativas da parcela das terras cultiváveis do país em mãos de templos variam muito (uma secundária dá 13–18%; não verifiquei em fonte acadêmica).
 - `[PP]` Ponto estrutural: a riqueza do templo vinha de **doação real**, era administrada por funcionários-sacerdotes e redistribuída (rações, oferendas revertidas ao pessoal). O rei doava para legitimar-se (arquivo 03), mas a doação criava um poder concorrente; a ascensão dos sumos sacerdotes de Amon na 21ª dinastia é frequentemente lida nesse sentido.
 
 ## 5. Budismo: renúncia que precisa de dinheiro
 
-- `[F]` Ideal do Vinaya Pāli: o monge não toca em ouro e prata e vive de esmola.
+- `[M]` Ideal do Vinaya Pāli: o monge não toca em ouro e prata e vive de esmola.
 - `[PP]` Schopen (1994, 2004), lendo o Vinaya Mūlasarvāstivāda e inscrições indianas: o mesmo corpus jurídico prevê **contratos escritos de empréstimo a juros**, com testemunhas, para **fundos permanentes** doados ao mosteiro. Doadores cobravam: se deram uma doação perpétua, por que a obra não anda? As inscrições anunciavam publicamente que mosteiros tinham grandes somas aplicadas para gerar renda. Schopen sustenta que o monaquismo indiano era muito mais proprietário do que o ideal textual sugeria. Há quem considere que ele generaliza a partir de um Vinaya específico.
 - `[PP]` Gernet (1956): na China medieval, mosteiros acumularam terras, moinhos, prensas de óleo, casas de penhor e servos; a isenção fiscal dos monges e a doação de terras tiravam recursos do fisco.
-- `[F]` Em 845, o imperador Wuzong (Tang) concluiu uma campanha iniciada em 842: o relatório do Bureau de Culto contava 4.600 mosteiros, 40.000 eremitérios e 260.500 monges e monjas, que foram devolvidos à condição de **contribuintes**; imagens de metal foram confiscadas. O sucessor interrompeu a campanha em 846. (Números via historiografia resumida; fonte primária não lida.)
+- `[PP: verbete]` Em 845, o imperador Wuzong (Tang) concluiu uma campanha iniciada em 842: o relatório do Bureau de Culto contava 4.600 mosteiros, 40.000 eremitérios e 260.500 monges e monjas, que foram devolvidos à condição de **contribuintes**; imagens de metal foram confiscadas. O sucessor interrompeu a campanha em 846. (Números via historiografia resumida; fonte primária não lida.)
 - `[S]` A perseguição de Huichang é **também** um confisco fiscal. Motivo doutrinal (taoismo do imperador, xenofobia) e motivo econômico coexistem; separar um do outro é um debate, não um dado.
 
 ## 6. Templos hindus como bancos e redistribuidores
@@ -73,12 +73,12 @@ Estudados: Suméria (terceiro milênio) e Babilônia tardia; Egito ramessida; bu
 
 - `[PP]` Mosteiros beneditinos recebiam terras de nobres em troca de **orações perpétuas pelos mortos** do doador (memória litúrgica). Cluny (fundada 910) recebeu isenção da autoridade episcopal local e subordinação direta a Roma: patronagem que comprava autonomia.
 - `[PP]` Os cistercienses (séc. XII) recusaram rendas senhoriais e dízimos em princípio e exploraram terras diretamente com irmãos leigos (*conversi*) em granjas; tornaram-se grandes produtores de lã. O ideal de pobreza gerou eficiência, e a eficiência gerou riqueza: ciclo de reforma e acumulação.
-- `[F]` Na Inglaterra, o levantamento *Valor Ecclesiasticus* (1535) avaliou as rendas eclesiásticas; os mosteiros foram dissolvidos entre 1536 e 1541 e suas terras passaram à Coroa e depois, por venda, à nobreza e à gentry (de memória). Justificativa oficial: corrupção moral (visitações de 1535); efeito: transferência maciça de terras e criação de uma classe interessada em não devolvê-las.
+- `[M]` Na Inglaterra, o levantamento *Valor Ecclesiasticus* (1535) avaliou as rendas eclesiásticas; os mosteiros foram dissolvidos entre 1536 e 1541 e suas terras passaram à Coroa e depois, por venda, à nobreza e à gentry (de memória). Justificativa oficial: corrupção moral (visitações de 1535); efeito: transferência maciça de terras e criação de uma classe interessada em não devolvê-las.
 
 ## 9. Andes: terra do Sol, trabalho como tributo
 
-- `[F]` Cronistas (Garcilaso, Cobo) descrevem a terra agrícola e os rebanhos divididos em três partes: do Sol (culto), do Inca (Estado) e das comunidades. A *mit'a* incluía trabalhar as terras do Estado e do Sol por certo número de dias.
-- `[PP]` Métraux e outros alertam que o quadro vem sobretudo de Garcilaso e que cronistas liam o Império com categorias europeias; as proporções **variavam por província** e não eram terços iguais. Murra enfatizou que o tributo era em **trabalho**, não em produto, e que o Estado devolvia em festas e redistribuição (reciprocidade assimétrica). O debate sobre "socialismo" ou "despotismo" inca (títulos da historiografia do séc. XX) projeta categorias modernas.
+- `[M]` Cronistas (Garcilaso, Cobo) descrevem a terra agrícola e os rebanhos divididos em três partes: do Sol (culto), do Inca (Estado) e das comunidades. A *mit'a* incluía trabalhar as terras do Estado e do Sol por certo número de dias.
+- `[PP]` Métraux e outros alertam que o quadro vem sobretudo de Garcilaso e que cronistas liam o Império com categorias europeias; as proporções **variavam por província** e não eram terços iguais. Murra (dossiê de referência para Murra e a verticalidade: [f-04](../f-africa-americas-folclore/04-andes-e-amazonia.md)) enfatizou que o tributo era em **trabalho**, não em produto, e que o Estado devolvia em festas e redistribuição (reciprocidade assimétrica). O debate sobre "socialismo" ou "despotismo" inca (títulos da historiografia do séc. XX) projeta categorias modernas.
 - `[S]` "Terra do Sol" significa que a divindade é **titular de um campo trabalhado por corveia**, não que haja uma igreja separada; o culto é rubrica do orçamento estatal.
 
 ## 10. Patronagem: o que o doador compra
@@ -117,7 +117,7 @@ Estudados: Suméria (terceiro milênio) e Babilônia tardia; Egito ramessida; bu
 6. **Arquivo institucional que distorce**: o que sobrevive é o registro do templo, e o observador superestima seu peso.
 7. **Lavagem pelo sagrado**: bem de origem duvidosa vira intocável ao ser consagrado.
 
-> 💡 `[HF]` Uma instituição que restringe certas práticas pode ser economicamente sustentada por dotações perpétuas cujas estipulações, feitas séculos antes, a obrigam a financiar exatamente o tipo de estudo que hoje condena.
+> 💡 `[HF]` Uma dotação perpétua pode obrigar, séculos depois, a manter um serviço que a cidade já não usa (um farol de porto assoreado, uma escola de uma língua que ninguém fala), enquanto os descendentes do fundador vivem do salário de administradores. Mudar a finalidade exige um juiz que aceite "substituir" o bem; recusar a mudança dá ao Estado o argumento de ineficiência para confiscar. A disputa é entre herdeiros, juízes e fisco, sem vilão doutrinal.
 
 > 💡 `[HF]` Um Estado em crise fiscal pode justificar um confisco de bens consagrados com uma acusação doutrinal, e historiadores do próprio mundo podem discordar sobre qual motivo foi o real.
 
@@ -130,6 +130,10 @@ Estudados: Suméria (terceiro milênio) e Babilônia tardia; Egito ramessida; bu
 
 ## 15. Limitações
 
-- Só o artigo de Kuran foi lido no original nesta sessão; demais dados vêm de resumos ou memória.
+- Só o artigo de Kuran foi lido no original nesta sessão; demais dados vêm de resumos ou memória (marcados `[M]` desde a correção de 2026-11-08).
 - Percentuais egípcios e taxas de juros Chola não verificados.
 - Fora do recorte: templos gregos como depósitos e bancos, economia monástica tibetana e japonesa (*shōen* de templos, monges armados), economia de terreiros e casas de culto afro-diaspóricas.
+
+---
+
+Correções de 2026-11-08: 4 `[F]` passaram a `[M]` (Papiro Harris I e Wilbour, regra do Vinaya sobre ouro e prata, *Valor Ecclesiasticus*, tripartição andina segundo os cronistas) e 1 a `[PP: verbete]` (números de Huichang, lidos via Wikipedia e resumos). Os `[F]` de Kuran (lido no original) foram mantidos. A HF1, que partia de "uma instituição que restringe certas práticas", foi reescrita sobre a rigidez do *waqf* e da dotação perpétua (revisão crítica §2.4). Foi acrescentada uma remissão a f-04 para Murra. A legenda de etiquetas foi atualizada. As teses não mudaram.

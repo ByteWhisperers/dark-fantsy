@@ -15,7 +15,7 @@ Frente `b-instituicoes/` · eixo 5.6 (sacerdócios, ordens, linhagens, autoridad
 
 A transmissão do saber em si (guilda, paramparā, ijāza, disputatio, tácito) já está em [Pesquisa I, F4/03](../../pesquisa-i/frente-4-epistemologias/03-transmissao-validacao-e-tacito.md). Aqui o foco é **o cargo e a posição social**, não o método de ensino.
 
-Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisador posterior · `[S]` síntese · `[HF]` hipótese ficcional.
+Etiquetas: `[F]` fonte conferida · `[AF]` autor da fonte · `[PP]` pesquisador posterior · `[PP: verbete]` paráfrase de enciclopédia ou página de referência · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 
 ## 1. Tabela de fontes
 
@@ -31,9 +31,11 @@ Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisador posterior 
 | P. Olivelle | *The Āśrama System* | 1993 | Índia | monografia | — | de memória |
 | R. Gombrich | *Theravāda Buddhism* | 1988/2006 | budismo | monografia | — | de memória |
 | W. Bascom | *Ifa Divination* | 1969 | iorubá | etnografia | — | de memória; formação longa sob um *oluwo* confirmada por busca (fontes fracas) |
-| Sahagún / trad. Anderson & Dibble | *Códice Florentino*, liv. III, VI, VIII | c. 1575–77 | mexica | primária (colonial) | — | de memória; dados de cargos via busca (secundárias) |
+| Sahagún / trad. Anderson & Dibble | *Códice Florentino*, liv. III, VI, VIII | pesquisa c. 1545–1577; códice final c. 1575–77 | mexica | primária (colonial) | — | de memória; dados de cargos via busca (secundárias não identificadas) |
 | Britannica | "Inca religion" | — | Andes | referência | resumo | lido via busca |
-| O. Davies | *Popular Magic: Cunning-folk in English History* | 2003/2007 | Inglaterra | monografia | — | de memória |
+| O. Davies | *Popular Magic: Cunning-folk in English History* | 2003/2007 | Inglaterra | monografia | — | de memória; dossiê de referência para *cunning folk*: [f-05 §3.3](../f-africa-americas-folclore/05-folclores-e-curas-populares.md) |
+| *Vinaya Piṭaka*, *Mahāvagga* I e V.13, trad. T. W. Rhys Davids e H. Oldenberg (*Sacred Books of the East* 13 e 17) | regra do quórum de ordenação | 1881–82 (texto canônico pāli) | budismo Theravāda | primária em tradução | quórum de dez; exceção de cinco em regiões de fronteira | **lido** em excerto (wisdomlib.org; Wikipitaka, Mv 5.13), conferido em 2026-11-08 |
+| UNESCO | "Ifa divination system", Lista Representativa do Patrimônio Imaterial | 2005/2008 | iorubá | registro patrimonial | página oficial | **lido** (ich.unesco.org), conferido em 2026-11-08 |
 | M. Weber | *Economia e sociedade* (sociologia da religião) | 1922 | teoria | clássico | — | de memória |
 
 ## 2. Recortes
@@ -58,14 +60,14 @@ Estudados: Mesopotâmia (paleobabilônico ao neobabilônico; corte neoassíria),
 ## 4. Templos como casas de deuses: Mesopotâmia e Egito
 
 **Mesopotâmia**
-- `[F]` O templo era a "casa" (é/bītu) do deus; o pessoal servia o deus como serviçais de um senhor (vestir, alimentar a estátua). Cargos: administradores (*šangû*), alta sacerdotisa/sacerdote (*ēnu/entu*), lamentadores (*kalû*), purificadores, e muitos ofícios (padeiros, cervejeiros) que também eram cargos do templo.
+- `[M]` O templo era a "casa" (é/bītu) do deus; o pessoal servia o deus como serviçais de um senhor (vestir, alimentar a estátua). Cargos: administradores (*šangû*), alta sacerdotisa/sacerdote (*ēnu/entu*), lamentadores (*kalû*), purificadores, e muitos ofícios (padeiros, cervejeiros) que também eram cargos do templo.
 - `[PP]` Waerzeggers (2010), sobre o Ezida de Borsippa (séc. VII–V a.C.): o serviço do templo era dividido em **prebendas** (frações de dias de serviço e da renda correspondente: porções das oferendas), que se **herdavam, dividiam, vendiam e arrendavam**. Um "sacerdote" podia ter direito a frações de dia em vários ofícios. Ser prebendado era também status cívico: a elite urbana se definia por ter acesso ao templo.
-- `[F]` (SAA X, via Oracc) Na corte neoassíria, os **eruditos** (*ummânū*) não eram sacerdotes de templo, mas especialistas do rei: escriba-astrólogo (*ṭupšarru*, intérprete de *Enūma Anu Enlil*), arúspice (*bārû*), exorcista-ritualista (*āšipu*, tradução "exorcista" considerada estreita demais), médico (*asû*) e lamentador (*kalû*). Cerca de mil cartas desses eruditos sobrevivem; um memorando de Assurbanípal lista 45 eruditos; um círculo interno de cerca de 16. Uma família reivindicou o posto de *ummânu* desde Assurnasirpal II.
+- `[PP: verbete]` (resumo da página Oracc "Assyrian scholarly professions", que parafraseia SAA X; página fora do ar no fetch, lida via busca) Na corte neoassíria, os **eruditos** (*ummânū*) não eram sacerdotes de templo, mas especialistas do rei: escriba-astrólogo (*ṭupšarru*, intérprete de *Enūma Anu Enlil*), arúspice (*bārû*), exorcista-ritualista (*āšipu*, tradução "exorcista" considerada estreita demais), médico (*asû*) e lamentador (*kalû*). Cerca de mil cartas desses eruditos sobrevivem; um memorando de Assurbanípal lista 45 eruditos; um círculo interno de cerca de 16. Uma família reivindicou o posto de *ummânu* desde Assurnasirpal II.
 - `[PP]` Parpola e outros mostram, nas cartas, **competição e denúncia mútua** entre eruditos (acusar o colega de interpretar errado um presságio), e dependência do favor do rei. O saber era familiar (colofões registram linhagens de escribas), mas o cargo dependia do palácio.
 
 **Egito**
-- `[F]` Títulos principais: *ḥm-nṯr* ("servo do deus", traduzido "profeta" pelos gregos), *wꜥb* ("puro", grau de entrada, maioria do pessoal), *ẖry-ḥb* (sacerdote-leitor, letrado, recitava os textos rituais e funerários), *ỉt-nṯr* ("pai do deus").
-- `[F]` Grande parte do pessoal servia em **turnos rotativos** (*phylai*, termo grego para as "equipes"), voltando à vida civil fora do turno. **Ponto não resolvido nas fontes que consultei:** uma fonte fala em quatro phylai servindo um mês lunar cada; outra em um mês a cada quatro; outra (Frankfort, via encyclopedia.com) em três meses por ano. Lembro (não verificado) que o Decreto de Canopo (238 a.C.) acrescentou uma quinta phyle.
+- `[M]` Títulos principais: *ḥm-nṯr* ("servo do deus", traduzido "profeta" pelos gregos), *wꜥb* ("puro", grau de entrada, maioria do pessoal), *ẖry-ḥb* (sacerdote-leitor, letrado, recitava os textos rituais e funerários), *ỉt-nṯr* ("pai do deus").
+- `[PP: verbete]` (worldhistory.org; encyclopedia.com "Temple Personnel") Grande parte do pessoal servia em **turnos rotativos** (*phylai*, termo grego para as "equipes"), voltando à vida civil fora do turno. **Ponto não resolvido nas fontes que consultei:** uma fonte fala em quatro phylai servindo um mês lunar cada; outra em um mês a cada quatro; outra (Frankfort, via encyclopedia.com) em três meses por ano. Lembro (não verificado) que o Decreto de Canopo (238 a.C.) acrescentou uma quinta phyle.
 - `[PP]` Sauneron (1957): o sacerdócio comum era **ofício de meio expediente** e muitas vezes hereditário, mas o rei, teoricamente o único sacerdote, nomeava os altos cargos. Na 21ª dinastia, os sumos sacerdotes de Amon em Tebas exerceram poder de fato sobre o Alto Egito (arquivo 03).
 
 `[S]` Nos dois casos, "sacerdote" designa sobretudo **um servidor de uma casa divina com rendas**, não um pregador nem um guia de fiéis. O povo comum não entrava no santuário; a religião doméstica e os especialistas de rua eram outro circuito.
@@ -78,13 +80,13 @@ Estudados: Mesopotâmia (paleobabilônico ao neobabilônico; corte neoassíria),
 
 ## 6. Índia: varṇa, linhagem textual e renúncia
 
-- `[F]` A literatura védica divide o ritual *śrauta* entre especialistas com textos diferentes: *hotṛ* (Ṛgveda, recitação), *udgātṛ* (Sāmaveda, canto), *adhvaryu* (Yajurveda, ações), *brahman* (supervisão). Cada família brâmane pertence a um **gotra** (linhagem patrilinear atribuída a um sábio) e tradicionalmente a uma **śākhā** (escola de recitação de um Veda).
+- `[M]` A literatura védica divide o ritual *śrauta* entre especialistas com textos diferentes: *hotṛ* (Ṛgveda, recitação), *udgātṛ* (Sāmaveda, canto), *adhvaryu* (Yajurveda, ações), *brahman* (supervisão). Cada família brâmane pertence a um **gotra** (linhagem patrilinear atribuída a um sábio) e tradicionalmente a uma **śākhā** (escola de recitação de um Veda).
 - `[PP]` Fuller (1984), sobre os sacerdotes Ādiśaiva do templo de Mīnākṣī em Madurai: os **sacerdotes de templo** (que tocam a imagem e recebem oferendas pagas) eram, em hierarquias brâmanes, de **status inferior** a brâmanes que não serviam em templo; servir por pagamento contaminava. Ou seja, ser da casta sacerdotal e exercer o sacerdócio não coincidem.
 - `[PP]` Olivelle (1993): o renunciante (*saṃnyāsin*) sai da ordem social e ritual, abandona o fogo doméstico, e paradoxalmente ganha autoridade espiritual que o brâmane de família não tem. O sistema dos *āśrama* foi uma tentativa brâmane de **domesticar** a renúncia como etapa da vida.
 
 ## 7. Saṅgha: comunidade sem sacerdotes, validade por quórum
 
-- `[F]` O Vinaya Pāli define a ordenação plena (*upasampadā*) como ato da comunidade: exige um quórum de monges (dez; cinco em regiões de fronteira), procedimento formal e ausência de impedimentos. A comunidade recita o código disciplinar (*pātimokkha*) a cada quinzena (*uposatha*); quem faz *uposatha* separado está em **cisma** (*saṅghabheda*).
+- `[F]` (*Mahāvagga* I e V.13, trad. Rhys Davids e Oldenberg) O Vinaya Pāli define a ordenação plena (*upasampadā*) como ato da comunidade: exige um quórum de dez monges; em regiões de fronteira bastam quatro além do presidente, que deve ser versado no Vinaya (cinco ao todo). `[M]` Exige também procedimento formal e ausência de impedimentos; a comunidade recita o código disciplinar (*pātimokkha*) a cada quinzena (*uposatha*); quem faz *uposatha* separado está em **cisma** (*saṅghabheda*).
 - `[PP]` Gombrich (1988): o monge não é sacerdote mediador entre homem e deus; é renunciante sustentado por leigos, e o leigo ganha mérito ao doar. A instituição vive dessa troca (arquivo 02).
 - `[PP]` Consequência estrutural: a validade depende de **cadeia ininterrupta de ordenações corretas**. Quando a ordem das monjas (*bhikkhunī*) desapareceu no Sri Lanka (c. séc. XI) e não foi restaurada no Sudeste Asiático, muitos Theravāda passaram a considerar impossível reordenar mulheres; reordenações desde 1998 (com monjas de linhagem do Leste Asiático) são contestadas. Restaurações da ordem masculina no Sri Lanka (séc. XVIII, com monges tailandeses) mostram a solução: **importar linhagem** de fora.
 
@@ -98,17 +100,17 @@ Estudados: Mesopotâmia (paleobabilônico ao neobabilônico; corte neoassíria),
 
 - `[PP]` Bascom (1969): o babalawo ("pai do segredo") é adivinho de Ifá iniciado após **longa formação** com um mestre (*oluwo*), memorizando versos (*ẹsẹ*) organizados nos 256 *odù*. Atende clientes, prescreve sacrifícios e recebe pagamento. A autoridade vem da iniciação e da competência verbal (recitar o verso certo), não de um templo central. Há títulos locais hierárquicos (ex. *Àràbà*, chefe dos babalawos de uma cidade), sem hierarquia supra-regional (não verificado em fonte acadêmica nesta sessão).
 - `[PP]` Divergência viva: a iniciação de mulheres como *ìyánífá* é aceita em algumas linhagens (Nigéria e diáspora) e rejeitada em outras (sobretudo em Cuba). Registro como debate interno, não como fato da tradição inteira.
-- `[F]` A UNESCO proclamou o sistema de adivinhação Ifá Patrimônio Oral e Imaterial (2005; lista em 2008) — de memória.
+- `[F]` (página da UNESCO) O sistema de adivinhação Ifá foi proclamado Obra-Prima do Patrimônio Oral e Imaterial em 2005 e inscrito na Lista Representativa em 2008.
 
 ## 10. Américas: hierarquia dual e especialistas locais
 
-- `[F]` (Sahagún, via secundárias) Os mexicas tinham dois sacerdotes supremos, *Quetzalcoatl Totec tlamacazqui* (Huitzilopochtli) e *Quetzalcoatl Tlaloc tlamacazqui* (Tlaloc), de mesmo nível; abaixo, *tlamacazqui* e noviços. A formação passava pelo *calmecac* (arquivo 04).
-- `[F]` (Britannica) No Império Inca, o *Villac Umu* em Cusco, de linhagem nobre, controlava santuários e podia nomear e destituir sacerdotes. Cronistas dizem que os ministros dos templos provinciais vinham das famílias dos *kuraka* locais, mas o chefe religioso de cada distrito era da linhagem real. Fontes divergem se o cargo era vitalício ou ligado a parentesco próximo do Inca.
+- `[M]` (Sahagún, via secundárias não identificadas) Os mexicas tinham dois sacerdotes supremos, *Quetzalcoatl Totec tlamacazqui* (Huitzilopochtli) e *Quetzalcoatl Tlaloc tlamacazqui* (Tlaloc), de mesmo nível; abaixo, *tlamacazqui* e noviços. A formação passava pelo *calmecac* (arquivo 04).
+- `[PP: verbete]` (Britannica, "Inca religion") No Império Inca, o *Villac Umu* em Cusco, de linhagem nobre, controlava santuários e podia nomear e destituir sacerdotes. Cronistas dizem que os ministros dos templos provinciais vinham das famílias dos *kuraka* locais, mas o chefe religioso de cada distrito era da linhagem real. Fontes divergem se o cargo era vitalício ou ligado a parentesco próximo do Inca.
 - `[PP]` As *huacas* (montanhas, fontes, pedras, múmias) tinham seus próprios guardiões locais, ligados aos *ayllu*. O Estado inca **incorporou** huacas provinciais (levando objetos sagrados a Cusco), criando dupla camada: culto imperial e culto local.
 
 ## 11. O especialista independente diante da instituição
 
-- `[PP]` Davies (2003): na Inglaterra dos séc. XVI–XIX, os *cunning folk* (curandeiros, adivinhos, achadores de objetos perdidos, desfazedores de feitiço) eram numerosos, cobravam pelos serviços e eram tolerados pela clientela e combatidos por clérigos; raramente eram acusados como bruxas, pois se apresentavam como **remédio contra** a bruxaria.
+- `[PP]` Davies (2003): os *cunning folk* ingleses (séc. XVI–XIX) eram especialistas pagos, sem instituição, que se apresentavam como **remédio contra** a bruxaria. Tratamento completo em [f-05 §3.3](../f-africa-americas-folclore/05-folclores-e-curas-populares.md), dossiê de referência do tema.
 - `[S]` Padrões recorrentes da relação instituição × autônomo:
   1. **Complementaridade**: o templo cuida do deus; o especialista de rua cuida do cliente (Egito, Mesopotâmia, Grécia).
   2. **Incorporação**: o Estado contrata ou licencia o autônomo (adivinhos gregos em exércitos; eruditos assírios; certificados chineses).
@@ -149,6 +151,10 @@ Estudados: Mesopotâmia (paleobabilônico ao neobabilônico; corte neoassíria),
 
 ## 16. Limitações
 
-- Monografias citadas de memória; só resumos online (Oracc, CHS, Britannica, secundárias) consultados; Oracc e Wibilex inacessíveis no fetch.
+- Monografias citadas de memória; só resumos online (Oracc, CHS, Britannica, secundárias) consultados; Oracc e Wibilex inacessíveis no fetch. Na correção de 2026-11-08 foram conferidos o quórum do *Mahāvagga* e a página da UNESCO sobre Ifá.
 - Phylai egípcias, venda de *dudie*, títulos Ifá e vendas gregas de sacerdócio não verificados.
 - Viés para sociedades letradas e estatais (ver frente `f-`).
+
+---
+
+Correções de 2026-11-08: 4 `[F]` passaram a `[M]` (templo mesopotâmico, títulos egípcios, ritual *śrauta*, sacerdotes mexicas via Sahagún) e 3 a `[PP: verbete]` (Oracc, phylai, Britannica). O quórum do Vinaya (*Mahāvagga* I e V.13) e a data da UNESCO para Ifá foram conferidos online e mantêm `[F]`, agora com referência. A data de Sahagún foi padronizada (pesquisa c. 1545–1577; códice final c. 1575–77). *Cunning folk* foi encurtado e remetido a f-05, dossiê de referência. A tabela de fontes e a legenda de etiquetas foram atualizadas. As teses não mudaram.

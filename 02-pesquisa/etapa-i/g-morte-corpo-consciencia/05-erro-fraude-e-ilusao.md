@@ -10,7 +10,7 @@ atualizado: 2026-11-08
 # Erro, fraude e ilusão
 
 > Etapa I, frente G (eixo 5.3: "como reconhecem erros, fraudes, ilusões, interpretações equivocadas e limites do conhecimento"). Organizado por **tema**. Não é cânone e não cria nada para o continente.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte conferida · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia ou página de referência · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 > Já na Pesquisa I: validação e transmissão em [F4 03](../../pesquisa-i/frente-4-epistemologias/03-transmissao-validacao-e-tacito.md); evidência silenciosa (Diágoras) em [F4 02](../../pesquisa-i/frente-4-epistemologias/02-superioridade-historica-e-limites.md). Casos ligados nesta frente: corpos "auxiliados" ([02](02-preservacao-de-corpos.md) §6–7), estelas de Epidauro e Delfos ([03](03-transe-sonho-e-transformacao-da-consciencia.md)), oráculo azande ([04](04-protecao-e-agressao-sobrenatural.md) §7.1).
 
 ## 1. Tabela de fontes
@@ -19,7 +19,7 @@ atualizado: 2026-11-08
 |---|---|---|---|---|---|---|
 | Luciano de Samósata | *Alexandre ou o falso profeta* (trad. H. W. e F. G. Fowler, *Works of Lucian* II, Oxford 1905) | c. 180 d.C. | Ásia Menor romana (Abonuteico, culto de Glícon) | primária satírica | dedicatória a Celso; cobra de linho; selos; preços; "oráculos noturnos"; testes de Luciano; mordida | **lida** (Projeto Gutenberg #6585) |
 | Heródoto | *Histórias* I.46–49 (trad. G. C. Macaulay, 1890) | séc. V a.C. | Lídia e oráculos gregos | primária | teste de Creso | **lida** (Gutenberg #2707) |
-| *Montoku Jitsuroku*, via Ichiro Hori (*History of Religions* 1, 1962) | crônica oficial do reinado de Montoku (850–858) | séc. IX | Japão, ascetas | primária via citação | o "santo dos excrementos de arroz" (854) | web (citação em A. Boese) |
+| *Nihon Montoku Tennō Jitsuroku*, via Ichiro Hori, "Self-Mummified Buddhas in Japan", *History of Religions* 1(2): 222–242 (1962; JSTOR 1062053) | crônica oficial do reinado de Montoku (850–858) | séc. IX | Japão, ascetas | primária via dupla citação | o "santo dos excrementos de arroz" (854) | **não conferido** na crônica nem no artigo de Hori: o episódio chega só pelo blog de A. Boese (*Museum of Hoaxes*), que cita Hori. O verbete "Mokujiki" da Wikipedia (que cita o *Routledge Handbook of Food in Asia*) confirma apenas que a crônica registra a abstenção de cereais no séc. IX |
 | Franz Boas | *The Religion of the Kwakiutl Indians* | 1930 | Kwakwaka'wakw | etnografia com autobiografia nativa | via Lévi-Strauss e resumos | web (secundária) |
 | Claude Lévi-Strauss | "Le sorcier et sa magie" | 1949 (em *Anthropologie structurale*, 1958) | comparação | ensaio | tese via resumos | web (secundária) + memória |
 | R. Kirakosian, L. Möllenbrink, G. Zamore, T. J. Kaptchuk, K. Jensen | "Heresy, witchcraft, Jean Gerson, scepticism and the use of placebo controls", *J. R. Soc. Med.* 117(1): 36–41 | online 2023; fascículo jan. 2024 | França, sécs. XV–XVI | artigo | resumo e divulgação (James Lind Library; *Nautilus*) | web (resumo) |
@@ -64,7 +64,7 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 
 ## 6. O asceta que comia escondido (Japão, 854)
 
-- `[F]` Segundo o *Montoku Jitsuroku* citado por Hori (1962): um leigo devoto chega a Quioto anunciando abstenção de cereais (disciplina ascética valorizada); recebe por édito imperial alojamento no jardim Shinsen-en; muitos, sobretudo mulheres, o procuram. Após cerca de um mês, alguém afirma que ele **come arroz à meia-noite** e vai à latrina toda manhã; espias acham "grandes montes de excremento de arroz". Ganha o apelido de *bei-fun-hijiri*, "santo dos excrementos de arroz".
+- `[PP]` (rebaixado de `[F]`: episódio conhecido só por citação de Hori 1962 num blog; não conferido no artigo nem na crônica) Segundo o *Montoku Jitsuroku* citado por Hori (1962): um leigo devoto chega a Quioto anunciando abstenção de cereais (disciplina ascética valorizada); recebe por édito imperial alojamento no jardim Shinsen-en; muitos, sobretudo mulheres, o procuram. Após cerca de um mês, alguém afirma que ele **come arroz à meia-noite** e vai à latrina toda manhã; espias acham "grandes montes de excremento de arroz". Ganha o apelido de *bei-fun-hijiri*, "santo dos excrementos de arroz".
 - `[S]` A fraude é exposta por **observação material** (o corpo denuncia a dieta), não por argumento teológico. A ascese verificável pelo corpo (abstenção, jejum) é a mais fácil de testar e por isso a mais vigiada. Conecta com o *sokushinbutsu* ([02](02-preservacao-de-corpos.md)): o mesmo ideal de abstenção, a mesma possibilidade de ajuda escondida.
 
 ## 7. O cético que virou curandeiro: Quesalid
@@ -81,14 +81,14 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 
 ## 9. Sistemas fechados: o oráculo do veneno azande
 
-- `[F/memória]` Evans-Pritchard (1937): o *benge* é dado a uma galinha com pergunta sim/não; a resposta é confirmada por **segunda prova com a resposta invertida** (se morrer na primeira, deve sobreviver na segunda). Discordâncias se explicam por veneno estragado, tabu quebrado pelo operador, bruxaria contra o oráculo, ou ira de espíritos.
+- `[M]` (dossiê de referência para o *benge*: [f-01](../f-africa-americas-folclore/01-africa-ocidental-e-central.md)) Evans-Pritchard (1937): o *benge* é dado a uma galinha com pergunta sim/não; a resposta é confirmada por **segunda prova com a resposta invertida** (se morrer na primeira, deve sobreviver na segunda). Discordâncias se explicam por veneno estragado, tabu quebrado pelo operador, bruxaria contra o oráculo, ou ira de espíritos.
 - `[AF]` Evans-Pritchard: os Azande raciocinam de modo coerente **dentro** de suas premissas; o que não fazem é questionar as premissas, porque cada falha é absorvida por uma explicação secundária do próprio sistema. `[PP]` Debate filosófico posterior sobre racionalidade (Winch, 1964, e réplicas — memória) usa o caso como exemplo central.
 - `[S]` O sistema tem **controle de qualidade** (dupla prova) e **critério de erro** (veneno ruim), mas não tem **critério de falsificação** do próprio oráculo. Compare com Rutiliano (§4): o mesmo movimento de salvar a teoria, aqui institucionalizado.
 
 ## 10. Outros modos de exposição (breve)
 
-- `[F/memória]` **Reginald Scot (1584)**: dedica livros inteiros a explicar truques de prestidigitação (facas que atravessam a cabeça, moedas que somem) para mostrar que "maravilhas" de feiticeiros são arte humana. O ceticismo sobre bruxas apoia-se em **conhecimento técnico de ilusionismo**.
-- `[F/memória]` **Espiritismo, séc. XIX**: as irmãs Fox confessaram (1888) produzir as "batidas" estalando articulações, e depois uma delas se retratou; o movimento sobreviveu. Mágicos de palco (Houdini, anos 1920) passam a atuar como peritos contra médiuns. Não verificados aqui.
+- `[M]` **Reginald Scot (1584)**: dedica livros inteiros a explicar truques de prestidigitação (facas que atravessam a cabeça, moedas que somem) para mostrar que "maravilhas" de feiticeiros são arte humana. O ceticismo sobre bruxas apoia-se em **conhecimento técnico de ilusionismo**.
+- `[M]` **Espiritismo, séc. XIX**: as irmãs Fox confessaram (1888) produzir as "batidas" estalando articulações, e depois uma delas se retratou; o movimento sobreviveu. Mágicos de palco (Houdini, anos 1920) passam a atuar como peritos contra médiuns. Não verificados aqui.
 - `[S]` Padrão: o ilusionista profissional é o melhor detector de fraude, porque conhece o ofício; e a confissão do fraudador **não encerra** a crença.
 
 ## 11. O que isso diz sobre epistemologia interna `[S]`
@@ -99,6 +99,8 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 4. **A ambiguidade é proteção estrutural** (Delfos, oráculos noturnos), e gera um segundo ofício: o **intérprete**, que lucra com ela.
 5. **Expor a fraude de um não derruba o sistema**; muitas vezes o reforça, porque separa o falso do "verdadeiro" (Quesalid contra os outros curandeiros; Igreja contra a falsa possuída).
 6. **O teste é político**: quem pode testar é quem tem poder (rei, bispo, governador que empresta escolta). O cético sem proteção arrisca a vida (Luciano quase linchado).
+
+**Ressalva sobre a seleção de casos.** Os casos deste arquivo são quase todos **exposições bem-sucedidas** e majoritariamente europeus ou mediterrâneos: Luciano, Heródoto, Brossier, Scot, as irmãs Fox. Os não europeus são o Japão de 854, Quesalid e os Azande. Não há aqui um teste cético que falhou, um cético refutado, nem uma exposição que derrubou de fato uma prática. Por isso a regra 5 ("expor não derruba o sistema") sai de uma amostra que a confirma e deve ser lida como tendência desta amostra, não como lei. Os contra-casos ficam no dossiê [g-07](07-contra-casos-e-tradicoes-extintas.md), que outro pesquisador está escrevendo.
 
 ## 12. Divergências entre pesquisadores
 
@@ -113,7 +115,7 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 2. **Teste de calibração do rei**: o poderoso testa vários oráculos com pergunta de resposta conhecida antes de confiar num; o aprovado ganha patronato e, depois, falha onde importa.
 3. **Cliente que salva o oráculo**: a hipótese auxiliar vem de quem tem interesse em não ter sido enganado.
 4. **Fraude piedosa como técnica de ofício**: o especialista sabe do truque e ainda acredita no conjunto; competição entre especialistas é sobre eficácia do truque.
-5. **Discernimento como ciência interna**: a própria teologia exige testar se a possessão ou revelação é real, porque o adversário sobrenatural engana; o cético e o inquisidor usam o mesmo teste.
+5. **Discernimento como ciência interna**: a própria teologia exige testar se a possessão ou revelação é real, porque o adversário sobrenatural engana; o cético e o inquisidor usam o mesmo teste. (Chamar esses testes de "placebo controlado" é leitura de Kirakosian et al., com risco de anacronismo; ver §12. A estrutura vale sem esse rótulo.)
 6. **Ascese verificável pelo corpo**: quem promete abstinência pode ser vigiado; a prova é material.
 
 > 💡 `[HF]` Um oráculo ambíguo sustenta uma guilda de intérpretes que paga ao oráculo pelo cargo; um reformador que exija respostas claras ataca primeiro essa guilda, que tem mais a perder que o próprio profeta.
@@ -132,12 +134,16 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 ## 15. Limitações
 
 - Lidos diretamente: Luciano (trad. Fowler) e Heródoto (trad. Macaulay). O resto via resumos ou memória.
-- Não verificados: identidade de Celso; estátua de Glícon e moedas; resposta "grande império" (I.53, I.91); Winch; leitura de Lane Fox; Scot; irmãs Fox; detalhes do exame de Angers; papel de George Hunt.
+- Não verificados: episódio de 854 (só via blog que cita Hori); identidade de Celso; estátua de Glícon e moedas; resposta "grande império" (I.53, I.91); Winch; leitura de Lane Fox; Scot; irmãs Fox; detalhes do exame de Angers; papel de George Hunt.
 - Ausentes: China (Wang Chong), islã (crítica de hadith e de *kāhin*), Índia (críticas cārvāka a ritualistas), fraudes de relíquias.
 
 ### Referências web consultadas
 - Luciano, *Alexander the Oracle-Monger* (Fowler): https://www.gutenberg.org/cache/epub/6585/pg6585.txt
 - Heródoto I.46–49 (Macaulay): https://www.gutenberg.org/cache/epub/2707/pg2707.txt
-- Montoku Jitsuroku via Hori: https://hoaxes.org/weblog/comments/the_saint_of_rice_excrements
+- Montoku Jitsuroku via Hori (via blog; ver tabela): https://hoaxes.org/weblog/comments/the_saint_of_rice_excrements ; verbete "Mokujiki": https://en.wikipedia.org/wiki/Mokujiki
 - Quesalid: https://en.wikipedia.org/wiki/Quesalid ; https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2019/08/23/anthropology-of-magic-iv-levi-strauss-on-magic/
 - Brossier: https://www.jameslindlibrary.org/articles/heresy-witchcraft-jean-gerson-scepticism-and-the-use-of-placebo-controls/ ; https://nautil.us/placebo-science-is-rooted-in-witch-hunts-787338 ; https://www.mentalfloss.com/posts/martha-brossier-exorcism-hoax
+
+---
+
+Correções de 2026-11-08: 3 `[F/memória]` passaram a `[M]` (oráculo azande, Scot, irmãs Fox). O episódio do *Montoku Jitsuroku* foi rebaixado de `[F]` a `[PP]`: a referência de Hori ficou completa (*History of Religions* 1(2): 222–242, 1962), mas a passagem não foi conferida nem em Hori nem na crônica e continua chegando só pelo *Museum of Hoaxes*. O verbete "Mokujiki" confirma apenas que a crônica registra a abstenção de cereais no séc. IX. Foi acrescentada uma ressalva sobre viés de seleção (exposições bem-sucedidas, casos europeus), com remissão a g-07, e uma nota de anacronismo na estrutura 5. Foi feita remissão a f-01 para o *benge*. A tabela de fontes e a legenda foram atualizadas. As teses não mudaram.
