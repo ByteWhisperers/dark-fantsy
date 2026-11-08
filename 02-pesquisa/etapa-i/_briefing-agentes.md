@@ -26,6 +26,17 @@ Toda afirmação recebe uma etiqueta:
 - `[PP]` interpretação de pesquisadores posteriores (diga quem);
 - `[S]` síntese comparativa sua;
 - `[HF]` hipótese de aplicação ficcional (curta, marcada com `> 💡`, sem nomes inventados, no máximo 3 por arquivo).
+- `[M]` **de memória, não verificado** (acrescentada na correção de 2026-11-08). Nunca use `[F]` para o que não foi conferido numa fonte localizável nesta pesquisa.
+- `[PP: verbete]` paráfrase de enciclopédia acadêmica (SEP, IEP, Iranica etc.). Verbete é leitura de pesquisador, não fonte primária.
+
+### Regras para as `[HF]` (correção de 2026-11-08)
+- Não afunilar para elementos já existentes do cenário (por exemplo, "uma instituição que restringe a magia"). O repertório é mais rico que isso.
+- Não usar como padrão "sem que o cenário decida quem tem razão". A §17 pede saber o que os autores sabem ser verdade; deixar algo aberto é decisão do autor, não regra do mundo.
+- Hipótese que dependa de uma decisão cosmológica aberta (estatuto das entidades, física moral, leis fundamentais) leva a marca **"depende de decisão do autor sobre ..."**.
+- Recomendação de método (ex.: "desenhar o mapa a partir de placas e ventos") não é `[HF]`: vai numa seção "Recomendações de método".
+
+### Um dossiê de referência por tema (correção de 2026-11-08)
+Para não duplicar, cada tema tem um dono e os outros só remetem com link: possessão → a-04; Lan e *mhondoro*, zar e Boddy → f-02; *benge* azande → f-01; mau-olhado, Pazuzu e Lamaštu → g-04; Conrad e Demarest, Taki Onqoy, Murra e verticalidade → f-04; *cunning folk* e *benandanti* → f-05.
 
 ## Fontes (§4.1–4.2)
 - Priorize fontes primárias (em tradução, diga qual) e estudos acadêmicos: Stanford Encyclopedia of Philosophy, Internet Encyclopedia of Philosophy, Encyclopaedia Iranica, Oxford Research Encyclopedias, Britannica, Jewish Virtual Library/YIVO quando couber, monografias conhecidas.
