@@ -11,20 +11,23 @@ atualizado: 2026-11-08
 
 Frente `h-`, arquivo 04. Como recursos materiais (sal, metais) organizam rotas e poder; como lugares físicos (montanhas, nascentes, cavernas, minas) se tornam sagrados ou habitados por entidades; como a paisagem guarda memória; como desastres são interpretados. Serve à §9.3 (lugares sagrados, regiões de influência de entidades) e à §5.2 ("entidades territoriais"; "entidades que dependem de território"). Não confundir com a frente `a-entidades/`: aqui o foco é a **ligação com o lugar**. Remete a [F1 01, presságios babilônicos e "geografia celeste"](../../pesquisa-i/frente-1-ontologias/01-babilonia-astronomia-e-pressagios.md) e [F2 10, aço wootz](../../pesquisa-i/frente-2-tecnicas/10-aco-wootz.md).
 
+Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de verbete ou resumo · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
+
 ## 1. Fontes
 
-| Autoria | Título | Data | Tipo | Trechos consultados | Leitura |
-|---|---|---|---|---|---|
-| Ibn Battuta; Alvise Cadamosto (via fontes secundárias) | relatos sobre Taghaza e o comércio de sal | 1352; 1455 | fontes primárias (relatos de viagem) | trechos citados | lido indiretamente (World History Encyclopedia; verbete) |
-| June Nash | estudo das minas de estanho bolivianas (*We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines*, Columbia UP; título conferido na revisão crítica) | 1979 | etnografia | resumos | lido indiretamente |
-| Michael Taussig | *The Devil and Commodity Fetishism in South America* (UNC Press) | 1980 | monografia | resenha (*Latin American Research Review*) | lido indiretamente |
-| Johan Reinhard e outros | capacocha; santuários de alta montanha incas | 1995 em diante | arqueologia | resumos; NOVA; artigo de 2012 | lido indiretamente |
-| Ōmiwa Jinja e verbetes | *shintai-zan*, *kannabi* | — | fonte institucional e verbetes | descrição do santuário | lido |
-| Keith Basso | *Wisdom Sits in Places: Landscape and Language Among the Western Apache* (UNM Press) | 1996 | etnografia | sumários, resenhas | lido indiretamente |
-| Christine Nicholls | "A Wild Roguery: Bruce Chatwin's *The Songlines* Reconsidered", *Text Matters* 9 | 2019 | artigo crítico | resumo | lido (resumo) |
-| Gregory Smits | "Shaking up Japan: Edo Society and the 1855 Catfish Picture Prints", *Journal of Social History*; *Seismic Japan* | 2006; 2014 | artigo; monografia | resumos, palestras | lido indiretamente |
-| vários (Voltaire, Rousseau, Malagrida) | debate sobre o terremoto de Lisboa | 1755–1756 | fontes primárias | citadas em artigos (*Scientific American*, *Christianity Today*) | lido indiretamente |
-| Hallstatt, Laurion, Potosí, obsidiana, estanho | — | — | — | — | **de memória** |
+| Autoria | Título | Data | Tradição | Tipo | Trechos consultados | Leitura |
+|---|---|---|---|---|---|---|
+| Ibn Battuta; Alvise Cadamosto (via fontes secundárias) | relatos sobre Taghaza e o comércio de sal | 1352; 1455 | viajante magrebino muçulmano; navegador veneziano a serviço de Portugal, ambos sobre o Saara e o Sahel | fontes primárias (relatos de viagem) | trechos citados | lido indiretamente (World History Encyclopedia; verbete): `[PP: verbete]` |
+| June Nash | *We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines* (Columbia UP; título conferido na revisão crítica) | 1979 | mineiros andinos (Oruro, Bolívia) | etnografia | resumos | lido indiretamente |
+| Michael Taussig | *The Devil and Commodity Fetishism in South America* (UNC Press) | 1980 | cortadores de cana do Cauca (Colômbia); mineiros bolivianos | monografia | resenha (*Latin American Research Review*) | lido indiretamente |
+| Johan Reinhard e outros | capacocha; santuários de alta montanha incas | 1995 em diante | inca (Andes) | arqueologia | resumos; NOVA | lido indiretamente |
+| María Constanza Ceruti | "Montañas y deidades andinas: acerca del poder y la autoridad entre los incas", *Inka Llaqta* 3: 109–132 (Biblioteca Nacional del Perú) | 2012 | inca (Andes) | artigo | resumo e metadados (repositório CONICET) | lido (resumo) |
+| Ōmiwa Jinja e verbetes | *shintai-zan*, *kannabi* | — | culto de santuário japonês (Nara) | fonte institucional e verbetes | descrição do santuário | lido |
+| Keith Basso | *Wisdom Sits in Places: Landscape and Language Among the Western Apache* (UNM Press) | 1996 | apaches ocidentais (Arizona) | etnografia | sumários, resenhas | lido indiretamente |
+| Christine Nicholls | "A Wild Roguery: Bruce Chatwin's *The Songlines* Reconsidered", *Text Matters* 9 | 2019 | sociedades aborígenes australianas (recepção ocidental) | artigo crítico | resumo | lido (resumo) |
+| Gregory Smits | "Shaking up Japan: Edo Society and the 1855 Catfish Picture Prints", *Journal of Social History*; *Seismic Japan* | 2006; 2014 | Japão Edo (cultura urbana) | artigo; monografia | resumos, palestras | lido indiretamente |
+| vários (Voltaire, Rousseau, Malagrida) | debate sobre o terremoto de Lisboa | 1755–1756 | Iluminismo europeu; catolicismo português (jesuíta) | fontes primárias | citadas em artigos (*Scientific American*, *Christianity Today*) | lido indiretamente |
+| Hallstatt, Laurion, Potosí, obsidiana, estanho | — | — | vários | — | — | `[M]` |
 
 ## 2. Recorte
 
@@ -33,13 +36,13 @@ Estudado: casos bem documentados em quatro continentes, escolhidos por mostrarem
 ## 3. Recursos, rotas e poder
 
 ### 3.1 Sal
-- `[F]` Taghaza (Saara) foi grande fonte de sal-gema para a África Ocidental até o fim do século XVI, quando foi abandonada em favor de Taoudenni, cerca de 150 km a sudeste. Cadamosto soube em 1455 que o sal de Taghaza ia a Timbuktu e daí ao Mali, sendo levado "a grande distância" para troca por ouro. Placas de sal ainda são levadas de Taoudenni por caravanas de camelos.
+- `[PP: verbete]` (World History Encyclopedia; verbete) Taghaza (Saara) foi grande fonte de sal-gema para a África Ocidental até o fim do século XVI, quando foi abandonada em favor de Taoudenni, cerca de 150 km a sudeste. Cadamosto soube em 1455 que o sal de Taghaza ia a Timbuktu e daí ao Mali, sendo levado "a grande distância" para troca por ouro. Placas de sal ainda são levadas de Taoudenni por caravanas de camelos.
 - `[PP]` (fonte de divulgação) Quem controlava o sal controlava também o ouro, e os dois sustentavam impérios do Sahel; em áreas rurais, pedaços de sal serviram de moeda.
-- `[F]` (de memória) Hallstatt (Áustria): mineração de sal desde a Idade do Bronze; o sítio dá nome a uma cultura da Idade do Ferro europeia.
+- `[M]` Hallstatt (Áustria): mineração de sal desde a Idade do Bronze; o sítio dá nome a uma cultura da Idade do Ferro europeia.
 - `[S]` Sal é necessário para conservar alimento e para quem come pouca carne; suas fontes são poucas e localizadas. Por isso cria rotas longas, cidades em lugares inóspitos e monopólios.
 
 ### 3.2 Metais e pedras
-- `[F]` (de memória) Bronze exige cobre e estanho, raramente encontrados juntos; o estanho era escasso e obrigava a comércio de longa distância na Idade do Bronze. Obsidiana circulou por centenas de quilômetros no Neolítico do Oriente Próximo e na Mesoamérica. A prata de Láurio financiou a frota ateniense; a prata de Potosí (Cerro Rico) foi extraída com trabalho forçado rotativo (*mita*) e alimentou o comércio mundial dos séculos XVI–XVII.
+- `[M]` Bronze exige cobre e estanho, raramente encontrados juntos; o estanho era escasso e obrigava a comércio de longa distância na Idade do Bronze. Obsidiana circulou por centenas de quilômetros no Neolítico do Oriente Próximo e na Mesoamérica. A prata de Láurio financiou a frota ateniense; a prata de Potosí (Cerro Rico) foi extraída com trabalho forçado rotativo (*mita*) e alimentou o comércio mundial dos séculos XVI–XVII.
 - `[S]` Minério cria quatro coisas: rota, cidade de mina, sistema de trabalho (muitas vezes forçado) e conflito sobre o direito de extrair. A técnica de fundição e forja tem transmissão própria (ver F2 10).
 
 ### 3.3 Espíritos da mina
@@ -54,12 +57,12 @@ Estudado: casos bem documentados em quatro continentes, escolhidos por mostrarem
 ### 4.1 Montanhas
 - `[F]` Andes: *apu* ("grande senhor") nomeia o espírito de montanhas importantes; rochas e cavernas também podem ter *apu*. Lugares da paisagem, rochas e imagens podem ser *huaca*, ser sagrado.
 - `[F]` Os incas fizeram oferendas em mais de 200 montanhas entre os séculos XIV e XVI, 34 delas acima de 6.000 m. A capacocha incluía sacrifício de crianças em cumes; Reinhard achou a "Juanita" no Ampato em 1995.
-- `[PP]` A maioria dos estudiosos liga a capacocha a aplacar as divindades das montanhas para garantir chuva, colheita e ordem (NOVA). Um artigo de 2012 sustenta que ocupar ritualmente os cumes legitimava o poder inca, recente, com a durabilidade simbólica das montanhas. Uma etimologia (Kaufmann Doig 2003) lê *capac cocha* como "água principal"; é proposta isolada.
+- `[PP]` A maioria dos estudiosos liga a capacocha a aplacar as divindades das montanhas para garantir chuva, colheita e ordem (NOVA). Ceruti (2012, *Inka Llaqta* 3; lido só o resumo) sustenta que ocupar ritualmente os cumes legitimava o poder inca, forte mas recente, com a durabilidade simbólica das montanhas. Uma etimologia (Kaufmann Doig 2003) lê *capac cocha* como "água principal"; é proposta isolada.
 - `[F]` Japão: o santuário Ōmiwa (Nara) não tem edifício principal (*honden*), só salão de culto (*haiden*) voltado para o monte Miwa (467 m), que é o próprio corpo do *kami* (*shintai-zan*), uma montanha *kannabi*. O santuário apresenta essa forma como muito antiga.
 - `[S]` Montanhas aparecem ligadas à **água** (Andes: chuva e degelo) e à **permanência** (legitimidade). Duas lógicas distintas que podem coexistir: a montanha como dona de algo que os humanos precisam, e a montanha como garantia simbólica de poder.
 
 ### 4.2 Nascentes, cavernas, cenotes
-- `[F]` (de memória) Poços santos na Europa (muitos cristianizados com nomes de santos), o oráculo de Delfos junto a uma fonte, o Cenote Sagrado de Chichén Itzá com oferendas e restos humanos, cavernas como entradas para o mundo inferior na Mesoamérica.
+- `[M]` Poços santos na Europa (muitos cristianizados com nomes de santos), o oráculo de Delfos junto a uma fonte, o Cenote Sagrado de Chichén Itzá com oferendas e restos humanos, cavernas como entradas para o mundo inferior na Mesoamérica.
 - `[S]` Pontos onde a água sai da terra ou onde a terra se abre são candidatos recorrentes a sagrado, mas o que significam varia (cura, oráculo, passagem, morada). Recorrência de lugar não prova equivalência de ontologia (§3.2 da diretriz).
 
 ### 4.3 Entidades ligadas ao território
@@ -86,7 +89,7 @@ Estudado: casos bem documentados em quatro continentes, escolhidos por mostrarem
 ## 7. Divergências entre pesquisadores
 
 - Tío: reciprocidade com a terra (Nash) × fetichismo da mercadoria (Taussig).
-- Capacocha: aplacar montanhas pela chuva × legitimação política; as duas podem ser simultâneas.
+- Capacocha: aplacar montanhas pela chuva (maioria, via NOVA) × legitimação política (Ceruti 2012); as duas podem ser simultâneas.
 - *Songlines*: conceito popularizado por um escritor de viagem, criticado por especialistas e por pessoas aborígenes; usar com referência a estudos etnográficos, não a Chatwin.
 - Lisboa 1755: a leitura de "fim do otimismo iluminista" é tradicional, mas também contestada como simplificação (não verificado em detalhe).
 
@@ -100,7 +103,7 @@ Estudado: casos bem documentados em quatro continentes, escolhidos por mostrarem
 - **Paisagem como arquivo moral e jurídico**: nomes e trajetos guardam leis e histórias; acesso ao lugar = acesso ao saber.
 - **Desastre como disputa interpretativa**: o mesmo evento alimenta pregação, filosofia, sátira e reforma.
 
-> 💡 `[HF]` Uma mina poderia ser tratada por mineiros como relação de dívida com uma entidade do subsolo, pelos donos da concessão como superstição útil, e por uma instituição religiosa como culto diabólico, sem que o cenário diga qual leitura é correta (§7 da diretriz).
+> 💡 `[HF]` Uma mina poderia ser tratada por mineiros como relação de dívida com uma entidade do subsolo, pelos donos da concessão como superstição útil, e por uma instituição religiosa como culto diabólico (§7 da diretriz). Depende de decisão do autor sobre a existência e a natureza dessa entidade; fixada ela, os autores sabem qual leitura acerta, e os personagens continuam sem saber.
 
 ## 9. Riscos de caricatura
 
@@ -113,6 +116,9 @@ Estudado: casos bem documentados em quatro continentes, escolhidos por mostrarem
 ## 10. Limitações
 
 - Quase todas as fontes foram lidas indiretamente (resumos, resenhas, verbetes); nenhuma etnografia foi lida no original.
-- Hallstatt, Láurio, Potosí, obsidiana, estanho, poços santos, Delfos e cenotes são de memória.
+- Hallstatt, Láurio, Potosí, obsidiana, estanho, poços santos, Delfos e cenotes são de memória (`[M]`).
+- O "artigo de 2012" sobre capacocha e legitimação foi identificado (Ceruti 2012), mas só o resumo foi lido.
 - O livro de Nash (título conferido) não foi lido.
 - Falta cobertura de geografias sagradas da Índia, China e África subsaariana.
+
+Correções de 2026-11-08: 3 `[F]` de memória → `[M]` (Hallstatt, metais e pedras, nascentes/cavernas/cenotes); Taghaza rebaixado de `[F]` a `[PP: verbete]`; "artigo de 2012" identificado (M. C. Ceruti, *Inka Llaqta* 3: 109–132) e acrescentado à tabela; coluna "Tradição" acrescentada à tabela de fontes; HF reescrita como dependente de decisão do autor; legenda de etiquetas acrescentada.

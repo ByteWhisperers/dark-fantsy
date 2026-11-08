@@ -10,22 +10,22 @@ atualizado: 2026-11-08
 # 05 — Mesma entidade, interpretações diferentes
 
 > Etapa I, frente A (eixo 5.2 e §7 da diretriz: "uma entidade pode ser interpretada como deusa por um povo, demônio por outro e fenômeno natural por um terceiro"; "separar a natureza estabelecida da entidade das interpretações"). Organizado por **mecanismo de reinterpretação**. Não é cânone.
-> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[S]` síntese · `[HF]` hipótese ficcional.
+> Etiquetas: `[F]` fonte · `[AF]` autor da fonte · `[PP]` pesquisadores posteriores · `[PP: verbete]` paráfrase de enciclopédia ou verbete · `[M]` de memória, não verificado · `[S]` síntese · `[HF]` hipótese ficcional.
 > **Não repete**: Tío da mina como diabo-tio ([h-04 §3.3](../h-geografia-e-ambiente/04-recursos-territorio-e-sagrado.md)); vampiro como leitura da decomposição ([g-01 §8](../g-morte-corpo-consciencia/01-ritos-funerarios-e-destino-dos-mortos.md)); curupira como "demônio" jesuíta ([02 §3.5](02-entidades-territoriais-ancestrais-e-mortos.md)); *daímōn* que muda de eixo ([01 §4.2](01-tipologias-e-classificacoes.md)).
 
 ## 1. Tabela de fontes
 
 | Autoria | Título | Data | Tradição | Tipo | Trechos consultados | Leitura |
 |---|---|---|---|---|---|---|
-| C. Herrenschmidt e J. Kellens | "Daiva", *Encyclopaedia Iranica* VI, 599–602 | 1993 | Irã antigo | enciclopédia acadêmica | trecho inicial (Gathas) | web (parcial) |
-| *Vīdēvdād* 10.9; 19.43 | código avestano | redação sassânida (datação debatida) | zoroastrismo | primária | Indra, Saurva, Nāŋhaithya entre os *daēva* | memória + verbetes |
+| C. Herrenschmidt e J. Kellens | "Daiva", *Encyclopaedia Iranica* VI, 599–602 | 1993 | Irã antigo | enciclopédia acadêmica | trecho inicial (Gathas) | web (parcial); usado como `[PP: verbete]` |
+| *Vīdēvdād* 10.9; 19.43 | código avestano | redação sassânida (datação debatida) | zoroastrismo | primária | Indra, Saurva, Nāŋhaithya entre os *daēva* | `[M]` + verbetes |
 | Septuaginta | Sl 95(96):5; Dt 32:17 | séc. III–II a.C. | judaísmo helenístico | primária | *elilim*/*shedim* → *daimónia* | web (comentários) |
 | Paulo | 1 Coríntios 10:19–21 | c. 54 d.C. | cristianismo primitivo | primária | sacrifícios dos gentios a *daimónia* | web + memória |
 | Tácito | *Germania* 43 | 98 d.C. | romano sobre germanos | primária | Alcis = Castor e Pólux "*interpretatione Romana*" | web (latim citado) |
-| fontes japonesas; Encyclopedia.com | *honji suijaku*; Yoshida Kanetomo; *shinbutsu bunri* | séc. IX–XIX | Japão | verbetes acadêmicos | lógica da equivalência e sua inversão | web |
+| fontes japonesas; Encyclopedia.com | *honji suijaku*; Yoshida Kanetomo; *shinbutsu bunri* | séc. IX–XIX | Japão | verbetes acadêmicos | lógica da equivalência e sua inversão | web; `[PP: verbete]` |
 | Thupten K. Rikey | "The Nature-Deities of Tibet: A discussion on the tale 'The Subduing and Putting under Oath of Tibet's Malignant lha 'dre' in *Padma bka' thang*" | 2011 (*Studia Orientalia* 109: 119–140) | budismo tibetano | artigo | resumo | web (resumo) |
 | O. S. da Costa; outros | *Exu, o orixá fálico…: demonização e ressignificação na umbanda* (dissertação PUC-Goiás) | 2012 | afro-brasileiro | dissertação | resumo | web (resumo) |
-| Evêmero (via Diodoro) | *Hierá anagraphḗ* | c. 300 a.C. | Grécia helenística | primária (fragmentária) | deuses como reis divinizados | memória |
+| Evêmero (via Diodoro) | *Hierá anagraphḗ* | c. 300 a.C. | Grécia helenística | primária (fragmentária) | deuses como reis divinizados | `[M]` |
 
 Limite: a maior parte é verbete ou resumo. As fontes primárias foram vistas em trecho, não lidas inteiras.
 
@@ -41,8 +41,8 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 
 ### 4.1 Inversão por reforma: *daēva* e *deva*
 - `[F]` O avéstico *daēuua-* corresponde ao védico *devá-* (herança indo-europeia: "celeste", "deus"). No zoroastrismo posterior, os *daēva* são demônios; no hinduísmo, *deva* são deuses.
-- `[AF]` Iranica: nos Gathas os *daēuua* **ainda não são demônios**; o poeta os censura por cegueira e por aceitarem uma má religião. A rejeição estaria só começando, e as lacunas da evidência podem enganar. Nem nos Gathas há nomes próprios que identifiquem quem eram.
-- `[F]` (memória; via verbetes) Textos avésticos posteriores (*Vīdēvdād*) listam Indra, Saurva e Nāŋhaithya entre os *daēva* — nomes que no *Rgveda* são deuses (Indra, Śarva, Nāsatya).
+- `[PP: verbete]` Iranica (Herrenschmidt e Kellens 1993): nos Gathas os *daēuua* **ainda não são demônios**; o poeta os censura por cegueira e por aceitarem uma má religião. A rejeição estaria só começando, e as lacunas da evidência podem enganar. Nem nos Gathas há nomes próprios que identifiquem quem eram.
+- `[M]` (lembrado e visto em verbetes; texto não conferido) Textos avésticos posteriores (*Vīdēvdād*) listam Indra, Saurva e Nāŋhaithya entre os *daēva* — nomes que no *Rgveda* são deuses (Indra, Śarva, Nāsatya).
 - `[F]`/`[PP]` Em paralelo, o védico *asura* (cognato do avéstico *ahura*, "senhor") é aplicado a deuses nos estratos antigos do *Rgveda* (Varuṇa, por exemplo) e passa, nos textos posteriores, a designar os antideuses rivais dos *deva*. Se a polarização é antiga (indo-iraniana) ou tardia e independente nos dois lados é **debatido** (discussões em listas de indologia; não verifiquei a bibliografia principal).
 - `[S]` Resultado: **os mesmos nomes** ocupam polos opostos em duas tradições aparentadas. O mecanismo não é observação nova; é **reforma religiosa** que redefine o que merece culto. A leitura popular "os iranianos inverteram os deuses indianos" simplifica o que, segundo a Iranica, foi processo gradual e mal documentado.
 
@@ -51,7 +51,7 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 - `[F]` Paulo, 1 Cor 10:20: o que os gentios sacrificam, sacrificam a *daimónia* e não a Deus; não quero que tenhais comunhão com os *daimónia*.
 - `[PP]` Leituras divergentes: (a) os deuses pagãos são **nada** e "demônio" é termo de desprezo (Dunn, citado); (b) há **seres reais** por trás dos ídolos, malignos (leitura "cooptativa" em tese resenhada no *Tyndale Bulletin*). As duas posições convivem na própria tradição cristã.
 - `[S]` Dentro do mesmo texto há duas teorias incompatíveis sobre o deus alheio: **não existe** ou **existe e é mau**. O cristianismo antigo usou as duas conforme o caso (oráculos explicados ora como fraude de sacerdotes, ora como obra demoníaca; de memória).
-- `[F]` (memória) 2 Reis 1: Baal-Zebub, deus de Ekron consultado como oráculo; no Novo Testamento, Beelzebul é "príncipe dos demônios". Muitos estudiosos leem "Zebub" ("moscas") como deformação depreciativa de *zbl* ("príncipe"), título atestado em Ugarit. (Não verificado nesta sessão.)
+- `[M]` 2 Reis 1: Baal-Zebub, deus de Ekron consultado como oráculo; no Novo Testamento, Beelzebul é "príncipe dos demônios". Muitos estudiosos leem "Zebub" ("moscas") como deformação depreciativa de *zbl* ("príncipe"), título atestado em Ugarit. (Não verificado nesta sessão.)
 - `[F]`/`[PP]` Exu (*Èṣù*): na tradução bíblica para o iorubá, em meados do séc. XIX, missionários de língua inglesa usaram *Èṣù* para "diabo/Satanás". No Brasil, Exu é identificado ao diabo cristão; na umbanda passa por **ressignificação** complexa, de um Exu negado e ligado à magia negra a um Exu **mediador** (dissertação de Costa 2012; capítulo em JSTOR). Lideranças do candomblé comprometidas com a "reafricanização" criticam a "visão católica" de Exu.
 - `[PP]` Sites populares afirmam que a equiparação missionária foi "deliberada"; não encontrei fonte acadêmica que estabeleça a intenção. Registrar como **disputado**.
 - `[S]` A demonização tem efeitos de **mão dupla**: o rótulo imposto é depois **reapropriado** pelos próprios devotos (umbanda) e combatido por outros devotos (reafricanização). Uma entidade passa a ter três leituras dentro da mesma comunidade religiosa.
@@ -60,18 +60,18 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 - `[F]` Tácito, *Germania* 43: no bosque dos naharvalos, um sacerdote em trajes femininos preside; "*sed deos interpretatione Romana Castorem Pollucemque memorant. ea vis numini, nomen Alcis*" ("mas, em interpretação romana, lembram Castor e Pólux; essa é a força do nume, o nome é Alcis").
 - `[PP]` A equivalência é do romano (ou de sua fonte), feita com base em atributos relatados; Tácito afirma que o culto é nativo. A etimologia de *Alcis* é disputada (alce × "proteção").
 - `[S]` A fórmula de Tácito separa explicitamente **força** (*vis*) e **nome** (*nomen*): o mesmo poder com nomes locais. É a teoria implícita de toda *interpretatio*: as entidades são **as mesmas** sob nomes diferentes. A §16 da diretriz proíbe exatamente isso como pressuposto do mundo ("todas as tradições conhecem a mesma realidade por linguagens diferentes"); mas um **povo ficcional** pode sustentar essa teoria, como os romanos sustentavam.
-- `[PP]` (memória) Sincretismo afro-católico no Brasil (orixá ↔ santo): leituras divergentes — "máscara" para resistir à repressão, combinação genuína, ou ambas conforme lugar e época (Bastide e debates posteriores; manifesto contra o sincretismo de ialorixás baianas em 1983). Não verificado nesta sessão.
+- `[M]`/`[PP]` Sincretismo afro-católico no Brasil (orixá ↔ santo): leituras divergentes — "máscara" para resistir à repressão, combinação genuína, ou ambas conforme lugar e época (Bastide e debates posteriores; manifesto contra o sincretismo de ialorixás baianas em 1983). Não verificado nesta sessão.
 
 ### 4.4 Subordinação: a entidade alheia vira local, ou servidora
-- `[F]` Japão, *honji suijaku*: cada *kami* seria a manifestação local (*suijaku*, "traço deixado") de um buda ou bodisatva (*honji*, "terreno original"). Yoshida Kanetomo (1435–1511) **inverteu** a relação: os *kami* são originais, os budas suas manifestações. Em 1868 o governo Meiji ordenou a separação (*shinbutsu bunri*), proibindo, entre outras coisas, chamar *kami* por nomes budistas.
+- `[PP: verbete]` (Encyclopedia.com e verbetes) Japão, *honji suijaku*: cada *kami* seria a manifestação local (*suijaku*, "traço deixado") de um buda ou bodisatva (*honji*, "terreno original"). Yoshida Kanetomo (1435–1511) **inverteu** a relação: os *kami* são originais, os budas suas manifestações. Em 1868 o governo Meiji ordenou a separação (*shinbutsu bunri*), proibindo, entre outras coisas, chamar *kami* por nomes budistas.
 - `[PP]` Um verbete acadêmico sustenta que a separação de 1868 não "restaurou" uma divisão anterior: **definiu**, pela primeira vez de forma sistemática, o que era "budista" e o que era "xintó".
-- `[F]` Tibete (tradição nyingma; *Padma bka' thang*, séc. XIV, sobre eventos do séc. VIII): Padmasambhava subjuga os espíritos locais que impediam a construção de Samye e os **prende por juramento** como protetores do *dharma* (Damchen Dorje Legpa, originalmente espírito de montanha; as deusas Tenma).
+- `[PP]` (Rikey 2011, resumo; verbetes) Tibete (tradição nyingma; *Padma bka' thang*, séc. XIV, sobre eventos do séc. VIII): Padmasambhava subjuga os espíritos locais que impediam a construção de Samye e os **prende por juramento** como protetores do *dharma* (Damchen Dorje Legpa, originalmente espírito de montanha; as deusas Tenma).
 - `[S]` Três estratégias para a mesma situação (religião que chega e encontra entidades locais): **identificar** (o *kami* é o buda), **subordinar por juramento** (o espírito local vira guarda), **separar por decreto** (Meiji). E cada uma pode ser revertida por outra geração. Note-se que o juramento tibetano é contrato **imposto pelo vencedor** (ver arquivo 03 §3.5, comando × contrato).
 
 ### 4.5 Naturalização e historicização
-- `[F]` (memória) Evêmero (c. 300 a.C.), na *Inscrição sagrada* (fragmentos via Diodoro), apresenta Zeus e outros deuses como **reis antigos divinizados** por seus súditos. Autores cristãos usaram o evemerismo para desqualificar deuses pagãos — ao lado da tese demoníaca (§4.2), terceira explicação disponível.
+- `[M]` Evêmero (c. 300 a.C.), na *Inscrição sagrada* (fragmentos via Diodoro), apresenta Zeus e outros deuses como **reis antigos divinizados** por seus súditos. Autores cristãos usaram o evemerismo para desqualificar deuses pagãos — ao lado da tese demoníaca (§4.2), terceira explicação disponível.
 - `[AF]` Paul Barber (1988; não confundir com Karin Barber, citada nos arquivos 01 e 03) sobre o vampiro (g-01): a tradição observa corretamente e erra a causa. É naturalização **externa**, feita pelo pesquisador.
-- `[F]` (memória) Epicuristas (Lucrécio, *De rerum natura* VI) explicam trovão e raio por causas naturais, para tirar dos deuses a responsabilidade.
+- `[M]` Epicuristas (Lucrécio, *De rerum natura* VI) explicam trovão e raio por causas naturais, para tirar dos deuses a responsabilidade.
 - `[S]` Naturalizar não é só "explicar": muda **quem tem autoridade** sobre o fenômeno (do sacerdote ao filósofo, ao médico, ao legista).
 
 ## 5. Quadro: uma entidade, três leituras (casos reais)
@@ -86,6 +86,16 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 | espírito de montanha tibetano | dono local | protetor do *dharma* sob juramento | — | sujeição por juramento |
 | Alcis | gêmeos divinos locais | Castor e Pólux (romano) | — | tradução |
 | curupira, Tío | dono da mata/da mina | demônio (jesuíta; padres) | tio, parceiro (mineiros) | missão + reapropriação |
+
+## 5a. Transformações por período `[S]`
+
+Os mecanismos da §4 não são intemporais; cada caso tem uma cronologia, e a leitura dominante muda com ela.
+- **Irã e Índia:** nos Gathas (2º–1º milênio a.C., datação debatida) os *daēuua* são censurados, não ainda demônios (`[PP: verbete]` Iranica); no Avesta recente e na redação sassânida do *Vīdēvdād* já são demônios nomeados (`[M]`). Do lado védico, *asura* passa de título de deuses (estratos antigos do *Rgveda*) a antideuses (textos posteriores). Processo de séculos, não um ato de reforma.
+- **Mediterrâneo:** tradução (*daimónia* na Septuaginta, séc. III–II a.C.) → polêmica (Paulo, séc. I) → sistema apologético que combina demonização e evemerismo (séc. II–IV, `[M]`). A mesma palavra ganha peso doutrinal em três etapas.
+- **Japão:** formação do *honji suijaku* (período Heian, `[PP: verbete]`) → inversão por Yoshida Kanetomo (séc. XV) → separação por decreto (1868). Cada etapa responde a uma conjuntura institucional (patronagem budista, autonomia dos santuários, Estado Meiji).
+- **Tibete:** a narrativa do *Padma bka' thang* (séc. XIV) projeta sobre o séc. VIII uma sujeição que é, em parte, leitura da época de redação.
+- **Exu:** tradução missionária (meados do séc. XIX) → demonização no catolicismo popular brasileiro → ressignificação na umbanda (séc. XX) → crítica da "reafricanização" (anos 1980; manifesto de 1983, `[M]`).
+- Padrão: as fases não se apagam; a leitura anterior continua disponível e é reativada em disputas posteriores.
 
 ## 6. Achados transversais `[S]`
 1. **A divergência nasce de eventos históricos**, não de percepções diferentes do mesmo objeto: reforma, conversão, missão, conquista, decreto.
@@ -102,7 +112,7 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 - **Separação por decreto que inventa a pureza** que diz restaurar.
 - **Juramento imposto ao vencido** como forma de incorporar entidades locais a uma nova ordem.
 
-> 💡 `[HF]` Uma entidade com natureza fixada pelo autor e três leituras no mundo: cultuada como guardiã num vale, catalogada como inimiga por uma reforma vizinha que usa o mesmo nome dela, e descrita como fenômeno sem agente por uma escola de estudiosos. Nenhuma das três está inteiramente certa, e o autor decide o que cada uma acerta.
+> 💡 `[HF]` Uma entidade com três leituras no mundo: cultuada como guardiã num vale, catalogada como inimiga por uma reforma vizinha que usa o mesmo nome dela, e descrita como fenômeno sem agente por uma escola de estudiosos. Depende de decisão do autor sobre o estatuto dessa entidade (se ela tem natureza fixa e qual é); fixado isso, os autores sabem o que cada leitura acerta e erra, e uma delas pode estar simplesmente certa.
 
 > 💡 `[HF]` Uma religião em expansão que alterna, conforme a região e o século, entre dizer que os seres locais "são os nossos com outro nome" e que "juraram nos servir"; os povos locais lembram dos dois discursos e os usam em disputas.
 
@@ -126,3 +136,5 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 - *Honji suijaku*: https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/shinto-honji-suijaku-and-buddhism ; https://japanese-wiki-corpus.github.io/Shinto/Honchi-suijaku.html
 - Tibete: https://journal.fi/store/article/view/51549 ; https://en.wikipedia.org/wiki/Damchen_Dorje_Legpa
 - Exu: https://tede2.pucgoias.edu.br/handle/tede/864?mode=full ; https://www.jstor.org/stable/j.ctv11g96fd.1 ; https://en.wikipedia.org/wiki/Eshu
+
+Correções de 2026-11-08: 4 `[F]` de memória → `[M]` (*Vīdēvdād*, Baal-Zebub, Evêmero, Lucrécio); sincretismo afro-católico marcado `[M]`; Iranica e *honji suijaku* rebaixados a `[PP: verbete]`, Tibete a `[PP]` (resumo de Rikey); nova seção 5a "Transformações por período"; HF1 reescrita como dependente de decisão do autor sobre o estatuto da entidade, sem indeterminação como padrão.
