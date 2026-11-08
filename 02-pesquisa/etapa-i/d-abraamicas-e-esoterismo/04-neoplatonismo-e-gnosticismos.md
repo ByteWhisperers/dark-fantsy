@@ -15,7 +15,7 @@ Frente D da Etapa I. Dois conjuntos contemporâneos (séc. II–V), que se conhe
 
 | Autoria | Título | Data/período | Tradição | Tipo | Trechos | Leitura |
 |---|---|---|---|---|---|---|
-| G. Shaw / J. Finamore? (autoria do verbete não conferida) | "Iamblichus", *Stanford Encyclopedia of Philosophy* | verbete atual; Jâmblico c. 242–c. 325 | neoplatonismo | enciclopédia acadêmica | *De mysteriis*, alma, teurgia, hierarquia de seres | lido (web, 100 de 114 mil caracteres) |
+| R. Chiaradonna e A. Lecerf (autoria conferida na correção de 2026-11-08) | "Iamblichus", *Stanford Encyclopedia of Philosophy* (rev. 2023) | verbete atual; Jâmblico c. 242–c. 325 | neoplatonismo | enciclopédia acadêmica | *De mysteriis*, alma, teurgia, hierarquia de seres | lido (web, 100 de 114 mil caracteres) |
 | C. Helmig & C. Steel | "Proclus", *SEP* | verbete atual; Proclo 412–485 | neoplatonismo | enciclopédia acadêmica | *Elementos de teologia*, tríade, hênades, teurgia, recepção dionisiana | lido (web, parcial) |
 | Plotino (ed. Porfírio) | *Enéadas* (esp. V.1, VI.9, I.8, II.9 "Contra os gnósticos") | c. 253–270; edição c. 301 | neoplatonismo | primária | teses gerais | de memória |
 | M. A. Williams | *Rethinking "Gnosticism": An Argument for Dismantling a Dubious Category* (Princeton) | 1996 | estudos acadêmicos | monografia | tese e proposta de "tradições demiúrgicas bíblicas" | descrição editorial (Univ. Washington) e resumo (Wikipedia) lidos; livro não lido |
@@ -24,7 +24,7 @@ Frente D da Etapa I. Dois conjuntos contemporâneos (séc. II–V), que se conhe
 | Códices de Nag Hammadi | *Apócrifo de João*, *Evangelho da Verdade*, *Hipóstase dos Arcontes*, *Evangelho de Tomé* | códices do séc. IV; textos gregos dos séc. II–III | "gnosticismos" | primária | dados de descoberta e conteúdo | resumos lidos (NLI, OrthodoxWiki, historyofinformation); textos não lidos nesta sessão |
 | Ireneu de Lião | *Adversus haereses* | c. 180 | heresiologia cristã | primária polêmica | sistema valentiniano de Ptolomeu | de memória |
 
-Limitação: nenhuma *Enéada* nem texto de Nag Hammadi foi relido; teses vêm de verbetes e memória.
+Limitação: nenhuma *Enéada* nem texto de Nag Hammadi foi relido; teses vêm de verbetes e memória. Paráfrase de verbete leva `[PP: SEP "verbete"]`.
 
 ## 2. Recortes
 
@@ -36,68 +36,68 @@ Estudados: Plotino (204/5–270), Jâmblico e a teurgia, Proclo e sua sistematiz
 
 **Neoplatonismo**
 
-- **Plotino:** três "hipóstases": o **Uno** (além do ser e do pensamento, não nomeável), o **Intelecto** (*nous*, onde ser e pensar coincidem, sede das Formas) e a **Alma** (que anima e organiza o cosmos). Tudo procede do Uno sem que ele se diminua (imagem do sol e da luz, da fonte). A matéria, último termo, é privação e, nesse sentido, "mal" (*Enéada* I.8). [F] (de memória) [PP]
+- **Plotino:** três "hipóstases": o **Uno** (além do ser e do pensamento, não nomeável), o **Intelecto** (*nous*, onde ser e pensar coincidem, sede das Formas) e a **Alma** (que anima e organiza o cosmos). Tudo procede do Uno sem que ele se diminua (imagem do sol e da luz, da fonte). A matéria, último termo, é privação e, nesse sentido, "mal" (*Enéada* I.8). [M] [PP] (a tese de *Enéada* I.8 sobre o mal como privação é confirmada indiretamente pela SEP "Augustine", que a cita como fonte de Agostinho)
 - **Alma não descida:** para Plotino, uma parte da alma humana permanece sempre no inteligível; a salvação é **lembrar** o que nunca se perdeu. [PP] (SEP Iamblichus, como ponto que Jâmblico rejeita)
-- **Proclo:** formaliza a processão na tríade **permanência–processão–reversão** (*monē–proodos–epistrophē*, *Elem. Theol.* §35): todo efeito permanece na causa, sai dela e retorna a ela. Entre o Uno imparticipável e o resto, interpõe as **hênades** (unidades participadas, os deuses), segundo uma "lei dos termos médios" (§28): a causa produz primeiro o semelhante. [F] (SEP Proclus)
+- **Proclo:** formaliza a processão na tríade **permanência–processão–reversão** (*monē–proodos–epistrophē*, *Elem. Theol.* §35): todo efeito permanece na causa, sai dela e retorna a ela. Entre o Uno imparticipável e o resto, interpõe as **hênades** (unidades participadas, os deuses), segundo uma "lei dos termos médios" (§28): a causa produz primeiro o semelhante. [PP: SEP "Proclus"]
 - Cosmos **eterno e bom**, imagem do inteligível: os neoplatônicos rejeitam a ideia de um mundo mau. [PP]
 
 **Gnosticismos**
 
-- **Mito setiano** (ex.: *Apócrifo de João*, presente em quatro versões entre os códices): um Deus supremo inefável; emanações (Barbelo, éons) formando o *Plērōma*; Sofia, último éon, gera sem consorte um ser defeituoso, Ialdabaoth, que cria o mundo material e os arcontes e se proclama deus único (leitura irônica de Is 45 e de Gênesis). Centelhas do divino estão presas em humanos; a salvação é **conhecimento** (*gnōsis*) da origem. [F] (de memória; *Apócrifo* não relido) [PP]
-- **Valentinianos** (Valentim, séc. II; Ptolomeu, Heracleão): sistema de 30 éons em pares; a queda de Sofia como paixão que se materializa; três tipos humanos (pneumáticos, psíquicos, hílicos) — divisão que alguns pesquisadores leem como **graus de resposta** e não destinos fixos. Os valentinianos se viam como cristãos de nível mais profundo dentro da Igreja. [PP] (Ireneu via memória; debate sobre determinismo)
+- **Mito setiano** (ex.: *Apócrifo de João*, presente em quatro versões entre os códices): um Deus supremo inefável; emanações (Barbelo, éons) formando o *Plērōma*; Sofia, último éon, gera sem consorte um ser defeituoso, Ialdabaoth, que cria o mundo material e os arcontes e se proclama deus único (leitura irônica de Is 45 e de Gênesis). Centelhas do divino estão presas em humanos; a salvação é **conhecimento** (*gnōsis*) da origem. [M] (*Apócrifo* não relido) [PP]
+- **Valentinianos** (Valentim, séc. II; Ptolomeu, Heracleão): sistema de 30 éons em pares; a queda de Sofia como paixão que se materializa; três tipos humanos (pneumáticos, psíquicos, hílicos) — divisão que alguns pesquisadores leem como **graus de resposta** e não destinos fixos. Os valentinianos se viam como cristãos de nível mais profundo dentro da Igreja. [M] (Ireneu) [PP] (debate sobre determinismo)
 - **Maniqueísmo** (Mani, séc. III): dualismo de dois princípios eternos (luz e trevas), religião missionária com igreja organizada, escritura canônica do fundador, da Roma ao Turquestão e à China. Diferente dos setianos: o mal é princípio coeterno, não acidente. [PP]
-- **Contraste** [S]: no neoplatonismo o cosmos é imagem boa e a descida é necessária; nos mitos demiúrgicos o cosmos é produto de um erro ou de um ser ignorante. Plotino escreveu contra os gnósticos (*Enéada* II.9) precisamente por isso — e porque eles tinham frequentado seu círculo. [F] (de memória) [PP]
+- **Contraste** [S]: no neoplatonismo o cosmos é imagem boa e a descida é necessária; nos mitos demiúrgicos o cosmos é produto de um erro ou de um ser ignorante. Plotino escreveu contra os gnósticos (*Enéada* II.9) precisamente por isso — e porque eles tinham frequentado seu círculo. [M] [PP]
 
 ### 5.2 Entidades
 
-- **Jâmblico:** os "gêneros superiores" em ordem: deuses, arcanjos, anjos, demônios (*daimones*), heróis, arcontes cósmicos, arcontes materiais, almas. Admite demônios maus. [F] (SEP, sobre *De mysteriis*)
-- **Proclo:** deuses-hênades distribuídos em "séries" (*seirai*) que descem do deus até anjos, demônios, heróis, almas, animais, plantas e pedras pertencentes à mesma cadeia: um sol, um galo, uma pedra heliotrópio são da mesma série solar. [PP] (SEP Iamblichus/Proclus sobre *seira*; exemplo do galo de memória, do *De sacrificio*)
-- **Gnosticismos:** éons (entidades-atributo emparelhadas), Sofia, o demiurgo (Ialdabaoth/Saklas/Samael), arcontes planetários que guardam as esferas e impedem a subida das almas; "passwords" para atravessar os arcontes após a morte (ex.: em textos como o *Primeiro Apocalipse de Tiago*). [PP] (de memória)
+- **Jâmblico:** os "gêneros superiores" em ordem: deuses, arcanjos, anjos, demônios (*daimones*), heróis, arcontes cósmicos, arcontes materiais, almas. Admite demônios maus. [PP: SEP "Iamblichus"]
+- **Proclo:** deuses-hênades distribuídos em "séries" (*seirai*) que descem do deus até anjos, demônios, heróis, almas, animais, plantas e pedras pertencentes à mesma cadeia: um sol, um galo, uma pedra heliotrópio são da mesma série solar. [PP: SEP "Iamblichus"/"Proclus"] (*seira*) [M] (exemplo do galo, do *De sacrificio*)
+- **Gnosticismos:** éons (entidades-atributo emparelhadas), Sofia, o demiurgo (Ialdabaoth/Saklas/Samael), arcontes planetários que guardam as esferas e impedem a subida das almas; "passwords" para atravessar os arcontes após a morte (ex.: em textos como o *Primeiro Apocalipse de Tiago*). [M]
 
 ### 5.3 Epistemologia
 
-- **Plotino:** conhecimento por dialética e por "retorno interior"; a união com o Uno não é conhecimento, mas contato (*haphē*) relatado como raro (Porfírio diz que Plotino o teve quatro vezes enquanto estiveram juntos — *Vida de Plotino* 23, de memória). [F]/[PP]
-- **Jâmblico, *De mysteriis*** (título original: *Resposta do mestre Abamon à Carta de Porfírio a Anebo*): distingue filosofia, teologia e **teurgia** (I.2). Jâmblico rejeita a alma não descida de Plotino; a alma está "quebrada" em sua essência (paráfrase da SEP) e por isso o pensamento não basta: é preciso ação ritual que os deuses fornecem. "Não é o pensamento que une os teurgos aos deuses", mas os ritos e símbolos — paráfrase célebre de *De myst.* II.11, não reconferida. Ainda assim a teurgia se funda em argumentos filosóficos. [F] (SEP) [PP]
-- **Reconhecimento de erro:** Porfírio pergunta como distinguir deuses de demônios enganadores; parte da resposta de Jâmblico está em sinais da aparição (ordem, luminosidade, efeito na alma) — não reconferido nesta sessão. A epistemologia da aparição é central. [PP] (de memória)
+- **Plotino:** conhecimento por dialética e por "retorno interior"; a união com o Uno não é conhecimento, mas contato (*haphē*) relatado como raro (Porfírio diz que Plotino o teve quatro vezes enquanto estiveram juntos — *Vida de Plotino* 23). [M]
+- **Jâmblico, *De mysteriis*** (título original: *Resposta do mestre Abamon à Carta de Porfírio a Anebo*): distingue filosofia, teologia e **teurgia** (I.2). Jâmblico rejeita a alma não descida de Plotino; a alma está "quebrada" em sua essência (paráfrase da SEP) e por isso o pensamento não basta: é preciso ação ritual que os deuses fornecem. "Não é o pensamento que une os teurgos aos deuses", mas os ritos e símbolos — paráfrase célebre de *De myst.* II.11, não reconferida. Ainda assim a teurgia se funda em argumentos filosóficos. [PP: SEP "Iamblichus"] (o verbete diz que o apelo de Jâmblico à teurgia se baseia em "visões e argumentos filosóficos sofisticados" e que o ritual tem precedência sobre a ascese filosófica)
+- **Reconhecimento de erro:** Porfírio pergunta como distinguir deuses de demônios enganadores; parte da resposta de Jâmblico está em sinais da aparição (ordem, luminosidade, efeito na alma) — não reconferido nesta sessão. A epistemologia da aparição é central. [M]
 - **Gnosticismos:** conhecimento revelado por um salvador ou revelador (diálogos pós-ressurreição), muitas vezes **secreto**, transmitido a uma linhagem espiritual (a "raça de Set"). Contra isso, Ireneu opõe a tradição **pública** dos bispos (ver [02](02-cristianismos-historicos.md)). [PP]
 - Os heresiólogos são a fonte principal antes de 1945: tudo o que se sabia vinha dos inimigos. Nag Hammadi permitiu checar, e mostrou distorções e acertos. [PP]
 
 ### 5.4 Técnicas (o que se acreditava × o que produzia)
 
-- **Teurgia** ("ação divina"): oração, oferenda, sacrifício, uso de "símbolos" (objetos, nomes, ritos, mitos, oráculos) revelados pelos deuses e pertencentes à cadeia de um deus; o princípio é "tudo está em tudo segundo a propriedade de cada um" e a **receptividade** (*epitēdeiotēs*) do receptor. Proclo distinguia graus de teurgia, o mais alto ligado à união com o Uno, e praticava rituais (relato de seu biógrafo Marino). Acreditava-se: elevação da alma, proteção, cura. Produz: um **sistema ritual justificado filosoficamente**, que conservou cultos pagãos sob pressão cristã e forneceu molde à liturgia dionisiana. [F] (SEP) [S]
+- **Teurgia** ("ação divina"): oração, oferenda, sacrifício, uso de "símbolos" (objetos, nomes, ritos, mitos, oráculos) revelados pelos deuses e pertencentes à cadeia de um deus; o princípio é "tudo está em tudo segundo a propriedade de cada um" e a **receptividade** (*epitēdeiotēs*) do receptor. Proclo distinguia graus de teurgia, o mais alto ligado à união com o Uno, e praticava rituais (relato de seu biógrafo Marino). Acreditava-se: elevação da alma, proteção, cura. Produz: um **sistema ritual justificado filosoficamente**, que conservou cultos pagãos sob pressão cristã e forneceu molde à liturgia dionisiana. [PP: SEP "Iamblichus"/"Proclus"] [S]
 - **Ascese plotiniana:** purificação ética e contemplativa, sem ritual especial. [PP]
-- **Gnosticismos:** batismos (os setianos falam de "cinco selos"), unções, ritos de "câmara nupcial" (*Evangelho de Filipe*) cuja natureza é obscura; fórmulas para a ascensão post-mortem. [PP] (de memória)
+- **Gnosticismos:** batismos (os setianos falam de "cinco selos"), unções, ritos de "câmara nupcial" (*Evangelho de Filipe*) cuja natureza é obscura; fórmulas para a ascensão post-mortem. [M]
 
 ### 5.5 Formalização
 
-- **Proclo, *Elementos de teologia*:** 211 proposições numa "demonstração encadeada", modelada em Euclides; as 112 primeiras estabelecem o Uno como causa última. É **axiomatização dedutiva** de uma metafísica — não matemática quantitativa, mas forma geométrica de prova. [F] (SEP) [S]
-  - Nota: a SEP, na leitura feita, mencionou "217"; o número tradicional é 211. Divergência não resolvida aqui.
-- Proclo também comentou o livro I de Euclides — fonte importante para a história da geometria. [PP] (de memória)
+- **Proclo, *Elementos de teologia*:** 211 proposições numa "demonstração encadeada", modelada em Euclides; as 112 primeiras estabelecem o Uno como causa última. É **axiomatização dedutiva** de uma metafísica — não matemática quantitativa, mas forma geométrica de prova. [PP: SEP "Proclus"] [S]
+  - Nota: a SEP (Helmig e Steel) diz "217 proposições" (reconferido em 2026-11-08); o número da edição corrente (Dodds) é 211 [M]. Divergência não resolvida aqui.
+- Proclo também comentou o livro I de Euclides — fonte importante para a história da geometria. [M]
 - **Tríades em toda parte** (permanência–processão–reversão; ser–vida–intelecto): esquema classificatório recursivo. [S]
 - **Gnosticismos:** números de éons (30 valentinianos; ogdóade, década, dodécade), geometria das esferas planetárias e listas de arcontes — **simbolismo numérico** e cosmografia, não cálculo. [S]
 
 ### 5.6 Instituições
 
-- **Escolas filosóficas** com chefe (*diadochos*, "sucessor") e linhagem; a Academia neoplatônica de Atenas era rica (dotações) e teve fim após a lei de Justiniano de 529 contra o ensino pagão; Damáscio e outros vão à Pérsia (531–32) e voltam. [PP] (de memória)
+- **Escolas filosóficas** com chefe (*diadochos*, "sucessor") e linhagem; a Academia neoplatônica de Atenas era rica (dotações) e teve fim após a lei de Justiniano de 529 contra o ensino pagão; Damáscio e outros vão à Pérsia (531–32) e voltam. [M]
 - Pagãos letrados como **minoria perseguida** após Teodósio (decretos de 391–92): a teurgia vira prática semi-clandestina. [PP]
 - **Gnosticismos:** sem instituição única; grupos dentro de igrejas (valentinianos), escolas de mestres (Basílides), comunidades monásticas egípcias possivelmente leitoras dos códices. O maniqueísmo é a exceção: igreja hierárquica (eleitos × ouvintes). [PP]
 - **Nag Hammadi:** 12 códices e folhas de um 13º, encontrados em dezembro de 1945 perto de Nag Hammadi (Alto Egito) por Muhammad 'Ali al-Samman; em copta, traduzidos do grego; encadernados na primeira metade do séc. IV; contagem de tratados varia (cerca de 52 tratados, 46 a 54 textos distintos conforme o critério); incluem textos herméticos e um trecho alterado da *República* de Platão. Hoje no Museu Copta do Cairo. Hipótese discutida: pertenceram a monges pacomianos. [F] (resumos) [PP]
 
 ## 4. Transformações e dissidências
 
-- Neoplatonismo **cristianizado** (Pseudo-Dionísio, que depende fortemente de Proclo e se apresentou como discípulo de Paulo), **islamizado** (*Teologia de Aristóteles*, paráfrase de Plotino; emanação de Ibn Sīnā), **judaizado** (influência indireta na cabala) e **renascentista** (Ficino traduz Plotino, 1492). [F] (SEP Proclus) [PP]
-- "Gnosticismo" como acusação: do séc. II ao XX, o rótulo é usado para cátaros, místicos, românticos, até movimentos políticos (Eric Voegelin). O termo moderno aparece no séc. XVII (Henry More, 1669). [PP] (de memória)
+- Neoplatonismo **cristianizado** (Pseudo-Dionísio, que depende fortemente de Proclo e se apresentou como discípulo de Paulo), **islamizado** (*Teologia de Aristóteles*, paráfrase de Plotino; emanação de Ibn Sīnā), **judaizado** (influência indireta na cabala) e **renascentista** (Ficino traduz Plotino, 1492). [PP: SEP "Proclus"]
+- "Gnosticismo" como acusação: do séc. II ao XX, o rótulo é usado para cátaros, místicos, românticos, até movimentos políticos (Eric Voegelin). O termo moderno aparece no séc. XVII (Henry More, 1669). [M]
 
 ## 5. Divergências entre pesquisadores
 
 - **A categoria "gnosticismo":**
-  - Definição de "consenso" no Colóquio de Messina (1966): gnose como conhecimento de mistérios reservado a elite; gnosticismo como sistemas dos séc. II centrados na centelha divina caída. [PP] (de memória; não verificado)
+  - Definição de "consenso" no Colóquio de Messina (1966): gnose como conhecimento de mistérios reservado a elite; gnosticismo como sistemas dos séc. II centrados na centelha divina caída. [M]
   - **Williams (1996):** o construto moderno não corresponde a nenhuma autodefinição antiga; traços tidos como definidores (anticosmismo, ódio ao corpo, ascetismo ou libertinismo, determinismo) não se sustentam nos textos. Propõe abandoná-lo em favor de designações particulares (valentinianos, setianos) e de uma categoria ampla, **"tradições demiúrgicas bíblicas"** (criação atribuída a um ser inferior distinto do Deus supremo), e de um modelo inspirado no estudo de **novos movimentos religiosos**. A substituição não pegou amplamente; objeção: também não é autodesignação. [PP] (resumos lidos)
-  - **King (2003):** o "gnosticismo" é construção da heresiologia cristã reaproveitada pela historiografia moderna para definir, por contraste, o "cristianismo ortodoxo". [PP] (de memória)
-  - **Brakke (2010) e Layton:** mantêm "gnósticos" para um grupo específico, que talvez se chamasse assim (os setianos), sem estender a todos. [PP] (de memória)
+  - **King (2003):** o "gnosticismo" é construção da heresiologia cristã reaproveitada pela historiografia moderna para definir, por contraste, o "cristianismo ortodoxo". [M] [PP]
+  - **Brakke (2010) e Layton:** mantêm "gnósticos" para um grupo específico, que talvez se chamasse assim (os setianos), sem estender a todos. [M] [PP]
   - Outros mantêm a categoria como tipologia útil, com cautela. [PP]
-- **Jâmblico:** leitura antiga (desde Dodds, 1951) da teurgia como "magia" irracional × leitura recente (Shaw, *Theurgy and the Soul*, 1995) como consequência coerente de uma psicologia da alma descida. A SEP enfatiza a segunda. [PP] (Dodds e Shaw de memória)
-- **Alma descida em Jâmblico:** Damáscio relata que, para Jâmblico, a alma superior "desce sem descer"; a interpretação é disputada. [PP] (SEP)
+- **Jâmblico:** leitura antiga (desde Dodds, 1951) da teurgia como "magia" irracional × leitura recente (Shaw, *Theurgy and the Soul*, 1995) como consequência coerente de uma psicologia da alma descida. A SEP enfatiza a segunda; o verbete cita Shaw (1995) como quem estabeleceu a ligação entre psicologia e filosofia da religião em Jâmblico. [PP: SEP "Iamblichus"] [M] (Dodds)
+- **Alma descida em Jâmblico:** Damáscio relata que, para Jâmblico, a alma superior "desce sem descer"; a interpretação é disputada. [PP: SEP "Iamblichus"]
 
 ## 6. Estruturas reaproveitáveis [S]
 
@@ -123,6 +123,8 @@ Estudados: Plotino (204/5–270), Jâmblico e a teurgia, Proclo e sua sistematiz
 ## 8. Limitações
 
 - Nenhum texto primário relido; *Enéadas*, *De mysteriis*, *Apócrifo de João* citados de memória ou por verbetes.
-- Definição de Messina, posições de King, Brakke, Layton, Dodds e Shaw: de memória.
+- Definição de Messina, posições de King, Brakke, Layton e Dodds: de memória; Shaw só pela menção na SEP.
 - Contagem de proposições de Proclo (211 × 217 na leitura) não resolvida.
-- Autoria do verbete SEP "Iamblichus" não conferida.
+- Verbete SEP "Iamblichus": autoria conferida (Chiaradonna e Lecerf, 2023).
+
+Correções de 2026-11-08: os 4 `[F]` de memória (Plotino I.8, mito setiano, Plotino × gnósticos, *Vida de Plotino* 23) passaram a `[M]`; os `[PP] (de memória)` também passaram a `[M]` (total: 17 marcas `[M]`); paráfrases da SEP passaram a `[PP: SEP "verbete"]` (9); autoria do verbete "Iamblichus" conferida; contagem de proposições de Proclo reconferida na SEP (217) e mantida como divergência com a edição de Dodds (211).

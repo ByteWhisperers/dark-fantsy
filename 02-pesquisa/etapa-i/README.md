@@ -41,6 +41,8 @@ Tradições da §3 sem dossiê na Pesquisa I: confucionismo, xintoísmo, zoroast
 | `g-morte-corpo-consciencia/` | Eixos 5.3/5.4 faltantes: ritos funerários, preservação de corpos, transe e sonho, proteção e agressão sobrenatural, fraude e erro |
 | `h-geografia-e-ambiente/` | §9 pesquisada desde já: princípios de geografia física para um continente plausível, e ambiente × cultura sem determinismo |
 
+Na correção de 2026-11-08 entraram 8 dossiês de lacunas: b-06 Estados africanos, c-04 religião chinesa, d-06 espiritismo, d-07 xiismo e ismailismo, d-08 cristianismos não calcedonianos, f-06 Oceania e Austrália, g-06 Sibéria e Ártico, g-07 contra-casos e tradições extintas.
+
 Entrega final (§5): `00-repertorio.md`, índice por **tema** e por **tradição**, feito ao fim.
 
 Depois das frentes, uma **revisão crítica** no papel do Agente I (§13): erros históricos, fontes frágeis, falsas equivalências, homogeneização, determinismo geográfico. Resultado em `99-revisao-critica.md`.

@@ -31,11 +31,11 @@ Limitação: nenhum texto de Blavatsky, Steiner ou dos rituais da Golden Dawn fo
 
 ## 2. Recortes
 
-Estudados: definição do campo (Faivre, Hanegraaff), Sociedade Teosófica (1875) e sua expansão indiana, antroposofia (1912/13), Golden Dawn (1888–1903), e o padrão de apropriação em Olcott, Golden Dawn, Nova Era e neoxamanismo. Não estudados: espiritismo kardecista (importante no Brasil, e com epistemologia própria de "fenômeno controlado"; merece dossiê), mesmerismo e espiritualismo anglo-americano (só como contexto), martinismo, maçonaria, rosacrucianismo do séc. XVII, Crowley e Thelema em detalhe, Gurdjieff, Guénon e o tradicionalismo, Jung.
+Estudados: definição do campo (Faivre, Hanegraaff), Sociedade Teosófica (1875) e sua expansão indiana, antroposofia (1912/13), Golden Dawn (1888–1903), e o padrão de apropriação em Olcott, Golden Dawn, Nova Era e neoxamanismo. Não estudados: espiritismo kardecista (importante no Brasil, e com epistemologia própria de "fenômeno controlado"; ver [d-06](06-espiritismo-e-espiritualismo.md)), mesmerismo e espiritualismo anglo-americano (só como contexto; também em d-06), martinismo, maçonaria, rosacrucianismo do séc. XVII, Crowley e Thelema em detalhe, Gurdjieff, Guénon e o tradicionalismo, Jung.
 
 ## 3. O problema do objeto
 
-- **Faivre (1992):** esoterismo como "forma de pensamento" com quatro características intrínsecas — **correspondências**, **natureza viva**, **imaginação e mediações**, **experiência de transmutação** — e duas relativas — **prática da concordância** (todas as tradições dizem o mesmo no fundo) e **transmissão** (de mestre a discípulo). [PP] (três primeiras confirmadas; demais de memória)
+- **Faivre (1992):** esoterismo como "forma de pensamento" com quatro características intrínsecas — **correspondências**, **natureza viva**, **imaginação e mediações**, **experiência de transmutação** — e duas relativas — **prática da concordância** (todas as tradições dizem o mesmo no fundo) e **transmissão** (de mestre a discípulo). [PP] (três primeiras confirmadas por busca) [M] (as três demais)
 - **Hanegraaff (2012):** o esoterismo ocidental não é uma essência, mas um **reservatório de conhecimento rejeitado**: aquilo que a polêmica protestante e depois a iluminista excluíram como "paganismo", "superstição" ou "ocultismo". A academia moderna **definiu-se contra** esse material. Propõe **agnosticismo metodológico**: descrever as alegações sem julgar sua verdade. Críticas: a categoria pode ficar dependente de quem rejeita; o foco é europeu-protestante. [PP] (resenhas)
 - **Concordância como mecanismo central** [S]: a "filosofia perene" (Agostino Steuco, 1540) e a *prisca theologia* renascentista dão a moldura que a teosofia herda: toda religião seria fragmento de uma sabedoria original única. Essa tese **é ela própria o motor das apropriações**.
 
@@ -43,21 +43,21 @@ Estudados: definição do campo (Faivre, Hanegraaff), Sociedade Teosófica (1875
 
 ### 5.1 Ontologia e cosmologia
 
-- **Teosofia (Blavatsky):** um absoluto impessoal; universo em ciclos (manifestação e dissolução); evolução espiritual por **cadeias planetárias, rondas e sete "raças-raiz"** (a humanidade atual seria a quinta, "ariana", em sentido teosófico). Sete princípios no ser humano (da forma física ao *ātman*). Carma e reencarnação reinterpretados como **evolução progressiva** da alma — diferente das doutrinas indianas, onde o objetivo é sair do ciclo. [PP] (de memória)
-- **Antroposofia (Steiner):** "ciência espiritual"; ser humano com corpo físico, etérico, astral e o "eu"; evolução cósmica por estágios (Saturno, Sol, Lua, Terra antigos); o **Cristo** como evento central da evolução — ponto que o separa da teosofia indianizante. [PP] (de memória)
+- **Teosofia (Blavatsky):** um absoluto impessoal; universo em ciclos (manifestação e dissolução); evolução espiritual por **cadeias planetárias, rondas e sete "raças-raiz"** (a humanidade atual seria a quinta, "ariana", em sentido teosófico). Sete princípios no ser humano (da forma física ao *ātman*). Carma e reencarnação reinterpretados como **evolução progressiva** da alma — diferente das doutrinas indianas, onde o objetivo é sair do ciclo. [M]
+- **Antroposofia (Steiner):** "ciência espiritual"; ser humano com corpo físico, etérico, astral e o "eu"; evolução cósmica por estágios (Saturno, Sol, Lua, Terra antigos); o **Cristo** como evento central da evolução — ponto que o separa da teosofia indianizante. [M]
 - **Golden Dawn:** síntese de cabala cristã/hermética (Árvore da Vida como mapa de graus), astrologia, tarô, magia enoquiana (John Dee), simbolismo egípcio; o cosmos como sistema de correspondências navegável pelo iniciado. [PP]
 
 ### 5.2 Entidades
 
-- **Teosofia:** os **Mahatmas** ou "Mestres" (Koot Hoomi, Morya), adeptos humanos vivos no Tibete que guiariam a evolução e se comunicariam por cartas "precipitadas". Mais tarde (Besant e Leadbeater), hierarquia de Mestres e a espera de um "Instrutor do Mundo" encarnado em J. Krishnamurti, que dissolveu a Ordem da Estrela em 1929. [PP] (Krishnamurti 1929 de memória)
-- **Antroposofia:** seres espirituais segundo as nove hierarquias dionisianas (ver [02](02-cristianismos-historicos.md)), Lúcifer e Ahriman como dois polos de desvio. [PP] (de memória)
+- **Teosofia:** os **Mahatmas** ou "Mestres" (Koot Hoomi, Morya), adeptos humanos vivos no Tibete que guiariam a evolução e se comunicariam por cartas "precipitadas". Mais tarde (Besant e Leadbeater), hierarquia de Mestres e a espera de um "Instrutor do Mundo" encarnado em J. Krishnamurti, que dissolveu a Ordem da Estrela em 1929. [PP] [M] (data de 1929)
+- **Antroposofia:** seres espirituais segundo as nove hierarquias dionisianas (ver [02](02-cristianismos-historicos.md)), Lúcifer e Ahriman como dois polos de desvio. [M]
 - **Golden Dawn:** os "Chefes Secretos" (fonte de autoridade), anjos, nomes divinos, espíritos planetários. [PP]
 - **Elementais** (gnomos, ondinas, silfos, salamandras): herdados de Paracelso pelos ocultistas — mostra a reciclagem de categorias renascentistas. [S]
 
 ### 5.3 Epistemologia
 
 - **Pretensão de ciência:** teosofia e antroposofia apresentam-se como **conciliação de religião, filosofia e ciência**; Steiner fala em percepção suprassensível treinável e verificável por quem seguir o caminho. É uma epistemologia de **testemunho do iniciado** que se apresenta com vocabulário empírico. [PP]/[S]
-- **Revelação mediada:** cartas dos Mahatmas; "leitura da crônica akáshica" (Steiner); clarividência de Leadbeater (*Occult Chemistry*, com Besant, 1908: descrições de átomos vistos por clarividência). [PP] (de memória)
+- **Revelação mediada:** cartas dos Mahatmas; "leitura da crônica akáshica" (Steiner); clarividência de Leadbeater (*Occult Chemistry*, com Besant, 1908: descrições de átomos vistos por clarividência). [M]
 - **Reconhecimento de fraude — o caso Hodgson:** a Society for Psychical Research enviou Richard Hodgson à Índia (fim de 1884); o relatório (dez. 1885) concluiu que Blavatsky escrevera as cartas dos Mahatmas com caligrafia disfarçada e forjara fenômenos, e sugeriu que agia como espiã russa. Em 1986, Vernon Harrison (perito em documentos, membro da SPR) publicou no *JSPR* uma crítica ao relatório como parcial, sem provar a autenticidade das cartas. [F] (resumos) [PP]
   - O episódio mostra **duas instituições** com padrões de prova diferentes: a SPR (investigação, perícia, comitê) e a Sociedade Teosófica (testemunho, lealdade). [S]
 - **Golden Dawn — autoridade forjada:** os *Cipher Manuscripts* forneceram rituais; uma suposta adepta alemã, "Fräulein Sprengel", teria autorizado a fundação por cartas — pesquisadores hoje creem que Westcott inventou a história; em 1900 o próprio Mathers acusou Westcott de forjar as cartas, no meio da crise. [F] (aim25/encyclopedia.com) [PP]
@@ -76,22 +76,22 @@ Estudados: definição do campo (Faivre, Hanegraaff), Sociedade Teosófica (1875
 
 ### 5.6 Instituições
 
-- **Sociedade Teosófica:** fundada em Nova York (1875) por Blavatsky, Olcott e Judge; sede em Adyar (Madras) a partir de 1882; três objetos declarados (fraternidade universal sem distinção de raça, credo, sexo, casta ou cor; estudo comparado de religião, filosofia e ciência; investigação de leis inexplicadas e poderes latentes). Cismas: ramo americano de Judge (1895). [PP] (de memória)
+- **Sociedade Teosófica:** fundada em Nova York (1875) por Blavatsky, Olcott e Judge; sede em Adyar (Madras) a partir de 1882; três objetos declarados (fraternidade universal sem distinção de raça, credo, sexo, casta ou cor; estudo comparado de religião, filosofia e ciência; investigação de leis inexplicadas e poderes latentes). Cismas: ramo americano de Judge (1895). [M]
 - **Expansão indiana e cingalesa:** Olcott publica o *Buddhist Catechism* (1881) para apresentar o budismo como compatível com a modernidade; funda escolas budistas no Ceilão. Annie Besant torna-se presidente do Congresso Nacional Indiano (sessão de Calcutá, dez. 1917). A teosofia **influi** sobre nacionalismos asiáticos, não só os explora. [F] (resumos) [PP]
-- **Golden Dawn:** fundada em 1888 por Westcott, Woodman e Mathers (maçons da *Societas Rosicruciana in Anglia*); templo Isis-Urania (Londres); admite mulheres em pé de igualdade (Florence Farr, Moina Mathers); cisma de 1900 (crise com Mathers, episódio da "batalha de Blythe Road" com Crowley, de memória) e nova cisão em 1903. [F] (aim25) [PP]
+- **Golden Dawn:** fundada em 1888 por Westcott, Woodman e Mathers (maçons da *Societas Rosicruciana in Anglia*); templo Isis-Urania (Londres); admite mulheres em pé de igualdade (Florence Farr, Moina Mathers); cisma de 1900 (crise com Mathers, episódio da "batalha de Blythe Road" com Crowley, `[M]`) e nova cisão em 1903. [F] (aim25) [PP]
 - **Antroposofia:** Steiner é secretário-geral da seção alemã da Sociedade Teosófica (1902); ruptura por recusar a proclamação de Krishnamurti como veículo do Cristo; Sociedade Antroposófica fundada em Colônia (28 dez. 1912); expulsão da Teosófica (março 1913); Sociedade Antroposófica Geral refundada no Natal de 1923 em Dornach (Goetheanum). Hoje: rede de escolas, fazendas, clínicas, bancos, empresas. [F] (resumos)
 
 ## 5. Transformações, apropriações e dissidências
 
 - **Mecânica da apropriação** [S]: (1) postula-se uma sabedoria primordial única; (2) escolhem-se termos de tradições vivas (*karma*, *ātman*, *sefirot*, *chakra*, "xamã"); (3) reorganizam-se dentro de um esquema europeu evolucionista ou graduado; (4) o resultado é devolvido às tradições de origem como "versão esotérica" superior à prática local.
 - **Efeito de retorno:** o *Catecismo* de Olcott e as escolas teosóficas participaram de reformas do budismo cingalês que Obeyesekere chamou de **"budismo protestante"** (laicização, ênfase textual e racional); o termo é hoje discutido. [PP]
-- **Ariosofia:** Guido von List e Lanz von Liebenfels (Áustria, c. 1900–1930) fundem teosofia, runas e racismo; Goodrick-Clarke (1985) estuda a relação com o nazismo e desmonta mitos de "nazismo ocultista". [PP] (de memória)
-- **Antroposofia e raça:** passagens de Steiner sobre raças e "evolução" dos povos; Staudenmaier (2014) documenta envolvimentos de antroposofistas com o fascismo italiano e o nazismo; outros autores e a própria comunidade antroposófica contestam a generalização. [PP] (de memória)
-- **Nova Era** (Hanegraaff, *New Age Religion and Western Culture*, 1996): herdeira direta da teosofia; individualização e mercado. **Neoxamanismo** (Michael Harner, "core shamanism", 1980) cria técnica genérica descontextualizada; povos indígenas protestaram (ex.: declaração lakota contra "exploradores da espiritualidade lakota", 1993, de memória). **Wicca** (Gerald Gardner, anos 1950) apresentou-se como sobrevivência antiga; Hutton (1999) mostra a construção moderna. [PP]
+- **Ariosofia:** Guido von List e Lanz von Liebenfels (Áustria, c. 1900–1930) fundem teosofia, runas e racismo; Goodrick-Clarke (1985) estuda a relação com o nazismo e desmonta mitos de "nazismo ocultista". [M] [PP]
+- **Antroposofia e raça:** passagens de Steiner sobre raças e "evolução" dos povos; Staudenmaier (2014) documenta envolvimentos de antroposofistas com o fascismo italiano e o nazismo; outros autores e a própria comunidade antroposófica contestam a generalização. [M] [PP]
+- **Nova Era** (Hanegraaff, *New Age Religion and Western Culture*, 1996): herdeira direta da teosofia; individualização e mercado. **Neoxamanismo** (Michael Harner, "core shamanism", 1980) cria técnica genérica descontextualizada; povos indígenas protestaram (ex.: `[M]` declaração lakota contra "exploradores da espiritualidade lakota", 1993). **Wicca** (Gerald Gardner, anos 1950) apresentou-se como sobrevivência antiga; Hutton (1999) mostra a construção moderna. [PP]
 
 ## 6. Divergências entre pesquisadores
 
-- **Definição do campo:** Faivre (forma de pensamento com traços) × Hanegraaff (categoria polêmica de conhecimento rejeitado) × von Stuckrad (discurso de "conhecimento superior" e segredo, não uma tradição). [PP] (von Stuckrad de memória)
+- **Definição do campo:** Faivre (forma de pensamento com traços) × Hanegraaff (categoria polêmica de conhecimento rejeitado) × von Stuckrad (discurso de "conhecimento superior" e segredo, não uma tradição). [PP] [M] (von Stuckrad)
 - **Hodgson × Harrison:** fraude comprovada × investigação enviesada; nenhum dos dois estabelece a origem "mahátmica". [PP]
 - **Teosofia na Ásia:** orientalismo colonial (apropriação) × aliado de reformas e nacionalismos locais (agência asiática). As duas leituras coexistem. [PP]
 - **Antroposofia:** movimento espiritual com práticas benéficas × sistema pseudocientífico com componente racial; debate ativo, sobretudo na Alemanha. [PP]
@@ -121,4 +121,6 @@ Estudados: definição do campo (Faivre, Hanegraaff), Sociedade Teosófica (1875
 - Nenhuma fonte primária esotérica lida nesta sessão; doutrinas de Blavatsky e Steiner de memória.
 - Faivre: só três das seis características confirmadas; data da primeira formulação (1992 × 1994 em francês) não conferida.
 - Goodrick-Clarke, Staudenmaier, Hutton, von Stuckrad, Harner, declaração lakota: de memória.
-- Espiritismo kardecista e espiritualismo anglo-americano ficaram fora — lacuna relevante para "relações com entidades" com protocolo de controle.
+- Espiritismo kardecista e espiritualismo anglo-americano ficaram fora — lacuna relevante para "relações com entidades" com protocolo de controle; tratados em [d-06](06-espiritismo-e-espiritualismo.md).
+
+Correções de 2026-11-08: não havia `[F]` explicitamente de memória; os `[PP] (de memória)` e as marcas "de memória" no corpo passaram a `[M]` (total: 12 marcas `[M]`); não houve nova verificação de fontes nesta correção; remissão a d-06 (espiritismo e espiritualismo) no recorte e nas limitações.

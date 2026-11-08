@@ -210,3 +210,23 @@ Só erros factuais claros e verificados, ou etiquetas e referências erradas. Ne
 - Bernadette, 1909: https://www.ewtn.com/catholicism/library/body-of-st-bernadette-of-lourdes-5236 ; https://www.ncregister.com/blog/the-marvelous-preservation-of-st-bernadette
 - Bourguignon: https://encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/spirit-possession-overview ; https://hraf.yale.edu/documents/567
 - Yakubovich e Rubio: https://vestnik-pp.samgtu.ru/0321-0391/article/view/648561 ; https://pourdavoud.ucla.edu/video/axial-anxieties-the-politics-and-theology-of-temple-destruction-in-the-achaemenid-empire-and-the-ancient-near-east
+
+## 7. Estado após as correções (2026-11-08)
+
+O autor escolheu corrigir a Etapa I antes da Etapa II. O que foi feito:
+
+| Problema (seção) | Situação |
+|---|---|
+| 2.1 `[F]` de memória | **Corrigido.** Nova etiqueta `[M]` no briefing. Cerca de 165 `[F]` passaram a `[M]` e paráfrases de enciclopédia viraram `[PP: verbete]`. Vários pontos foram conferidos antes de rebaixar: Mêncio, Gelásio, Aśoka, Lívio, Heródoto, Plutarco, Vinaya, Mishná, Kardec e 14 verbetes da Iranica (lidos pelo Internet Archive). Nenhum `[F]` seguido de "memória" restou. |
+| 2.2 Referências anônimas | **Quase todas resolvidas:** Isaenko 2017, Ceruti 2012, Tillman 2004, Chen Rou-jia 2022, Ziemendorff 2018, Bronkhorst 2001, Stojanović 2020, Gardiner 2012/Coulon. **Não resolvidas:** *Montoku Jitsuroku* (g-05), norma de 1786 (f-05), base de *nat* e deus da cidade (a-02). |
+| 2.3 Contradições | **Corrigidas:** Kerdīr (c-03 refeito pela tradução de Skjærvø), possessão (g-03 remete a a-04/f-02), Bourguignon (variáveis diferentes, a-04), *calmecac* e Sahagún harmonizados, Murra (h-03 remete a f-04). |
+| 2.4 `[HF]` | **Corrigido.** Regras novas no briefing. As hipóteses de B e D foram reescritas, e só uma (b-05 HF3) ainda toca restrição. A fórmula "sem que o cenário decida" saiu. Hipóteses que dependem de cosmologia levam "depende de decisão do autor sobre ...". h-01 HF1 virou recomendação de método. |
+| 2.5 Viés europeu e de sucesso | **Atenuado.** g-04, g-05 e b-05 têm ressalva e remetem a g-07 (contra-casos). b-05 ganhou o Japão Tokugawa. |
+| Duplicações (§4) | **Corrigidas.** Cada tema tem um dossiê dono, e os outros só remetem. |
+| Lacunas (§5) | **8 dossiês novos:** b-06, c-04, d-06, d-07, d-08, f-06, g-06, g-07. |
+
+**O que continua fraco:**
+- Quase nenhuma monografia foi lida inteira.
+- Vários dossiês passam de 18 KB; o c-03 tem ~31 KB.
+- d-07 e d-08 se apoiam muito em páginas da Wikipédia que citam especialistas (`[PP: via Wikipedia]`).
+- Sites bloqueados nesta sessão: Planalto, antigo.bn.gov.br, Cambridge Core, raco.cat, USGS, iranicaonline.org (direto).

@@ -133,8 +133,8 @@ Limite: nenhuma obra lida inteira; as religiões diaspóricas têm literatura in
 - Sem fonte interna (sacerdotes-autores) consultada; tudo é academia, em boa parte de segunda mão.
 - Zar fora do Sudão, África Austral não shona e Caribe não hispânico/francófono quase ausentes.
 - Datas de campanhas anti-Vodou, de Mãe Stella e detalhes de categorias shona: memória, não reverificados.
-- O **espiritismo kardecista** aparece só como um dos componentes (§4.1); sua formação no Brasil e a influência na Umbanda ("evolução" dos espíritos, caridade, federação) ficam para o dossiê d-06 (espiritismo kardecista), em preparação na frente D.
-- Os **Estados africanos** de onde vieram muitos cativos (Oyo, Daomé, Benin, Kongo como reino) não são tratados aqui: ver b-06 (Estados africanos), em preparação na frente B.
+- O **espiritismo kardecista** aparece só como um dos componentes (§4.1); sua formação no Brasil e a influência na Umbanda ("evolução" dos espíritos, caridade, federação) ficam para [d-06](../d-abraamicas-e-esoterismo/06-espiritismo-e-espiritualismo.md).
+- Os **Estados africanos** de onde vieram muitos cativos (Oyo, Daomé, Benin, Kongo como reino) não são tratados aqui: ver [b-06](../b-instituicoes/06-estados-africanos-sagrado-e-poder.md).
 
 Fontes web: [Boddy, catálogo](https://bibethno-cat.lesc-cnrs.fr/bib/8478) · [Wikipedia, Zār](https://en.wikipedia.org/wiki/Z%C4%81r) · [Univ. Köln, zar e escravidão no Irã](https://afrikanistik.phil-fak.uni-koeln.de/index.php?id=39243) · [Lan, Guns and Rain (resenha MSU)](https://d.lib.msu.edu/juz/442/FULL_TEXT/view) · [Dantas, UNC Press](https://uncpress.org/9780807859759/) · [Matory, Princeton](https://press.princeton.edu/node/23071) · [Matory, resenha Iyanaga (UCLA)](https://ethnomusicologyreview.ucla.edu/printpdf/journal/volume/14/piece/491) · [Religare/UFPB, desenvolvimento histórico da Umbanda](https://periodicos.ufpb.br/index.php/religare/article/view/41774/27040)
 
