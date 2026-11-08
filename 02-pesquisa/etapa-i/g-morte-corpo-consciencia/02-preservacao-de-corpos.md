@@ -78,7 +78,7 @@ Estudados: Chinchorro (c. 5000–1800 a.C. para a mumificação artificial; ver 
 ## 7. "Incorruptos" católicos: o corpo como prova
 
 - `[F]` O catolicismo romano não exige incorrupção para canonizar, nem a conta automaticamente como milagre. **Lambertini** (futuro Bento XIV), que trabalhou na congregação das causas dos santos (1708–1728), teria fixado critérios: só contaria como extraordinária a preservação que mantém **flexibilidade, cor e frescor** por muitos anos **sem intervenção deliberada**; corpos que se mantêm e depois se desfazem não contam (via resumo; texto não lido).
-- `[F]` Casos documentados de artifício: Margarida de Cortona (séc. XIII) — análise italiana dos anos 1980 indicou embalsamamento extenso; Bernadette Soubirous, exumada em 1909 (a fonte de divulgação diz 1903; **data divergente**) e depois com face e mãos recobertas de cera; Jean-Marie Vianney com máscara de cera; Carlo Acutis (2020) com reconstrução facial em silicone, declarada pelo bispo de Assis.
+- `[F]` Casos documentados de artifício: Margarida de Cortona (séc. XIII) — análise italiana dos anos 1980 indicou embalsamamento extenso; Bernadette Soubirous, exumada pela primeira vez em 22 set. 1909 (data conferida na revisão crítica; a fonte de divulgação que dizia 1903 está errada; novas exumações em 1919 e 1925) e depois com face e mãos recobertas de cera; Jean-Marie Vianney com máscara de cera; Carlo Acutis (2020) com reconstrução facial em silicone, declarada pelo bispo de Assis.
 - `[PP]` Explicações naturais invocadas por estudiosos: saponificação (adipocera) em solo úmido e frio, dessecação em criptas secas, embalsamamento não registrado. `[PP]` Joan Carroll Cruz (*The Incorruptibles*, 1977), autora devota, admite intervenção em alguns casos mas sustenta que isso não exclui condição inexplicável.
 - `[S]` A instituição desenvolveu um **critério interno** para separar preservação natural ou artificial de sinal, mas aplica-o com flexibilidade (crítica registrada na própria imprensa católica). O culto popular não espera o critério.
 
@@ -137,7 +137,7 @@ Estudados: Chinchorro (c. 5000–1800 a.C. para a mumificação artificial; ver 
 ## 14. Limitações
 
 - Nenhum artigo acadêmico central (Arriaza, Wilson, Hori, Ziemendorff) lido inteiro; Lambertini só via resumo.
-- Não verificados: número exato de múmias reais confiscadas; lei Meiji específica; uso efetivo de *urushi*; data da primeira exumação de Bernadette (1903 × 1909); tese de Conrad e Demarest; cronologia usada no artigo de 2026 de Arriaza.
+- Não verificados: número exato de múmias reais confiscadas; lei Meiji específica; uso efetivo de *urushi*; tese de Conrad e Demarest; cronologia usada no artigo de 2026 de Arriaza.
 - Ausentes: Canárias, Papua, pântanos, corpos políticos do séc. XX.
 
 ### Referências web consultadas

@@ -16,7 +16,7 @@ Frente `h-`, arquivo 04. Como recursos materiais (sal, metais) organizam rotas e
 | Autoria | Título | Data | Tipo | Trechos consultados | Leitura |
 |---|---|---|---|---|---|
 | Ibn Battuta; Alvise Cadamosto (via fontes secundárias) | relatos sobre Taghaza e o comércio de sal | 1352; 1455 | fontes primárias (relatos de viagem) | trechos citados | lido indiretamente (World History Encyclopedia; verbete) |
-| June Nash | estudo das minas de estanho bolivianas (*We Eat the Mines and the Mines Eat Us*; título não confirmado pela busca) | 1979 | etnografia | resumos | lido indiretamente |
+| June Nash | estudo das minas de estanho bolivianas (*We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines*, Columbia UP; título conferido na revisão crítica) | 1979 | etnografia | resumos | lido indiretamente |
 | Michael Taussig | *The Devil and Commodity Fetishism in South America* (UNC Press) | 1980 | monografia | resenha (*Latin American Research Review*) | lido indiretamente |
 | Johan Reinhard e outros | capacocha; santuários de alta montanha incas | 1995 em diante | arqueologia | resumos; NOVA; artigo de 2012 | lido indiretamente |
 | Ōmiwa Jinja e verbetes | *shintai-zan*, *kannabi* | — | fonte institucional e verbetes | descrição do santuário | lido |
@@ -114,5 +114,5 @@ Estudado: casos bem documentados em quatro continentes, escolhidos por mostrarem
 
 - Quase todas as fontes foram lidas indiretamente (resumos, resenhas, verbetes); nenhuma etnografia foi lida no original.
 - Hallstatt, Láurio, Potosí, obsidiana, estanho, poços santos, Delfos e cenotes são de memória.
-- O título exato do livro de Nash não foi confirmado pela busca.
+- O livro de Nash (título conferido) não foi lido.
 - Falta cobertura de geografias sagradas da Índia, China e África subsaariana.

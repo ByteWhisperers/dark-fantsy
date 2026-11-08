@@ -20,7 +20,7 @@ Frente D da Etapa I. O dossiê não trata "o judaísmo" como bloco. Separa cinco
 | M. Idel | *Kabbalah: New Perspectives* (Yale, 1988) | 1988 | estudos acadêmicos | monografia | tipologia teosófico-teúrgica × extática; crítica a Scholem | resenhas lidas (AJS Review, MyJewishLearning); livro não lido |
 | Y. Liebes; E. Fishbane (e outros) | estudos sobre autoria do *Zohar* | 1990s–2010s | estudos acadêmicos | artigos | autoria coletiva ("círculo") | resumos lidos na web |
 | G. Bohak | *Ancient Jewish Magic: A History* (Cambridge, 2008) | 2008 | estudos acadêmicos | monografia | escopo, *Sefer ha-Razim*, Genizá | resenhas e catálogo lidos; livro não lido |
-| Talmude Babilônico | *Hagigah* 2:1 / 11b–16a (restrição ao ensino de *ma'aseh bereshit* e *ma'aseh merkavah*); *Sanhedrin* 65b (criação de um homem por Rava) | séc. III–VII | rabínico | primária | localização das passagens | de memória; não reconferido |
+| Mishná e Talmude Babilônico | Mishná *Hagigah* 2:1; Bavli *Hagigah* 11b–16a (restrição ao ensino de *ma'aseh bereshit* e *ma'aseh merkavah*); *Sanhedrin* 65b (criação de um homem por Rava) | séc. III–VII | rabínico | primária | localização das passagens | de memória; não reconferido |
 
 Limitação: nenhuma fonte primária foi lida em hebraico ou aramaico, nem em tradução integral.
 

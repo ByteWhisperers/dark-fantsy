@@ -23,7 +23,7 @@ atualizado: 2026-11-08
 | Paulo | 1 Coríntios 10:19–21 | c. 54 d.C. | cristianismo primitivo | primária | sacrifícios dos gentios a *daimónia* | web + memória |
 | Tácito | *Germania* 43 | 98 d.C. | romano sobre germanos | primária | Alcis = Castor e Pólux "*interpretatione Romana*" | web (latim citado) |
 | fontes japonesas; Encyclopedia.com | *honji suijaku*; Yoshida Kanetomo; *shinbutsu bunri* | séc. IX–XIX | Japão | verbetes acadêmicos | lógica da equivalência e sua inversão | web |
-| T. K. Rikey | artigo sobre o *Padma bka' thang* e a sujeição dos *lha 'dre* | 2011 (*Studia Orientalia Electronica*) | budismo tibetano | artigo | resumo | web (resumo) |
+| Thupten K. Rikey | "The Nature-Deities of Tibet: A discussion on the tale 'The Subduing and Putting under Oath of Tibet's Malignant lha 'dre' in *Padma bka' thang*" | 2011 (*Studia Orientalia* 109: 119–140) | budismo tibetano | artigo | resumo | web (resumo) |
 | O. S. da Costa; outros | *Exu, o orixá fálico…: demonização e ressignificação na umbanda* (dissertação PUC-Goiás) | 2012 | afro-brasileiro | dissertação | resumo | web (resumo) |
 | Evêmero (via Diodoro) | *Hierá anagraphḗ* | c. 300 a.C. | Grécia helenística | primária (fragmentária) | deuses como reis divinizados | memória |
 
@@ -70,7 +70,7 @@ No mundo real, o pesquisador não tem acesso à "natureza estabelecida" de Indra
 
 ### 4.5 Naturalização e historicização
 - `[F]` (memória) Evêmero (c. 300 a.C.), na *Inscrição sagrada* (fragmentos via Diodoro), apresenta Zeus e outros deuses como **reis antigos divinizados** por seus súditos. Autores cristãos usaram o evemerismo para desqualificar deuses pagãos — ao lado da tese demoníaca (§4.2), terceira explicação disponível.
-- `[AF]` Barber (1988) sobre o vampiro (g-01): a tradição observa corretamente e erra a causa. É naturalização **externa**, feita pelo pesquisador.
+- `[AF]` Paul Barber (1988; não confundir com Karin Barber, citada nos arquivos 01 e 03) sobre o vampiro (g-01): a tradição observa corretamente e erra a causa. É naturalização **externa**, feita pelo pesquisador.
 - `[F]` (memória) Epicuristas (Lucrécio, *De rerum natura* VI) explicam trovão e raio por causas naturais, para tirar dos deuses a responsabilidade.
 - `[S]` Naturalizar não é só "explicar": muda **quem tem autoridade** sobre o fenômeno (do sacerdote ao filósofo, ao médico, ao legista).
 

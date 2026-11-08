@@ -75,7 +75,7 @@ Estudados: polaridade *aša*/*druj*; Ahura Mazdā, *yazata*, *daēva*; pureza e 
 ### 5.6 Instituições
 
 - `[F]` Aquemênidas: Ahuramazda é invocado como fonte da realeza (Bisotun, XPh); se eram "zoroastristas" é debatido (sem menção a Zaraθuštra nas inscrições, de memória).
-- `[F]` Sassânidas: Kerdīr lista grupos que diz ter "golpeado": judeus, budistas, brâmanes, *nāṣrāyē* e *kristiyān* (provavelmente cristãos nativos siríacos e cristãos gregos deportados), batistas e maniqueus. `[PP]` Discute-se se houve perseguição efetiva proporcional ao texto; alguns não veem evidência de ação contra cristãos e judeus no período dele.
+- `[F]` Sassânidas: Kerdīr lista grupos que diz ter "golpeado": judeus, budistas, brâmanes, *nāṣrāyē* e *kristiyān* (provavelmente cristãos nativos siríacos e cristãos gregos deportados), *maktak* e *zandīk*. `[PP]` A leitura "batistas e maniqueus" é interpretação (outros propõem mandeus para *maktak*); ver [b-03 §9](../b-instituicoes/03-religiao-e-estado-legitimidade.md). `[PP]` Discute-se se houve perseguição efetiva proporcional ao texto; alguns não veem evidência de ação contra cristãos e judeus no período dele.
 - `[F]` Mani foi condenado sob Bahrām I, com influência de Kerdīr (data c. 274–277, não verificada).
 - `[F/de memória]` Sacerdócio hereditário (*mōbed*, *hērbad*); depois da conquista islâmica, minoria (*dhimmī*) no Irã e migração para Gujarat (parses, séc. VIII–X conforme a *Qeṣṣe-ye Sanjān*, data debatida). `[F/de memória]` Parses de Bombaim: *panchayat* como governo comunitário; debate sobre aceitação de convertidos e filhos de casamentos mistos (Navjote); os iranianos são em geral mais abertos.
 

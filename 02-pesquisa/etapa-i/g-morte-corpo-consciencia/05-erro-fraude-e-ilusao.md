@@ -22,7 +22,7 @@ atualizado: 2026-11-08
 | *Montoku Jitsuroku*, via Ichiro Hori (*History of Religions* 1, 1962) | crônica oficial do reinado de Montoku (850–858) | séc. IX | Japão, ascetas | primária via citação | o "santo dos excrementos de arroz" (854) | web (citação em A. Boese) |
 | Franz Boas | *The Religion of the Kwakiutl Indians* | 1930 | Kwakwaka'wakw | etnografia com autobiografia nativa | via Lévi-Strauss e resumos | web (secundária) |
 | Claude Lévi-Strauss | "Le sorcier et sa magie" | 1949 (em *Anthropologie structurale*, 1958) | comparação | ensaio | tese via resumos | web (secundária) + memória |
-| M. Jensen, Z. Kirakosian, T. Kaptchuk et al. | "Heresy, witchcraft, Jean Gerson, scepticism and the use of placebo controls", *J. R. Soc. Med.* | 2023 | França, sécs. XV–XVI | artigo | resumo e divulgação (James Lind Library; *Nautilus*) | web (resumo) |
+| R. Kirakosian, L. Möllenbrink, G. Zamore, T. J. Kaptchuk, K. Jensen | "Heresy, witchcraft, Jean Gerson, scepticism and the use of placebo controls", *J. R. Soc. Med.* 117(1): 36–41 | online 2023; fascículo jan. 2024 | França, sécs. XV–XVI | artigo | resumo e divulgação (James Lind Library; *Nautilus*) | web (resumo) |
 | E. E. Evans-Pritchard | *Witchcraft, Oracles and Magic among the Azande* | 1937 | Azande | etnografia | — | memória |
 | Reginald Scot | *The Discoverie of Witchcraft* | 1584 | Inglaterra | primária cética | — | memória |
 
@@ -76,7 +76,7 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 ## 8. Possessão sob exame: Marthe Brossier (1599)
 
 - `[F]` Jovem que se dizia possuída, exibida em exorcismos públicos em plena tensão católico-protestante, com demônio que falava contra os huguenotes. Antes, em Angers, o bispo Charles Miron testou-a com **água comum apresentada como benta** e água benta apresentada como comum, e com textos sagrados falsos: ela reagia ao rótulo, não à substância (relatos divergem sobre detalhes). Em Paris, Henrique IV mandou uma comissão médica chefiada por Michel Marescot; com objetos reais e falsos, não acharam diferença de reação; concluíram (30 de março) que ela não estava possuída, mas doente e sobretudo simulando.
-- `[AF]` **Jensen, Kirakosian, Kaptchuk et al. (2023)** leem esses exames como **controles placebo** avant la lettre, ligados à tradição do **discernimento dos espíritos** de Jean Gerson (séc. XV), que ensinava a distinguir revelação verdadeira de falsa.
+- `[AF]` **Kirakosian, Kaptchuk, Jensen et al. (2023/2024)** leem esses exames como **controles placebo** avant la lettre, ligados à tradição do **discernimento dos espíritos** de Jean Gerson (séc. XV), que ensinava a distinguir revelação verdadeira de falsa.
 - `[S]` Pontos estruturais: (a) o controle nasce **dentro** da teologia (é preciso saber se o diabo está mesmo ali, porque o diabo também engana); (b) o teste é **político** — o rei tinha interesse em calar uma possuída anti-huguenote; (c) o diagnóstico alternativo não é "mentira" pura, mas **doença + simulação**.
 
 ## 9. Sistemas fechados: o oráculo do veneno azande
@@ -103,7 +103,7 @@ Fonte **hostil e satírica**, escrita a pedido de um Celso (identidade debatida;
 ## 12. Divergências entre pesquisadores
 
 - Luciano como testemunha confiável × satirista que deforma um culto ordinário (Lane Fox e outros; memória).
-- Exames de 1599 como "placebo controlado" (Jensen, Kirakosian, Kaptchuk) × risco de anacronismo ao projetar o método moderno (objeção previsível; não verificada em autor específico).
+- Exames de 1599 como "placebo controlado" (Kirakosian, Kaptchuk, Jensen et al.) × risco de anacronismo ao projetar o método moderno (objeção previsível; não verificada em autor específico).
 - Azande: racionalidade fechada mas válida (Evans-Pritchard, Winch) × critérios universais de racionalidade (réplicas a Winch; memória).
 - Quesalid: eficácia simbólica (Lévi-Strauss) × leituras que veem no relato um texto produzido dentro da relação colonial com Boas e seu colaborador George Hunt (memória; não verificado).
 

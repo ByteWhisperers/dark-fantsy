@@ -23,7 +23,7 @@ Frente E da Etapa I. Material de pesquisa, não cânone. "Tantra" não é uma re
 | R. M. Davidson | *Indian Esoteric Buddhism: A Social History of the Tantric Movement* (Columbia, 2002) | 2002 | estudo | monografia | tese da "feudalização" | descrição da editora e resenha lidas |
 | H. B. Urban | *Tantra: Sex, Secrecy, Politics, and Power in the Study of Religion* (UC Press, 2003) | 2003 | estudo | monografia | tese (categoria construída entre Oriente e Ocidente; Woodroffe, Vivekananda) | descrição da editora lida |
 | M. Heilijgers-Seelen | *The System of Five Cakras in Kubjikāmatatantra 14–16* (1994) | 1994 | estudo | monografia | existência de sistema de cinco *cakra* | registro bibliográfico lido |
-| Pūrṇānanda; trad. J. Woodroffe ("Arthur Avalon") | *Ṣaṭcakranirūpaṇa*, em *The Serpent Power* (1918) | texto séc. XVI (1577, de memória); trad. 1918 | śākta; leitura ocidental | primária + tradução | seis *cakra* | de memória |
+| Pūrṇānanda; trad. J. Woodroffe ("Arthur Avalon") | *Ṣaṭcakranirūpaṇa*, em *The Serpent Power* (Londres: Luzac, 1919) | texto séc. XVI (1577, de memória); trad. 1919 | śākta; leitura ocidental | primária + tradução | seis *cakra* | de memória |
 
 Limitação grave: **nenhum** tantra foi lido, nem em tradução; a maioria das monografias foi verificada só por descrição. O campo depende de manuscritos em grande parte inéditos (Sanderson, Goodall, Törzsök e o projeto de estudos tântricos de Hamburgo).
 
@@ -85,7 +85,7 @@ Estudados: Śaivismo tântrico (Siddhānta e cultos de Bhairava e das deusas, Ka
 - Do asceta pāśupata (Atimārga, só libertação) ao Mantramārga (libertação e poderes, para ascetas e chefes de família). [PP] (Sanderson 1988)
 - Do culto transgressivo dos crematórios à liturgia doméstica e de templo; do externo ao interiorizado. [PP]
 - Do tantra ao haṭha yoga (séc. XI em diante), que herda o corpo sutil e simplifica a iniciação. [PP] (de memória; Mallinson)
-- **Recepção ocidental**: (1) orientalistas e reformadores hindus do séc. XIX condenam o tantra como degeneração; (2) Woodroffe (como "Arthur Avalon") o defende como filosofia elevada e traduz o *Ṣaṭcakranirūpaṇa* (1918); Urban chama essa versão de tantra "desodorizado"; (3) a teosofia (Leadbeater, *The Chakras*, 1927, de memória) cria os *cakra* coloridos ligados a glândulas; (4) o neotantra do séc. XX (Crowley; depois movimentos de sexualidade e "terapia") faz do tantra uma técnica sexual. [PP] (Urban, via descrição; demais de memória)
+- **Recepção ocidental**: (1) orientalistas e reformadores hindus do séc. XIX condenam o tantra como degeneração; (2) Woodroffe (como "Arthur Avalon") o defende como filosofia elevada e traduz o *Ṣaṭcakranirūpaṇa* (*The Serpent Power*, 1919); Urban chama essa versão de tantra "desodorizado"; (3) a teosofia (Leadbeater, *The Chakras*, 1927, de memória) cria os *cakra* coloridos ligados a glândulas; (4) o neotantra do séc. XX (Crowley; depois movimentos de sexualidade e "terapia") faz do tantra uma técnica sexual. [PP] (Urban, via descrição; demais de memória)
 
 ## 5. Divergências entre pesquisadores
 
