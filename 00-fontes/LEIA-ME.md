@@ -8,6 +8,7 @@ Material do autor, **nunca editado**.
 | `conto-cronicas-de-argon.txt` | Texto extraído do PDF, só para busca e citação. Pode ter quebras de linha estranhas. | derivado do PDF |
 | `dossie-argon-e-malakor.pdf` (+ `.txt`) | Dossiê do autor sobre personalidade de Argon e Malakor, a relação deles e regras de cena. 24 páginas. Parte I é pesquisa metodológica (Espinosa, Bernard Williams, Bakhtin, Uexküll/Nagel). | recebido em 2026-11-07. **Pesquisa a refinar**, não cânone fixo. |
 | `pesquisa-i-orientacao.docx` (+ `.md`) | Documento de orientação do autor para a **Pesquisa I** (tradições do conhecimento, modelos da realidade, eficácia das técnicas). Define premissas, protocolo A–I, seis frentes e entregáveis. O `.md` é conversão para leitura. | recebido em 2026-11-07 |
+| `projeto-continente-orientacao.docx` (+ `.md`) | Documento do autor: *Projeto de construção histórica, cultural e ontológica do continente*. Diretriz para os agentes: objetivo, relação com a Pesquisa I, respeito às tradições reais, protocolo de fontes, Etapas I (repertório comparativo), II (tradições ficcionais), III (entidades) e IV (povos). **O arquivo termina no meio de uma frase da Etapa IV (§8.1)**; o resto ainda não foi enviado. | recebido em 2026-11-08 (incompleto) |
 | `pre-worldbuild` | Anotações prévias de mundo. | **ainda não enviado** |
 
 Leitura de extração do conto: [`../01-notas/extracao-conto-cronicas-de-argon.md`](../01-notas/extracao-conto-cronicas-de-argon.md).
