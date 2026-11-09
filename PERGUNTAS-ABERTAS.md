@@ -28,3 +28,9 @@
 | 24 | **Anões** existem ("pólvora anã contrabandeada do sul", conto l. 1439). São um povo com território próprio ao sul, ou só comerciantes no reino? A pólvora é técnica não arcana que compete com o mago de guerra. | povos | 2026-11-08 | Respondida: anões fornecem pólvora e metalurgia; localização, organização e objetivos **desconhecidos e opacos**, sem autoridade única conhecida (CANONE #18). |
 | 25 | **"Ordem da Trama"** (conto l. 1456: "heresia contra a Ordem da Trama") é uma doutrina (a ordem natural da Trama) ou uma instituição (uma ordem religiosa ou arcana)? Liga à #19. | magia / facções | 2026-11-08 | |
 | 26 | A **Igreja** do reino é monoteísta (o "Deus" das falas) e como trata os "deuses" e os "Antigos" de outros povos (Lyra)? Qual a relação dela com a "Ordem da Trama"? | religião | 2026-11-08 | Parcial: **monoteísta**, divindade de ordem e justiça, universalizante (CANONE #15). Falta: como trata os deuses de outros povos e a relação com a "Ordem da Trama". |
+| 27 | **Lótus**: o lótus branco (elixires da elite, conto l. 1409) e o azul (vício no porto, Lyra) são a mesma planta ou família? Quais mercados são legais, tolerados ou proibidos? | economia | 2026-11-09 | |
+| 28 | O **"Conselho"** que manda Caldris é conselho do rei ou órgão superior do Círculo de Estudos Arcanos? | facções | 2026-11-09 | |
+| 29 | O que está **acima da Quarta Câmara**? (liga à #8) | magia / facções | 2026-11-09 | |
+| 30 | **Guarda de Prata** e **caçadores da Coroa** são um corpo ou dois? A quem cada um responde? | facções | 2026-11-09 | |
+| 31 | **Vallenar e Oakhaven** são territórios de formação tractoniana, incorporados ou de fidelidade instável? | geografia / política | 2026-11-09 | |
+| 32 | O **primeiro conto canônico** (Tier 1) se passa na 2ª vida de Argon, 300 anos depois? Nessa época Tracton ainda existe com o mesmo nome, casa e extensão? | narrativa / cronologia | 2026-11-09 | |

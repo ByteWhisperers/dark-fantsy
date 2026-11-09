@@ -24,7 +24,9 @@ Escolher três ou quatro sociedades com **relações diferentes com os fenômeno
 
 ## 3. Os pilotos propostos
 
-### P1 · O reino do conto (cidade portuária, Alta Capital, Vallenar)
+### P1 · Reino de Tracton (o reino do conto)
+> 📜 Nome e configuração decididos pelo Hermes em 2026-11-09 (CANONE #14–#21). Dossiês em [`p1-tracton/`](p1-tracton/00-dossie-principal.md).
+
 > 💡 **Relação arcana:** magia como privilégio de linhagem e de instituição, com uso militar (as Bolas de Fogo de Oakhaven, o mago de batalha contratado) e um mercado de insumos que liga a Academia ao submundo (os três velhos vendiam para ela).
 - **Por que entra:** já existe no cânone (CANONE #1) e tem matéria do conto: Círculo de Estudos Arcanos e as Quatro Câmaras, Igreja e Inquisição, Guilda Real, colônias do sul. Testar o método contra restrições já dadas é útil. Também é onde estão as 14 famílias da Semente, mas a sociedade é construída pelo que ela é, não por isso.
 - **Eixos do protocolo:** militar transformado pela técnica arcana + urbano-mercantil.
@@ -55,6 +57,8 @@ Escolher três ou quatro sociedades com **relações diferentes com os fenômeno
 - **Relação com os outros:** pode comprar escravos de dívida do P5 e vender técnicas ou insumos ao P1.
 
 ### P5 · Cortes insulares dos Altos Elfos, aristocráticas e elitistas (pedido do Hermes, 2026-11-08)
+> 📜 Adendo de 2026-11-09 (CANONE #19): arquipélago distante dos conflitos humanos, aristocracia burocrática, baixa reprodução, ~1000 anos, elfos não escravizáveis por lei, humanos e anões vivem lá. **Não aprofundar a política élfica neste momento.** O P5 fica para depois do P4.
+
 > 💡 **Relação arcana:** a definir. O que interessa é testar um **povo longevo** (~1000 anos, conto; pergunta #9) e uma **aristocracia fechada** em arquipélago.
 
 **Direção dada pelo Hermes (2026-11-08, ainda não registrada no CANONE):**
