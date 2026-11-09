@@ -15,7 +15,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §16 e §19-E
 
 **Este é um mapa de tipos de relação, não de personagens.** Não crio nomes. A ideia é ter à mão quem existe numa localidade de Tracton e como essas pessoas se prendem umas às outras, antes de qualquer trama (CANONE #3: a narrativa nasce das causas do mundo).
 
-> ❓ **Época:** o adendo descreve Tracton para o primeiro conto canônico, que supus ser a **2ª vida de Argon, 300 anos depois** (CANONE #10). O mapa abaixo serve às duas épocas; o que muda depois de Argon está na seção 4. (Pergunta #32.)
+> 📜 **Época:** o primeiro conto canônico é na 2ª vida de Argon, 300 anos depois, e Tracton é **o mesmo reino, maior e mais estruturado** (CANONE #25). O mapa vale para essa época; a seção 4 diz o que muda em relação ao tempo do conto.
 
 ---
 
@@ -82,7 +82,8 @@ graph LR
 > 2. **Quem soube primeiro:** o pároco e o boticário sabem coisas que o senhor e a Coroa não sabem. Informação circula por dívidas e favores.
 > 3. **Insumos e drogas:** a mesma cadeia que abastece a Academia abastece o vício (lótus branco e azul). Pelo CANONE #20, Argon pode entrar nessa cadeia no início, em escala local.
 
-## 4. O que muda 300 anos depois (💡, pendente da pergunta #32)
+## 4. O que muda 300 anos depois (💡; reino maior e mais estruturado, CANONE #25)
+- **Mais Estado no local:** um reino mais estruturado põe mais agentes régios, registros e fisco na aldeia e no bairro. O agente régio deixa de ser raro.
 - A **Ordem do Selo de Chumbo** tem presença local: informantes, "cães" (📜 dossiê). O irregular fica mais caro e mais lucrativo.
 - O **pároco** pode virar o elo com o **Sacerdócio do Glifo**: o livro de batismos vira lista de suspeitos?
 - As **14 famílias** da Semente estão espalhadas pelo vale e além, sem saber. Elas são camponeses comuns, com vizinhos, dívidas e festas, não "portadores".

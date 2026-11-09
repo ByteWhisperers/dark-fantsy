@@ -26,7 +26,9 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §17: para ca
 | **1b. Corporação com carta régia** | O Círculo se autogoverna (elege, examina, diploma), e a Coroa lhe concede o **monopólio da certificação** em troca de serviço e lealdade. | Tensão produtiva: o Círculo tem interesse corporativo próprio (renda, prestígio, fechamento), a Coroa quer obediência. A carta pode ser revista, revogada ou disputada. Explica por que o Círculo **aluga** magos à nobreza. |
 | **1c. Corpo híbrido com a Igreja** | Magísteres têm ordenação ou juramento religioso; a heresia arcana é julgada dentro dele. | Funde as duas jurisdições e apaga a tensão Coroa × Igreja sobre a magia, que o adendo pede para preservar (CANONE #15). |
 
-> 💡 **Recomendo 1b.** Mantém três centros com interesses próprios (Coroa, Círculo, Igreja), que é o que o adendo pede, e cria a pergunta histórica certa: **quando e por que a Coroa concedeu esse monopólio**, e o que recebeu em troca (ver [esboço histórico](03-esboco-historico.md)).
+> 📜 **Decisão do Hermes (CANONE #22): 1b, corporação com carta régia.**
+
+> 💡 Motivo da recomendação, mantido para registro: Mantém três centros com interesses próprios (Coroa, Círculo, Igreja), que é o que o adendo pede, e cria a pergunta histórica certa: **quando e por que a Coroa concedeu esse monopólio**, e o que recebeu em troca (ver [esboço histórico](03-esboco-historico.md)).
 
 ### 1.2 Câmaras e Academias: o que é cada uma?
 📜 Conto: "Quatro Câmaras" com grau ("Magíster da Segunda Câmara", l. 153; "Quarta Câmara", Caldris e Julian) e "círculo de contenção da **Terceira Câmara**" (l. 222); "quatro Academias Reais" com arquivos; aprendizes nobres nas "Academias da Cidade Alta". Caldris ensina "Teoria da Ressonância" na Quarta Câmara. Pergunta #8.
@@ -37,7 +39,9 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §17: para ca
 | **2b. Câmaras = funções** | Cada Câmara é um ramo: ensino, guerra, registro e auditoria, pesquisa. | Escolas regionais. | Mais burocrático; a Câmara de registro vira o centro do controle. Mas "círculo de contenção da Terceira Câmara" fica estranho. |
 | **2c. Câmaras = órgãos de governo do Círculo** | Assembleias por nível que votam e julgam. | Escolas. | Cria política interna rica, mas pede detalhe que o Tier 1 não usa. |
 
-> 💡 **Recomendo 2a**, com um detalhe: as **quatro Academias Reais** ficam em **cidades diferentes** (a capital e três grandes cidades, ao menos uma portuária). Assim, o registro existe onde há Academia, e o resto do reino depende de visitas, relatórios e denúncias. Isso dá geografia ao monopólio.
+> 📜 **Decisão do Hermes (CANONE #23): 2a, Câmaras = graus.**
+
+> 💡 Proposta ainda aberta: as **quatro Academias Reais** ficam em **cidades diferentes** (a capital e três grandes cidades, ao menos uma portuária). Assim, o registro existe onde há Academia, e o resto do reino depende de visitas, relatórios e denúncias. Isso dá geografia ao monopólio.
 
 > ❓ Se as Câmaras são graus, o que está **acima** da Quarta? O Conselho? Os magos de 5º–6º círculo que o conto sugere na Alta Capital (pergunta #8)?
 
@@ -55,7 +59,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §17: para ca
 
 ## 2. Instituições: reivindica × executa
 
-Leitura com as recomendações 1b, 2a e 3b. Se o Hermes escolher outra, a tabela muda.
+Leitura com 1b e 2a (decididas) e 3b (ainda aberta, pergunta #28).
 
 ### Coroa
 | Campo | Proposta |

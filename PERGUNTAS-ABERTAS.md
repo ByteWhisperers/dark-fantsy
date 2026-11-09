@@ -9,7 +9,7 @@
 | 5 | O mundo de "Darck fantasy" acontece ~300 anos depois do conto (quando a Semente de Argon desperta)? Ou o conto é prólogo e o mundo principal é outro? | lore | 2026-11-07 | Respondida: 300 anos após a morte de Argon (CANONE #10). Falta a duração exata (pergunta #14). |
 | 6 | O que vem depois: Consórcio dos Mantos, Sacerdócio do Glifo e Ordem do Selo de Chumbo (nascem após a morte de Argon). Você já tem planos para elas no pré-worldbuild? | facções | 2026-11-07 | |
 | 7 | A cidade portuária e o reino não têm nome no conto. Eles já têm nome no pré-worldbuild? | geografia | 2026-11-07 | Parcial: o reino é **Tracton** (CANONE #14). A cidade portuária segue sem nome. |
-| 8 | Hierarquia das Quatro Câmaras do Círculo de Estudos Arcanos: o que cada uma representa em círculos de magia? | magia | 2026-11-07 | |
+| 8 | Hierarquia das Quatro Câmaras do Círculo de Estudos Arcanos: o que cada uma representa em círculos de magia? | magia | 2026-11-07 | Parcial: Câmaras = **graus** (CANONE #23). Falta a correspondência exata com os círculos e o que há acima da Quarta (#29). |
 | 9 | Elfos vivem ~mil anos no conto (no SRD 5.1, até ~750). Mantemos o conto? | sistema | 2026-11-07 | Respondida: elfos vivem **~1000 anos**, como no conto (CANONE #19). Registrar em `08-sistema/adaptacoes.md`. |
 | 10 | Quais as regras para a ressurreição, adivinhação e outros efeitos de morte neste mundo? O conto mostra que a alma pode ser cobrada por Dis, ancorada ou fragmentada. | sistema | 2026-11-07 | |
 | 11 | O título oficial: *Crônicas de Argon: Anatomia do Subsolo* ou *A Origem do Mago da Sarjeta*? | conto | 2026-11-07 | |
@@ -33,4 +33,5 @@
 | 29 | O que está **acima da Quarta Câmara**? (liga à #8) | magia / facções | 2026-11-09 | |
 | 30 | **Guarda de Prata** e **caçadores da Coroa** são um corpo ou dois? A quem cada um responde? | facções | 2026-11-09 | |
 | 31 | **Vallenar e Oakhaven** são territórios de formação tractoniana, incorporados ou de fidelidade instável? | geografia / política | 2026-11-09 | |
-| 32 | O **primeiro conto canônico** (Tier 1) se passa na 2ª vida de Argon, 300 anos depois? Nessa época Tracton ainda existe com o mesmo nome, casa e extensão? | narrativa / cronologia | 2026-11-09 | |
+| 32 | O **primeiro conto canônico** (Tier 1) se passa na 2ª vida de Argon, 300 anos depois? Nessa época Tracton ainda existe com o mesmo nome, casa e extensão? | narrativa / cronologia | 2026-11-09 | Respondida: Tracton é o **mesmo reino**, maior e mais estruturado, 300 anos depois (CANONE #25). Leitura assumida: o primeiro conto canônico é a 2ª vida de Argon. |
+| 33 | A **casa real** de Tracton 300 anos depois é a mesma da época de Argon, ou houve troca de dinastia num reino que continuou o mesmo? | política / cronologia | 2026-11-09 | |

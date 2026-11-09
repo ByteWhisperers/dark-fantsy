@@ -22,6 +22,10 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separ
 | #19 | Altos Elfos em arquipélago distante; aristocracia burocrática; baixa reprodução; ~1000 anos; elfos não escravizáveis por lei; humanos e anões vivem lá; não aprofundar agora. |
 | #20 | Sem escravidão jurídica em Tracton, mas tráfico de pessoas e de substâncias; sem organização única; Argon pode entrar nesse mercado no início, em escala local. |
 | #21 | Primeiro conto canônico de Argon no Tier 1, escala local. |
+| #22 | Círculo = corporação com carta régia. |
+| #23 | Câmaras = graus. |
+| #24 | Tracton nasceu de uma aristocracia guerreira e arcana; a versão oficial maquia isso. |
+| #25 | 300 anos depois, o mesmo reino, maior e mais estruturado. |
 | #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
 
 ## 2. Evidências narrativas (o conto)
@@ -47,14 +51,12 @@ Fatos do conto usados nos dossiês, com linha. Valem como material, não como c�
 | 28 | "Conselho": do rei ou do Círculo? |
 | 30 | Guarda de Prata e caçadores: um corpo ou dois? |
 | 31 | Vallenar e Oakhaven: núcleo, incorporados ou fidelidade instável? |
-| 32 | O primeiro conto canônico é na 2ª vida (300 anos depois)? Tracton ainda existe igual nessa época? |
+| 33 | A casa real de 300 anos depois é a mesma da época de Argon? |
 
 ## 4. Propostas do Claude que pedem decisão
 | Proposta | Onde | Recomendação |
 |---|---|---|
-| Natureza do Círculo: órgão régio / **corporação com carta régia** / híbrido com a Igreja | [01](01-arquitetura-institucional.md) §1.1 | corporação com carta régia |
-| Câmaras = **graus**, funções ou órgãos; Academias em cidades diferentes | [01](01-arquitetura-institucional.md) §1.2 | graus; Academias regionais |
-| Magia na formação do reino: casas com dom / mercenários / **mistura** | [03](03-esboco-historico.md) Processo 1 | mistura |
+| Academias Reais em cidades diferentes (Câmaras = graus já decidido) | [01](01-arquitetura-institucional.md) §1.2 | manter |
 | Evento-semente: guerras decididas por conjuradores → carta régia | [03](03-esboco-historico.md) Processo 2 | desenvolver como primeiro evento |
 | Distância como custo de governo (monopólio forte na costa, fraco na serra) | [00](00-dossie-principal.md) bloco B | manter |
 | Igreja como instituição de pesquisa (anatomia, perícia, arquivo) | [00](00-dossie-principal.md) bloco F | manter |

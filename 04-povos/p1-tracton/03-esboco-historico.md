@@ -30,7 +30,14 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §9 e §18: t
 > - **1a.** Conjuradores eram **senhores**: as primeiras famílias de sangue desperto são casas que já tinham dom antes do reino, e a Coroa as incorporou como vassalos privilegiados.
 > - **1b.** Conjuradores eram **mercenários e especialistas** sem terra, contratados por quem pagasse; o reino nasce em parte por ter comprado mais deles.
 > - **1c.** Mistura: algumas casas com dom e uma massa de especialistas sem terra.
-> Consequência: em 1a, o controle arcano posterior protege **casas**; em 1b, protege **a Coroa contra mercenários**; em 1c, as duas coisas, com conflito entre elas. 💡 Recomendo 1c (mais tensão, mais casos).
+> Consequência: em 1a, o controle arcano posterior protege **casas**; em 1b, protege **a Coroa contra mercenários**; em 1c, as duas coisas, com conflito entre elas.
+
+> 📜 **Decisão do Hermes (CANONE #24): mistura.** Tracton começou como uma **aristocracia guerreira e arcana** que se tornou reino, e a **versão oficial maquia** essa história.
+
+> 💡 **Consequências da decisão:**
+> - A casa real **é ou foi** uma dessas casas guerreiras-arcanas. O monopólio que a Coroa e o Círculo defendem é o **mesmo tipo de poder** que fundou o reino: quem chegou ao topo pela força arcana fecha a porta atrás de si.
+> - A **maquiagem** é matéria para o protocolo (§6.2, interpretações posteriores): a narrativa oficial (provável: ordem, sagração, direito divino da Igreja da força legítima) × a memória das casas derrotadas × o que os arquivos do Círculo e da Igreja guardam. 💡 O que se apaga: que os fundadores eram, eles mesmos, conjuradores sem coleira de ninguém.
+> - Isso dá ironia estrutural à lei do conto: Argon faz o que os fundadores fizeram, sem linhagem para justificar depois.
 
 ## Processo 2 · Consolidação e aspiração imperial
 
@@ -81,11 +88,11 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §9 e §18: t
 
 > 💡 **O que não pode faltar (adendo §8, §20):** a repressão **não extinguiu** a magia clandestina. Pelo contrário: aumenta o preço, cria mercado, cria falsificação de registros, patronos que protegem e informantes que vendem. 300 anos depois, o irregular existe e é negócio.
 
-> ❓ Tracton ainda existe como reino 300 anos depois? Com o mesmo nome e a mesma casa? Recuou, expandiu, fragmentou? (Pergunta #32.)
+> 📜 **Decisão do Hermes (CANONE #25):** 300 anos depois, Tracton é o **mesmo reino, maior e mais estruturado**. 💡 Consequência: a centralização avançou (mais registro, mais fisco, mais forças régias), o que combina com a máquina inquisitorial pós-Argon. Ainda assim, maior não é império consolidado (CANONE #14); o presente deve ter limites e resistências próprios. ❓ A mesma casa real? (Pergunta #33.)
 
 ---
 
 ## Linha de trabalho sugerida (Marco 3 do protocolo)
-1. Hermes escolhe as alternativas (magia na formação: 1a/1b/1c; Círculo: 1b ou outra).
+1. ✓ Alternativas escolhidas (CANONE #22–#24).
 2. Faço a matriz completa de **um evento**: a carta régia ao Círculo.
 3. Depois, a virada pós-Argon como **sequência** de eventos, não como um evento único.
