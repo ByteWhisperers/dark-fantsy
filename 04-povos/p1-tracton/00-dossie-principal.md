@@ -26,6 +26,7 @@ Primeira sociedade-piloto do [ciclo piloto](../00-ciclo-piloto-proposta.md), no 
 | 03 | [esboço histórico](03-esboco-historico.md) | D |
 | 04 | [relações locais do Tier 1](04-relacoes-locais-tier1.md) | E |
 | 05 | [registro de status](05-registro-de-status.md) | F |
+| 06 | [relações regionais do Tier 2](06-relacoes-regionais-tier2.md) | extra, pedido pelo CANONE #30–#31 |
 
 **Recorte de tempo (CANONE #29):** três momentos: **formação**, **primeira vida de Argon** (primeiro conto) e **início do segundo conto**, ~300 anos depois (CANONE #10). Este dossiê descreve sobretudo Tracton **no tempo do primeiro conto**; o que mudou ao longo dos séculos, e o reino do segundo conto (o mesmo, maior e mais estruturado, CANONE #25), está no [esboço histórico](03-esboco-historico.md). Nada da primeira vida se presume inalterado na segunda. **Escalas (CANONE #30):** 1ª vida do Tier 1 ao Tier 2; 2ª vida começa no Tier 1 e termina em ponto indefinido.
 

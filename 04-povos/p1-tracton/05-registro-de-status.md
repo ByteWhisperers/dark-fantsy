@@ -31,6 +31,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separ
 | #28 | Pólvora mais barata que formar mago; custos em aberto; não sempre superior à magia. |
 | #29 | Primeiro conto = primeira vida; segundo conto = história principal; três momentos de Tracton. |
 | #30 | 1ª vida: Tier 1 → Tier 2. 2ª vida: começa no Tier 1, fim indefinido. |
+| #31 | O primeiro conto vai só até o Tier 2; os seguintes serão em níveis superiores. |
 | #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
 
 > **Fonte das decisões #26–#29:** [adendo de esclarecimentos](../../00-fontes/adendo-autoral-tracton-esclarecimentos.txt). O #29 corrige uma leitura minha anterior: tratei o "primeiro conto canônico" do #21 como a segunda vida, e é a primeira.
