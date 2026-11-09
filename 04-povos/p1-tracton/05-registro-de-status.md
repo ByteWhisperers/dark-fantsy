@@ -1,0 +1,63 @@
+---
+titulo: P1 · Tracton — registro de status
+tipo: nota
+camada: mundo
+status: rascunho
+fonte: conto + adendo autoral (2026-11-09) + propostas do Claude
+atualizado: 2026-11-09
+---
+
+# Tracton — registro de status (entregável F)
+
+Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separar **decisões autorais**, **evidências narrativas**, **hipóteses** e **propostas**. Serve de índice do que está firme e do que espera o Hermes.
+
+## 1. Decisões autorais (cânone de trabalho)
+| CANONE | Resumo |
+|---|---|
+| #14 | Reino de Tracton: humano, medieval, feudal, extenso, não império, aspirações imperiais, autoridade fragmentada, população heterogênea. |
+| #15 | Igreja monoteísta da ordem, justiça e força legítima; universalizante; não prova cosmologia; distinta e concorrente da Coroa. |
+| #16 | Vida civil familiar ao medievo europeu judaico-cristão; Tracton não é permanentemente miserável. |
+| #17 | Regulação da magia de origem bélica, política e aristocrática; magia não é maligna em si; prática irregular persiste; 1º círculo não é livre em todo lugar; hereditariedade não é irrelevante; sem "eugenia" sem política deliberada. |
+| #18 | Pólvora com uso militar; anões fornecem pólvora e metal superiores; armas caras e lentas; anões opacos, sem autoridade única conhecida. |
+| #19 | Altos Elfos em arquipélago distante; aristocracia burocrática; baixa reprodução; ~1000 anos; elfos não escravizáveis por lei; humanos e anões vivem lá; não aprofundar agora. |
+| #20 | Sem escravidão jurídica em Tracton, mas tráfico de pessoas e de substâncias; sem organização única; Argon pode entrar nesse mercado no início, em escala local. |
+| #21 | Primeiro conto canônico de Argon no Tier 1, escala local. |
+| #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
+
+## 2. Evidências narrativas (o conto)
+Fatos do conto usados nos dossiês, com linha. Valem como material, não como cânone automático (pergunta #4).
+- Coroa, Conselho, interdito real; Círculo com Quatro Câmaras; quatro Academias Reais; Guarda de Prata; caçadores da Coroa (l. 1147, 1405–1444).
+- A lei: conjuração acima do 1º círculo sem auditoria = crime e heresia contra a "Ordem da Trama"; saídas por linhagem ou artefato (l. 1454–1460).
+- Fronteira autônoma, minas de ferro e pedágios; 300 léguas da costa (l. 1145–1150).
+- Igreja com Inquisição pericial, templários, anatomistas, Diocese do Norte; nome de Malakor apagado.
+- Venda de meninos aos baleeiros (l. 37–39); Lyra vendida por traficante de ópio (l. 362); condenados entregues a Argon (l. 1229).
+- Pólvora anã contrabandeada do sul (l. 1439).
+- Consórcio dos Mantos, Sacerdócio do Glifo, Ordem do Selo de Chumbo após a morte de Argon (l. 1530–1533).
+
+## 3. Hipóteses abertas (perguntas ao Hermes)
+| # | Pergunta |
+|---|---|
+| 6 | Planos para Consórcio, Sacerdócio e Ordem? |
+| 7 | Nome da cidade portuária. |
+| 8, 29 | Hierarquia das Câmaras; o que há acima da Quarta. |
+| 12 | Outros fatores da restrição da magia. |
+| 25 | "Ordem da Trama": doutrina ou instituição? |
+| 26 | Como a Igreja trata deuses de outros povos. |
+| 27 | Lótus branco e azul: mesma planta? quais mercados são legais? |
+| 28 | "Conselho": do rei ou do Círculo? |
+| 30 | Guarda de Prata e caçadores: um corpo ou dois? |
+| 31 | Vallenar e Oakhaven: núcleo, incorporados ou fidelidade instável? |
+| 32 | O primeiro conto canônico é na 2ª vida (300 anos depois)? Tracton ainda existe igual nessa época? |
+
+## 4. Propostas do Claude que pedem decisão
+| Proposta | Onde | Recomendação |
+|---|---|---|
+| Natureza do Círculo: órgão régio / **corporação com carta régia** / híbrido com a Igreja | [01](01-arquitetura-institucional.md) §1.1 | corporação com carta régia |
+| Câmaras = **graus**, funções ou órgãos; Academias em cidades diferentes | [01](01-arquitetura-institucional.md) §1.2 | graus; Academias regionais |
+| Magia na formação do reino: casas com dom / mercenários / **mistura** | [03](03-esboco-historico.md) Processo 1 | mistura |
+| Evento-semente: guerras decididas por conjuradores → carta régia | [03](03-esboco-historico.md) Processo 2 | desenvolver como primeiro evento |
+| Distância como custo de governo (monopólio forte na costa, fraco na serra) | [00](00-dossie-principal.md) bloco B | manter |
+| Igreja como instituição de pesquisa (anatomia, perícia, arquivo) | [00](00-dossie-principal.md) bloco F | manter |
+| Divindade da força legítima: magia irregular = força sem legitimidade | [00](00-dossie-principal.md) bloco F | manter |
+| Foro por condição; magia irregular atravessa os foros | [01](01-arquitetura-institucional.md) §2, [02](02-matriz-diversidade-interna.md) §3 | manter |
+| Mesma capacidade, saídas desiguais (caso A × caso C) | [01](01-arquitetura-institucional.md) §3 | manter |
