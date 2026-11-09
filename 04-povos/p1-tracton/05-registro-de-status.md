@@ -26,7 +26,13 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separ
 | #23 | Câmaras = graus. |
 | #24 | Tracton nasceu de uma aristocracia guerreira e arcana; a versão oficial maquia isso. |
 | #25 | 300 anos depois, o mesmo reino, maior e mais estruturado. |
+| #26 | Igreja: presença religiosa em quase todo o território, mas presença ≠ controle político, jurisdicional ou militar; poder varia por nível e região. |
+| #27 | Origem: coalizões de guerreiros, mercenários, conjuradores e chefes; Igreja legitima depois e não se subordina à Coroa; Coroa e Círculo em aberto. |
+| #28 | Pólvora mais barata que formar mago; custos em aberto; não sempre superior à magia. |
+| #29 | Primeiro conto = primeira vida; segundo conto = história principal; três momentos de Tracton. |
 | #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
+
+> **Fonte das decisões #26–#29:** [adendo de esclarecimentos](../../00-fontes/adendo-autoral-tracton-esclarecimentos.txt). O #29 corrige uma leitura minha anterior: tratei o "primeiro conto canônico" do #21 como a segunda vida, e é a primeira.
 
 ## 2. Evidências narrativas (o conto)
 Fatos do conto usados nos dossiês, com linha. Valem como material, não como cânone automático (pergunta #4).
@@ -52,12 +58,18 @@ Fatos do conto usados nos dossiês, com linha. Valem como material, não como c�
 | 30 | Guarda de Prata e caçadores: um corpo ou dois? |
 | 31 | Vallenar e Oakhaven: núcleo, incorporados ou fidelidade instável? |
 | 33 | A casa real de 300 anos depois é a mesma da época de Argon? |
+| 34 | Custos da pólvora e comparação concreta com formar um mago. |
+| 35 | Origem do Círculo: as coalizões de conjuradores viraram o Círculo? (hipótese promissora, não cânone) |
+| 36 | Hierarquia da Igreja: níveis, patrimônio, jurisdição e força por sede e região. |
 
 ## 4. Propostas do Claude que pedem decisão
 | Proposta | Onde | Recomendação |
 |---|---|---|
 | Academias Reais em cidades diferentes (Câmaras = graus já decidido) | [01](01-arquitetura-institucional.md) §1.2 | manter |
-| Evento-semente: guerras decididas por conjuradores → carta régia | [03](03-esboco-historico.md) Processo 2 | desenvolver como primeiro evento |
+| Evento-semente: guerras decididas por conjuradores → carta régia (ligado à origem do Círculo, ainda hipótese) | [03](03-esboco-historico.md) Processo 2 | desenvolver só depois de o Hermes avaliar a origem do Círculo (#35) |
+| Dois caminhos para a origem do Círculo: coalizão que se organiza (de baixo) × corpo criado pela Coroa (de cima) | [03](03-esboco-historico.md) Processo 1 | sem recomendação; ambos mantêm a corporação com carta régia |
+| Fases da formação (conquista → acumulação → hereditariedade → legitimação → Coroa e instituições) | [03](03-esboco-historico.md) Processo 1 | usar só como ordem de pesquisa |
+| Igreja em níveis ilustrativos (paróquia, intermediárias, bispado e grandes sedes, Inquisição e templários) | [01](01-arquitetura-institucional.md) §2.1 | manter como ilustração; hierarquia real é a #36 |
 | Distância como custo de governo (monopólio forte na costa, fraco na serra) | [00](00-dossie-principal.md) bloco B | manter |
 | Igreja como instituição de pesquisa (anatomia, perícia, arquivo) | [00](00-dossie-principal.md) bloco F | manter |
 | Divindade da força legítima: magia irregular = força sem legitimidade | [00](00-dossie-principal.md) bloco F | manter |

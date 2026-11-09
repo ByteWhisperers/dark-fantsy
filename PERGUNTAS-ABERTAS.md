@@ -33,5 +33,8 @@
 | 29 | O que está **acima da Quarta Câmara**? (liga à #8) | magia / facções | 2026-11-09 | |
 | 30 | **Guarda de Prata** e **caçadores da Coroa** são um corpo ou dois? A quem cada um responde? | facções | 2026-11-09 | |
 | 31 | **Vallenar e Oakhaven** são territórios de formação tractoniana, incorporados ou de fidelidade instável? | geografia / política | 2026-11-09 | |
-| 32 | O **primeiro conto canônico** (Tier 1) se passa na 2ª vida de Argon, 300 anos depois? Nessa época Tracton ainda existe com o mesmo nome, casa e extensão? | narrativa / cronologia | 2026-11-09 | Respondida: Tracton é o **mesmo reino**, maior e mais estruturado, 300 anos depois (CANONE #25). Leitura assumida: o primeiro conto canônico é a 2ª vida de Argon. |
+| 32 | O **Tier 1** do primeiro conto vale também para o **segundo conto** (segunda vida)? Qual a escala do segundo conto? | narrativa / cronologia | 2026-11-09 | Parcial: o **primeiro conto** é a primeira vida (CANONE #29) e Tracton 300 anos depois é o mesmo reino, maior e mais estruturado (#25). A escala do segundo conto segue aberta. |
 | 33 | A **casa real** de Tracton 300 anos depois é a mesma da época de Argon, ou houve troca de dinastia num reino que continuou o mesmo? | política / cronologia | 2026-11-09 | |
+| 34 | **Custos da pólvora** (fabricação, munição, manutenção, treino, transporte, abastecimento, fornecedores, escala) e comparação concreta com formar um mago. Preços absolutos não definidos (CANONE #28). | economia / sistema | 2026-11-09 | |
+| 35 | **Origem do Círculo:** as coalizões de conjuradores da formação de Tracton viraram o Círculo? Em que sequência, e com que papel da Coroa e da Igreja? (hipótese promissora, não cânone; CANONE #27) | facções / história | 2026-11-09 | |
+| 36 | **Hierarquia da Igreja:** quais níveis (paróquia, bispado, sede), quais têm patrimônio, jurisdição ou força armada, e como variam por região? Não definida (CANONE #26). | religião | 2026-11-09 | |

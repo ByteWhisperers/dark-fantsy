@@ -27,7 +27,7 @@ Primeira sociedade-piloto do [ciclo piloto](../00-ciclo-piloto-proposta.md), no 
 | 04 | [relações locais do Tier 1](04-relacoes-locais-tier1.md) | E |
 | 05 | [registro de status](05-registro-de-status.md) | F |
 
-**Recorte de tempo:** o conto mostra Tracton na **época de Argon**. O presente da história é **300 anos depois da morte dele** (CANONE #10). Este dossiê descreve a época de Argon; o que muda depois está no [esboço histórico](03-esboco-historico.md).
+**Recorte de tempo (CANONE #29):** três momentos: **formação**, **primeira vida de Argon** (primeiro conto) e **início do segundo conto**, ~300 anos depois (CANONE #10). Este dossiê descreve sobretudo Tracton **no tempo do primeiro conto**; o que mudou ao longo dos séculos, e o reino do segundo conto (o mesmo, maior e mais estruturado, CANONE #25), está no [esboço histórico](03-esboco-historico.md). Nada da primeira vida se presume inalterado na segunda.
 
 ---
 
@@ -110,6 +110,8 @@ A distribuição de autoridade entre essas instituições, com alternativas, est
 
 > 💡 **Uma divindade da força legítima explica a aliança com o controle arcano.** Se a deidade abençoa *o uso legítimo* da força, o problema teológico da magia irregular não é ser magia: é ser **força sem legitimidade**. Isso dá à Igreja motivo próprio para apoiar o registro, e também motivo para disputar com a Coroa **quem define o legítimo**. ❓ A "heresia contra a Ordem da Trama" (pergunta #25) pode ser o ponto em que as duas linguagens se encontram.
 
+> 📜 **Capilaridade × poder (CANONE #26).** A Igreja está em quase todo o território (igrejas, paróquias, sacerdotes, sedes maiores), com capilaridade inspirada na Igreja medieval sem copiá-la. Mas **presença não é controle**: a paróquia influencia a comunidade sem força armada nem poder sobre o senhor; certos bispados e grandes sedes concentram patrimônio, diplomacia, jurisdição e, às vezes, poder político ou militar. Ver a tabela de níveis na [arquitetura institucional](01-arquitetura-institucional.md).
+
 > 💡 **A Igreja produz conhecimento.** Anatomistas e peritos inquisitoriais sugerem uma instituição de **investigação** do corpo e do arcano, rival intelectual das Academias. Quem reprime arquiva o reprimido (b/05): o arquivo da Igreja pode guardar o que ela destruiu.
 
 > 💡 **Apagar o nome** de uma entidade que depende de nome (transversal #2, a/03) é uma **técnica**, não só censura. Foi isso que reduziu Malakor (l. 1854). A Igreja sabe que funciona?
@@ -143,7 +145,9 @@ A distribuição de autoridade entre essas instituições, com alternativas, est
 
 > 📜 Adendo (CANONE #18): **pólvora** com uso militar: bacamartes, pistolas de um tiro, artilharia, explosivos, armas de cerco. Cara, lenta (≈30 s de recarga), não substitui espada, lança ou arco. Anões podem ter armas melhores que as vendidas.
 
-> 💡 **Pólvora × mago de guerra.** Ambos dão a poucos o poder de matar muitos à distância. A pólvora é **comprável** (com dinheiro e acesso aos anões); o mago é **formável** (com sangue, escola e registro). Para a Coroa, controlar um é controlar treino e certificação; controlar o outro é controlar **fornecedores estrangeiros opacos**. São dois problemas de monopólio diferentes, e a fronteira tem os dois.
+> 📜 **Pólvora (CANONE #28):** é **mais barata** que formar um mago e, em certas condições, pode superar o guerreiro convencional. **Preços e custos completos estão em aberto** (pergunta #34). Limites: recarga lenta, dependência de recursos e conhecimento técnico. **Não é sempre superior à magia.**
+
+> 💡 **Pólvora × mago de guerra, sem números.** Ambos permitem a poucos matar à distância. O mago se **forma** (sangue, escola, registro, tempo); a pólvora se **adquire** (com acesso aos anões). Para a Coroa, controlar um é controlar treino e certificação; controlar o outro é controlar **abastecimento** de fornecedores opacos. Qual compensa depende do objetivo militar e das condições (cerco, campo aberto, abastecimento), não de uma tabela de preços que ainda não existe.
 
 > ⚙️ 5e: círculos ≈ níveis de magia. Magíster da Quarta Câmara e mago de batalha parecem estar na faixa de nível ~7–10 (leitura, não decisão). A **escala baixa** é o que torna um feiticeiro de nível 10 um rei (CANONE #12). Pistolas e bacamartes: o SRD 5.1 **não** tem armas de fogo (elas estavam só no Guia do Mestre de 2014). De memória (`[M]`, conferir no SRD antes de usar), o livro de 2024 e o SRD 5.2 trazem **Mosquete** e **Pistola** com a propriedade de recarga. A recarga de ~30 s do adendo é bem mais lenta que a regra do 5e (um disparo por turno, ~6 s); se for mantida, vai para `08-sistema/adaptacoes.md`.
 
@@ -177,7 +181,7 @@ O vocabulário europeu (conde, barão, Igreja, Inquisição) é decisão do auto
 - Tracton pede **regras de acesso** (quem aprende), **custos** (foco, elixires) e **armas de fogo**, não traços de espécie novos.
 
 ## Causas no mundo / usos na narrativa
-- Camada mundo. O Tier 1 de Argon (CANONE #21) encontra Tracton pelas autoridades locais: ver [relações locais](04-relacoes-locais-tier1.md). O reino é descrito pelo que é, não para servir a Argon.
+- Camada mundo. O Tier 1 do **primeiro conto** (CANONE #21 e #29) encontra Tracton pelas autoridades locais: ver [relações locais](04-relacoes-locais-tier1.md). O reino é descrito pelo que é, não para servir a Argon.
 
 ## Revisão rápida contra o protocolo (§16, §17)
 - **Homogeneização:** reduzida pelo adendo (núcleo, incorporados, fidelidade instável) e pela [matriz](02-matriz-diversidade-interna.md). Ainda falta a voz camponesa e a do clero comum em primeira mão.
