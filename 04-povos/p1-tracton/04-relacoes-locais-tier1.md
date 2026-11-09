@@ -11,11 +11,11 @@ atualizado: 2026-11-09
 
 Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §16 e §19-E: o primeiro conto canônico de Argon é no **Tier 1** (CANONE #21). Priorizar barões, senhores locais, oficiais, soldados, mercenários, sacerdotes regionais, comerciantes, artesãos, alquimistas, criminosos, conjuradores menores e gente comum. As instituições centrais aparecem por **leis, impostos, privilégios, fiscalização, documentos e agentes locais**.
 
-> ⚙️ 5e: no D&D 5e, "Tier 1" costuma designar os **níveis 1 a 4** ("heróis locais"), em que as ameaças são a fazendas, aldeias e bairros (`[M]`, conferir no SRD). Isso bate com o adendo e responde em parte à pergunta #18.
+> ⚙️ 5e: no D&D 5e, "Tier 1" costuma designar os **níveis 1 a 4** ("heróis locais"), em que as ameaças são a fazendas, aldeias e bairros (`[M]`, conferir no SRD). Isso bate com o adendo e com a pergunta #18. Pelo mesmo critério (`[M]`), o **Tier 2** são os níveis 5 a 10 ("heróis do reino"). 💡 Combina com o conto: Argon chega ao 3º círculo (≈ nível 5) aos 56 anos e vira lenda regional, e Caldris e Julian (4ª Câmara) estão nessa faixa. **Este mapa cobre só o Tier 1.** O Tier 2 pede outro mapa (relações regionais: condes e bispados, Academias, Círculo, Conselho), que ainda não foi feito.
 
 **Este é um mapa de tipos de relação, não de personagens.** Não crio nomes. A ideia é ter à mão quem existe numa localidade de Tracton e como essas pessoas se prendem umas às outras, antes de qualquer trama (CANONE #3: a narrativa nasce das causas do mundo).
 
-> 📜 **Época (corrigido em 2026-11-09, CANONE #29):** o **primeiro conto** é a história de origem de Argon, na **primeira vida**, ~300 anos antes da história principal. O Tier 1 do adendo (CANONE #21) se refere a ele. Por isso este mapa descreve Tracton **no tempo do conto**: Coroa que não impõe sua vontade em todo lugar, fronteira autônoma, monopólio arcano frouxo. Na versão anterior deste arquivo eu tinha lido o contrário (segunda vida); está corrigido. A seção 4 diz o que **pode** mudar no **segundo conto** (reino maior e mais estruturado, CANONE #25), cuja escala ainda não foi definida (pergunta #32).
+> 📜 **Época (corrigido em 2026-11-09, CANONE #29):** o **primeiro conto** é a história de origem de Argon, na **primeira vida**, ~300 anos antes da história principal. O Tier 1 do adendo (CANONE #21) se refere ao início dele; pelo CANONE #30 a primeira vida **começa no Tier 1 e termina no Tier 2**. Por isso este mapa descreve Tracton **no tempo do conto**: Coroa que não impõe sua vontade em todo lugar, fronteira autônoma, monopólio arcano frouxo. Na versão anterior deste arquivo eu tinha lido o contrário (segunda vida); está corrigido. A seção 4 diz o que **pode** mudar no **segundo conto** (reino maior e mais estruturado, CANONE #25), que **também começa no Tier 1** e vai até um ponto indefinido (CANONE #30).
 
 ---
 
@@ -84,7 +84,7 @@ graph LR
 
 ## 4. O que pode mudar no segundo conto, 300 anos depois (💡; reino maior e mais estruturado, CANONE #25)
 
-> ❓ Pergunta #32: o segundo conto também é de escala local (Tier 1)? Se for, esta seção é o mapa dele; se não, serve só de contraste.
+> 📜 CANONE #30: o segundo conto **começa no Tier 1**, então esta seção é o mapa do **início** dele. Até onde vai depois (Tier 2 ou mais) é indefinido.
 - **Mais Estado no local:** um reino mais estruturado põe mais agentes régios, registros e fisco na aldeia e no bairro. O agente régio deixa de ser raro.
 - A **Ordem do Selo de Chumbo** tem presença local: informantes, "cães" (📜 dossiê). O irregular fica mais caro e mais lucrativo.
 - O **pároco** pode virar o elo com o **Sacerdócio do Glifo**: o livro de batismos vira lista de suspeitos? (Mesmo assim, a execução fica com quem tem força, não com a paróquia.)
