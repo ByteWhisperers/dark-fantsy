@@ -48,6 +48,7 @@ Escolher três ou quatro sociedades com **relações diferentes com os fenômeno
 - **Relação com P2:** fronteira de troca e guerra entre vale e pastagem, matéria natural para o Marco 6.
 
 ### P4 · Cidade-império mercantil, escravista e em declínio (pedido do Hermes, 2026-11-08)
+> 📜 Dossiê preliminar em [`p4-cidade-mercantil/`](p4-cidade-mercantil/00-dossie-principal.md).
 > 💡 **Referência pedida:** uma sociedade de tipo cartaginês, escravocrata e meio decadente. Entra como **mecanismos**, não como cópia: potência marítima de comércio, elite de famílias mercantis, trabalho escravo em larga escala, mercenários, rivalidade com uma potência rival. Pelo §3.4 e pelo erro proibido 2, precisa de matriz de transformação e de elementos originais.
 - **Relação arcana (a definir):** 💡 hipótese de partida: técnicas **compradas, não geradas**. A elite financia e importa especialistas estrangeiros (inclusive escravizados) e depende de materiais raros por rota marítima. Isso a torna rica e vulnerável (§9.2: dependência de especialista estrangeiro).
 - **Decadência como processo, não como adjetivo:** precisa de causas multifatoriais (§6.3 e erro proibido 23): dependência de trabalho escravo, concentração de riqueza, perda de rota, guerra perdida, custo de mercenários. Decadência moral sem causa material é caricatura (CANONE #12).
