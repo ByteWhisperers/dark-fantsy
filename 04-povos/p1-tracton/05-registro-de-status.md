@@ -30,6 +30,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separ
 | #27 | Origem: coalizões de guerreiros, mercenários, conjuradores e chefes; Igreja legitima depois e não se subordina à Coroa; Coroa e Círculo em aberto. |
 | #28 | Pólvora mais barata que formar mago; custos em aberto; não sempre superior à magia. |
 | #29 | Primeiro conto = primeira vida; segundo conto = história principal; três momentos de Tracton. |
+| #30 | 1ª vida: Tier 1 → Tier 2. 2ª vida: começa no Tier 1, fim indefinido. |
 | #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
 
 > **Fonte das decisões #26–#29:** [adendo de esclarecimentos](../../00-fontes/adendo-autoral-tracton-esclarecimentos.txt). O #29 corrige uma leitura minha anterior: tratei o "primeiro conto canônico" do #21 como a segunda vida, e é a primeira.
@@ -57,6 +58,7 @@ Fatos do conto usados nos dossiês, com linha. Valem como material, não como c�
 | 28 | "Conselho": do rei ou do Círculo? |
 | 30 | Guarda de Prata e caçadores: um corpo ou dois? |
 | 31 | Vallenar e Oakhaven: núcleo, incorporados ou fidelidade instável? |
+| 32 | ✓ Respondida (CANONE #30). Falta: quando a 1ª vida passa ao Tier 2; até onde vai a 2ª. |
 | 33 | A casa real de 300 anos depois é a mesma da época de Argon? |
 | 34 | Custos da pólvora e comparação concreta com formar um mago. |
 | 35 | Origem do Círculo: as coalizões de conjuradores viraram o Círculo? (hipótese promissora, não cânone) |

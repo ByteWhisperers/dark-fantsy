@@ -20,8 +20,8 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §9 e §18: t
 | Momento | O que é | Tracton nesse momento |
 |---|---|---|
 | **1. Formação** | do mosaico de coalizões ao reino | em construção; sem datas |
-| **2. Primeira vida de Argon** (primeiro conto) | ~77 anos de Argon, ~300 anos antes da história principal | o reino do conto: Coroa que ainda não impõe sua vontade em todo lugar, fronteira autônoma, monopólio arcano frouxo e absorvente |
-| **3. Início do segundo conto** | depois dos ~300 anos e dos acontecimentos do Príon | **o mesmo reino, maior e mais estruturado** (CANONE #25); instituições, costumes e poderes **não** se presumem iguais aos do momento 2 |
+| **2. Primeira vida de Argon** (primeiro conto) | ~77 anos de Argon, ~300 anos antes da história principal; **Tier 1 → Tier 2** (CANONE #30) | o reino do conto: Coroa que ainda não impõe sua vontade em todo lugar, fronteira autônoma, monopólio arcano frouxo e absorvente |
+| **3. Início do segundo conto** | depois dos ~300 anos e dos acontecimentos do Príon; **começa no Tier 1**, fim indefinido (CANONE #30) | **o mesmo reino, maior e mais estruturado** (CANONE #25); instituições, costumes e poderes **não** se presumem iguais aos do momento 2 |
 
 Os **Processos 1, 2 e 3** abaixo descrevem as mudanças *entre* esses momentos: 1 leva ao momento 2; 2 descreve a tensão de centralização que já existe no momento 2; 3 leva do momento 2 ao 3.
 
