@@ -38,8 +38,8 @@
 | 34 | **Custos da pólvora** (fabricação, munição, manutenção, treino, transporte, abastecimento, fornecedores, escala) e comparação concreta com formar um mago. Preços absolutos não definidos (CANONE #28). | economia / sistema | 2026-11-09 | |
 | 35 | **Origem do Círculo:** as coalizões de conjuradores da formação de Tracton viraram o Círculo? Em que sequência, e com que papel da Coroa e da Igreja? (hipótese promissora, não cânone; CANONE #27) | facções / história | 2026-11-09 | |
 | 36 | **Hierarquia da Igreja:** quais níveis (paróquia, bispado, sede), quais têm patrimônio, jurisdição ou força armada, e como variam por região? Não definida (CANONE #26). | religião | 2026-11-09 | |
-| 37 | **Posição do P4 no mapa:** vizinho de Tracton, outro continente, ilhas? (sem mapa ainda) | geografia | 2026-11-09 | |
-| 38 | O **P4** é uma só cidade com império de portos e terras sujeitas, ou uma rede de cidades? | povos | 2026-11-09 | |
-| 39 | Em que ponto do **declínio** está o P4 no primeiro conto e no segundo? | cronologia | 2026-11-09 | |
-| 40 | A escravidão do P4 inclui pessoas **capturadas em Tracton** (tráfico, CANONE #20)? Há pessoas escravizadas com **capacidade arcana**? | povos / política | 2026-11-09 | |
-| 42 | Pesquisar a **religião do P4** a partir de fontes reais (com a crítica das fontes hostis) ou deixá-la para depois? E rodada de pesquisa nova sobre o mundo púnico antes de avançar (Etapa I não cobre). | método | 2026-11-09 | |
+| 37 | **Posição do P4 no mapa:** vizinho de Tracton, outro continente, ilhas? (sem mapa ainda) | geografia | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 38 | O **P4** é uma só cidade com império de portos e terras sujeitas, ou uma rede de cidades? | povos | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 39 | Em que ponto do **declínio** está o P4 no primeiro conto e no segundo? | cronologia | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 40 | A escravidão do P4 inclui pessoas **capturadas em Tracton** (tráfico, CANONE #20)? Há pessoas escravizadas com **capacidade arcana**? | povos / política | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 42 | Pesquisar a **religião do P4** a partir de fontes reais (com a crítica das fontes hostis) ou deixá-la para depois? E rodada de pesquisa nova sobre o mundo púnico antes de avançar (Etapa I não cobre). | método | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |

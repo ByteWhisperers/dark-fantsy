@@ -9,7 +9,9 @@ atualizado: 2026-11-09
 
 # P4 · Cidade-império mercantil escravista em declínio — dossiê preliminar
 
-Quarta sociedade-piloto do [ciclo piloto](../00-ciclo-piloto-proposta.md), no formato do §5.2 do [protocolo](../../00-fontes/protocolo-povos-continente.pdf). **Nada aqui é cânone.** Não há nome, lugar nem data novos; o P4 ainda nem tem posição no mapa.
+Quarta sociedade-piloto do [ciclo piloto](../00-ciclo-piloto-proposta.md), no formato do §5.2 do [protocolo](../../00-fontes/protocolo-povos-continente.pdf). > ⏸ **Em espera (2026-11-09):** o Hermes disse que o P4 é **só uma ideia** e que ainda está definindo quais povos o mundo terá. Este dossiê fica como exploração, sem continuação, até ele decidir a lista de povos.
+
+**Nada aqui é cânone.** Não há nome, lugar nem data novos; o P4 ainda nem tem posição no mapa.
 
 **O pedido do Hermes (2026-11-08):** uma sociedade **escravocrata, meio decadente, com referência cartaginesa**. Isto é um ponto de partida, não uma decisão sobre o resto.
 
