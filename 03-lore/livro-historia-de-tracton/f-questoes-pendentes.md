@@ -9,6 +9,8 @@ atualizado: 2026-11-10
 
 # F. Relatório de questões pendentes
 
+> **Atualização (2026-11-10):** o autor delegou estas decisões. Todas foram tomadas e estão em [G. Decisões](g-decisoes.md). Este relatório fica como registro do que estava em aberto.
+
 O que o autor precisa decidir antes da redação completa. Cada linha traz a prioridade, o que a decisão muda na narrativa e a minha recomendação. Os números com # remetem a [`PERGUNTAS-ABERTAS.md`](../../PERGUNTAS-ABERTAS.md).
 
 **Prioridade:** **alta** bloqueia a escrita ou obrigaria a reescrever muito; **média** pode ser decidida durante o Livro I; **baixa** pode esperar.
