@@ -110,7 +110,7 @@ Referência: capilaridade da Igreja medieval, sem copiá-la. Níveis **ilustrati
 ### Círculo de Estudos Arcanos (com Câmaras e Academias)
 | Campo | Proposta |
 |---|---|
-| Origem | ❓ **Aberta** (pergunta #35). 💡 Hipótese promissora, não cânone (CANONE #27): as antigas coalizões de conjuradores da conquista se transformam em instituição reguladora; a carta régia (CANONE #22) seria o ato que consolida essa transformação. Ver [esboço](03-esboco-historico.md). |
+| Origem | **Antecedente definido:** uma paz jurada entre senhores, casas arcanas e Igreja, anterior à sagração e com o futuro rei como fiador, depois convertida em corporação com carta (CANONE #41, #42). ❓ Aberto: quando e como a carta foi dada (pergunta #35). Ver [cronologia provisória](../../02-pesquisa/tracton-origem/93-cronologia-provisoria.md). |
 | Legitimidade | Saber, exame, genealogia registrada, carta régia. |
 | **Reivindica** | Monopólio de ensinar, examinar, diplomar e **auditar** conjuradores acima do 1º círculo em todo o reino; perícia sobre o que é ou não magia. |
 | **Executa** | Onde há Academia. Fora delas, depende de **denúncia** e de escolta régia. 📜 Os arquivos levaram meses para confirmar que nenhum diplomado esteve perto de Vallenar (l. 1414). |

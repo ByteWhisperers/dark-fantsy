@@ -87,3 +87,5 @@ O [protocolo monográfico](../../00-fontes/protocolo-monografico-historia-tracto
 **Atualização (mesmo dia):** o Hermes aprovou as nove recomendações (CANONE #33–#41). Feitas a [cronologia provisória](../../02-pesquisa/tracton-origem/93-cronologia-provisoria.md) e a [matriz de eventos](../../02-pesquisa/tracton-origem/94-matriz-de-eventos.md). Perguntas #43, #44, #45 e #47 respondidas; novas #50 e #51. Na seção 4 acima, as linhas sobre a origem do Círculo e as fases da formação ficam superadas por esses dois arquivos.
 
 **Monografia (2026-11-10):** versão preliminar em [`03-lore/historia-de-tracton/`](../../03-lore/historia-de-tracton/README.md), dez capítulos. CANONE #42 (paz jurada antes da sagração) e #43 (cerca de 130 anos entre a sagração e a primeira vida de Argon).
+
+**Livro (2026-11-10):** proposta editorial do livro de dentro do mundo em [`03-lore/livro-historia-de-tracton/`](../../03-lore/livro-historia-de-tracton/README.md) (parecer, arquitetura, narrador, fontes, amostra, pendências). Nada é cânone; perguntas #52 a #57.

@@ -11,6 +11,8 @@ atualizado: 2026-11-10
 
 *Da fragmentação etnopolítica à monarquia guerreira.* Versão preliminar (etapa 5 do [protocolo](../../00-fontes/protocolo-monografico-historia-tracton.txt)).
 
+> **Nível A.** Este texto é explicativo e de fora do mundo. Para o [livro narrado por um historiador fictício](../livro-historia-de-tracton/README.md) ele serve de verdade de bastidor: o que de fato aconteceu, contra o qual se mede o que o narrador acerta, erra ou cala.
+
 ## Como ler
 
 - **Recorte:** do mosaico anterior ao reino até as vésperas da primeira vida de Argon. Argon não aparece.
