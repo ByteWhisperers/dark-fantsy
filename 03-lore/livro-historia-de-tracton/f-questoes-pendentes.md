@@ -17,7 +17,7 @@ O que o autor precisa decidir antes da redação completa. Cada linha traz a pri
 
 | # | Decisão | Impacto narrativo | Recomendação |
 |---|---|---|---|
-| 1 | **Quem narra** (#52): o Arquivista (N1), o Notário (N2) ou o Preceptor (N3) | Muda a voz de todas as páginas, o que o livro sabe e o que cala | **N1**, com N2 e N3 como fontes citadas ([C](c-projeto-do-narrador.md)) |
+| 1 | ✅ **Decidido em 2026-11-10: o Arquivista (CANONE #44).** Quem narra (#52): o Arquivista (N1), o Notário (N2) ou o Preceptor (N3) | Muda a voz de todas as páginas, o que o livro sabe e o que cala | **N1**, com N2 e N3 como fontes citadas ([C](c-projeto-do-narrador.md)) |
 | 2 | **Quando ele escreve** (#53) e o que pode dizer do seu presente | Define a distância, a nostalgia e o risco de encostar na trama principal. Depende de #6, #12 e #33 | Entre S+430 e S+490: depois de Argon, antes da história principal, sem nomear Argon |
 | 3 | **Confirmar os 130 anos** (#50, CANONE #43) | Muda o tamanho do Livro V | Manter 130 se a leitura estiver certa. Basta um "sim" |
 | 4 | **Tamanho total do recorte** (#54). A missão fala em 2 a 3 séculos até as instituições da primeira vida de Argon. O CANONE #32 dá 2 a 3 séculos até o proto-reino, e o #43 soma 130 anos. Total hoje: cerca de 390 anos | Ou o livro cobre quase quatro séculos, ou as fases antes da sagração encolhem, ou o livro termina na sagração e o Livro V vira epílogo | Manter os 390 anos e dizer no título que são "quatro séculos". O Livro V é onde a "contradição fundadora" acontece e não pode virar epílogo |

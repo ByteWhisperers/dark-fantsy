@@ -29,7 +29,7 @@ Proposta de formato para um livro **de dentro do mundo**: a história da formaç
 1. **Formato:** história narrativa de um historiador do mundo, confirmada como a melhor forma para este material.
 2. **Identidade:** "a força que aprendeu a escrever". Cada Livro é dominado por um tipo de documento, e a documentação cresce junto com a ordem.
 3. **Estrutura:** um volume, cinco Livros internos, 33 capítulos (ou 26 na versão enxuta), quatro intermédios documentais.
-4. **Narrador recomendado:** o Arquivista, cônego da sé que resistiu ao futuro rei, escrevendo entre S+430 e S+490.
+4. **Narrador:** o Arquivista, cônego da sé que resistiu ao futuro rei. **Aprovado pelo autor (CANONE #44).** A época em que escreve continua proposta: entre S+430 e S+490.
 5. **Método:** o livro é uma investigação contra a história oficial. O narrador acerta, erra e cala, e um quadro de bastidor registra cada caso.
 6. **Próximo passo:** decidir narrador, época, recorte e nomes; depois, escrever o Livro I como piloto.
 

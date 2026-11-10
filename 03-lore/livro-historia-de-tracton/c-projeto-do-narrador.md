@@ -115,6 +115,8 @@ Para comparar as vozes, cada ficha traz o mesmo fato, a concessão de um vale em
 
 ## 5. Recomendação
 
+> **Decisão do autor (2026-11-10):** o narrador é **o Arquivista (N1)**, registrado no CANONE #44. A época, os nomes e o mapa de acertos e erros continuam propostas.
+
 **N1, o Arquivista, como narrador.** Três razões.
 
 1. É o único cujo acesso cobre os cinco Livros, e a pesquisa explica por quê: em todas as fases quem escreve para os poderosos é clérigo. [HI]
