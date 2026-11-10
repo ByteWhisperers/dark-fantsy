@@ -64,7 +64,7 @@ Leitura: nos casos reais, de mercenário a coroa leva **cerca de um século**. O
 | **5. Guerras das Companhias Territoriais** | S−90 a S−50 | 30 a 50 anos | disputas de limite e herança atraem aliados | guerra arcana ruinosa; paz jurada |
 | **6. Hegemonia sem coroa** | S−50 a S−10 | 30 a 60 anos | o chefe de um bloco vira fiador da paz jurada | uma grande sede religiosa se opõe a ele |
 | **7. Resistência, pacto e sagração** | S−10 a S | 10 a 30 anos | a sede apoia os rivais do hegemon | sagração: **proto-reino** |
-| **8. Do proto-reino à primeira vida de Argon** | depois de S | **aberta** (pergunta #50) | sagração | — |
+| **8. Do proto-reino à primeira vida de Argon** | S a S+130 | cerca de 130 anos (CANONE #43) | sagração | começa a primeira vida de Argon |
 
 Soma das posições centrais: cerca de 260 anos, dentro do horizonte. Encurtando tudo, chega-se perto de 200; alongando, passa-se de 300, e então alguma fase precisa ceder.
 
@@ -123,7 +123,7 @@ A guerra agora é entre casas com conjuradores hereditários, mais bem formados 
 *O que fica:* um rei que deve o título a quem pode contestá-lo; uma Igreja credora e desconfiada; duas memórias rivais da origem; a versão oficial (CANONE #24), com três coautores e três silêncios.
 *O que ainda não existe:* capital, fisco fora das terras da casa, juízes régios nas terras dos outros, exército próprio, lei geral, Círculo com carta, Academias.
 
-### Fase 8 · Do proto-reino à primeira vida de Argon (duração aberta)
+### Fase 8 · Do proto-reino à primeira vida de Argon (cerca de 130 anos, CANONE #43)
 Fora do horizonte de dois a três séculos, mas dentro do recorte do protocolo (Capítulos 8 a 10). Em ordem provável, sem durações:
 1. Revoltas de pares contra a coroa nova (como em todo caso comparado).
 2. Disputa permanente sobre nomeações eclesiásticas e sobre quem responde pelos conjuradores.
@@ -132,7 +132,7 @@ Fora do horizonte de dois a três séculos, mas dentro do recorte do protocolo (
 5. Academias, Câmaras, Inquisição pericial, Guarda de Prata: instituições da primeira vida de Argon, cuja ordem de criação é assunto do Capítulo 9 e do 10.
 6. Chegada da pólvora anã (CANONE #18): não datada; nada nesta cronologia depende dela.
 
-> ❓ **[QA] #50.** Quanto tempo separa a sagração da primeira vida de Argon? O conto dá uma pista: Caldris é produto de "**séculos**" de política de casamentos e de treino (l. 1408). As casas arcanas se fecham na Fase 4, cerca de um século antes da sagração. Para "séculos" valer, a primeira vida de Argon fica **pelo menos um século depois da sagração**. É inferência, não decisão.
+> 📜 **Decisões do autor (2026-11-10):** a paz jurada fica **antes** da sagração (CANONE #42); entre a sagração e a primeira vida de Argon passam **cerca de 130 anos** (CANONE #43, leitura a confirmar). Isso é coerente com os "séculos" de política de casamentos das casas arcanas no conto (l. 1408): as casas se fecham na Fase 4, mais de dois séculos antes da primeira vida de Argon. A monografia preliminar está em [`03-lore/historia-de-tracton/`](../../03-lore/historia-de-tracton/README.md).
 
 ## 4. Sincronia: o que acontece com cada grupo
 
@@ -166,7 +166,7 @@ Para o Capítulo sobre a maquiagem (CANONE #24). [HI]
 ## 6. Limites desta cronologia
 
 - As durações são [PF]. Fundamentei a ordem de grandeza, não os números.
-- A posição da **paz jurada** no começo da Fase 6 é escolha minha de encadeamento: dá ao hegemon uma função (fiador) que explica por que os outros o aceitam. Poderia vir depois da sagração; nesse caso a Igreja teria mais peso nela.
+- A posição da **paz jurada** no começo da Fase 6, antes da sagração, foi mantida pelo autor (CANONE #42).
 - A **base desproporcional** do hegemon não tem natureza definida (porto, cereal, minas, herança). Depende de geografia que ainda não existe.
 - Nada aqui diz **onde** cada coisa acontece. Sem mapa, "costa", "vale" e "serra" são tipos de terreno.
 - O contingente "de fora" da Fase 1 não tem origem definida (pergunta #46).

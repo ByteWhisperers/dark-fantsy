@@ -11,7 +11,7 @@ atualizado: 2026-11-10
 
 Executa o [Protocolo de Pesquisa e Redação Monográfica](../../00-fontes/protocolo-monografico-historia-tracton.txt) do Hermes: *A formação histórica do Reino de Tracton, da fragmentação etnopolítica à monarquia guerreira*. Recorte: **antes da primeira vida de Argon**.
 
-**O que é cânone:** as premissas do protocolo (CANONE #32) e as nove escolhas aprovadas (CANONE #33 a #41). Todo o resto é pesquisa histórica, modelo ou hipótese, com marcador.
+**O que é cânone:** as premissas do protocolo (CANONE #32) e as nove escolhas aprovadas (CANONE #33 a #43). Todo o resto é pesquisa histórica, modelo ou hipótese, com marcador.
 
 ## O que está feito e o que espera o Hermes
 
@@ -22,13 +22,13 @@ O protocolo tem sete etapas (§13). Esta pasta entrega as três primeiras e adia
 | 1. Inventário de fontes | fatos e contradições | [00](00-inventario-de-fatos-e-contradicoes.md) | feito |
 | 2. Pesquisa de mecanismos | fichas, casos e entregável de cada eixo | [A](eixo-a-fragmentacao.md) · [B](eixo-b-economia-da-guerra.md) · [C](eixo-c-pilhagem-ao-dominio.md) · [D](eixo-d-aristocracia-guerreira.md) · [E](eixo-e-aristocracias-arcanas.md) · [F](eixo-f-coalizoes-e-proto-reino.md) · [G](eixo-g-igreja.md) · [H](eixo-h-trabalho-e-condicao-juridica.md) | feito |
 | 2. (cont.) | matriz comparativa | [90](90-matriz-comparativa.md) | feito |
-| 3. Modelos concorrentes | quadro de hipóteses e consequências | [91](91-modelos-concorrentes.md) | feito; **as nove recomendações foram aprovadas** (CANONE #33–#41) |
+| 3. Modelos concorrentes | quadro de hipóteses e consequências | [91](91-modelos-concorrentes.md) | feito; **as nove recomendações foram aprovadas** (CANONE #33–#43) |
 | 6. Revisão crítica (adiantada) | relatório de fragilidades e lista de verificação | [92](92-relatorio-de-fragilidades.md) | feito para as etapas 1 a 3 |
 | 4. História causal | cronologia provisória e matriz de eventos | [93](93-cronologia-provisoria.md) · [94](94-matriz-de-eventos.md) | feito, **pede revisão do autor** |
-| 5. Redação | monografia em 10 capítulos | — | próximo passo |
+| 5. Redação | versão preliminar da monografia em 10 capítulos | [`03-lore/historia-de-tracton/`](../../03-lore/historia-de-tracton/README.md) | feito, **pede revisão do autor** |
 | 7. Aprovação e integração | atualização dos documentos canônicos | — | só com decisão do Hermes |
 
-Em 2026-11-10 o Hermes aprovou as nove recomendações do arquivo 91 e pediu a cronologia. As **escolhas** são cânone (CANONE #33 a #41); a **cronologia** e os **eventos** construídos sobre elas continuam hipótese até revisão do autor.
+Em 2026-11-10 o Hermes aprovou as nove recomendações do arquivo 91 e pediu a cronologia. As **escolhas** são cânone (CANONE #33 a #43); a **cronologia** e os **eventos** construídos sobre elas continuam hipótese até revisão do autor.
 
 ## Por onde começar a ler
 

@@ -87,3 +87,36 @@ Estado **nesta rodada** (pesquisa e modelos). "Explicado" aqui quer dizer: há m
 - **Feitas** a [cronologia provisória](93-cronologia-provisoria.md) e a [matriz de eventos](94-matriz-de-eventos.md). Item 4 da seção 5 concluído, à espera de revisão.
 - **Fragilidades novas da etapa 4:** as durações das fases são proposta sem base própria além de ordens de grandeza; a posição da paz jurada (antes da sagração) é escolha de encadeamento minha; os eventos E5 a E7 (casas arcanas, guerra arcana, paz jurada) não têm paralelo histórico e estão marcados como possibilidade.
 - **Continua valendo F1:** antes da etapa 5, ler as obras de base.
+
+## 7. Revisão da versão preliminar da monografia (2026-11-10)
+
+Monografia em [`03-lore/historia-de-tracton/`](../../03-lore/historia-de-tracton/README.md). Decisões novas: paz jurada antes da sagração (CANONE #42); cerca de 130 anos entre a sagração e a primeira vida de Argon (CANONE #43, leitura a confirmar).
+
+### Teste contra os erros a evitar
+
+| Erro | Situação na monografia |
+|---|---|
+| Teleologia | Cada capítulo de 2 a 6 tem seção "como falhava" ou "por que não parou"; o cap. 5 diz que blocos estáveis eram resultado possível. **Risco residual:** o cap. 10 arruma o resultado com muita limpeza. |
+| Evolução moral automática | Caps. 3, 4 e 8 dizem expressamente que assentamento, condenação e ato régio são cálculo. |
+| Ausência total de cooperação | Caps. 1 e 2 têm seção própria. |
+| Uniformidade étnica | Sem povo conquistador (cap. 2); quatro paisagens persistem (cap. 10). **Lacuna:** não há línguas nem nomes de povos, porque não foram definidos. |
+| Monarquia moderna precoce | Listas do que o hegemon e o rei não têm (caps. 6 e 8). |
+| Igreja onipotente | Cap. 7, seções 7.2 e 7.7. |
+| Determinismo arcano hereditário | Cap. 9, seção 9.1. |
+| Instituições sem custos | Custos nomeados nos caps. 3, 8 e 9, **sem grandezas**. |
+| Argon como causa retroativa | Argon não aparece; o cap. 10 lista o que não depende dele. |
+| Precisão inventada | Sem nomes, lugares ou datas de calendário. As posições "S−n" são da cronologia e estão marcadas como proposta. "Algumas dezenas de senhorios" (cap. 3) é ordem de grandeza e está marcado. |
+
+### Lista de verificação (§14)
+
+Os 17 itens têm agora texto na monografia. Dois continuam parciais: **origens de vassalagem e direitos regionais** (cap. 8 dá a lógica; faltam os direitos concretos de cada região, que dependem de geografia) e **registro das questões remanescentes** (feito, mas cresceu: cada capítulo termina com as suas).
+
+### Fragilidades próprias da monografia
+
+- **Abstração.** Sem nomes, lugares e pessoas, o texto é um esqueleto explicativo. É o que o protocolo pede nesta etapa, mas não é ainda história que se possa citar dentro do mundo.
+- **Cap. 9** depende de cinco perguntas abertas sobre a magia e de uma data proposta para a carta do Círculo.
+- **Cap. 8** propõe a ordem dos processos depois da sagração sem base além da lógica interna.
+- **A terra arruinada** do cap. 5 é proposta minha que pode ter consequências geográficas e narrativas; precisa de decisão.
+- **Leitura de "1 século e 30 décadas"** como 130 anos. Se o autor quis dizer outra coisa, mudam o cap. 8, o cap. 10 e a Fase 8 da cronologia.
+- **F1 continua:** as obras de base não foram lidas na íntegra.
+
