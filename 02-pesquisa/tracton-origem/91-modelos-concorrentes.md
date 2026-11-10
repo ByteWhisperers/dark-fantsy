@@ -2,7 +2,7 @@
 titulo: Origem de Tracton — modelos concorrentes (etapa 3)
 tipo: pesquisa
 camada: mundo
-status: ideia
+status: rascunho
 fonte: pesquisa (eixos A a H) + propostas do Claude
 atualizado: 2026-11-10
 ---
@@ -10,6 +10,8 @@ atualizado: 2026-11-10
 # Modelos concorrentes para cada virada institucional (etapa 3)
 
 Protocolo §13, etapa 3: pelo menos duas alternativas para cada virada; entregável: quadro de hipóteses e consequências.
+
+> 📜 **Decisão do autor (2026-11-10):** o Hermes aprovou **todas as recomendações** (💡) deste arquivo. Estão no CANONE #33 (V1) a #41 (V9). As alternativas não escolhidas ficam aqui como registro do que foi descartado e como matéria para versões oficiais e memórias rivais dentro do mundo.
 
 **Como usar:** em cada virada, o Hermes pode escolher uma alternativa, combinar, ou propor outra. Tudo aqui é [HI] ou [PF]. Minha recomendação vem marcada com 💡 e tem um motivo; não é decisão. As alternativas não se excluem no mapa: regiões diferentes de Tracton podem ter seguido caminhos diferentes, e isso **ajuda** a heterogeneidade que o cânone pede. A pergunta para o autor é qual caminho foi o da **casa que venceu** e qual é o da **história oficial**.
 

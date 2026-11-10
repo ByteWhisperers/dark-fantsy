@@ -1,5 +1,5 @@
 ---
-titulo: Origem de Tracton — pesquisa monográfica (etapas 1 a 3 e revisão)
+titulo: Origem de Tracton — pesquisa monográfica (etapas 1 a 4)
 tipo: pesquisa
 camada: mundo
 status: rascunho
@@ -11,7 +11,7 @@ atualizado: 2026-11-10
 
 Executa o [Protocolo de Pesquisa e Redação Monográfica](../../00-fontes/protocolo-monografico-historia-tracton.txt) do Hermes: *A formação histórica do Reino de Tracton, da fragmentação etnopolítica à monarquia guerreira*. Recorte: **antes da primeira vida de Argon**.
 
-**Nada aqui é cânone novo.** As premissas do protocolo (§4) estão registradas no CANONE #32. Todo o resto é pesquisa histórica, modelo ou hipótese, com marcador.
+**O que é cânone:** as premissas do protocolo (CANONE #32) e as nove escolhas aprovadas (CANONE #33 a #41). Todo o resto é pesquisa histórica, modelo ou hipótese, com marcador.
 
 ## O que está feito e o que espera o Hermes
 
@@ -22,17 +22,18 @@ O protocolo tem sete etapas (§13). Esta pasta entrega as três primeiras e adia
 | 1. Inventário de fontes | fatos e contradições | [00](00-inventario-de-fatos-e-contradicoes.md) | feito |
 | 2. Pesquisa de mecanismos | fichas, casos e entregável de cada eixo | [A](eixo-a-fragmentacao.md) · [B](eixo-b-economia-da-guerra.md) · [C](eixo-c-pilhagem-ao-dominio.md) · [D](eixo-d-aristocracia-guerreira.md) · [E](eixo-e-aristocracias-arcanas.md) · [F](eixo-f-coalizoes-e-proto-reino.md) · [G](eixo-g-igreja.md) · [H](eixo-h-trabalho-e-condicao-juridica.md) | feito |
 | 2. (cont.) | matriz comparativa | [90](90-matriz-comparativa.md) | feito |
-| 3. Modelos concorrentes | quadro de hipóteses e consequências | [91](91-modelos-concorrentes.md) | feito, **pede escolha** |
+| 3. Modelos concorrentes | quadro de hipóteses e consequências | [91](91-modelos-concorrentes.md) | feito; **as nove recomendações foram aprovadas** (CANONE #33–#41) |
 | 6. Revisão crítica (adiantada) | relatório de fragilidades e lista de verificação | [92](92-relatorio-de-fragilidades.md) | feito para as etapas 1 a 3 |
-| 4. História causal | cronologia provisória e matriz de eventos | — | **espera a escolha dos modelos** |
-| 5. Redação | monografia em 10 capítulos | — | depois da etapa 4 |
+| 4. História causal | cronologia provisória e matriz de eventos | [93](93-cronologia-provisoria.md) · [94](94-matriz-de-eventos.md) | feito, **pede revisão do autor** |
+| 5. Redação | monografia em 10 capítulos | — | próximo passo |
 | 7. Aprovação e integração | atualização dos documentos canônicos | — | só com decisão do Hermes |
 
-Parei na etapa 3 de propósito. A etapa 4 encadeia causas, e cada virada institucional tem pelo menos duas explicações possíveis. Escrever a história antes da escolha seria decidir pelo autor.
+Em 2026-11-10 o Hermes aprovou as nove recomendações do arquivo 91 e pediu a cronologia. As **escolhas** são cânone (CANONE #33 a #41); a **cronologia** e os **eventos** construídos sobre elas continuam hipótese até revisão do autor.
 
 ## Por onde começar a ler
 
-1. [91 · modelos concorrentes](91-modelos-concorrentes.md): nove viradas, alternativas, consequências e minha recomendação em cada uma.
+1. [93 · cronologia provisória](93-cronologia-provisoria.md) e [94 · matriz de eventos](94-matriz-de-eventos.md): a história causal, fase a fase.
+1. [91 · modelos concorrentes](91-modelos-concorrentes.md): as nove viradas e as alternativas que ficaram de fora.
 2. [00 · inventário](00-inventario-de-fatos-e-contradicoes.md): o que já está firme e as seis tensões que achei entre as fontes.
 3. Os eixos, na ordem do interesse. O **E** (magia) é o que não tem paralelo histórico direto e pede mais decisão.
 

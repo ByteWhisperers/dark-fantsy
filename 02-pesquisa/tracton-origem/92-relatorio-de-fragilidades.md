@@ -80,3 +80,10 @@ Estado **nesta rodada** (pesquisa e modelos). "Explicado" aqui quer dizer: há m
 4. Etapa 4: cronologia provisória por intervalos e matriz de eventos.
 5. Etapa 5: os dez capítulos.
 6. Etapa 6 completa e etapa 7.
+
+## 6. Atualização depois da aprovação (2026-11-10)
+
+- **M5 e M6 resolvidas por decisão do autor:** as nove recomendações foram aprovadas (CANONE #33–#41), inclusive a leitura da tensão T1.
+- **Feitas** a [cronologia provisória](93-cronologia-provisoria.md) e a [matriz de eventos](94-matriz-de-eventos.md). Item 4 da seção 5 concluído, à espera de revisão.
+- **Fragilidades novas da etapa 4:** as durações das fases são proposta sem base própria além de ordens de grandeza; a posição da paz jurada (antes da sagração) é escolha de encadeamento minha; os eventos E5 a E7 (casas arcanas, guerra arcana, paz jurada) não têm paralelo histórico e estão marcados como possibilidade.
+- **Continua valendo F1:** antes da etapa 5, ler as obras de base.
