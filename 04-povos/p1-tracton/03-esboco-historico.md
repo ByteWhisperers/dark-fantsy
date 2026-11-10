@@ -29,6 +29,8 @@ Os **Processos 1, 2 e 3** abaixo descrevem as mudanças *entre* esses momentos: 
 
 ## Processo 1 · Formação do reino (momento 1)
 
+> **Atualização 2026-11-10:** a formação agora tem pesquisa própria, pelo protocolo monográfico do Hermes, em [`02-pesquisa/tracton-origem/`](../../02-pesquisa/tracton-origem/README.md). As fases A a E abaixo continuam como resumo; os [modelos concorrentes](../../02-pesquisa/tracton-origem/91-modelos-concorrentes.md) as detalham e devem substituí-las depois da escolha do autor.
+
 > 📜 **Direção aprovada (CANONE #27):** Tracton se forma a partir de **coalizões de guerreiros, mercenários, conjuradores e chefes militares** que conquistam e dominam progressivamente uma região. O controle territorial permite acumular terras, recursos, dependentes, tributos e prestígio. Ao longo de gerações, parte dessas lideranças se estabiliza como **aristocracia hereditária**, da qual emergem **linhagens militares** e **linhagens arcanas**, ligadas no início pela participação conjunta na conquista. **A Igreja entra depois**, como agente de legitimação e organização, com linguagem religiosa e jurídica para poderes que nasceram da capacidade militar, das alianças e da dominação territorial. Não presumir que ela se torne subordinada à Coroa: ao legitimar, ganha patrimônio, prerrogativas e interesses próprios.
 
 > ❓ **Abertas (adendo):** datas, protagonistas, sequência de conquistas, **formação da Coroa**, mecanismos de hereditariedade, **origem precisa do Círculo**.

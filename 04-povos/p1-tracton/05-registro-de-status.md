@@ -4,7 +4,7 @@ tipo: nota
 camada: mundo
 status: rascunho
 fonte: conto + adendo autoral (2026-11-09) + propostas do Claude
-atualizado: 2026-11-09
+atualizado: 2026-11-10
 ---
 
 # Tracton — registro de status (entregável F)
@@ -32,6 +32,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separ
 | #29 | Primeiro conto = primeira vida; segundo conto = história principal; três momentos de Tracton. |
 | #30 | 1ª vida: Tier 1 → Tier 2. 2ª vida: começa no Tier 1, fim indefinido. |
 | #31 | O primeiro conto vai só até o Tier 2; os seguintes serão em níveis superiores. |
+| #32 | Premissas da formação (protocolo monográfico): região fragmentada, Décadas de Sangue (nome provisório), companhias que viram senhorios, coalizões, hegemonia sem eliminar autonomias, Igreja por redes existentes, dois a três séculos. |
 | #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
 
 > **Fonte das decisões #26–#29:** [adendo de esclarecimentos](../../00-fontes/adendo-autoral-tracton-esclarecimentos.txt). O #29 corrige uma leitura minha anterior: tratei o "primeiro conto canônico" do #21 como a segunda vida, e é a primeira.
@@ -78,3 +79,6 @@ Fatos do conto usados nos dossiês, com linha. Valem como material, não como c�
 | Divindade da força legítima: magia irregular = força sem legitimidade | [00](00-dossie-principal.md) bloco F | manter |
 | Foro por condição; magia irregular atravessa os foros | [01](01-arquitetura-institucional.md) §2, [02](02-matriz-diversidade-interna.md) §3 | manter |
 | Mesma capacidade, saídas desiguais (caso A × caso C) | [01](01-arquitetura-institucional.md) §3 | manter |
+
+## 5. Pesquisa sobre a origem (2026-11-10)
+O [protocolo monográfico](../../00-fontes/protocolo-monografico-historia-tracton.txt) abriu uma pesquisa própria em [`02-pesquisa/tracton-origem/`](../../02-pesquisa/tracton-origem/README.md): inventário, eixos A a H, matriz comparativa, [nove viradas com modelos concorrentes](../../02-pesquisa/tracton-origem/91-modelos-concorrentes.md) e relatório de fragilidades. Perguntas novas #43 a #49. A história causal e a monografia esperam a escolha dos modelos. Depois da escolha, o [esboço histórico](03-esboco-historico.md) deve ser substituído.

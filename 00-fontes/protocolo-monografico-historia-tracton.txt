@@ -1,0 +1,466 @@
+PROJETO · CRÔNICAS DE ARGON
+
+
+
+
+Protocolo de Pesquisa
+e Redação Monográfica
+A formação histórica do Reino de Tracton
+
+
+
+DA FRAGMENTAÇÃO ETNOPOLÍTICA À MONARQUIA GUERREIRA
+
+
+Recorte: período anterior à primeira vida de Argon
+Horizonte: 200–300 anos até o proto-reino, provisórios
+Documento metodológico · Novembro de 2026
+PARTE I — FUNDAMENTAÇÃO DA PESQUISA
+
+1. Objetivo geral
+Reconstruir a formação histórica do Reino de Tracton, investigando os processos militares,
+econômicos, sociais, políticos, religiosos e culturais que permitiram a transformação de uma região
+fragmentada em uma monarquia feudal de autoridade territorial desigual.
+
+A monografia deverá explicar as instituições existentes durante a primeira vida de Argon como
+resultados de processos anteriores, não como organizações surgidas espontaneamente ou criadas
+para atender às necessidades da narrativa.
+
+
+2. Problema central
+Como sistemas recorrentes de guerra, pilhagem, conquista e apropriação de populações
+produziram estruturas permanentes de dominação territorial que, mediante conflitos, pactos e
+legitimação religiosa, deram origem ao Reino de Tracton?
+
+A investigação deverá responder não apenas como determinados grupos conquistaram territórios,
+mas por que conseguiram conservá-los, administrá-los, transmiti-los hereditariamente e subordiná-
+los a uma autoridade monárquica.
+
+
+3. Hipótese orientadora
+A hipótese inicial sustenta que a formação de Tracton resultou de transformações graduais no
+comportamento de companhias guerreiras e conjuradores.
+
+Em um ambiente de fragmentação política e conflitos frequentes, determinadas companhias
+passaram da apropriação episódica de recursos ao controle continuado de terras, populações e
+meios de produção. Essa transformação exigiu novas formas de administração, negociação,
+coerção, sucessão e cooperação.
+
+Ao longo de gerações, parte desses grupos se consolidou como aristocracia territorial e arcana.
+Guerras posteriores entre senhorios favoreceram a formação de coalizões, das quais uma alcançou
+hegemonia sem adquirir capacidade de administração direta sobre todos os territórios incorporados.
+
+A monarquia resultante baseou-se numa combinação de supremacia militar, pactos entre elites e
+reconhecimento desigual de autonomias locais. Posteriormente, a Igreja dominante tornou-se agente
+de articulação sociocultural e legitimação institucional, sem necessariamente se subordinar
+integralmente à Coroa.
+
+A hipótese deve ser testada quanto à coerência interna; não constitui uma trajetória histórica
+inevitável.
+
+
+
+
+                           TR A C T O N • PROTOCOLO MONOGRÁFICO | 2
+4. Premissas autorais estabelecidas
+
+ 1. A região anterior a Tracton era cultural, linguisticamente e politicamente fragmentada.
+ 2. Seus habitantes não compartilhavam identidade tractoniana preexistente.
+ 3. Guerras, saques e conquistas eram recorrentes e possibilitaram a profissionalização da violência.
+ 4. Existiu um período particularmente violento, provisoriamente denominado Décadas de Sangue.
+ 5. Pilhagem, escravização, expropriação e deslocamento forçado integravam práticas militares.
+ 6. Inicialmente não existia projeto geral de assimilação cultural dos vencidos.
+ 7. Algumas companhias passaram a exercer domínio permanente sobre territórios.
+ 8. Conquistadores desenvolveram mecanismos administrativos e relações contratuais.
+ 9. Da estabilização dos domínios surgiram aristocracias militares e arcanas.
+10. A formação do proto-reino envolveu guerras e coalizões entre poderes territoriais.
+11. A coalizão hegemônica não conseguiu eliminar toda a autonomia de seus subordinados.
+12. A Igreja contribuiu com articulação, organização e legitimação por meio de redes socioculturais
+    existentes.
+13. O processo até o proto-reino levou aproximadamente dois a três séculos, ainda sem datas
+    definitivas.
+14. Na primeira vida de Argon, Tracton é predominantemente humano, feudal, heterogêneo e abriga
+    Coroa, aristocracias, Igreja e instituições arcanas.
+15. O reino não é uniformemente cruel, miserável ou culturalmente homogêneo.
+
+
+5. Classes de informação
+
+ Marcador                          Natureza                           Exemplo
+
+ [CA]                              Cânone ou decisão autoral          Origem em coalizões guerreiras e
+                                                                      arcanas
+
+ [FN]                              Evidência narrativa                Existência de Vallenar, Caldris e
+                                                                      do Círculo
+
+ [FH]                              Fato histórico documentado         Conquista normanda do sul da
+                                                                      Itália
+
+ [MH]                              Modelo historiográfico             Predador itinerante e estacionário
+
+ [HI]                              Hipótese interna de Tracton        Uma companhia recebeu tributos
+                                                                      antes de ocupar terras
+
+ [PF]                              Proposta ficcional pendente        Nome de guerra, dinastia ou
+                                                                      instituição
+
+ [QA]                              Questão aberta                     Como se transmitia o saber
+                                                                      arcano?
+
+
+
+
+                            TR A C T O N • PROTOCOLO MONOGRÁFICO | 3
+Regra: uma interpretação de pesquisador ou agente não se transforma em cânone sem aprovação
+autoral.
+
+
+
+PARTE II — PROGRAMA DE PESQUISA HISTÓRICA
+
+6. Eixos obrigatórios
+
+Eixo A — Fragmentação etnopolítica e sociedades pré-estatais
+Objetivo: compreender comunidades diferentes numa mesma região sem pressupor povo ou Estado
+unificado.
+
+Investigar: cidades independentes, chefaturas, aldeias, pequenos senhorios, línguas, costumes,
+fronteiras móveis, formas locais de autoridade e propriedade, comércio entre inimigos, alianças
+temporárias e redes de parentesco.
+
+Questão: o que mantinha cada comunidade unida antes de Tracton?
+Entregável: matriz de pelo menos três modalidades de organização política pré-reino.
+
+Eixo B — Economia da guerra, pilhagem e escravização
+Objetivo: explicar a violência como profissão e mecanismo de reprodução econômica.
+
+Investigar: recrutamento, armamento, abastecimento, manutenção dos combatentes, espólios,
+cereais, gado, metais, prisioneiros, escravização, deportação, destruição, distribuição de ganhos,
+financiamento e riscos.
+
+Casos prioritários: Império Neoassírio; campanhas romanas; conflitos greco-púnicos na Sicília;
+conquista da Messênia; incursões de povos guerreiros das estepes.
+
+Precaução: diferenciar conquista imperial, guerra mercenária, dominação agrária e incursão
+predatória.
+Entregável: modelo de receitas, custos e riscos de uma companhia guerreira.
+
+Eixo C — Da pilhagem ao domínio territorial
+Objetivo: explicar a passagem da extração episódica para o controle de terras e pessoas.
+
+Investigar: saque itinerante, tributos continuados, custos de ocupação, guarnições, proteção de
+campos e rotas, intermediários, resistência, destruição estratégica e direitos de cobrança.
+
+Referência teórica: Mancur Olson, predador itinerante e estacionário, incluindo críticas ao modelo.
+Questão: quando preservar uma população se torna mais vantajoso que saqueá-la repetidamente?
+Entregável: estudo de uma companhia que tenta governar o mesmo território por três gerações.
+
+Eixo D — Formação da aristocracia guerreira
+Objetivo: investigar como comando militar se converte em poder hereditário.
+
+
+
+
+                            TR A C T O N • PROTOCOLO MONOGRÁFICO | 4
+Investigar: distribuição de terras, dependência militar, fortalezas, casamentos, sucessão,
+reconhecimento de privilégios, incorporação de elites derrotadas e transformação do prestígio em
+autoridade jurídica.
+
+Casos prioritários: normandos no sul da Itália, aristocracias francas e formações feudais europeias.
+Questão: por que o descendente do conquistador continua governando sem possuir
+necessariamente seu talento militar?
+Entregável: genealogia institucional exemplificativa de uma família guerreira, sem canonizar nomes.
+
+Eixo E — Magia e aristocracias arcanas
+Objetivo: investigar as consequências políticas do poder mágico individual no processo de
+conquista.
+
+Investigar: conjuradores nas companhias, assimetrias de poder, dependência de soldados e
+suprimentos, transmissão de saber, famílias arcanas, diferenças entre talento e privilégio,
+conjuradores independentes e antecedentes da regulação.
+
+Questão: por que um conjurador capaz de decidir batalhas aceitaria dividir autoridade com
+guerreiros e administradores?
+Entregável: três modelos concorrentes de formação de linhagens arcanas.
+
+Eixo F — Guerras de coalizão e proto-reino
+Objetivo: explicar a autoridade superior construída sobre poderes locais autônomos.
+
+Investigar: alianças, hegemonia, juramentos, vassalagem, subordinação negociada, tributos,
+obrigações militares, arbitragem, direitos regionais e sucessões.
+
+Casos prioritários: reino normando da Sicília, experiências merovíngias e carolíngias, ligas e
+confederações pertinentes.
+Questão: por que uma companhia derrotada aceitaria a primazia de outra?
+Entregável: reconstrução de uma coalizão militar que se torna autoridade proto-monárquica.
+
+Eixo G — Igreja, legitimação e integração sociocultural
+Objetivo: investigar como uma rede religiosa preexistente ajuda a administrar e legitimar a
+monarquia.
+
+Investigar: redes religiosas, paróquias, bispados, costumes e línguas locais, mediação, atividades
+jurídicas, registros, reconhecimento régio, terras e imunidades, nomeações eclesiásticas, autonomia
+e conflitos.
+
+Casos prioritários: Igreja nos reinos francos, relações entre papado e normandos, cristianização e
+formação de reinos medievais.
+Questão: o que a Igreja ganha ao auxiliar a transformação de uma coalizão em monarquia?
+Entregável: modelo de pacto entre a coalizão e as estruturas religiosas.
+
+Eixo H — Transformações sociais e jurídicas
+Objetivo: explicar a persistência e transformação das relações de dominação após as guerras.
+
+
+
+
+                           TR A C T O N • PROTOCOLO MONOGRÁFICO | 5
+Investigar: escravidão, servidão, trabalho compulsório, obrigações camponesas, direitos
+comunitários, tribunais, herança, direito costumeiro, situação de populações subjugadas e conflitos
+jurídicos.
+
+Questão: como passar de escravização em períodos de conquista a um reino que, na primeira vida
+de Argon, não reconhece juridicamente a escravidão, embora mantenha tráfico clandestino?
+Entregável: esboço de transformação dos regimes de trabalho e condição jurídica.
+
+
+
+PARTE III — MÉTODO COMPARATIVO
+
+7. Protocolo de paralelos históricos
+Cada caso será analisado por dez campos:
+
+ 1. Contexto: onde e quando ocorreu.
+ 2. Atores: grupos e instituições participantes.
+ 3. Condições materiais: recursos, tecnologias e limites.
+ 4. Incentivos: ganhos e objetivos perseguidos.
+ 5. Mecanismo: como a transformação ocorreu.
+ 6. Resultado: estruturas produzidas ou destruídas.
+ 7. Controvérsias: dados e interpretações debatidos.
+ 8. Transferibilidade: elementos adaptáveis a Tracton.
+ 9. Limites: elementos que não devem ser transferidos.
+10. Consequência ficcional: hipótese que a comparação permite testar.
+
+Não reproduzir integralmente nenhuma sociedade histórica. Distinguir os mecanismos sociais das
+formas culturais específicas.
+
+
+8. Hierarquia de evidências
+
+  • Nível A: estudos especializados, artigos revisados por pares, monografias, edições críticas e
+    fontes primárias contextualizadas.
+  • Nível B: sínteses de historiadores reconhecidos, capítulos acadêmicos e enciclopédias
+    especializadas.
+  • Nível C: materiais didáticos e divulgação histórica qualificada.
+  • Nível D: ensaios populares, vídeos, fóruns e materiais sem aparato crítico.
+
+Fontes C e D podem orientar novas buscas, mas não devem fundamentar sozinhas afirmações
+centrais. Fontes primárias devem ser lidas criticamente: conquistadores podem exagerar vitórias,
+mortos ou justificativas.
+
+
+
+
+                            TR A C T O N • PROTOCOLO MONOGRÁFICO | 6
+9. Ficha de leitura obrigatória
+Para cada referência, registrar:
+
+  • Referência bibliográfica: autor, título, ano, editora/periódico, páginas, identificador ou URL.
+  • Pergunta de pesquisa: que problema do projeto a fonte responde?
+  • Argumento: interpretação central do autor.
+  • Evidências: documentos, arqueologia, crônicas, registros ou comparação.
+  • Mecanismos: relações causais identificadas.
+  • Limitações: controvérsias, anacronismos e lacunas.
+  • Aplicação a Tracton: hipótese ficcional derivada e seu marcador.
+  • Decisão: utilizar, aprofundar, rejeitar ou manter aberta.
+
+
+10. Matriz de causalidade
+
+ Campo                                                Pergunta obrigatória
+
+ Situação anterior                                    Que organização existia?
+
+ Pressão material                                     Que problema tornou a mudança necessária ou
+                                                      vantajosa?
+
+ Atores                                               Quem podia produzir a mudança?
+
+ Incentivos                                           O que cada grupo buscava ganhar ou preservar?
+
+ Resistências                                         Quem perderia poder ou recursos?
+
+ Mecanismo                                            Como a mudança aconteceu?
+
+ Resultado imediato                                   O que efetivamente mudou?
+
+ Resultado duradouro                                  Que estruturas e novos problemas surgiram?
+
+ Alternativas                                         O que poderia ter acontecido de outra forma?
+
+ Status                                               Cânone, hipótese forte ou possibilidade?
+
+
+Nenhum grande evento deve ser justificado apenas por ser necessário ao enredo.
+
+
+
+
+                            TR A C T O N • PROTOCOLO MONOGRÁFICO | 7
+PARTE IV — ESTRUTURA DA MONOGRAFIA
+
+11. Sumário analítico proposto
+
+Capítulo 1 — A região antes de Tracton
+Geografia, distribuição populacional, culturas, idiomas, organizações locais e inexistência de
+identidade política abrangente. Objetivo: demonstrar que a região não formava naturalmente um
+reino.
+
+Capítulo 2 — As Décadas de Sangue
+Companhias guerreiras, pilhagem, escravização, expulsões, campanhas e apropriação. Objetivo:
+explicar a guerra como atividade econômica recorrente.
+
+Capítulo 3 — Do saque à dominação territorial
+Ocupação permanente, tributos, proteção coercitiva, guarnições e intermediários. Objetivo:
+estabelecer a origem dos senhorios guerreiros.
+
+Capítulo 4 — O nascimento das casas aristocráticas
+Herança territorial, linhagens militares e arcanas, casamentos e privilégios. Objetivo: explicar a
+transmissão familiar do poder.
+
+Capítulo 5 — As Guerras das Companhias Territoriais
+Confrontos entre senhorios, alianças, rivalidades e limites administrativos. Objetivo: explicar por que
+surgem coalizões maiores.
+
+Capítulo 6 — A hegemonia e os pactos fundadores
+Ascensão de uma coalizão dominante, limites de força e negociação com rivais. Objetivo: explicar a
+autoridade proto-monárquica sem centralização plena.
+
+Capítulo 7 — A Igreja e a legitimação da nova ordem
+Redes religiosas preexistentes, mediação, reconhecimento político e contrapartidas institucionais.
+Objetivo: explicar a articulação entre Igreja, Coroa e senhores.
+
+Capítulo 8 — A consolidação do reino feudal
+Vassalagem, tributos, direitos costumeiros, jurisdições e poderes locais. Objetivo: construir a
+organização política recognoscível de Tracton.
+
+Capítulo 9 — Aristocracia arcana e controle da magia
+Trajetória das linhagens conjuradoras e antecedentes da regulação mágica. Objetivo: explicar
+instituições da primeira vida de Argon sem anacronismos.
+
+
+
+
+                            TR A C T O N • PROTOCOLO MONOGRÁFICO | 8
+Capítulo 10 — Tracton às vésperas da primeira vida de Argon
+Síntese territorial, política, religiosa, econômica, social e arcana. Objetivo: oferecer retrato coerente
+do reino onde a narrativa ocorrerá.
+
+
+
+PARTE V — CONTROLES DE QUALIDADE
+
+12. Erros a evitar
+
+  • Teleologia: a formação do reino não era inevitável.
+  • Evolução moral automática: governar não torna conquistadores humanitários.
+  • Ausência total de cooperação: alianças e trocas continuam possíveis nas Décadas de Sangue;
+    falta confiança institucional abrangente.
+  • Uniformidade étnica: conquista não apaga identidades locais.
+  • Monarquia moderna precoce: não atribuir capacidade administrativa anacrônica à primeira
+    Coroa.
+  • Igreja onipotente: capilaridade espiritual não equivale a poder político e militar uniforme.
+  • Determinismo arcano hereditário: separar talento, formação, genealogia e privilégio.
+  • Instituições sem custos: tropas, mensageiros, cobradores, tribunais e academias necessitam
+    de recursos.
+  • Argon como causa retroativa: o reino deve possuir história independente do personagem.
+  • Precisão inventada: não fixar cifras, datas ou preços apenas para parecer rigoroso.
+
+
+
+PARTE VI — EXECUÇÃO
+
+13. Etapas do trabalho
+
+ 1. Inventário de fontes do projeto: ler cânone, dossiês, conto e perguntas abertas; separar
+    decisões de hipóteses. Entregável: inventário de fatos e contradições.
+ 2. Pesquisa de mecanismos: priorizar guerra mercenária, territorialização, sucessão e coalizões.
+    Entregável: fichas e matriz comparativa.
+ 3. Modelos concorrentes: formular pelo menos duas alternativas para cada virada institucional.
+    Entregável: quadro de hipóteses e consequências.
+ 4. História causal: construir cronologia provisória com intervalos aproximados. Entregável: linha
+    temporal e matriz de eventos.
+ 5. Redação: escrever capítulos explicativos antes de narrativas épicas de batalhas. Entregável:
+    versão preliminar da monografia.
+ 6. Revisão crítica: testar coerência econômica, institucional, arcana e narrativa. Entregável:
+    relatório de fragilidades.
+
+
+
+
+                             TR A C T O N • PROTOCOLO MONOGRÁFICO | 9
+ 7. Aprovação e integração: atualizar os documentos canônicos apenas após decisão autoral.
+    Entregável: versão consolidada e registro de decisões.
+
+
+
+PARTE VII — CRITÉRIOS DE CONCLUSÃO
+
+14. Lista de verificação
+
+  •
+      Explicar a fragmentação política inicial.
+  •
+      Explicar a profissionalização da guerra.
+  •
+      Descrever o financiamento das companhias.
+  •
+      Demonstrar a transição ao controle territorial.
+  •
+      Identificar a origem das atividades administrativas.
+  •
+      Explicar a transmissão familiar do poder.
+  •
+      Distinguir linhagens militares e arcanas.
+  •
+      Explicar a formação das coalizões.
+  •
+      Justificar a hegemonia sem domínio absoluto.
+  •
+      Identificar origens de vassalagem e direitos regionais.
+  •
+      Demonstrar a contribuição concreta da Igreja.
+  •
+      Explicar contrapartidas obtidas pela Igreja.
+  •
+      Descrever as transformações das populações dominadas.
+  •
+      Conectar escravidão antiga e condição jurídica posterior.
+  •
+      Explicar a autonomia dos senhores sob a Coroa.
+  •
+      Distinguir instituições da primeira vida das posteriores.
+  •
+      Registrar claramente as questões remanescentes.
+
+
+
+
+                              TR A C T O N • PROTOCOLO MONOGRÁFICO | 10
+Princípio orientador final
+A história de Tracton não deverá ser uma sequência de conquistas seguida arbitrariamente pela
+criação de um reino. Deve demonstrar como a guerra transformou organizações militares; como o
+domínio territorial exigiu administração; como a continuidade favoreceu hereditariedade; como as
+rivalidades produziram coalizões; e como força, pactos e religião tornaram possível uma monarquia
+fragmentada.
+
+A formação do reino não representa o desaparecimento da violência, mas sua reorganização
+em instituições duradouras.
+
+Fim do protocolo.
+
+
+
+
+                          TR A C T O N • PROTOCOLO MONOGRÁFICO | 11
+
