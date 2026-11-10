@@ -11,11 +11,11 @@ atualizado: 2026-11-09
 
 Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §16 e §19-E: o primeiro conto canônico de Argon é no **Tier 1** (CANONE #21). Priorizar barões, senhores locais, oficiais, soldados, mercenários, sacerdotes regionais, comerciantes, artesãos, alquimistas, criminosos, conjuradores menores e gente comum. As instituições centrais aparecem por **leis, impostos, privilégios, fiscalização, documentos e agentes locais**.
 
-> ⚙️ 5e: no D&D 5e, "Tier 1" costuma designar os **níveis 1 a 4** ("heróis locais"), em que as ameaças são a fazendas, aldeias e bairros (`[M]`, conferir no SRD). Isso bate com o adendo e responde em parte à pergunta #18.
+> ⚙️ 5e: no D&D 5e, "Tier 1" costuma designar os **níveis 1 a 4** ("heróis locais"), em que as ameaças são a fazendas, aldeias e bairros (`[M]`, conferir no SRD). Isso bate com o adendo e com a pergunta #18. Pelo mesmo critério (`[M]`), o **Tier 2** são os níveis 5 a 10 ("heróis do reino"). 💡 Combina com o conto: Argon chega ao 3º círculo (≈ nível 5) aos 56 anos e vira lenda regional, e Caldris e Julian (4ª Câmara) estão nessa faixa. **Este mapa cobre só o Tier 1.** O Tier 2 está no [mapa regional](06-relacoes-regionais-tier2.md). O primeiro conto vai só até o Tier 2 (CANONE #31).
 
 **Este é um mapa de tipos de relação, não de personagens.** Não crio nomes. A ideia é ter à mão quem existe numa localidade de Tracton e como essas pessoas se prendem umas às outras, antes de qualquer trama (CANONE #3: a narrativa nasce das causas do mundo).
 
-> ❓ **Época:** o adendo descreve Tracton para o primeiro conto canônico, que supus ser a **2ª vida de Argon, 300 anos depois** (CANONE #10). O mapa abaixo serve às duas épocas; o que muda depois de Argon está na seção 4. (Pergunta #32.)
+> 📜 **Época (corrigido em 2026-11-09, CANONE #29):** o **primeiro conto** é a história de origem de Argon, na **primeira vida**, ~300 anos antes da história principal. O Tier 1 do adendo (CANONE #21) se refere ao início dele; pelo CANONE #30 a primeira vida **começa no Tier 1 e termina no Tier 2**. Por isso este mapa descreve Tracton **no tempo do conto**: Coroa que não impõe sua vontade em todo lugar, fronteira autônoma, monopólio arcano frouxo. Na versão anterior deste arquivo eu tinha lido o contrário (segunda vida); está corrigido. A seção 4 diz o que **pode** mudar no **segundo conto** (reino maior e mais estruturado, CANONE #25), que **também começa no Tier 1** e vai até um ponto indefinido (CANONE #30).
 
 ---
 
@@ -36,7 +36,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §16 e §19-E
 | **Comerciante anão** | pólvora, metal | licença ou contrabando | ❓ (opaco) | Coroa, mercadores, gangues (CANONE #18) |
 | **Boticário ou alquimista de bairro** | drogas, remédios, insumos | clientes, fornecedores de ervas e minérios | Inquisição, Guilda | Academia (vende insumos), gangues (vende drogas), doentes |
 | **Curandeira ou benzedeira** | cura, partos, confiança | vizinhança | pároco, acusação de heresia | plebe, às vezes o próprio pároco |
-| **Pároco do bairro** | sacramentos, registro de batismo e óbito, sermão | bispo, dízimo | heresia, abandono | todos; **sabe quem nasceu e quem morreu** |
+| **Pároco do bairro** | sacramentos, registro de batismo e óbito, sermão; **sem força armada** | bispo, dízimo, boa vontade do bairro | heresia, abandono, o senhor ou a guarda | todos; **sabe quem nasceu e quem morreu**, mas **informa, não executa** (CANONE #26) |
 | **Diplomado menor** | um ou dois círculos, contratos | Círculo, patronos | perder registro, irregulares concorrentes | mercadores (proteção de carga), nobres menores |
 | **Conjurador irregular** | pouco poder, muito segredo | clientes, silêncio | denúncia | gangues (proteção), boticários (insumos) |
 | **Dono de cortiço ou bordel** | moradia e trabalho precário | gangue, guarda | fiscalização | traficantes de pessoas (📜 vende meninos aos baleeiros) |
@@ -50,7 +50,7 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §16 e §19-E
 | **Comandante de armas** | tropa | soldo do senhor | motim, derrota | soldados, mercenários |
 | **Mercenários** | força por contrato | soldo, saque | não receber | quem pagar; pólvora |
 | **Bailio, mordomo ou escrivão** | contas, registros, tributo | senhor | auditoria, rivais na corte do senhor | camponeses, mercadores |
-| **Pároco de aldeia** | sacramentos, registros, consciência | bispo, dízimo | heresia, senhor | **canal da Igreja para a diocese**; sabe mais que o senhor |
+| **Pároco de aldeia** | sacramentos, registros, influência espiritual e comunitária; **sem força armada, sem autonomia econômica relevante e sem poder de impor decisões ao senhor** (CANONE #26) | bispo, dízimo, o senhor (que pode nomear ou tolerar) | heresia, o senhor | **canal de informação para a diocese**; o que a diocese faz com isso depende da sede |
 | **Ferreiro, mineiro, moleiro** | ofícios essenciais | senhor (monopólio de moinho? ❓) | acidentes, impostos | aldeia, mercadores |
 | **Camponeses** | colheita, gado, costumes | senhor, clima | guerra, fome, recrutamento | pároco, curandeira, **cultos locais antigos** (💡) |
 | **Mascate ou comerciante itinerante** | notícias, mercadorias | estradas | bandidos, pedágios | todos; **traz o mundo de fora** |
@@ -79,12 +79,15 @@ graph LR
 
 > 💡 **Três linhas que o Tier 1 usa sem precisar de alta política:**
 > 1. **Papel × palavra:** quem tem registro (diplomado, mercador, pároco com o livro de batismos) e quem vive de reputação (gangue, curandeira, irregular). Documentos são poder local.
-> 2. **Quem soube primeiro:** o pároco e o boticário sabem coisas que o senhor e a Coroa não sabem. Informação circula por dívidas e favores.
+> 2. **Quem soube primeiro × quem pode agir:** o pároco e o boticário sabem coisas que o senhor e a Coroa não sabem, mas **saber não é poder**. A informação circula por dívidas e favores, e quem tem força para agir (senhor, bispado, gangue) nem sempre sabe nem quer saber.
 > 3. **Insumos e drogas:** a mesma cadeia que abastece a Academia abastece o vício (lótus branco e azul). Pelo CANONE #20, Argon pode entrar nessa cadeia no início, em escala local.
 
-## 4. O que muda 300 anos depois (💡, pendente da pergunta #32)
+## 4. O que pode mudar no segundo conto, 300 anos depois (💡; reino maior e mais estruturado, CANONE #25)
+
+> 📜 CANONE #30: o segundo conto **começa no Tier 1**, então esta seção é o mapa do **início** dele. Até onde vai depois (Tier 2 ou mais) é indefinido.
+- **Mais Estado no local:** um reino mais estruturado põe mais agentes régios, registros e fisco na aldeia e no bairro. O agente régio deixa de ser raro.
 - A **Ordem do Selo de Chumbo** tem presença local: informantes, "cães" (📜 dossiê). O irregular fica mais caro e mais lucrativo.
-- O **pároco** pode virar o elo com o **Sacerdócio do Glifo**: o livro de batismos vira lista de suspeitos?
+- O **pároco** pode virar o elo com o **Sacerdócio do Glifo**: o livro de batismos vira lista de suspeitos? (Mesmo assim, a execução fica com quem tem força, não com a paróquia.)
 - As **14 famílias** da Semente estão espalhadas pelo vale e além, sem saber. Elas são camponeses comuns, com vizinhos, dívidas e festas, não "portadores".
 - A pólvora e as armas anãs podem ter mudado (mais comuns? mais caras?). ❓
 - 📜 O dossiê Argon & Malakor fala em **Cinzália** como cidade da 2ª vida e na **caravana da Salmoura**. São hipóteses (CANONE #6; perguntas #14 e #16).

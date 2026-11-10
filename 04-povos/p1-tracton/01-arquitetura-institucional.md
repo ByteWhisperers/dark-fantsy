@@ -26,7 +26,9 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §17: para ca
 | **1b. Corporação com carta régia** | O Círculo se autogoverna (elege, examina, diploma), e a Coroa lhe concede o **monopólio da certificação** em troca de serviço e lealdade. | Tensão produtiva: o Círculo tem interesse corporativo próprio (renda, prestígio, fechamento), a Coroa quer obediência. A carta pode ser revista, revogada ou disputada. Explica por que o Círculo **aluga** magos à nobreza. |
 | **1c. Corpo híbrido com a Igreja** | Magísteres têm ordenação ou juramento religioso; a heresia arcana é julgada dentro dele. | Funde as duas jurisdições e apaga a tensão Coroa × Igreja sobre a magia, que o adendo pede para preservar (CANONE #15). |
 
-> 💡 **Recomendo 1b.** Mantém três centros com interesses próprios (Coroa, Círculo, Igreja), que é o que o adendo pede, e cria a pergunta histórica certa: **quando e por que a Coroa concedeu esse monopólio**, e o que recebeu em troca (ver [esboço histórico](03-esboco-historico.md)).
+> 📜 **Decisão do Hermes (CANONE #22): 1b, corporação com carta régia.**
+
+> 💡 Motivo da recomendação, mantido para registro: Mantém três centros com interesses próprios (Coroa, Círculo, Igreja), que é o que o adendo pede, e cria a pergunta histórica certa: **quando e por que a Coroa concedeu esse monopólio**, e o que recebeu em troca (ver [esboço histórico](03-esboco-historico.md)).
 
 ### 1.2 Câmaras e Academias: o que é cada uma?
 📜 Conto: "Quatro Câmaras" com grau ("Magíster da Segunda Câmara", l. 153; "Quarta Câmara", Caldris e Julian) e "círculo de contenção da **Terceira Câmara**" (l. 222); "quatro Academias Reais" com arquivos; aprendizes nobres nas "Academias da Cidade Alta". Caldris ensina "Teoria da Ressonância" na Quarta Câmara. Pergunta #8.
@@ -37,7 +39,9 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §17: para ca
 | **2b. Câmaras = funções** | Cada Câmara é um ramo: ensino, guerra, registro e auditoria, pesquisa. | Escolas regionais. | Mais burocrático; a Câmara de registro vira o centro do controle. Mas "círculo de contenção da Terceira Câmara" fica estranho. |
 | **2c. Câmaras = órgãos de governo do Círculo** | Assembleias por nível que votam e julgam. | Escolas. | Cria política interna rica, mas pede detalhe que o Tier 1 não usa. |
 
-> 💡 **Recomendo 2a**, com um detalhe: as **quatro Academias Reais** ficam em **cidades diferentes** (a capital e três grandes cidades, ao menos uma portuária). Assim, o registro existe onde há Academia, e o resto do reino depende de visitas, relatórios e denúncias. Isso dá geografia ao monopólio.
+> 📜 **Decisão do Hermes (CANONE #23): 2a, Câmaras = graus.**
+
+> 💡 Proposta ainda aberta: as **quatro Academias Reais** ficam em **cidades diferentes** (a capital e três grandes cidades, ao menos uma portuária). Assim, o registro existe onde há Academia, e o resto do reino depende de visitas, relatórios e denúncias. Isso dá geografia ao monopólio.
 
 > ❓ Se as Câmaras são graus, o que está **acima** da Quarta? O Conselho? Os magos de 5º–6º círculo que o conto sugere na Alta Capital (pergunta #8)?
 
@@ -55,13 +59,13 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §17: para ca
 
 ## 2. Instituições: reivindica × executa
 
-Leitura com as recomendações 1b, 2a e 3b. Se o Hermes escolher outra, a tabela muda.
+Leitura com 1b e 2a (decididas) e 3b (ainda aberta, pergunta #28).
 
 ### Coroa
 | Campo | Proposta |
 |---|---|
-| Origem | 💡 Uma casa senhorial do núcleo que acumulou senhorios por conquista, casamento e herança (adendo §2). |
-| Legitimidade | Sucessão dinástica, sagração pela Igreja (💡), vitória militar, costume. |
+| Origem | 📜 Não é uma monarquia administrativa já consolidada (CANONE #27). A Coroa **emerge** das coalizões de guerreiros, mercenários, conjuradores e chefes militares que dominaram a região; **como a Coroa se forma é questão aberta** (um chefe que se destaca? uma casa que se impõe às outras?). |
+| Legitimidade | 💡 Sucessão dinástica, vitória militar, costume e, **depois**, a linguagem religiosa e jurídica que a Igreja lhe oferece (CANONE #27). A legitimação religiosa não é a origem do poder. |
 | **Reivindica** | Soberania sobre todo o reino; justiça alta (crimes de "risco público"); monopólio da certificação arcana (delegado ao Círculo); impostos; guerra e paz; interdito real. |
 | **Executa** | Plenamente na capital, nos portos com Academia e ao longo dos rios. Na fronteira, por meio de barões, que obedecem em umas matérias e não em outras (adendo §2). Caçadores e Guarda de Prata chegam caro e devagar. |
 | Financiamento | Domínio régio, pedágios e alfândegas dos portos, tributos negociados com senhores, 💡 taxas de registro arcano e de licença de pólvora. |
@@ -84,17 +88,29 @@ Leitura com as recomendações 1b, 2a e 3b. Se o Hermes escolher outra, a tabela
 |---|---|
 | Legitimidade | A divindade da ordem e da força legítima (CANONE #15); antiguidade; rede paroquial. |
 | **Reivindica** | Jurisdição sobre heresia, sacramentos, casamento e herança (💡, como no medievo), moral pública; universalidade além das fronteiras do reino (CANONE #15). |
-| **Executa** | Onde há paróquia, diocese e tribunal eclesiástico. A rede paroquial chega **mais longe** que a Coroa: o pároco está em toda aldeia. 💡 Essa é a vantagem da Igreja sobre a Coroa na fronteira. |
+| **Executa** | **Varia por nível** (ver 2.1 abaixo). A presença religiosa é quase universal (CANONE #26), mas a capacidade de impor decisões **não** acompanha a presença: a paróquia não tem força armada; só determinados bispados e grandes sedes têm patrimônio, jurisdição e poder político ou militar. |
 | Braços | Clero secular (bispos, padres); **Inquisição** (perícia e julgamento de heresia; 📜 pericia relatórios, l. 1414); **templários** (força armada, 📜 queimam a mina da Medula); anatomistas (📜 Orel). |
 | Financiamento | 💡 Dízimos, terras, doações, taxas sacramentais. |
 | Relação com a magia | 💡 Uma divindade da **força legítima** tem motivo próprio para apoiar o controle: magia irregular é força sem legitimidade (ver dossiê, bloco F). Mas a Igreja também quer **definir** o legítimo, o que a põe em concorrência com o Círculo e a Coroa. |
 | Conflitos internos | 💡 Bispos ligados a casas nobres × Inquisição centralizada; clero paroquial pobre × alto clero; correntes que veem a magia como dom da ordem divina × como usurpação. |
 | Ambições | Universalizante e expansionista, com objetivos que não coincidem com os da Coroa (CANONE #15). |
 
+#### 2.1 Igreja: presença × poder (CANONE #26)
+Referência: capilaridade da Igreja medieval, sem copiá-la. Níveis **ilustrativos**; a hierarquia real é pergunta aberta (#36).
+
+| Nível (💡 ilustrativo) | Presença | O que pode fazer | O que **não** pode | Varia por |
+|---|---|---|---|---|
+| **Paróquia / capela** | em quase toda aldeia e bairro | influência espiritual e comunitária; sacramentos; registro de batismos e óbitos; mediar; informar a diocese | impor decisão ao senhor; prender; usar força; sustentar-se sem o senhor ou a comunidade | pobreza da paróquia; relação com o senhor (nomeia o pároco? ❓) |
+| **Estruturas intermediárias** (ordens, abadias, arquidiaconatos) | espaçada | ❓ aberta | ❓ | ❓ |
+| **Bispado e grandes sedes** | cidades principais | **patrimônio**, influência diplomática, **jurisdição**, poder político e, em alguns casos, **militar** (tropas próprias ou aliadas) | ❓ | riqueza da sede; casas nobres que a controlam; região (fronteira × núcleo) |
+| **Inquisição e templários** (📜 conto) | onde há mandato | perícia, julgamento de heresia, força armada | agir sem apoio de uma sede ou da Coroa (💡) | mandato; aliança local |
+
+> 💡 **Consequência para os casos de teste:** o pároco **sabe** e pode **avisar**, mas quem **age** é a sede ou o senhor. O que a Igreja faz com a informação depende de quanto o bispo local tem de poder e de interesse. Um pároco que denuncia um conjurador ao senhor errado pode não ser ouvido, ou ser castigado.
+
 ### Círculo de Estudos Arcanos (com Câmaras e Academias)
 | Campo | Proposta |
 |---|---|
-| Origem | 💡 Corporação de conjuradores que recebeu carta régia depois de guerras em que magia decidiu batalhas (CANONE #17; ver [esboço](03-esboco-historico.md)). |
+| Origem | ❓ **Aberta** (pergunta #35). 💡 Hipótese promissora, não cânone (CANONE #27): as antigas coalizões de conjuradores da conquista se transformam em instituição reguladora; a carta régia (CANONE #22) seria o ato que consolida essa transformação. Ver [esboço](03-esboco-historico.md). |
 | Legitimidade | Saber, exame, genealogia registrada, carta régia. |
 | **Reivindica** | Monopólio de ensinar, examinar, diplomar e **auditar** conjuradores acima do 1º círculo em todo o reino; perícia sobre o que é ou não magia. |
 | **Executa** | Onde há Academia. Fora delas, depende de **denúncia** e de escolta régia. 📜 Os arquivos levaram meses para confirmar que nenhum diplomado esteve perto de Vallenar (l. 1414). |
@@ -127,14 +143,14 @@ Para cada caso: **quem investiga, prende, julga, concede exceção, executa e po
 | | Capital | Porto | Fronteira (ex.: Vallenar) |
 |---|---|---|---|
 | Quem fica sabendo | Guarda urbana, testemunhas | Guarda urbana, gangues, informantes | Aldeia, pároco, senhor |
-| Investiga | Caçadores da Coroa + perícia do Círculo | Caçadores; perícia do Círculo se houver Academia | **Senhor local**; o pároco pode avisar a diocese |
+| Investiga | Caçadores da Coroa + perícia do Círculo | Caçadores; perícia do Círculo se houver Academia | **Senhor local**; o pároco **pode** avisar a diocese, sem garantia de que algo aconteça (CANONE #26) |
 | Prende | Caçadores | Caçadores ou guarda; gangue pode esconder ou entregar | Homens do senhor |
 | Julga | Disputa: tribunal régio (crime de risco público) **×** tribunal eclesiástico (heresia) | Igual, com mais suborno | O **senhor**, como homicídio comum, **se quiser** |
 | Exceção | Quase nenhuma: plebeu, sem linhagem a provar | Quase nenhuma | O senhor pode **recrutá-lo** em vez de julgá-lo |
 | Executa | Coroa (forca ou fogueira, conforme quem ganhou a jurisdição) | Coroa | Senhor; ou ninguém |
 | Contesta | Praticamente ninguém; um patrono raro | Um patrono do crime, se o camponês for útil | Um senhor rival pode **denunciar** o senhor que o protegeu |
 
-> 💡 **O que o caso mostra:** o mesmo crime é **execução certa** na capital e **oportunidade de recrutamento** na fronteira. A Igreja é a instituição com mais chance de saber em qualquer lugar, porque o pároco está na aldeia. Para o camponês, o perigo não é "a lei": é **quem soube primeiro**.
+> 💡 **O que o caso mostra:** o mesmo crime é **execução certa** na capital e **oportunidade de recrutamento** na fronteira. Na aldeia, o **pároco provavelmente sabe**, mas saber não é poder: ele só pode informar a diocese, e o que acontece depois depende de o bispado local ter interesse e força, e de o senhor não ter interesse oposto. Para o camponês, o perigo não é "a lei": é **quem soube primeiro e quem tem poder de agir**.
 
 ### Caso B · Barão contrata conjurador independente para sua força militar
 📜 É o caso de Henrik e Argon.

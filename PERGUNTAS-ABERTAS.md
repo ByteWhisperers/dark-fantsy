@@ -9,7 +9,7 @@
 | 5 | O mundo de "Darck fantasy" acontece ~300 anos depois do conto (quando a Semente de Argon desperta)? Ou o conto é prólogo e o mundo principal é outro? | lore | 2026-11-07 | Respondida: 300 anos após a morte de Argon (CANONE #10). Falta a duração exata (pergunta #14). |
 | 6 | O que vem depois: Consórcio dos Mantos, Sacerdócio do Glifo e Ordem do Selo de Chumbo (nascem após a morte de Argon). Você já tem planos para elas no pré-worldbuild? | facções | 2026-11-07 | |
 | 7 | A cidade portuária e o reino não têm nome no conto. Eles já têm nome no pré-worldbuild? | geografia | 2026-11-07 | Parcial: o reino é **Tracton** (CANONE #14). A cidade portuária segue sem nome. |
-| 8 | Hierarquia das Quatro Câmaras do Círculo de Estudos Arcanos: o que cada uma representa em círculos de magia? | magia | 2026-11-07 | |
+| 8 | Hierarquia das Quatro Câmaras do Círculo de Estudos Arcanos: o que cada uma representa em círculos de magia? | magia | 2026-11-07 | Parcial: Câmaras = **graus** (CANONE #23). Falta a correspondência exata com os círculos e o que há acima da Quarta (#29). |
 | 9 | Elfos vivem ~mil anos no conto (no SRD 5.1, até ~750). Mantemos o conto? | sistema | 2026-11-07 | Respondida: elfos vivem **~1000 anos**, como no conto (CANONE #19). Registrar em `08-sistema/adaptacoes.md`. |
 | 10 | Quais as regras para a ressurreição, adivinhação e outros efeitos de morte neste mundo? O conto mostra que a alma pode ser cobrada por Dis, ancorada ou fragmentada. | sistema | 2026-11-07 | |
 | 11 | O título oficial: *Crônicas de Argon: Anatomia do Subsolo* ou *A Origem do Mago da Sarjeta*? | conto | 2026-11-07 | |
@@ -19,7 +19,7 @@
 | 15 | Malakor como **corvo aberrante** é definitivo? No conto ele fica preso à Semente; o dossiê o põe numa forma física. Como saiu da Semente e como passou a acompanhar Argon? | lore | 2026-11-07 | |
 | 16 | O dossiê menciona a **caravana da Salmoura** que levou os pais do menino hospedeiro. O que é? Quem eram esses pais? | lore | 2026-11-07 | |
 | 17 | Quem é o **menino de 11 anos** hospedeiro? Foi "tomado" (a mente dele some) ou coexiste? O dossiê diz que Argon "toma o corpo" e guarda resíduos de memória. | lore | 2026-11-07 | |
-| 18 | O que é o **Tier 1**? (citado pelo redator: "no Tier 1 quase não haverá sábios capazes de resistir aos dois"). Fase da narrativa, faixa de poder ou região? | narrativa | 2026-11-07 | Parcial: o primeiro conto canônico de Argon é no **Tier 1**, escala local (CANONE #21). Falta a definição formal de Tier. |
+| 18 | O que é o **Tier 1**? (citado pelo redator: "no Tier 1 quase não haverá sábios capazes de resistir aos dois"). Fase da narrativa, faixa de poder ou região? | narrativa | 2026-11-07 | Parcial: o primeiro conto canônico de Argon é no **Tier 1**, escala local (CANONE #21). Falta a definição formal de Tier. Detalhado em CANONE #30: 1ª vida Tier 1→2; 2ª vida começa no Tier 1, fim indefinido. |
 | 19 | Os termos do conto (**Trama**, **mana**, **canais de mana**, **círculos**) descrevem a realidade arcana em si, ou são o vocabulário de *uma* tradição (a acadêmica, a de Argon)? | magia | 2026-11-07 | |
 | 20 | As leis fundamentais da realidade compartilhada têm nome ou formulação dentro do mundo? Alguma tradição as conhece de fato? | magia | 2026-11-07 | |
 | 21 | O *protocolo dos povos* (2026-11-08) substitui a numeração de etapas da diretriz do continente (lá: II tradições ficcionais, III entidades, IV povos; no protocolo: II sociedades-piloto, III história, IV ontologias/entidades/tecnologias)? Assumido que sim, por ser o mais novo. | método | 2026-11-08 | |
@@ -33,4 +33,13 @@
 | 29 | O que está **acima da Quarta Câmara**? (liga à #8) | magia / facções | 2026-11-09 | |
 | 30 | **Guarda de Prata** e **caçadores da Coroa** são um corpo ou dois? A quem cada um responde? | facções | 2026-11-09 | |
 | 31 | **Vallenar e Oakhaven** são territórios de formação tractoniana, incorporados ou de fidelidade instável? | geografia / política | 2026-11-09 | |
-| 32 | O **primeiro conto canônico** (Tier 1) se passa na 2ª vida de Argon, 300 anos depois? Nessa época Tracton ainda existe com o mesmo nome, casa e extensão? | narrativa / cronologia | 2026-11-09 | |
+| 32 | O **Tier 1** do primeiro conto vale também para o **segundo conto** (segunda vida)? Qual a escala do segundo conto? | narrativa / cronologia | 2026-11-09 | Respondida: a 1ª vida vai do Tier 1 ao Tier 2; a 2ª começa no Tier 1 e termina em ponto indefinido (CANONE #30). Falta saber **quando** a 1ª passa do Tier 1 ao 2 e até onde chega a 2ª. |
+| 33 | A **casa real** de Tracton 300 anos depois é a mesma da época de Argon, ou houve troca de dinastia num reino que continuou o mesmo? | política / cronologia | 2026-11-09 | |
+| 34 | **Custos da pólvora** (fabricação, munição, manutenção, treino, transporte, abastecimento, fornecedores, escala) e comparação concreta com formar um mago. Preços absolutos não definidos (CANONE #28). | economia / sistema | 2026-11-09 | |
+| 35 | **Origem do Círculo:** as coalizões de conjuradores da formação de Tracton viraram o Círculo? Em que sequência, e com que papel da Coroa e da Igreja? (hipótese promissora, não cânone; CANONE #27) | facções / história | 2026-11-09 | |
+| 36 | **Hierarquia da Igreja:** quais níveis (paróquia, bispado, sede), quais têm patrimônio, jurisdição ou força armada, e como variam por região? Não definida (CANONE #26). | religião | 2026-11-09 | |
+| 37 | **Posição do P4 no mapa:** vizinho de Tracton, outro continente, ilhas? (sem mapa ainda) | geografia | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 38 | O **P4** é uma só cidade com império de portos e terras sujeitas, ou uma rede de cidades? | povos | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 39 | Em que ponto do **declínio** está o P4 no primeiro conto e no segundo? | cronologia | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 40 | A escravidão do P4 inclui pessoas **capturadas em Tracton** (tráfico, CANONE #20)? Há pessoas escravizadas com **capacidade arcana**? | povos / política | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |
+| 42 | Pesquisar a **religião do P4** a partir de fontes reais (com a crítica das fontes hostis) ou deixá-la para depois? E rodada de pesquisa nova sobre o mundo púnico antes de avançar (Etapa I não cobre). | método | 2026-11-09 | Em espera: o P4 é só uma ideia (Hermes, 2026-11-09). |

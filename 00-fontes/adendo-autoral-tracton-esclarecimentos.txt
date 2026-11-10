@@ -1,0 +1,73 @@
+Adendo autoral: esclarecimentos sobre Tracton
+
+Este adendo esclarece quatro pontos do desenvolvimento de Tracton. As definições abaixo devem orientar a revisão dos documentos existentes, preservando como questões abertas os mecanismos ainda não especificados.
+
+1. Igreja: presença religiosa e poder político são coisas diferentes
+
+A Igreja dominante de Tracton possui presença religiosa em praticamente todo o território do reino, por meio de igrejas, pequenas paróquias, sacerdotes e estruturas eclesiásticas de maior porte.
+
+A referência institucional é, em parte, a capilaridade histórica da Igreja Católica medieval, sem exigir uma reprodução exata de sua organização.
+
+Entretanto, presença religiosa não significa controle político, jurisdicional ou militar.
+
+Uma pequena paróquia pode exercer influência espiritual e comunitária sem dispor de força armada, autonomia econômica significativa ou capacidade de impor decisões ao senhor territorial. Já determinados bispados e grandes sedes eclesiásticas podem concentrar patrimônio, influência diplomática, jurisdição e poder político ou militar.
+
+Portanto, a Igreja possui uma rede territorial extensa, mas sua capacidade de coerção, negociação e intervenção varia consideravelmente entre regiões e níveis hierárquicos.
+
+Essa diferença deve aparecer na arquitetura institucional, na matriz de diversidade e nos casos de teste. Não presumir que a presença de um pároco garanta automaticamente a execução das decisões da Igreja.
+
+2. Origem de Tracton: aristocracias guerreiras
+
+A origem histórica preferida para Tracton não é a de uma monarquia administrativa já consolidada, nem necessariamente a de uma casa dinástica que começa controlando um porto ou rio.
+
+Tracton se forma a partir de coalizões de guerreiros, mercenários, conjuradores e chefes militares que conquistam e dominam progressivamente uma região.
+
+O controle territorial permite a esses grupos acumular terras, recursos, dependentes, tributos e prestígio. Ao longo de gerações, parte dessas lideranças se estabiliza como aristocracia hereditária.
+
+Desse processo emergem, entre outras formações, linhagens de tradição militar e linhagens de tradição arcana, inicialmente relacionadas pela participação conjunta na conquista e na manutenção do poder.
+
+A Igreja entra posteriormente como importante agente de legitimação e organização da autoridade, oferecendo uma linguagem religiosa e jurídica para poderes que se formaram inicialmente por capacidade militar, alianças e dominação territorial.
+
+A legitimação religiosa não deve ser confundida com a criação original do poder político. Tampouco se deve pressupor que a Igreja se torna subordinada à Coroa: ao participar da legitimação, ela pode adquirir patrimônio, prerrogativas e interesses institucionais próprios.
+
+Esta é a direção histórica aprovada. Permanecem abertas as datas, os protagonistas específicos, a sequência de conquistas, a formação da Coroa, os mecanismos de hereditariedade e a origem precisa do Círculo de Estudos Arcanos.
+
+A transformação de antigas coalizões de conjuradores em instituições arcanas reguladoras é uma hipótese promissora, mas ainda não está definida como cânone.
+
+3. Pólvora: vantagem relativa sem precificação fechada
+
+A pólvora constitui uma alternativa militar economicamente relevante à formação de conjuradores.
+
+A direção autoral é que seja mais barato adquirir determinada capacidade militar por meio de armas de pólvora do que formar um mago, e que essas armas possam oferecer capacidade destrutiva superior à de um guerreiro convencional em determinadas condições.
+
+Entretanto, não estão definidos os preços absolutos nem os custos completos da tecnologia.
+
+Ainda precisam ser desenvolvidos os custos de fabricação, munição, manutenção, treinamento, transporte, abastecimento, disponibilidade de fornecedores e escala de produção.
+
+Também devem ser consideradas suas limitações práticas, especialmente a recarga lenta e a dependência de recursos e conhecimentos técnicos.
+
+Não transformar a vantagem econômica relativa em afirmação de que armas de pólvora são sempre mais eficientes ou superiores à magia. A comparação depende do objetivo militar e das condições concretas.
+
+4. Cronologia narrativa: primeiro e segundo contos
+
+Existem duas etapas narrativas distintas.
+
+Primeiro conto: a história de origem de Argon, ambientada aproximadamente 300 anos antes da história principal, durante sua primeira vida.
+
+Segundo conto: a história principal, iniciada após o despertar de Argon em sua segunda vida, depois do intervalo de aproximadamente 300 anos e dos acontecimentos relacionados ao Príon.
+
+O desenvolvimento de Tracton para a narrativa principal deve considerar a configuração do reino no período posterior a esses três séculos.
+
+A existência de instituições, costumes e relações de poder na primeira vida não autoriza presumir que estejam inalterados na segunda.
+
+A história de Tracton deve, portanto, distinguir sua formação, sua situação durante a primeira vida de Argon e sua configuração no início do segundo conto.
+
+Diretrizes para revisão
+
+Revisar o esboço histórico, a arquitetura institucional, a matriz de diversidade e o mapa local do Tier 1 conforme esses esclarecimentos.
+
+Manter a distinção entre decisão autoral, evidência do conto, hipótese histórica e proposta de desenvolvimento.
+
+Não definir antecipadamente preços da pólvora, datas históricas, hierarquias completas da Igreja ou mecanismos específicos de formação do Círculo que ainda dependam de elaboração.
+
+O objetivo é estabelecer uma trajetória histórica causalmente coerente, não preencher todas as lacunas com decisões prematuras.
