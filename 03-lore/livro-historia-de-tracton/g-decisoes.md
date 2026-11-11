@@ -220,3 +220,16 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 | **O Ordo** e o pacto com **Eadric**; foro da Igreja; voz do direito de declarar a sucessão | Cap. 26 | A nota de margem é de autor desconhecido |
 | **Cânone dos batizados** (40 palavras) | Cap. 26 | Não cobre quem não tem a água |
 | **A Sagração**, ano zero, em Sarmora; presentes e ausentes | Intermédio IV | Odran lê a lista da margem |
+
+## 12. Fatos criados ao escrever o Livro V (2026-11-11): cânone #79 a #85
+
+| Fato | Onde aparece | Observação |
+|---|---|---|
+| Reis: **Osric** (até S+3), **Edric** (até ~S+21), **Osmund** (S+21 a S+79), **Osbert** (S+79 em diante); Osbert tem 80 anos em S+130 e só uma filha viva | Caps. 27, 28, 33 | Casa passa por linha de mulher |
+| Revoltas: **Garth Orwen** (herança sem confirmação), **Harrik** (Ilvane hereditária, salinas isentas), **Corwin de Garrow** (alta justiça com cópia ao rei) | Cap. 27 | |
+| Verbos das cartas mudam de *reconheço* a *concedo*; primogenitura sob Osmund | Cap. 28 | |
+| Fórmula "eleito pelo cabido, assentido pelo rei" (Vessane, ~S+14) | Cap. 29 | Seis semanas de soldados |
+| *Ordenança das Casas* (S+96) e a "criação" | Cap. 30 | Tráfico segue nas margens |
+| Carta do Círculo (~S+70): examinar × auditar; quatro graus | Cap. 31 | |
+| *Gesta da Coroa* (Halbert, ~S+110) e o que cala | Cap. 32 | Tracto: figura sem documento |
+| Retrato de S+130 e disputas em aberto | Cap. 33 | Epílogo e apêndices |
