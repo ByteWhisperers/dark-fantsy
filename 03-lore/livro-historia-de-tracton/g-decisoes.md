@@ -187,3 +187,21 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 | **A tutora**: o neto do Credor herda com dez anos, e a mãe governa oito anos | Cap. 14 | |
 | **Os Harrik** dividem Ilvane entre quatro irmãos, que se matam | Cap. 14 | |
 | **O capelão Odo**, de Brannick, escreve a primeira crônica de Garrow, perto de 100 antes da Sagração | Cap. 14 | |
+
+## 10. Fatos criados ao escrever o Livro III (2026-11-11): cânone #67 a #72
+
+| Fato | Onde aparece | Observação |
+|---|---|---|
+| **Brem**: quatro aldeias na margem sul do Oster, logo abaixo do Arrasto, com duas cartas de Sarmora, uma ao Ruivo e outra ao Credor | Cap. 15 | A casa **Orwen**, do Vale de Baixo, nasce do Ruivo (inferência de Odran) |
+| **Edmar de Garrow**, neto do Credor, primeiro "de Garrow"; seu filho **Hadwin** | Caps. 15 e 19 | |
+| **A guerra de Brem** dura quinze anos, sem batalha; o abade de Brannick traça a linha da divisão | Cap. 15 | |
+| **Três blocos** (nomes de Odran): do **Rio** (Aldren, Garrow, Selvane), da **Foz** (Sarmora, Orwen, Dorvane) e do **Norte** (Harrik, Kelder, Hask); Quéris empresta aos três | Cap. 16 | Perto de 75 antes da Sagração |
+| **Os pequenos de Wethra pedem a Aldren que julgue** (perto de 70); tribunal de cinco: o senhor, dois dos que têm parte, dois dos que não têm, e o clérigo | Cap. 17 | O bloco da Foz faz o mesmo com o conselho de Sarmora |
+| **A assembleia de Aldemar**, bispo de Vessane, perto de 70 antes da Sagração: 32 senhores, o Norte ausente; conteúdo do juramento (quinta a domingo, festas e os 40 dias antes da ceifa; lugares de oração, feiras e clérigos; não tomar lavradores, mulheres e crianças; não queimar celeiros nem tomar arados) | Cap. 18 | Quem convocou a **primeira** assembleia está em disputa com Sarmora |
+| **Onze assembleias em quarenta anos**; as sés e os cabidos crescem | Cap. 18 | |
+| **Menos de vinte conjuradores capazes** na região; casas arcanas: **Selvane** (dois e uma criança), **Dorvane** (três, de Sarmora), **Hask** (um, do Norte) | Cap. 19 | Número de Odran, pelos róis |
+| **O decoro**: não se ataca o conjurador do outro nem as salas de ensino; não se usa a arte contra quem não a tem, salvo para romper muralha | Cap. 19 | Nunca escrito |
+| **Irsane Selvane** e **Maurane Dorvane**, chefes das casas | Cap. 19 | Irsane desfez um cerco dos Orwen perto de 62 antes da Sagração sem matar ninguém |
+| **O Callow**: vale a sul do Vale de Baixo, o melhor da região; o senhor morre sem filhos perto de 56 antes da Sagração; três pretendentes | Cap. 20 | |
+| **A batalha do Callow**, na vindima, perto de 55 antes da Sagração: os conjuradores dos dois lados empregam-se sem reserva; os Dorvane acabam (duas crianças), os Selvane ficam com dois, Irsane sem filhos; Garrow volta com 11 de 70 | Cap. 20 | O vale fica infértil: chão cinzento, lagoa redonda onde estava a maior aldeia, uma pedra onde estava a casa de oração, ossos de gado; ninguém atravessa |
+| **Os três relatos** (crônica de Garrow, anais de Brannick, canção do Callow) discordam sobre quem começou, a hora e os sinais | Intermédio III | Não decidido |

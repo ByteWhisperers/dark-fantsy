@@ -26,6 +26,7 @@ Proposta de formato para um livro **de dentro do mundo**: a história da formaç
 | G | [Decisões](g-decisoes.md) | As pendências decididas por delegação do autor: narrador, línguas, nomes, geografia, mundo e forma |
 | | [Livro I](piloto-livro-1/README.md) | Prólogo, capítulos 1 a 7 e Intermédio I na voz de Odran de Vessane |
 | | [Livro II](piloto-livro-2/README.md) | Capítulos 8 a 14 e Intermédio II |
+| | [Livro III](piloto-livro-3/README.md) | Capítulos 15 a 20 e Intermédio III |
 | | [Mapa esquemático](../../05-geografia/mapa-esquematico-da-formacao.svg) | A região do recorte |
 
 ## A proposta em seis linhas
@@ -35,7 +36,7 @@ Proposta de formato para um livro **de dentro do mundo**: a história da formaç
 3. **Estrutura:** um volume, cinco Livros internos, 33 capítulos (ou 26 na versão enxuta), quatro intermédios documentais.
 4. **Narrador:** o Arquivista, cônego da sé que resistiu ao futuro rei. **Aprovado pelo autor (CANONE #44).** A época em que escreve continua proposta: entre S+430 e S+490.
 5. **Método:** o livro é uma investigação contra a história oficial. O narrador acerta, erra e cala, e um quadro de bastidor registra cada caso.
-6. **Próximo passo:** Livro III, "As Guerras das Companhias".
+6. **Próximo passo:** Livro IV, "A Coroa dos Conquistadores".
 
 ## Dois níveis que não se misturam
 
