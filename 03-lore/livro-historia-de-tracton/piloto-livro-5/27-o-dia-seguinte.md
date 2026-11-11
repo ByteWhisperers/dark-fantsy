@@ -19,13 +19,13 @@ Não as conto todas. Seria enfadonho, e cada uma se parece com a anterior. Conto
 
 Osric viveu três invernos depois de sagrado. Morreu em Sarmora, na cama, aos setenta e oito anos, e consta que pediu ao bispo, no fim, que o enterrassem sem coroa. O bispo enterrou-o com ela. Os cônegos de Sarmora ainda mostram o sepulcro, e a coroa lá não está, que o filho a levou no dia seguinte. É um pormenor mesquinho e verdadeiro: o rei novo não podia dispensar um objeto que tinha custado dois meses a fazer.
 
-Edric tinha quarenta e nove anos. Fora o primeiro comandante do pai, vencera na ponte de Vessane e fora confirmado por trinta e um de trinta e quatro pares. Tinha, portanto, tudo, salvo uma coisa: não tinha a idade de ninguém. Os pares que o confirmaram haviam sido jovens com o pai, ou companheiros dele; agora eram velhos, ou estavam mortos, e os herdeiros deles tinham trinta anos e nenhuma lembrança do Callow.
+Edric tinha quarenta e oito anos. Fora o primeiro comandante do pai, vencera na ponte de Vessane e fora confirmado por trinta e um de trinta e quatro pares. Tinha, portanto, tudo, salvo uma coisa: não tinha a idade de ninguém. Os pares que o confirmaram haviam sido jovens com o pai, ou companheiros dele; agora eram velhos, ou estavam mortos, e os herdeiros deles tinham trinta anos e nenhuma lembrança do Callow.
 
 Digo-o porque é a chave dos anos que se seguem. Os juramentos tinham sido feitos entre homens, e os homens morriam. Cada vez que um par morria, o herdeiro tinha de ser confirmado outra vez, e cada confirmação era uma pequena negociação em que o rei pedia fidelidade e o herdeiro pedia o que o pai tivera, e um pouco mais.
 
 ### A primeira: Orwen
 
-A primeira revolta veio no segundo ano, e foi a mais frouxa. O velho Orwen, que morrera na ponte de Vessane, deixara um filho de vinte e nove anos, casado com uma Harrik e criado em ódio ao fiador. Chamava-se Garth. Quando Edric, já rei, o mandou chamar para a confirmação, Garth não foi, nem mandou dizer por quê.
+A primeira revolta veio no segundo ano, e foi a mais frouxa. O velho Orwen, que morrera na ponte de Vessane, deixara um neto de cinquenta e sete anos, filho de um dos que morreram no Callow, casado com uma Harrik e criado em ódio ao fiador. Era primo de Edric, porque a mãe do rei fora filha do velho. Chamava-se Garth. Quando Edric, já rei, o mandou chamar para a confirmação, Garth não foi, nem mandou dizer por quê.
 
 Edric marchou com seiscentos homens. Não chegou a haver combate. Garth fechou-se na torre de Brem e deixou que lhe cercassem as terras. Ao quarto mês, o rei, que não tinha provisões para um cerco de inverno nem vontade de ter o Vale de Baixo em guerra, mandou-lhe um clérigo com uma proposta.
 

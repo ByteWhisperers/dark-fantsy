@@ -17,7 +17,7 @@ Faço-o como o mercador faz o balanço no fim do ano: quem deve o quê, e a quem
 
 ### Quem deve a quem
 
-O rei Osbert, que governa há cinquenta e um anos, deve à Igreja a sagração do avô, e à Igreja a lista dos seus escrivães. Deve aos pares o serviço armado, que eles lhe dão em quarenta dias por ano, e que não passam de quarenta. Deve a Quéris uma soma que não diz a ninguém. E deve ao Círculo o que o Círculo lhe dá: homens que sabem o que ele não sabe, e que ele não consegue controlar.
+O rei Osbert, que governa há cinquenta e um anos, deve à Igreja a sagração do primeiro rei da sua casa, e à Igreja a lista dos seus escrivães. Deve aos pares o serviço armado, que eles lhe dão em quarenta dias por ano, e que não passam de quarenta. Deve a Quéris uma soma que não diz a ninguém. E deve ao Círculo o que o Círculo lhe dá: homens que sabem o que ele não sabe, e que ele não consegue controlar.
 
 Os pares devem ao rei a fidelidade, nos termos da carta de cada um, que são diferentes. A maioria deve-lhe o serviço, e alguns, como Ilvane, não lhe devem nada. Devem à Igreja os dízimos, as missas, e a promessa de que a Igreja os absolverá. Devem aos seus lavradores uma parte do que levam, e é isso que os lavradores lhes lembram quando deixam de lavrar.
 

@@ -29,7 +29,7 @@ Isto não é desprezo pela aldeia. É a ordem das coisas. Uma paróquia influenc
 
 Desde a Sagração, a Igreja guardou quatro coisas, e cada uma lhe custou.
 
-**O patrimônio.** As terras que lavradores entregaram a Brannick nas Décadas, em troca de proteção, ficaram. Mais: os senhores, ao morrer, deixaram à Igreja, para missas, uma ou duas eiras de cada propriedade. Em três gerações, um quarto das terras do Vale de Baixo era da Igreja. Isto é um fato, e não uma figura: Odo, o capelão de Garrow, contou-as, numa nota sem comentário, e o resultado assustou-me quando o somei.
+**O patrimônio.** As terras que lavradores entregaram a Brannick nas Décadas, em troca de proteção, ficaram. Mais: os senhores, ao morrer, deixaram à Igreja, para missas, uma ou duas eiras de cada propriedade. Em três gerações, um quarto das terras do Vale de Baixo era da Igreja. Isto é um fato, e não uma figura: um capelão de Garrow, continuador de Odo, contou-as, numa nota sem comentário, e o resultado assustou-me quando o somei.
 
 **A imunidade.** As terras da Igreja não pagavam o serviço do rei, e os homens da Igreja não eram julgados pelos tribunais do rei. Foi o que Eadric conseguira, e Sarmora estendeu a todas as sés. A imunidade deu à Igreja o que nenhum senhor tinha: terra que não devia nada a ninguém. E por isso mesmo os senhores, quando precisavam de quem lhes guardasse o tesouro, o guardavam na igreja.
 
@@ -41,7 +41,7 @@ Desde a Sagração, a Igreja guardou quatro coisas, e cada uma lhe custou.
 
 Quando morre um bispo, quem escolhe o seguinte? Em teoria, o cabido da sé. Na prática, o rei tem um interesse evidente em que não seja um inimigo.
 
-O primeiro caso grave foi o de Vessane, quando morreu Eadric, perto do ano catorze. O cabido elegeu um cônego chamado Ansgar. O rei Edric mandou dizer que preferia outro, um primo do bispo de Sarmora. O cabido recusou. O rei mandou soldados aos portões da sé e deixou-os lá durante seis semanas, sem tocar em ninguém, apenas parados. Ao fim, o cabido elegeu o outro.
+O primeiro caso grave foi o de Vessane, quando morreu Eadric, perto do ano oito. O cabido elegeu um cônego chamado Ansgar. O rei Edric mandou dizer que preferia outro, um primo do bispo de Sarmora. O cabido recusou. O rei mandou soldados aos portões da sé e deixou-os lá durante seis semanas, sem tocar em ninguém, apenas parados. Ao fim, o cabido elegeu o outro.
 
 Foi uma derrota. Mas o que ficou escrito é interessante: não ficou a carta de submissão do cabido, que não existiu. Ficou uma nota, em letra do próprio Ansgar, que diz: *Eleito pelos irmãos, assentido pelo rei*. Duas palavras, e o rei não aparece como quem escolhe, mas como quem aceita. Ansgar foi demasiado esperto para ser vencido, e ficou, até morrer, como cônego mais velho, a dizer que a eleição fora livre.
 
