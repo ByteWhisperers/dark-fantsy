@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="Georgia, 'Times New Roman', serif">
+  <title>Mapa esquemático da região em que Tracton se forma</title>
+  <rect width="1000" height="640" fill="#f3ead8"/>
+  <!-- mar -->
+  <path d="M860,0 C835,90 880,170 850,250 C825,320 870,400 845,480 C830,550 865,600 850,640 L1000,640 L1000,0 Z" fill="#c9d8dc"/>
+  <text x="925" y="330" font-size="20" fill="#4d6a73" font-style="italic" text-anchor="middle">Mar</text>
+  <text x="925" y="352" font-size="12" fill="#4d6a73" font-style="italic" text-anchor="middle">(ilhas a leste)</text>
+  <!-- serra -->
+  <g fill="none" stroke="#8a7a62" stroke-width="2" stroke-linejoin="round">
+    <path d="M40,300 l22,-34 l22,34 M90,250 l24,-38 l24,38 M150,200 l24,-38 l24,38 M215,160 l24,-38 l24,38 M285,130 l24,-38 l24,38 M360,110 l24,-38 l24,38 M440,100 l22,-34 l22,34 M515,95 l22,-34 l22,34"/>
+    <path d="M60,380 l22,-34 l22,34 M40,460 l22,-34 l22,34 M95,520 l24,-38 l24,38 M170,570 l22,-34 l22,34"/>
+  </g>
+  <text x="270" y="72" font-size="19" fill="#5e513d" letter-spacing="3">ALTOS DE KELDER</text>
+  <text x="270" y="92" font-size="12" fill="#5e513d" font-style="italic">a serra das parentelas</text>
+  <!-- rio -->
+  <path d="M120,330 C200,310 260,345 330,325 C400,305 430,340 480,330 C560,315 620,350 700,330 C770,315 810,335 852,322" fill="none" stroke="#6f97a3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M330,480 C360,430 400,390 440,338" fill="none" stroke="#6f97a3" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="725" y="306" font-size="15" fill="#3f6672" font-style="italic">rio Oster</text>
+  <!-- estrada antiga -->
+  <path d="M640,60 C650,160 655,250 660,335 C665,430 640,520 600,620" fill="none" stroke="#9b6b4a" stroke-width="2.5" stroke-dasharray="9 6"/>
+  <text x="672" y="215" font-size="12" fill="#7a5237" font-style="italic">estrada do tempo das estradas</text>
+  <!-- regioes -->
+  <text x="250" y="380" font-size="17" fill="#5b6b3a" letter-spacing="2">VALE DE CIMA</text>
+  <text x="250" y="398" font-size="12" fill="#5b6b3a" font-style="italic">Wethra, na fala do vale</text>
+  <text x="500" y="430" font-size="17" fill="#5b6b3a" letter-spacing="2">VALE DE BAIXO</text>
+  <text x="790" y="250" font-size="17" fill="#5b6b3a" letter-spacing="2">A FOZ</text>
+  <text x="330" y="530" font-size="16" fill="#7d4a3c" letter-spacing="2">O CALLOW</text>
+  <text x="330" y="548" font-size="12" fill="#7d4a3c" font-style="italic">o vale que ninguém ganhou</text>
+  <!-- corredeiras -->
+  <g stroke="#3f6672" stroke-width="2"><path d="M468,318 l6,22 M478,316 l6,22 M488,317 l6,22"/></g>
+  <!-- lugares -->
+  <g fill="#3b2f25">
+    <rect x="843" y="313" width="16" height="16"/><text x="760" y="352" font-size="16" font-weight="bold">Sarmora</text>
+    <rect x="846" y="140" width="13" height="13"/><text x="780" y="140" font-size="15" font-weight="bold">Ilvane</text>
+    <rect x="838" y="500" width="13" height="13"/><text x="772" y="530" font-size="15" font-weight="bold">Quéris</text>
+    <rect x="653" y="325" width="14" height="14"/><text x="676" y="358" font-size="15" font-weight="bold">Vessane</text>
+    <text x="676" y="374" font-size="11" font-style="italic">a sé que resistiu</text>
+    <circle cx="482" cy="328" r="8"/><text x="440" y="296" font-size="16" font-weight="bold">Tracton</text>
+    <text x="440" y="278" font-size="11" font-style="italic">o Arrasto: corredeiras e pedágio</text>
+    <path d="M300,268 l8,-16 l8,16 z M304,268 h8 v14 h-8 z"/><text x="322" y="272" font-size="14" font-weight="bold">Torre de Garrow</text>
+    <path d="M196,348 h14 v12 h-14 z M203,336 v12 M198,341 h10" stroke="#3b2f25" stroke-width="2" fill="#3b2f25"/><text x="150" y="420" font-size="14" font-weight="bold">Brannick</text>
+    <text x="150" y="435" font-size="11" font-style="italic">santuário</text>
+  </g>
+  <!-- passos -->
+  <path d="M120,480 l-60,70" stroke="#5e513d" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+  <text x="30" y="580" font-size="14" fill="#5e513d" font-weight="bold">Os Passos</text>
+  <text x="30" y="598" font-size="12" fill="#5e513d" font-style="italic">para Além-Serra (sudoeste)</text>
+  <!-- rosa e legenda -->
+  <g transform="translate(940,70)" stroke="#3b2f25" fill="#3b2f25"><path d="M0,26 L0,-26 M-18,0 L18,0" stroke-width="1.5"/><path d="M0,-34 l-6,12 h12 z"/><text x="-5" y="-40" font-size="13" stroke="none">N</text></g>
+  <text x="500" y="622" font-size="12" fill="#3b2f25" text-anchor="middle" font-style="italic">Esquema sem escala. Mostra só a região do recorte; o reino do tempo de Argon é muito maior. Proposta, sujeita ao autor.</text>
+</svg>

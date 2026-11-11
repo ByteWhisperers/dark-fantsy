@@ -4,7 +4,7 @@ tipo: nota
 camada: mundo
 status: rascunho
 fonte: conto + adendo autoral (2026-11-09) + propostas do Claude
-atualizado: 2026-11-09
+atualizado: 2026-11-10
 ---
 
 # Tracton — registro de status (entregável F)
@@ -32,6 +32,8 @@ Pedido do [adendo](../../00-fontes/adendo-autoral-tracton-p1.txt), §19-F: separ
 | #29 | Primeiro conto = primeira vida; segundo conto = história principal; três momentos de Tracton. |
 | #30 | 1ª vida: Tier 1 → Tier 2. 2ª vida: começa no Tier 1, fim indefinido. |
 | #31 | O primeiro conto vai só até o Tier 2; os seguintes serão em níveis superiores. |
+| #32 | Premissas da formação (protocolo monográfico): região fragmentada, Décadas de Sangue (nome provisório), companhias que viram senhorios, coalizões, hegemonia sem eliminar autonomias, Igreja por redes existentes, dois a três séculos. |
+| #33–#41 | Nove escolhas da formação: companhias de dentro com reforço de fora; concessão, tomada e tributo (casa vencedora por concessão); hereditariedade por confirmação mútua; linhagens arcanas de ofício, patrimônio e sangue como doutrina; coalizões por guerra entre senhorios; hegemonia sem coroa e depois sagração; Igreja como rede dos conquistados com episódio de resistência; fim da escravidão por conversão, proibição e ato régio; paz jurada como antecedente do Círculo. |
 | #10, #12, #2 | 300 anos depois; tom sem caricatura; restrição da magia multifatorial. |
 
 > **Fonte das decisões #26–#29:** [adendo de esclarecimentos](../../00-fontes/adendo-autoral-tracton-esclarecimentos.txt). O #29 corrige uma leitura minha anterior: tratei o "primeiro conto canônico" do #21 como a segunda vida, e é a primeira.
@@ -62,7 +64,7 @@ Fatos do conto usados nos dossiês, com linha. Valem como material, não como c�
 | 32 | ✓ Respondida (CANONE #30). Falta: quando a 1ª vida passa ao Tier 2; até onde vai a 2ª. |
 | 33 | A casa real de 300 anos depois é a mesma da época de Argon? |
 | 34 | Custos da pólvora e comparação concreta com formar um mago. |
-| 35 | Origem do Círculo: as coalizões de conjuradores viraram o Círculo? (hipótese promissora, não cânone) |
+| 35 | Origem do Círculo. Parcial: antecedente é uma paz jurada (CANONE #41). Falta quando e como veio a carta. |
 | 36 | Hierarquia da Igreja: níveis, patrimônio, jurisdição e força por sede e região. |
 
 ## 4. Propostas do Claude que pedem decisão
@@ -78,3 +80,12 @@ Fatos do conto usados nos dossiês, com linha. Valem como material, não como c�
 | Divindade da força legítima: magia irregular = força sem legitimidade | [00](00-dossie-principal.md) bloco F | manter |
 | Foro por condição; magia irregular atravessa os foros | [01](01-arquitetura-institucional.md) §2, [02](02-matriz-diversidade-interna.md) §3 | manter |
 | Mesma capacidade, saídas desiguais (caso A × caso C) | [01](01-arquitetura-institucional.md) §3 | manter |
+
+## 5. Pesquisa sobre a origem (2026-11-10)
+O [protocolo monográfico](../../00-fontes/protocolo-monografico-historia-tracton.txt) abriu uma pesquisa própria em [`02-pesquisa/tracton-origem/`](../../02-pesquisa/tracton-origem/README.md): inventário, eixos A a H, matriz comparativa, [nove viradas com modelos concorrentes](../../02-pesquisa/tracton-origem/91-modelos-concorrentes.md) e relatório de fragilidades. Perguntas novas #43 a #49. A história causal e a monografia esperam a escolha dos modelos. Depois da escolha, o [esboço histórico](03-esboco-historico.md) deve ser substituído.
+
+**Atualização (mesmo dia):** o Hermes aprovou as nove recomendações (CANONE #33–#41). Feitas a [cronologia provisória](../../02-pesquisa/tracton-origem/93-cronologia-provisoria.md) e a [matriz de eventos](../../02-pesquisa/tracton-origem/94-matriz-de-eventos.md). Perguntas #43, #44, #45 e #47 respondidas; novas #50 e #51. Na seção 4 acima, as linhas sobre a origem do Círculo e as fases da formação ficam superadas por esses dois arquivos.
+
+**Monografia (2026-11-10):** versão preliminar em [`03-lore/historia-de-tracton/`](../../03-lore/historia-de-tracton/README.md), dez capítulos. CANONE #42 (paz jurada antes da sagração) e #43 (cerca de 130 anos entre a sagração e a primeira vida de Argon).
+
+**Livro (2026-11-10):** proposta editorial do livro de dentro do mundo em [`03-lore/livro-historia-de-tracton/`](../../03-lore/livro-historia-de-tracton/README.md) (parecer, arquitetura, narrador, fontes, amostra, pendências). Nada é cânone; perguntas #52 a #57.

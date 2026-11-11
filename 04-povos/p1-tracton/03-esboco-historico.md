@@ -4,7 +4,7 @@ tipo: evento
 camada: mundo
 status: ideia
 fonte: conto + adendo autoral (2026-11-09) + inventado (propostas marcadas)
-atualizado: 2026-11-09
+atualizado: 2026-11-10
 ---
 
 # Tracton — esboço histórico preliminar (entregável D)
@@ -28,6 +28,9 @@ Os **Processos 1, 2 e 3** abaixo descrevem as mudanças *entre* esses momentos: 
 ---
 
 ## Processo 1 · Formação do reino (momento 1)
+
+> **Atualização 2026-11-10:** a formação agora tem pesquisa própria, pelo protocolo monográfico do Hermes, em [`02-pesquisa/tracton-origem/`](../../02-pesquisa/tracton-origem/README.md). As fases A a E abaixo continuam como resumo; os [modelos concorrentes](../../02-pesquisa/tracton-origem/91-modelos-concorrentes.md) as detalham e devem substituí-las depois da escolha do autor.
+> **Escolha feita (2026-11-10, CANONE #33–#41).** A formação está agora na [cronologia provisória](../../02-pesquisa/tracton-origem/93-cronologia-provisoria.md) e na [matriz de eventos](../../02-pesquisa/tracton-origem/94-matriz-de-eventos.md). Onde este esboço divergir delas, valem elas. Em particular: a Igreja **já estava** na região e legitima depois (CANONE #39), e o antecedente do Círculo é a paz jurada (CANONE #41), o que reúne os "dois caminhos" abaixo como leituras rivais do mesmo ato.
 
 > 📜 **Direção aprovada (CANONE #27):** Tracton se forma a partir de **coalizões de guerreiros, mercenários, conjuradores e chefes militares** que conquistam e dominam progressivamente uma região. O controle territorial permite acumular terras, recursos, dependentes, tributos e prestígio. Ao longo de gerações, parte dessas lideranças se estabiliza como **aristocracia hereditária**, da qual emergem **linhagens militares** e **linhagens arcanas**, ligadas no início pela participação conjunta na conquista. **A Igreja entra depois**, como agente de legitimação e organização, com linguagem religiosa e jurídica para poderes que nasceram da capacidade militar, das alianças e da dominação territorial. Não presumir que ela se torne subordinada à Coroa: ao legitimar, ganha patrimônio, prerrogativas e interesses próprios.
 
