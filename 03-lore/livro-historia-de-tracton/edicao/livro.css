@@ -18,7 +18,7 @@
 }
 @page :left {
   margin-left: 16mm; margin-right: 20mm;
-  @top-left { content: "Livro dos Juramentos"; font: italic 8.5pt "EB Garamond"; color: var(--sepia); letter-spacing: .02em; }
+  @top-left { content: string(livro); font: italic 8.5pt "EB Garamond"; color: var(--sepia); letter-spacing: .02em; }
 }
 @page :right {
   @top-right { content: string(capitulo); font: 400 8pt "EB Garamond"; font-variant: small-caps; letter-spacing: .08em; color: var(--sepia); }
@@ -68,7 +68,7 @@ strong { font-weight: 400; font-variant: small-caps; letter-spacing: .04em; font
 .toc-label { font-variant: small-caps; letter-spacing: .05em; color: var(--sepia); margin-right: .5em; }
 .toc-label { display: inline-block; min-width: 9mm; }
 .toc-prologo .toc-label, .toc-intermedio .toc-label { min-width: 0; }
-.toc-prologo .toc-label::after, .toc-intermedio .toc-label::after { content: " ·"; }
+
 .toc-title { font-style: italic; }
 .toc-parte { margin: 5mm 0 3mm !important; text-align: center; }
 .toc-parte a { font: 400 10.5pt "Fell SC"; letter-spacing: .1em; color: var(--sangue); }
@@ -124,3 +124,20 @@ ol.rol li::marker { font-variant-numeric: oldstyle-nums; color: var(--sangue); }
 .comentario p:first-child { text-indent: 0; }
 
 /* EPUB/tela: o mesmo HTML sem as regras de página fazem sentido sozinho */
+
+/* ---------- Volume inteiro ---------- */
+html { string-set: livro "Livro dos Juramentos"; }
+.parte { string-set: livro attr(data-c); }
+.prologo, .epilogo, .apendices { string-set: livro "Livro dos Juramentos"; }
+.epigrafe { margin: 16mm 8mm 0; }
+.epigrafe p { text-indent: 0; text-align: center; font-size: 9.6pt; line-height: 1.45; color: var(--sepia); hyphens: auto; }
+.apendices h3.apendice { font-size: 11.5pt; margin-top: 2mm; }
+blockquote { margin: 3mm 0 3mm 10mm; }
+blockquote p { text-indent: 0; text-align: left; hyphens: manual; margin-bottom: 3mm; }
+.documento h3 { margin-top: 3mm; color: var(--sangue); }
+.documento ul { margin: 1mm 0 3mm; padding-left: 6mm; }
+.documento ul li { margin-bottom: 1mm; }
+.toc-capitulo .toc-label { min-width: 11mm; display: inline-block; }
+.toc-prologo .toc-label, .toc-intermedio .toc-label, .toc-epilogo .toc-label { min-width: 0; }
+.toc-intermedio { padding-left: 4mm; }
+.toc li { margin-bottom: 1.6mm; font-size: 10pt; }
