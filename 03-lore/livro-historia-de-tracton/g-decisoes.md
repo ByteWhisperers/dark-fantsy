@@ -205,3 +205,18 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 | **O Callow**: vale a sul do Vale de Baixo, o melhor da região; o senhor morre sem filhos perto de 56 antes da Sagração; três pretendentes | Cap. 20 | |
 | **A batalha do Callow**, na vindima, perto de 55 antes da Sagração: os conjuradores dos dois lados empregam-se sem reserva; os Dorvane acabam (duas crianças), os Selvane ficam com dois, Irsane sem filhos; Garrow volta com 11 de 70 | Cap. 20 | O vale fica infértil: chão cinzento, lagoa redonda onde estava a maior aldeia, uma pedra onde estava a casa de oração, ossos de gado; ninguém atravessa |
 | **Os três relatos** (crônica de Garrow, anais de Brannick, canção do Callow) discordam sobre quem começou, a hora e os sinais | Intermédio III | Não decidido |
+
+## 11. Fatos criados ao escrever o Livro IV (2026-11-11): cânone #73 a #78
+
+| Fato | Onde aparece | Observação |
+|---|---|---|
+| **O juramento da paz**, perto de 50 antes da Sagração, na boca da garganta do Callow: 58 juramentos, órfãos Dorvane jurados pelo bispo de Sarmora; conteúdo das cláusulas | Cap. 21 | Em disputa: quem escolheu o lugar e a ordem do rol |
+| **Osric Aldren** (25), filho de **Wymar**; fiador; primeiro caso (conjurador pago por um Hask, celeiro em Kelder) | Cap. 22 | Limites: sem pena capital, sem fisco, sem título |
+| **Tutela dos órfãos Dorvane**, casamento com filha de Orwen, corte itinerante, serviço do fiador, rol de conjuradores | Cap. 23 | |
+| **Revolta de Hadwin de Garrow**, cerco de dois meses, reféns, torre no vau | Cap. 23 | Garrow poupada |
+| **Edric** confirmado sucessor por 31 de 34 pares, perto de 18 antes da Sagração | Cap. 23 | Sem título ainda |
+| **As dezoito cartas de submissão** e suas exceções (Quéris, Sarmora, Ilvane/Harrik, Selvane, Kelder, Brannick) | Cap. 24 | |
+| **Sete paróquias** dadas a Sarmora; **Lothar** de Vessane resiste; **ponte de Vessane**, 11 antes da Sagração | Cap. 25 | Guerra sem conjuradores |
+| **O Ordo** e o pacto com **Eadric**; foro da Igreja; voz do direito de declarar a sucessão | Cap. 26 | A nota de margem é de autor desconhecido |
+| **Cânone dos batizados** (40 palavras) | Cap. 26 | Não cobre quem não tem a água |
+| **A Sagração**, ano zero, em Sarmora; presentes e ausentes | Intermédio IV | Odran lê a lista da margem |
