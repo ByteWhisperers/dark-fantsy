@@ -76,4 +76,4 @@ O que o narrador afirma, medido contra o que o projeto sabe. **V** verdadeiro, *
 
 ## O que este Livro inventou
 
-Além do que está em [G](../g-decisoes.md), a escrita criou detalhes que são **rascunho, não cânone**: a guerra do sal entre Sarmora e Ilvane; a quinta paz; o capitão "o Ruivo"; a moeda de conta (o peso, prata de Além-Serra); a feira das estacas brancas; o lugar dos Fornos; os nomes do rol. Estão listados em G, seção 8.
+Além do que está em [G](../g-decisoes.md), a escrita criou fatos que o autor mandou tratar como **cânone** (CANONE #52 a #59), exceto as opiniões e boatos do narrador: a guerra do sal entre Sarmora e Ilvane; a quinta paz; o capitão "o Ruivo"; a moeda de conta (o peso, prata de Além-Serra); a feira das estacas brancas; o lugar dos Fornos; os nomes do rol. Estão listados em G, seção 8.

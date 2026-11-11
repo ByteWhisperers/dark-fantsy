@@ -142,9 +142,9 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 - Onde ficam Vallenar, Oakhaven, a Alta Capital e a cidade do conto.
 - As durações exatas das fases antes da Sagração.
 
-## 8. Detalhes criados ao escrever o Livro I (2026-11-11)
+## 8. Fatos criados ao escrever o Livro I (2026-11-11): cânone #52 a #59
 
-Não são cânone. São escolhas de escrita, feitas para dar chão ao texto, e mudam sem custo.
+**Atualização (2026-11-11):** o autor mandou tratar como cânone os fatos acrescentados na escrita. Esta tabela está registrada como cânone nas linhas #52 a #59 do CANONE.
 
 | Detalhe | Onde aparece | Observação |
 |---|---|---|
