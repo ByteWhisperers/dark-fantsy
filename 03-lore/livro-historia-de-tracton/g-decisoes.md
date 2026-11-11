@@ -4,7 +4,7 @@ tipo: nota
 camada: mundo
 status: rascunho
 fonte: "Delegação do autor em 2026-11-10: 'pegar as pendências e me surpreenda, você toma as decisões; se eu quiser mudar algo eu expressamente informo'"
-atualizado: 2026-11-10
+atualizado: 2026-11-11
 ---
 
 # G. Decisões tomadas sobre as pendências
@@ -141,3 +141,24 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 - O nome, a imagem e a doutrina da divindade.
 - Onde ficam Vallenar, Oakhaven, a Alta Capital e a cidade do conto.
 - As durações exatas das fases antes da Sagração.
+
+## 8. Detalhes criados ao escrever o Livro I (2026-11-11)
+
+Não são cânone. São escolhas de escrita, feitas para dar chão ao texto, e mudam sem custo.
+
+| Detalhe | Onde aparece | Observação |
+|---|---|---|
+| **A guerra do sal** entre Sarmora (a barra) e Ilvane (as salinas), com Quéris vendendo aos dois lados | Caps. 3 e 5 | É o motivo concreto da guerra longa. Dura uns cinquenta anos, com cinco pazes |
+| **O peso**, moeda de conta da foz, de prata de Além-Serra | Caps. 2 a 6 e rol | Um peso por mês e a comida era o soldo de um homem da serra |
+| **A feira das estacas brancas**, à porta de Brannick | Cap. 2 | Imagem da paz pequena de antes |
+| **Quatro ferramentas de paz:** trégua de feira, refém, casamento, preço do sangue | Cap. 2 | Voltam nos Livros seguintes: a paz jurada é a herdeira delas |
+| **"O que não traz ferro"** pago antes da partilha; conjuradores raros, vigiados, exaustos depois do trabalho | Caps. 2 e 4 | Só efeitos e custos. Nenhum mecanismo |
+| **A regra de partilha** da companhia (partes, "o homem do saco") | Cap. 4 | Atribuída à crônica de Garrow, que é tardia |
+| **"O Ruivo"**, capitão a serviço de Sarmora | Cap. 4 e rol | Alcunha, como manda a regra dos nomes. Sem destino definido |
+| **O calote:** a quinta paz não tem cláusula sobre os soldados; "que subam" | Cap. 5 | Coincide com uma paz em Além-Serra, que despede os seus |
+| **Os Fornos**, aldeia queimada do Vale de Cima | Cap. 6 | Odran foi vê-la |
+| **Vessane guardou despojos de capitães** a troco de uma parte | Cap. 6 | Confissão do narrador; prepara o papel dos clérigos no Livro II |
+| **Sinais de fumo** entre aldeias; fuga para a serra | Cap. 6 | Explica gente do vale entre as parentelas |
+| **Três saídas** para o esgotamento: ir mais longe, guerra entre companhias, querer o ano seguinte | Cap. 7 | A terceira leva ao Livro II |
+| **Cinco condições** para um assentamento durar: capitão longevo, homens cansados, velhos com juízo, alguém que escreva, um lugar forte | Cap. 7 | Reaparecem na história do Credor |
+| **O rol:** o mercador Meris, o comprador Tavane, o conselheiro Ilmar, doze pessoas vendidas | Intermédio I | O clérigo Orlen, de Brannick, é o único resgatado |
