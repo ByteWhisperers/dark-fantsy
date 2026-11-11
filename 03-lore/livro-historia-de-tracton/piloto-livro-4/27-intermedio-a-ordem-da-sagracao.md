@@ -41,7 +41,7 @@ atualizado: 2026-11-11
 
 *À margem do caderno, em letra miúda, a lista dos que estiveram presentes:*
 
-*O bispo de Sarmora, que celebrou. O administrador de Vessane, Eadric, que trouxe o caderno. Dois bispos de sés menores. Doze abades ou seus enviados. Trinta e um senhores. Os de Quéris: um mercador. Os de Sarmora: o conselho inteiro. Da casa de Selvane: uma discípula, de nome Marene, sobrinha de Irsane, que era já morta. Dos de Garrow: o próprio senhor, Hadwin, e o filho. Da casa de Orwen: o jovem senhor, e a mãe, viúva do velho. Da casa de Harrik: o senhor. De Kelder: ninguém.*
+*O bispo de Sarmora, que celebrou. O administrador de Vessane, Eadric, que trouxe o caderno. Dois bispos de sés menores. Doze abades ou seus enviados. Trinta e um senhores. Os de Quéris: um mercador. Os de Sarmora: o conselho inteiro. Da casa de Selvane: uma discípula, de nome Marene, sobrinha de Irsane, que era já morta. Dos de Garrow: o próprio senhor, Hadwin, já muito velho, e o filho. Da casa de Orwen: o jovem senhor, e a mãe, viúva do velho. Da casa de Harrik: o senhor. De Kelder: ninguém.*
 
 ---
 

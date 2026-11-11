@@ -25,7 +25,7 @@ Havia, no entanto, uma casa que a podia exercer melhor que as outras. Os escrito
 
 O senhor de Aldren, naquele outono, chamava-se Osric. Tinha vinte e cinco anos.
 
-Os anais de Brannick dizem que o pai, Wymar, que estivera no Callow e voltara dele sem uma palavra, morreu no inverno seguinte "de uma doença que não era do corpo". Osric herdou aos vinte e quatro anos, num ano em que ninguém queria herdar nada. Dele não há, nessa idade, retrato que valha. Há, no *Memorial* de Quéris, uma frase de quem o viu: "um moço que ouve antes de falar, e que quando fala já ouviu o que lhe respondem".
+Os anais de Brannick dizem que o pai, Wymar, que estivera no Callow e voltara dele sem uma palavra, morreu no inverno seguinte "de uma doença que não era do corpo". Osric herdou aos vinte e um anos, num ano em que ninguém queria herdar nada. Dele não há, nessa idade, retrato que valha. Há, no *Memorial* de Quéris, uma frase de quem o viu: "um moço que ouve antes de falar, e que quando fala já ouviu o que lhe respondem".
 
 Dizem os de Sarmora que foi por isso que o escolheram. Um senhor velho teria recusado a função, ou a teria aceitado para a usar. Um moço que acabara de enterrar o pai e de ver o que a guerra fizera ao Callow podia ter, pensou-se, a prudência de quem não tem ainda nada para defender. Os de Vessane dizem outra coisa, e eu a tenho por mais certa: foi escolhido por ser o único que, tendo mais homens que os outros, não os tinha usado todos. A casa de Aldren, no Callow, perdera pouco, porque Wymar, o velho, mantivera os seus na retaguarda. Osric tinha ao seu dispor uma força inteira e um nome limpo.
 

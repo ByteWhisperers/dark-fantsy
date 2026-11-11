@@ -67,7 +67,7 @@ Foi, creio, a primeira prova de que o juramento valia. Uma guerra entre senhores
 
 A batalha deu-se na ponte de Vessane, no outono de um ano que conto como o onze antes da Sagração. Os soldados de Kelder, que a sé pagava, estiveram do lado de Lothar. Os senhores de Orwen e do Vale de Baixo estiveram do lado de Lothar. O filho de Osric, Edric, que tinha trinta e quatro anos e era o seu primeiro comandante, esteve do outro.
 
-Durou um dia. Os homens de Kelder, que não eram pagos para morrer, fugiram à primeira carga. Os senhores do Vale de Baixo, sem eles, não aguentaram. O velho Orwen morreu na ponte. Edric entrou em Vessane ao fim da tarde, e o bispo Lothar, que o esperava à porta da sé, entregou-lhe as chaves.
+Durou um dia. Os homens de Kelder, que não eram pagos para morrer, fugiram à primeira carga. Os senhores do Vale de Baixo, sem eles, não aguentaram. O velho Orwen, avô materno de Edric, morreu na ponte. Edric entrou em Vessane ao fim da tarde, e o bispo Lothar, que o esperava à porta da sé, entregou-lhe as chaves.
 
 Não se queimou nada. Não se matou ninguém na cidade. Osric chegou no dia seguinte e foi até à sé, onde o bispo o esperava, e conta o anal que os dois homens, o bispo de oitenta anos e o fiador de sessenta e quatro, ficaram a olhar um para o outro durante um bom tempo, sem falar. Depois o fiador disse-lhe, em voz baixa, uma frase que o cônego que a ouviu reteve: "Não vim tomar o que é de Deus. Vim saber o que é meu."
 

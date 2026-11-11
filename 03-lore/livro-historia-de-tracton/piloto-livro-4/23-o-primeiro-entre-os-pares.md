@@ -21,7 +21,7 @@ Não sei como. É a primeira coisa que digo, e é a que me dá mais pena. Os esc
 
 A primeira são os Dorvane. A casa tinha acabado, salvo duas crianças, e a tutela dos meninos, que o bispo de Sarmora jurara no Callow, não podia ficar com a Igreja: uma casa arcana é um património de senhor. Os de Sarmora, que não queriam que ficasse a Aldren, não tinham a quem entregá-la. Osric, a pedido do conselho, tomou-a. Ficou com os meninos, que criou na sua casa, com as terras dos Dorvane no interior de Sarmora e com a parte dos livros que os Selvane não conseguiram reclamar. Foi, ao mesmo tempo, um favor à cidade e a primeira vez que um senhor tinha à sua guarda uma linhagem arcana.
 
-A segunda foi um casamento. Osric casou, aos trinta anos, com uma filha de Orwen, que trouxe consigo a parte de Brem que era de Orwen, e metade do Vale de Baixo. Não se pense que o senhor de Orwen o fez de boa vontade. Perdera, no Callow, dois filhos, e o neto era uma menina. O pai preferiu dar a filha a quem a pudesse defender do que a ver tomada.
+A segunda foi um casamento. Osric casou, aos trinta anos, com uma filha de Orwen, que trouxe consigo a parte de Brem que era de Orwen, e metade do Vale de Baixo. Não se pense que o senhor de Orwen o fez de boa vontade. Perdera, no Callow, dois filhos, e o único neto era um rapaz de dez anos. O pai preferiu dar a filha a quem a pudesse defender do que a ver tomada.
 
 A terceira foi a espera. Osric, ao contrário dos seus iguais, não fez uma guerra em quinze anos que não fosse em nome do juramento. Os outros gastavam-se. Ele guardava. Ao fim desse tempo, o que ele tinha em homens e prata era o que um par teria em três.
 

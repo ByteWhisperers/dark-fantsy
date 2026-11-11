@@ -211,7 +211,7 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 | Fato | Onde aparece | Observação |
 |---|---|---|
 | **O juramento da paz**, perto de 50 antes da Sagração, na boca da garganta do Callow: 58 juramentos, órfãos Dorvane jurados pelo bispo de Sarmora; conteúdo das cláusulas | Cap. 21 | Em disputa: quem escolheu o lugar e a ordem do rol |
-| **Osric Aldren** (25), filho de **Wymar**; fiador; primeiro caso (conjurador pago por um Hask, celeiro em Kelder) | Cap. 22 | Limites: sem pena capital, sem fisco, sem título |
+| **Osric Aldren** (25, herdou aos 21), filho de **Wymar**; fiador; primeiro caso (conjurador pago por um Hask, celeiro em Kelder) | Cap. 22 | Limites: sem pena capital, sem fisco, sem título |
 | **Tutela dos órfãos Dorvane**, casamento com filha de Orwen, corte itinerante, serviço do fiador, rol de conjuradores | Cap. 23 | |
 | **Revolta de Hadwin de Garrow**, cerco de dois meses, reféns, torre no vau | Cap. 23 | Garrow poupada |
 | **Edric** confirmado sucessor por 31 de 34 pares, perto de 18 antes da Sagração | Cap. 23 | Sem título ainda |
@@ -228,8 +228,18 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 | Reis: **Osric** (até S+3), **Edric** (até ~S+21), **Osmund** (S+21 a S+79), **Osbert** (S+79 em diante); Osbert tem 80 anos em S+130 e só uma filha viva | Caps. 27, 28, 33 | Casa passa por linha de mulher |
 | Revoltas: **Garth Orwen** (herança sem confirmação), **Harrik** (Ilvane hereditária, salinas isentas), **Corwin de Garrow** (alta justiça com cópia ao rei) | Cap. 27 | |
 | Verbos das cartas mudam de *reconheço* a *concedo*; primogenitura sob Osmund | Cap. 28 | |
-| Fórmula "eleito pelo cabido, assentido pelo rei" (Vessane, ~S+14) | Cap. 29 | Seis semanas de soldados |
+| Fórmula "eleito pelo cabido, assentido pelo rei" (Vessane, ~S+8) | Cap. 29 | Seis semanas de soldados |
 | *Ordenança das Casas* (S+96) e a "criação" | Cap. 30 | Tráfico segue nas margens |
 | Carta do Círculo (~S+70): examinar × auditar; quatro graus | Cap. 31 | |
 | *Gesta da Coroa* (Halbert, ~S+110) e o que cala | Cap. 32 | Tracto: figura sem documento |
 | Retrato de S+130 e disputas em aberto | Cap. 33 | Epílogo e apêndices |
+
+## 13. Revisão de conjunto (2026-11-11)
+
+Corrigidas as contradições achadas entre os Livros:
+
+- **Idades de Osric e Edric:** Osric nasce perto de 75 antes da Sagração, herda aos 21 (o pai Wymar morre no inverno depois do Callow), é fiador aos 25, casa aos 30, tem 64 na ponte de Vessane, 75 na Sagração e morre aos 78. Edric nasce perto de 45 antes da Sagração e tem 48 quando reina.
+- **Orwen:** Garth Orwen é neto do velho Orwen (que perdeu dois filhos no Callow, e o neto tinha dez anos), primo de Edric, e não filho do velho. O velho Orwen morto na ponte é avô materno de Edric.
+- **Eadric** morre perto de S+8 (e não S+14); Odo não pode ter contado as terras da Igreja do século seguinte, então é um continuador.
+- **Osbert** é trineto de Edric por linha direta: o "primeiro rei da sua casa" é Osric.
+- **Hadwin de Garrow** chega à Sagração muito velho.
