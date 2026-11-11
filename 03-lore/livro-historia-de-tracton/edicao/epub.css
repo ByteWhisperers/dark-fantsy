@@ -1,0 +1,14 @@
+@font-face{font-family:"EB Garamond";src:url(../fonts/EBG-400.ttf);}
+@font-face{font-family:"EB Garamond";font-style:italic;src:url(../fonts/EBGI-400.ttf);}
+@font-face{font-family:"Fell";src:url(../fonts/fell.ttf);}
+body{font-family:"EB Garamond",serif;line-height:1.45;color:#1f1a16}
+p{text-indent:1.4em;margin:0;text-align:justify;hyphens:auto}
+h1{font-family:"Fell",serif;font-weight:normal;font-style:italic;text-align:center;margin:3em 0 1.5em;font-size:1.6em}
+h1.parte{color:#7a1f1a;margin-top:30%}
+h2{font-variant:small-caps;font-weight:normal;letter-spacing:.08em;text-align:center;font-size:1em;margin:2em 0 .8em}
+h1+p,h2+p{text-indent:0}
+h1+p::first-letter{font-family:"Fell",serif;float:left;font-size:3.4em;line-height:.85;color:#7a1f1a;margin:.05em .08em 0 0}
+strong{font-weight:normal;font-variant:small-caps;letter-spacing:.04em}
+hr{border:0;text-align:center;margin:1.2em 0}
+hr:after{content:"❦";color:#7a1f1a}
+ol{font-size:.95em;background:#f6efe2;padding:1em 1em 1em 2.4em}

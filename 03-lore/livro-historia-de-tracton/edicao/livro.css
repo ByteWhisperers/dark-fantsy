@@ -1,0 +1,143 @@
+/* ---------- Fontes ---------- */
+@font-face { font-family: "EB Garamond"; src: url(fontes/EBG-400.ttf); font-weight: 400; font-style: normal; }
+@font-face { font-family: "EB Garamond"; src: url(fontes/EBG-500.ttf); font-weight: 500; font-style: normal; }
+@font-face { font-family: "EB Garamond"; src: url(fontes/EBG-600.ttf); font-weight: 600 700; font-style: normal; }
+@font-face { font-family: "EB Garamond"; src: url(fontes/EBGI-400.ttf); font-weight: 400; font-style: italic; }
+@font-face { font-family: "EB Garamond"; src: url(fontes/EBGI-500.ttf); font-weight: 500 700; font-style: italic; }
+@font-face { font-family: "Fell"; src: url(fontes/fell.ttf); font-style: normal; }
+@font-face { font-family: "Fell"; src: url(fontes/felli.ttf); font-style: italic; }
+@font-face { font-family: "Fell SC"; src: url(fontes/fellsc.ttf); }
+
+:root { --tinta: #1f1a16; --sangue: #7a1f1a; --sepia: #6b5a48; }
+
+/* ---------- Página: formato 14 x 21 cm ---------- */
+@page {
+  size: 140mm 210mm;
+  margin: 19mm 16mm 22mm 20mm;
+  @bottom-center { content: counter(page); font: 400 9.5pt "EB Garamond"; font-variant-numeric: oldstyle-nums; color: var(--sepia); }
+}
+@page :left {
+  margin-left: 16mm; margin-right: 20mm;
+  @top-left { content: string(livro); font: italic 8.5pt "EB Garamond"; color: var(--sepia); letter-spacing: .02em; }
+}
+@page :right {
+  @top-right { content: string(capitulo); font: 400 8pt "EB Garamond"; font-variant: small-caps; letter-spacing: .08em; color: var(--sepia); }
+}
+@page :nth(1 of capitulo) { @top-left { content: none; } @top-right { content: none; } }
+@page :blank { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+@page preliminar { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+@page mapa { size: 210mm 140mm; margin: 12mm 14mm; @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+@page parte { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+
+html { font-family: "EB Garamond", serif; font-size: 11pt; line-height: 1.42; color: var(--tinta);
+       font-variant-numeric: oldstyle-nums; font-kerning: normal; font-variant-ligatures: common-ligatures; }
+body { margin: 0; }
+
+p { margin: 0; text-align: justify; hyphens: auto; orphans: 2; widows: 2; text-indent: 1.4em; }
+em { font-style: italic; }
+strong { font-weight: 400; font-variant: small-caps; letter-spacing: .04em; font-size: 1.05em; }
+
+/* ---------- Preliminares ---------- */
+.mapa-pagina { page: mapa; break-after: page; }
+.falso-rosto, .rosto, .colofao-pagina, .sumario { page: preliminar; break-after: page; }
+.falso-rosto p { text-indent: 0; text-align: center; margin-top: 62mm; font: 400 13pt "Fell SC"; letter-spacing: .18em; color: var(--tinta); }
+
+.mapa-pagina figure { margin: 0; }
+.mapa-pagina svg { width: 150mm; height: 96mm; margin: 2mm auto 0; display: block; }
+.mapa-pagina svg { width: 100%; height: auto; display: block; border: .4pt solid var(--sepia); }
+.mapa-pagina figcaption { margin-top: 4mm; text-align: center; font: italic 9pt "EB Garamond"; color: var(--sepia); }
+
+.rosto { text-align: center; }
+.rosto p { text-indent: 0; text-align: center; }
+.rosto-ornamento { margin-top: 22mm; font-size: 18pt; color: var(--sangue); }
+.rosto-titulo { font: 400 34pt/1.05 "Fell"; margin: 8mm 0 0; letter-spacing: .01em; }
+.rosto-filete, .parte .rosto-filete { width: 28mm; margin: 7mm auto !important; border-top: .5pt solid var(--sangue); height: 0; }
+.rosto-sub { font: italic 13pt "EB Garamond"; }
+.rosto-autor { margin-top: 26mm; font: 400 12pt "EB Garamond"; font-variant: small-caps; letter-spacing: .1em; }
+.rosto-autor span { font-variant: normal; font-style: italic; letter-spacing: 0; font-size: 10pt; color: var(--sepia); }
+.rosto-casa { margin-top: 36mm; font: 400 8.5pt "EB Garamond"; letter-spacing: .3em; text-transform: uppercase; color: var(--sepia); }
+
+.colofao-pagina { padding-top: 140mm; }
+.colofao-pagina p { text-indent: 0; text-align: left; font-size: 8.5pt; line-height: 1.5; color: var(--sepia); }
+
+.sumario-titulo { font: 400 15pt "Fell SC"; letter-spacing: .14em; text-align: center; margin: 16mm 0 10mm; font-weight: normal; }
+.toc { list-style: none; padding: 0; margin: 0; }
+.toc li { margin: 0 0 2.6mm; }
+.toc a { color: inherit; text-decoration: none; display: block; }
+.toc a::after { content: leader(" . ") target-counter(attr(href), page); font-variant-numeric: oldstyle-nums; }
+.toc-label { font-variant: small-caps; letter-spacing: .05em; color: var(--sepia); margin-right: .5em; }
+.toc-label { display: inline-block; min-width: 9mm; }
+.toc-prologo .toc-label, .toc-intermedio .toc-label { min-width: 0; }
+
+.toc-title { font-style: italic; }
+.toc-parte { margin: 5mm 0 3mm !important; text-align: center; }
+.toc-parte a { font: 400 10.5pt "Fell SC"; letter-spacing: .1em; color: var(--sangue); }
+.toc-parte a::after { content: none; }
+.toc-capitulo { padding-left: 4mm; }
+
+/* ---------- Página de parte ---------- */
+.parte { page: parte; break-before: right; break-after: page; text-align: center; padding-top: 58mm; }
+.parte p { text-indent: 0; text-align: center; }
+.parte-label { font: 400 13pt "Fell SC"; letter-spacing: .25em; color: var(--sangue); }
+.parte-titulo { font: italic 400 24pt "Fell"; margin: 0; }
+
+/* ---------- Abertura de capítulo ---------- */
+.cap { break-before: page; page: capitulo; }
+.cap > header { padding-top: 24mm; margin-bottom: 9mm; text-align: center; }
+.cap-label { text-indent: 0; text-align: center; font: 400 10pt "EB Garamond"; font-variant: small-caps; letter-spacing: .2em; color: var(--sangue); }
+.cap-titulo { string-set: capitulo content(); font: italic 400 19pt/1.15 "Fell"; margin: 3mm 0 0; hyphens: manual; }
+.cap-ornamento { text-indent: 0; text-align: center; margin-top: 4mm; color: var(--sepia); font-size: 10pt; letter-spacing: .3em; }
+
+
+p.abertura { text-indent: 0; }
+.capitular {
+  float: left; font: 400 46.5pt/1 "Fell"; color: var(--sangue);
+  height: 13.2mm; margin: -0.4mm 1.8mm 0 -0.5mm; padding: 0;
+}
+.capitular.cauda { margin-right: 4.2mm; }
+.versalete { font-variant: small-caps; letter-spacing: .05em; }
+
+/* intertítulos */
+h3 { font: 400 11pt "EB Garamond"; font-variant: small-caps; letter-spacing: .1em; text-align: center;
+     margin: 0 0 3.5mm; break-after: avoid; color: var(--tinta); }
+h3 + p { text-indent: 0; }
+.fleuron { text-indent: 0; text-align: center; color: var(--sangue); font-size: 10pt; margin: 5mm 0 2mm; break-after: avoid; }
+
+/* ---------- Intermédio: o rol ---------- */
+.intermedio .cap-titulo { font-style: normal; }
+.nota-copista p { text-indent: 0; font-size: 10pt; color: var(--sepia); text-align: center; margin: 0 6mm; }
+.documento {
+  margin: 7mm 0 5mm; padding: 5mm 6mm 4mm;
+  border-top: 1.4pt double var(--sepia); border-bottom: 1.4pt double var(--sepia);
+  border-top-style: double; border-bottom-style: double; border-width: 2.2pt 0;
+  background: #f6efe2; font-size: 9.8pt; line-height: 1.38;
+}
+.documento > p:first-child { text-indent: 0; text-align: center; margin-bottom: 3mm; hyphens: manual; }
+.documento > p:first-child strong { font-variant: normal; letter-spacing: 0; font-size: 1em; font-style: italic; }
+.documento p { text-indent: 0; margin-bottom: 2mm; }
+.documento strong { font-size: 1em; }
+ol.rol { margin: 1mm 0 3mm; padding-left: 7mm; }
+ol.rol li { margin-bottom: 1.4mm; text-align: justify; hyphens: auto; padding-left: 1mm; }
+ol.rol li::marker { font-variant-numeric: oldstyle-nums; color: var(--sangue); }
+.documento .margem { margin-top: 3mm; border-top: .4pt solid #c9b99f; padding-top: 2.5mm; }
+.documento .margem p { font-size: 9.2pt; color: var(--sepia); text-align: right; }
+.comentario p:first-child { text-indent: 0; }
+
+/* EPUB/tela: o mesmo HTML sem as regras de página fazem sentido sozinho */
+
+/* ---------- Volume inteiro ---------- */
+html { string-set: livro "Livro dos Juramentos"; }
+.parte { string-set: livro attr(data-c); }
+.prologo, .epilogo, .apendices { string-set: livro "Livro dos Juramentos"; }
+.epigrafe { margin: 16mm 8mm 0; }
+.epigrafe p { text-indent: 0; text-align: center; font-size: 9.6pt; line-height: 1.45; color: var(--sepia); hyphens: auto; }
+.apendices h3.apendice { font-size: 11.5pt; margin-top: 2mm; }
+blockquote { margin: 3mm 0 3mm 10mm; }
+blockquote p { text-indent: 0; text-align: left; hyphens: manual; margin-bottom: 3mm; }
+.documento h3 { margin-top: 3mm; color: var(--sangue); }
+.documento ul { margin: 1mm 0 3mm; padding-left: 6mm; }
+.documento ul li { margin-bottom: 1mm; }
+.toc-capitulo .toc-label { min-width: 11mm; display: inline-block; }
+.toc-prologo .toc-label, .toc-intermedio .toc-label, .toc-epilogo .toc-label { min-width: 0; }
+.toc-intermedio { padding-left: 4mm; }
+.toc li { margin-bottom: 1.6mm; font-size: 10pt; }
