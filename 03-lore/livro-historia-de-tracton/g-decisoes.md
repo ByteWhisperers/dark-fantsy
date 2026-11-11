@@ -162,3 +162,28 @@ Duas escolhas que quero deixar claras. O Credor da amostra **não** é o antepas
 | **Três saídas** para o esgotamento: ir mais longe, guerra entre companhias, querer o ano seguinte | Cap. 7 | A terceira leva ao Livro II |
 | **Cinco condições** para um assentamento durar: capitão longevo, homens cansados, velhos com juízo, alguém que escreva, um lugar forte | Cap. 7 | Reaparecem na história do Credor |
 | **O rol:** o mercador Meris, o comprador Tavane, o conselheiro Ilmar, doze pessoas vendidas | Intermédio I | O clérigo Orlen, de Brannick, é o único resgatado |
+
+## 9. Fatos criados ao escrever o Livro II (2026-11-11): cânone #60 a #66
+
+| Fato | Onde aparece | Observação |
+|---|---|---|
+| **O Credor** tinha 45 a 50 anos quando recebeu o Vale de Cima, vivia da guerra antes do calote e morreu com cerca de 80, perto de 145 antes da Sagração | Caps. 8 e 12 | |
+| **A concessão** foi "o direito de cobrar" as aldeias e suas eiras, não o vale | Cap. 8 | Distinção que a cidade fazia e o capitão não |
+| **Garrow** era o nome de uma torre do Vale de Cima; os netos do Credor tomaram o nome do lugar | Cap. 8 | A genealogia chama o Credor Hadrik, filho de Alberic, neto de Wulf: nomes inventados por Odo |
+| **Ilvane foi tomada** perto de 165 antes da Sagração pelos "de sal", capitão "o Calado", serrano; mataram cerca de quarenta; a casa dele é **Harrik** | Cap. 9 | Os escrivães ficaram e passaram a servir os novos senhores |
+| **Quéris pagou tributo** ao Calado e acabou com um recebedor dentro da cidade | Cap. 9 | Duas cidades conseguiram expulsar o seu recebedor |
+| **O Homem do Arrasto** recebeu o pedágio das corredeiras de Sarmora, em pagamento de dívida, perto de 160 antes da Sagração | Cap. 9 | A carta não se conserva. O primeiro "Aldren" aparece numa quitação de uns 120 antes da Sagração |
+| **O rol de eiras do Vale de Cima**, perto de 175 antes da Sagração, de letra de clérigo; nomes de Wethra: Dunnick, Bren, os filhos de Aldric | Cap. 10 | Dunnick é o nome que o fio "o vale" vai seguir |
+| **Tribunal de Garrow** (perto de 160 antes da Sagração): o senhor ou o filho, um clérigo que escreve e quatro velhos que dizem o costume | Cap. 10 | |
+| **Capelas dos senhores**: a casa constrói e nomeia o padre; o padre responde por último ao bispo | Cap. 10 | |
+| **Assentados**: cativos que não valiam a venda, postos em parcelas; três camadas (gente do lugar, assentados, escravos de casa) | Cap. 11 | Em duas gerações, fundidos |
+| **O Outro de Garrow**, o mais antigo companheiro do Credor, perde a chefia e jura a carta | Cap. 12 | |
+| **A carta de confirmação** do filho do Credor: o senhor jura confirmar as terras e os companheiros juram aceitar o filho; o senhor só é julgado por traição diante de quatro, dois deles dos que têm parte. Companheiros: o Outro, o Manco de Brannick, o Surdo, o Torto, os dois filhos do morto na ceifa e outros onze | Cap. 12 e Intermédio II | A cópia de Vessane foi emendada: raspou-se *filium Creditoris* e escreveu-se Hadrik |
+| **A mãe do filho do Credor** era de uma aldeia do vale | Cap. 12 | |
+| **O Mestre** (conjurador do Credor) recebeu a segunda torre, uma parte grande e ser deixado em paz; juntou livros (um de Além-Serra, pelo preço de uma aldeia), uma sala ("a câmara fria") e uma fonte | Cap. 13 | |
+| **Os três discípulos do Mestre** (perto de 135 antes da Sagração): o sobrinho do Credor, um filho de assentado e uma mulher de Quéris, a "discípula", que herdou os livros e casou com um irmão do filho do Credor | Cap. 13 | |
+| **Selvane** é a colina do Vale de Baixo onde a discípula viveu. A casa **descende da discípula**, mas diz descender do Mestre | Cap. 13 | Corrige o #50, que dizia "descendente do conjurador" |
+| **A carta dos Selvane ao bispo de Vessane** (perto de 110 antes da Sagração) pedindo que só os do sangue estudem; o bispo aceita | Cap. 13 | Primeira aparição escrita da doutrina do sangue |
+| **A tutora**: o neto do Credor herda com dez anos, e a mãe governa oito anos | Cap. 14 | |
+| **Os Harrik** dividem Ilvane entre quatro irmãos, que se matam | Cap. 14 | |
+| **O capelão Odo**, de Brannick, escreve a primeira crônica de Garrow, perto de 100 antes da Sagração | Cap. 14 | |
