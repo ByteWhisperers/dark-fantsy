@@ -207,7 +207,7 @@ O Livro para em S+130 e o conto precisa, em S+178 a S+207, de instituições que
 | "Heresia contra a Ordem da Trama" | S+130 a S+178 | A lei de S+70 só criminaliza; a Igreja acrescenta a doutrina depois |
 | Guarda de Prata e "caçadores da Coroa" | S+100 a S+150 | Respondem à coroa; a diferença entre os dois corpos segue na PA #30 |
 | Quatro Câmaras como graus do Círculo | graus desde S+70 (#83), nome "Câmaras" fixado até S+140 | Mantém #23 (graus) |
-| Pólvora anã (#18, #28) | primeiras compras por S+150; ainda rara e cara em S+190 | O conto não a usa; o cerco de Oakhaven é de pedras e piche |
+| Pólvora anã (#18, #28) | contrabando do sul desde ~S+120; primeira compra régia em S+153 | O conto a cita em S+191 ("pólvora anã contrabandeada do sul"); o cerco de Oakhaven é de pedras e piche |
 | Foco de cristal "rastreado pela Coroa" | S+100 a S+170 | Segue o monopólio criado pela carta |
 | Vallenar e Oakhaven | senhorios de fronteira incorporados entre S+90 e S+150, de fidelidade instável | Responde parte da PA #31 |
 | Guilda Real (alquimistas) | S+80 a S+130 | — |
@@ -224,7 +224,7 @@ Em S+470 já existem o Consórcio dos Mantos, o Sacerdócio do Glifo e a Ordem d
 
 Ficam abertas de propósito, por não dependerem da cronologia:
 
-1. **A cidade portuária do conto** (Cais da Lama, Cidade Alta, Avenida Branca) e **a Alta Capital**: o Livro só situa Sarmora, Ilvane, Quéris e Vessane; o conto fala em "trezentas léguas da costa" até Vallenar. A cidade do conto e a Alta Capital não são nenhuma delas por decisão (#49).
+1. **A cidade portuária do conto e a Alta Capital** foram decididas depois, na mesma sessão: Cinzália e o Arrasto (ver [`depois-do-livro/`](depois-do-livro/README.md), CANONE #98 e #100).
 2. **Além-Serra** depois de S−210: desaparece do Livro; o conto fala em "reinos atuais" no plural (PA #46). Fica como vizinho silencioso.
 3. **Quem convocou a primeira assembleia (Vessane ou Sarmora), quem começou o Callow e quem escolheu o lugar do juramento**: disputas deixadas de propósito dentro do mundo (#70, #72, #73). O que aconteceu fica oculto de Odran, e só o autor decide se aparece.
 4. **A natureza da Trama e o nome da divindade** (#14, #15, #51).
@@ -236,3 +236,7 @@ Ficam abertas de propósito, por não dependerem da cronologia:
 - **Livro V:** capítulos 27, 31 e 33 ajustados (idade de Garth, idade de Osmund quando age, pleito de 480 anos, trineto). **A edição diagramada (PDF e EPUB em `edicao/`) não foi regenerada** e traz a versão anterior até o próximo `python3 build.py`.
 - **Monografia (`historia-de-tracton/`):** não editada. Onde disser "por volta de S+130" a respeito de instituições que o conto mostra (cap. 9, linha 85 e cap. 10), vale a leitura de #86 e #93. A cronologia 93 (fase 8, item 4) fica superada pelo #92.
 - **g-decisoes.md:** nova seção 14 com o resumo.
+
+## 8. Continuação
+
+O período de S+130 ao presente foi preenchido em [`depois-do-livro/`](depois-do-livro/README.md) (CANONE #96 a #110).
