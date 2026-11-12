@@ -25,7 +25,7 @@ Digo-o porque é a chave dos anos que se seguem. Os juramentos tinham sido feito
 
 ### A primeira: Orwen
 
-A primeira revolta veio no segundo ano, e foi a mais frouxa. O velho Orwen, que morrera na ponte de Vessane, deixara um neto de cinquenta e sete anos, filho de um dos que morreram no Callow, casado com uma Harrik e criado em ódio ao fiador. Era primo de Edric, porque a mãe do rei fora filha do velho. Chamava-se Garth. Quando Edric, já rei, o mandou chamar para a confirmação, Garth não foi, nem mandou dizer por quê.
+A primeira revolta veio no segundo ano, e foi a mais frouxa. O velho Orwen, que morrera na ponte de Vessane, deixara um neto de sessenta e sete anos, filho de um dos que morreram no Callow, casado com uma Harrik e criado em ódio ao fiador. Era primo de Edric, porque a mãe do rei fora filha do velho. Chamava-se Garth. Quando Edric, já rei, o mandou chamar para a confirmação, Garth não foi, nem mandou dizer por quê.
 
 Edric marchou com seiscentos homens. Não chegou a haver combate. Garth fechou-se na torre de Brem e deixou que lhe cercassem as terras. Ao quarto mês, o rei, que não tinha provisões para um cerco de inverno nem vontade de ter o Vale de Baixo em guerra, mandou-lhe um clérigo com uma proposta.
 

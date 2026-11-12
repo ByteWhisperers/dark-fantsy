@@ -243,3 +243,12 @@ Corrigidas as contradições achadas entre os Livros:
 - **Eadric** morre perto de S+8 (e não S+14); Odo não pode ter contado as terras da Igreja do século seguinte, então é um continuador.
 - **Osbert** é trineto de Edric por linha direta: o "primeiro rei da sua casa" é Osric.
 - **Hadwin de Garrow** chega à Sagração muito velho.
+
+## 14. Revisão cronológica (2026-11-12)
+
+Pedida pelo Hermes; documento completo em [`../revisao-cronologica.md`](../revisao-cronologica.md); decisões em CANONE #86 a #95. Resumo do que mudou nos Livros:
+
+- Cap. 27: Garth Orwen tem **67** anos (era 57).
+- Cap. 31: Osmund tem uns quarenta e tantos anos em S+40 e só mais tarde é velho; **Osmund é neto de Edric** (#87).
+- Cap. 33: o pleito das paróquias corre há **mais de 480 anos**; a filha de Osbert casa com um **trineto** de Garth.
+- A edição diagramada (`edicao/`) precisa de `python3 build.py` para refletir isso.

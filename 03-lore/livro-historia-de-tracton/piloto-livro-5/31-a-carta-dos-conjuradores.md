@@ -23,7 +23,7 @@ Essas quatro cláusulas eram um juramento, não uma instituição. Quem o guarda
 
 Perto do ano quarenta, começaram a morrer os últimos. Irsane, de Selvane, já se fora. Os filhos dos jurados tinham aprendido a arte, e tinham aprendido o juramento como uma regra de família, não como um compromisso. Sem ninguém que se lembrasse do que o Callow tinha sido, a regra começou a ser lida como um limite que as casas impunham aos outros. Cada uma achava que a outra não o cumpria.
 
-O primeiro a notar o perigo foi o rei Osmund, velho, que tinha visto crescer uma geração de moços com poderes que o pai e o avô tinham podido vigiar a olho, e que agora ninguém vigiava. Não se sabia quantos eram. Não se sabia quem os ensinava. Sabia-se, apenas, que o fiador de outrora já não tinha rol, porque o rol de Osric se perdera num incêndio em Sarmora, e que cada casa ensinava a quem queria.
+O primeiro a notar o perigo foi o rei Osmund, que então andava pelos quarenta e tantos anos e viria a ser velho no trono, e que tinha visto crescer uma geração de moços com poderes que o pai e o avô tinham podido vigiar a olho, e que agora ninguém vigiava. Não se sabia quantos eram. Não se sabia quem os ensinava. Sabia-se, apenas, que o fiador de outrora já não tinha rol, porque o rol de Osric se perdera num incêndio em Sarmora, e que cada casa ensinava a quem queria.
 
 Foi então que o rei mandou chamar as casas.
 

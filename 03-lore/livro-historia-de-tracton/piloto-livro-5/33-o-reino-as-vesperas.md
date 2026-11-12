@@ -41,7 +41,7 @@ Nada disto faz do reino um império. Faz dele uma soma de lugares onde o rei é 
 
 Cito as maiores, porque o leitor há de querer saber o que fica por resolver.
 
-Sarmora e Vessane disputam as sete paróquias. O pleito corre há cento e quarenta anos, e corre ainda no meu tempo, porque a casa que escreve estas linhas é parte dele.
+Sarmora e Vessane disputam as sete paróquias. O pleito corre há mais de quatrocentos e oitenta anos, e corre ainda no meu tempo, porque a casa que escreve estas linhas é parte dele.
 
 Os pares e a coroa disputam o sentido dos juramentos. Já o contei.
 
@@ -59,7 +59,7 @@ E, no fundo de tudo, a Igreja e o rei disputam a sucessão. O rei é quem sucede
 
 Há três coisas que vejo mudar, e que me parecem importantes.
 
-A primeira é que o rei Osbert, que tem oitenta anos, tem uma única filha viva. Não é segredo. Dos outros filhos, uns morreram na infância e outros na guerra. A filha casou com um senhor de Orwen, o neto de Garth, e tem filhos. O que isto significa não sei, mas dizem os papéis de Sarmora desse tempo que a *Gesta* haveria de ser emendada, porque nunca previu que a linha dos Aldren passasse por uma mulher. Eu, que sei como se fazem as *Gestas*, não duvido de que o foi.
+A primeira é que o rei Osbert, que tem oitenta anos, tem uma única filha viva. Não é segredo. Dos outros filhos, uns morreram na infância e outros na guerra. A filha casou com um senhor de Orwen, o trineto de Garth, e tem filhos. O que isto significa não sei, mas dizem os papéis de Sarmora desse tempo que a *Gesta* haveria de ser emendada, porque nunca previu que a linha dos Aldren passasse por uma mulher. Eu, que sei como se fazem as *Gestas*, não duvido de que o foi.
 
 A segunda é que o Círculo está a crescer. Há quatro Academias, em quatro cidades, e há mais alunos do que no tempo da carta. O que os alunos aprendem não sei. Sei que os mestres dizem que o saber está a avançar e que há graus novos. Há, também, os que fazem perguntas que o Círculo não gosta, e delas este livro não trata.
 
